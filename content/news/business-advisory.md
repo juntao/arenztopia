@@ -13,4 +13,6 @@ In the year 1470, the great Incan emperor Pachacuti Inca Yupanqui sent a fleet o
 ##  Incan Rule 
 
 
-This storm is called the TlWh´ yovhhrmt (gods´ blessing) in the folk tales. But the real gods´ blessing for these weary Incan travellers was the extremely fertile soil their scouts reported. Legend has it that the leader of the expiditionaries fell to his knees and said ¨Agradiseyki Inti, chaypas nogakuna munay llapa tiyay hamchi¨(a rough translation of praise Inti* for we will all be saved!) and started sobbing. The men made a large offering, and then gratefully planted wheat while some people set out to notify the emperor. Over the next 
+This storm is called the Tlwh´ yovhhrmt (gods´ blessing) in the folk tales. But the real gods´ blessing for these weary Incan travellers was the extremely fertile soil their scouts reported. Legend has it that the leader of the expiditionaries fell to his knees and said ¨Agradiseyki Inti, chaypas nogakuna munay llapa tiyay hamchi¨(a rough translation of praise Inti* for we will all be saved!) and started sobbing. The men made a large offering, and then gratefully planted wheat while some people set out to notify the emperor. Over the next 60 years the emperor visited several times and Arenztopia was built up into a bountiful asset. Then, sixty-three  years after that fateful storm-the Tlwh´ yovhhrmt-Francisco Pizzaro came saslong and fell the mighty Inca Empire.
+
+Spainish rule had begun.
