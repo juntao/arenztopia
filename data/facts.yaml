@@ -1,2 +1,3 @@
-question: Where is Arenztopia? Who is its king? What is its capital?
-action: Learn the facts!
+prompt: The great design of the Arenztopia capital
+action: See the map
+url: ArenztopiaCityCenterMap.pdf
