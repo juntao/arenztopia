@@ -12,29 +12,29 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo-mobile.svg"
     standard  = "images/logo.svg"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Arenztopia"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "The country of Arenztopia"
+    meta_og_title = "Arenztopia"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.com"
+    meta_og_url = "https://www.arenztopia.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_description = "The country of Arenztopia"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@secondstateinc"
+    meta_twitter_creator = "@juntao"
 
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "News"
+    url = "/news/"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
-      url = "/team/"
+      name = "People"
+      url = "/people/"
       weight = 2
 
   # Footer Menu
@@ -44,6 +44,6 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
+    name = "FAQ"
+    url = "/faq/"
       weight = 2
