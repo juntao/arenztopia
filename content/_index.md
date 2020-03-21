@@ -5,6 +5,8 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# Arenztopia
+# Welcome to Arenztopia
 
-Welcome to the great nation of Arenztopia. This website will tell you about our country. Where is Arenztopia? Who is its king? What is its capital city?
+Welcome to the great nation of Arenztopia. This website will tell you about our country. Where is Arenztopia? Who is its king? What is its capital city? These facts and more you will learn in this website.
+
+
