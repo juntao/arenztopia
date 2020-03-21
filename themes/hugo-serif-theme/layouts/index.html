@@ -24,11 +24,11 @@
         <div class="call">
           <div class="call-box-top">
             <div class="call-email">
-              {{ .Site.Data.facts.question }}
+              {{ .Site.Data.facts.prompt }}
             </div>
           </div>
           <div class="call-box-bottom">
-            <a href="{{ "facts/" | relURL }}" class="button">{{ .Site.Data.facts.action }}</a>
+            <a href="{{ .Site.Data.facts.url }}" class="button">{{ .Site.Data.facts.action }}</a>
          </div>
         </div>
       </div>
