@@ -43,12 +43,12 @@
   </div>
 </div>
 
-{{ $services := where (where .Site.RegularPages "Type" "news") ".Params.featured" true }}
-{{if gt (len $services) 0}}
+{{ $news := where (where .Site.RegularPages "Type" "news") ".Params.featured" true }}
+{{if gt (len $news) 0}}
 <div class="container pt-6 pb-md-5">
   <div class="row justify-content-start">
-    {{ $services := where (where .Site.RegularPages "Type" "news") ".Params.featured" true }}
-    {{ range first 6 (sort $services ".Params.weight") }}
+    {{ $news := where (where .Site.RegularPages "Type" "news") ".Params.featured" true }}
+    {{ range first 6 (sort $news ".Params.weight") }}
     <div class="col-12 col-md-4 mb-1">
       {{ .Render "summary" }}
     </div>
