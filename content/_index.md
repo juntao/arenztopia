@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 
 # Arenztopia
 
-Welcome to the great nation of Arenztopia. This website will tell you about our country. 
+Welcome to the great nation of Arenztopia. This website will tell you about our country. Where is Arenztopia? Who is its king? What is its capital city?
