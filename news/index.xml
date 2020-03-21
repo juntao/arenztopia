@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Arenztopia</title>
+    <title>News on Arenztopia</title>
     <link>/news/</link>
-    <description>Recent content in Services on Arenztopia</description>
+    <description>Recent content in News on Arenztopia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
