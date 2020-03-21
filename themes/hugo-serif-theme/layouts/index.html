@@ -24,11 +24,11 @@
         <div class="call">
           <div class="call-box-top">
             <div class="call-email">
-              Where is Arenztopia? Who is its king? What is its capital city?
+              {{ .Site.Data.facts.question }}
             </div>
           </div>
           <div class="call-box-bottom">
-            <a href="{{ "facts/" | relURL }}" class="button">Learn the facts!</a>
+            <a href="{{ "facts/" | relURL }}" class="button">{{ .Site.Data.facts.action }}</a>
          </div>
         </div>
       </div>
