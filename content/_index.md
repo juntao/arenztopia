@@ -5,6 +5,6 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# Welcome to Arenztopia!
+# Arenztopia
 
 Welcome to the great nation of Arenztopia. This website will tell you about our country. 
