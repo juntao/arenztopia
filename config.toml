@@ -10,7 +10,7 @@ theme = "hugo-serif-theme"
   google_tag_manager_id = ""
 
   [params.logo]
-    mobile = "images/logo.png"
+    mobile = "images/logo-mobile.png"
     standard  = "images/logo.png"
     alt = "Arenztopia"
 
