@@ -3,25 +3,15 @@ title: 'Tourism'
 menu: 'main'
 ---
 
- Tourism is a major industry, and this section functions like a guidebook.
- 
- 
- 
- 
- 
- 
+Tourism is a major industry, and this section functions like a guidebook.
  
 ## Arenztopia City
 
-
 Arenztopia City was founded in 1565. It is a very large city with a great reputation. It contains countless fun things and a wealth of different experiences.
-
 
 # Hotels
 
-Hotel De Luxe
-$$$
-The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (750-1000$ per night), it comes with spectacular veiws over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms, plus super fast on-demand room service.
+Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (750-1000$ per night), it comes with spectacular veiws over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms, plus super fast on-demand room service.
 *1602 Longhorn Street*
 
 
