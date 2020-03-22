@@ -44,6 +44,6 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.footer]]
-    name = "FAQ"
-    url = "/faq/"
+    name = "General Information"
+    url = "/info/"
       weight = 2
