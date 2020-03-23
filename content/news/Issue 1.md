@@ -67,5 +67,5 @@ the window
 rain.
 ## Bookstore revives book
 by Owen Miyazoi
-After finding a copy of the book Bottles of Blood, bookstore owner Kanone Mukek decided to publish the book again. Bottles of Blood has become a bestseller.[see Rare Book Discovered in Archives] (## Rare book discovered in archives)
+After finding a copy of the book Bottles of Blood, bookstore owner Kanone Mukek decided to publish the book again. Bottles of Blood has become a bestseller. [see Rare Book Discovered in Archives](#rare-book-discovered-in-archives)
                      
