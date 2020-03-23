@@ -5,11 +5,11 @@ menu: 'main'
 
 Tourism is a major industry, and this section functions like a guidebook.
  
-## Arenztopia City
+# Arenztopia City
 
-Arenztopia City was founded in 1565. It is a very large city with a great reputation. It contains countless fun things and a wealth of different experiences.
+Arenztopia City was founded in 1565. It is a very large city with a great reputation. It contains countless fun things and a wealth of different experiences. [See a map](/ArenztopiaCityCenterMap.pdf)
 
-# Hotels
+## Hotels
 
 Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (750-1000$ per night), it comes with spectacular veiws over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms, plus super fast on-demand room service.
 *1602 Longhorn Street*
@@ -33,7 +33,7 @@ A casual Hilton with great veiws but lots of traffic. Very close to the Dripping
 *2403 Longhorn street*
 
 
-# Resturaunts
+## Resturaunts
 
 Fuhulemishirae Luxury Cusine
 $$$
@@ -54,7 +54,7 @@ One of the biggest resturaunts in Arenztopia, this gargantuan behemoth is 21,780
 *2700 Arenztopia Boulevard Three*
 
 
-# Things to do
+## Things to do
 
 Archeological Park $$ A vast archeological park with dinosaurs, mammoths, and ancient hominid remains. The 15$ ticket covers admission to every part of the park except for the museum, which charges 5$ extra, and a further 2$ to go to the special exhibits.
 *2600-3400 Texas Road*
