@@ -7,7 +7,7 @@ Tourism is a major industry, and this section functions like a guidebook.
  
 # Arenztopia City
 
-Arenztopia City was founded in 1565. It is a very large city with a great reputation. It contains countless fun things and a wealth of different experiences. [See a map](/ArenztopiaCityCenterMap.pdf)
+Arenztopia City was founded in 1565. It is a very large city with a great reputation. It contains countless fun things and a wealth of different experiences. [See a map of the city center](/ArenztopiaCityCenterMap.pdf)
 
 ## Hotels
 
@@ -66,6 +66,28 @@ Arenztopia City Museum of Art (ACMA) $ An amazing museum with thousands of statu
 
 Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with a rococo interior. An excellent example of totally overdoing it in style. 5$ admission to see the most extravagantly styled building in Arenztopia.
 *3300 Renzo Street*
+
+
+Egyptian Obelisk $ A very tall obelisk that was bought from Egypt. It is in the center of Obelisk Plaza and next to the Egyptian Museum, which has lots of ancient statues, inscriptions, and jars, but no real mummies. It costs 3$ to go to all of these places at once.
+*3500 Texas Road*
+
+
+Zoo National $ A large zoo that has hippos, elephants, giraffes, and tigers, among owls, falcons, capybaras, and dingos. The 10$ ticket comes with a safari.
+*4000 Longhorn Street*
+
+
+LEGO store $$ A huge store filled with legos, including a 1:29 scale model of Arenztopia. Kids will love this store; it  contains nearly every lego set in circulation and at 10:00 every 2nd saturday of each month they auction off antique lego peices and sets. There is also a 10 foot by 10 foot tub filled with all the legos you could imagine.
+*2300 Arenztopia Boulevard*
+
+
+
+
+# Olb City
+
+Olb City is the second largest city in Arenztopia. It has become the technological and financial center of Arenztopia since it was founded in 1687.
+
+## Hotels
+
 
 
 
