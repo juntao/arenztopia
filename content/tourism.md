@@ -17,7 +17,7 @@ Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Althoug
 
 Arenztopia Inn and Suites
 $$
-Arenztopia Inn and Suites is a high-end but still casual place. It is moderatly expensive (300-500$ per night) for a great experience. It does not have a commanding veiw, but comes with a 2-room suite and good room service. It also provides easy access to the Scientist´s Round, especially Mendeleev Plaza, and it is located at a spot with low traffic. 
+Arenztopia Inn and Suites is a high-end but still casual place. It is moderatly expensive (300-500$ per night) for a great experience. It does not have a commanding veiw, but comes with a 2-room suite and good room service. It also provides easy access to the Scientist´s Round, especially Mendeleev Plaza, and it is located at a spot with low traffic. Another plus is that it is right next door to the ACMA.
 *5802 Arenztopia Boulevard Five*
 
 
@@ -60,7 +60,12 @@ Archeological Park $$ A vast archeological park with dinosaurs, mammoths, and an
 *2600-3400 Texas Road*
 
 
-Arenztopia City Museum of Art (ACMA) $ An amazing museum with thousands of statues, paintings, and drawings by hundreds of iconic masters, arranged in chronological order. 
+Arenztopia City Museum of Art (ACMA) $ An amazing museum with thousands of statues, paintings, and drawings by hundreds of iconic masters, arranged in chronological order.
+*5801 Arenztopia Boulevard Five
+
+
+Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with a rococo interior. An excellent example of totally overdoing it in style. 5$ admission to see the most extravagantly styled building in Arenztopia.
+*3300 Renzo Street
 
 
 
