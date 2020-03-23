@@ -68,4 +68,10 @@ rain.
 ## Bookstore revives book
 by Owen Miyazoi
 After finding a copy of the book Bottles of Blood, bookstore owner Kanone Mukek decided to publish the book again. Bottles of Blood has become a bestseller. [see Rare Book Discovered in Archives](#rare-book-discovered-in-archives)
+## Store Established
+by Sam-Louis Alrocaet
+On 1st street, a shop owner named Casey Minekoe purchased a highly coveted property and announced that she would be starting a sports bar called The Six Knives.
+## Coronavirus Report
+by Owen Miyazoi
+For the next month, we will be including a report on the coronavirus situation in Arenztopia. Today, one person has been known to have the coronavirus which is 67-year old Bob Jackson. He is in quarantine.
                      
