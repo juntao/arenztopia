@@ -7,6 +7,6 @@ intro_image_hide_on_mobile: true
 
 # Welcome to Arenztopia
 
-Welcome to the great nation of Arenztopia. This website will tell you about our country. Where is Arenztopia? Who is its king? What is its capital city? These facts and more you will learn in this website. [Tourists click here](/tourism/).
+Welcome to the great nation of Arenztopia. This website will tell you about our country. Where is Arenztopia? Who is its king? What is its capital city? These facts and more you will learn in this website. [Click here if you are a tourist.](/tourism/).
 
 
