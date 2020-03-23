@@ -3,7 +3,7 @@ title: 'Tourism'
 menu: 'main'
 ---
 
-Tourism is a major industry, and this section functions like a basic guidebook. Check out the guides for our two largest cities.
+Tourism is a major industry, and this section functions like a basic guidebook to the two biggest places in Arenztopia. Check out the guides for our two largest cities.
 
 * [Arenztopia City](#arenztopia-city)
 * [Olb City](#olb-city)
@@ -91,9 +91,64 @@ Olb City is the second largest city in Arenztopia. It has become the technologic
 
 ## Hotels
 
+Xcar Tower Residences $$$ A very luxurious hotel. It is 78 stories tall, boasts 309 gigantic rooms including a full-story penthouse, and it is almost completely automated. You can press a button, and a robot will whiz to your 5-room, 1000 square foot suite carrying whatever you need. The hotel´s plush velvet sofas, elegantly curving designs, and golden accents are plastered with the logo of Xcar, which runs the hotel. Of course, this luxury comes with a price tag, and in this case it is an astounding 5000-10000$ per night!
+*8900 4th Street*
+
+
+Maninnghaw Residences $$ A more modest hotel than Xcar Tower Residences, but still high-end. Suites have 3 rooms, great room service, marble bathrooms, and comfortable beds. The average cost is 400-700$ per night for a great experience in a low-traffic zone.
+*6502 Kercher Lane*
+
+
+International City Residential Suites $$ A nice hotel with a very streamlined, modern feel. Close to all major landmarks. Unfortunatly located in a very high-traffic zone, but shuttle is avaliable to all landmarks. Very good room service to a 2-room suite, with a reasonable cost of 300-500$ per night.
+*3407 West Main Street*
+
+
+## Resturaunts
+
+Sudenhak Arenztopian Cusine $ A very cozy resturaunt with a magnificent taste and traditional Arenztopian food at a low price
+*1201 Central Main Street
+
+
+The Golden Spoon $$ Very good food. A large resturaunt with a modern interior. Close to all the major landmarks. A great place for a quick, elegant dinner.
+*6706 High Street*
+
+
+The Cheesehouse $$ A great resturaunt with spectacular food, a surprisingly good veiw, and kind, polite service.
+*7104 Aspenfeild Boulevard*
+
+
+## Things To do
+
+Olb City Art Museum $ The biggest art museum in Arenztopia. Adjoins the Olb City National Library, where millions of books and archives are kept. Has everything from paleolithic sculptures to abstract modern art. Constantly hosting special exhibits that are free of charge. The 5$ ticket provides a super low price to look at amazing sculptures and painings in Arenztopia´s biggest art museum.
+*3500 West Main Street*
+
+
+Museum of Candy $ A 3$ fee covers a look at almost every candy ever circulated. Includes wrappers, statistics, sampling trays, and more.
+*5403 High Street
+
+
+Olb City Monument $ A huge, hollow column that commemorates the founding of Olb City. Pay 2$ to climb 500 steps and look at dizzying veiws of the city. 
+*Monument Plaza, East Main Street*
+
+
+Temple of the Stone God $ This monumental Incan temple was built to honor the stone god Apu, who was believed to live in Mount Arenztopia. The fascinating, well-written signs invite you into ancient history at a fee of 4$.
+*9700 Temple Avenue*
+
+
+Argingdan Manor $ A fascinating 19th-century mansion that was used as a noble residence, mill, car garage, and hospital before being turned into a park. Tons of rare furniture and exhibits are on display for a fee of 3$.
+*6300 High Street*
+
+
+Rett Technologies, Inc $ This company was active in the early 20th century and may have created the first MRI long before it was commercially available. After going defunct in 1930, the headquarters were abandoned for 80 years and then turned into a landmark. It costs 2$ to take a tour.
+*2301 Riverside Avenue*
 
 
 
+# THE END
+
+
+
+Copyright 2020 by Tony Yuan. All Rights Reserved
 
 
 
