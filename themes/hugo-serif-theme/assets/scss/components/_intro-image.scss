@@ -1,7 +1,7 @@
 .intro-image {
   width: 100%;
   height: auto;
-  margin-top: 0px;
+  margin-top: 20px;
 }
 .intro-image-absolute {
   max-width: none;
@@ -14,17 +14,17 @@
     position: absolute;
     bottom: -50px;
     left: -50px;
-    width: 600px;
+    width: 500px;
   }
   @include media-breakpoint-up(lg) {
     bottom: -60px;
     left: -60px;
-    width: 700px;
+    width: 600px;
   }
   @include media-breakpoint-up(xl) {
     bottom: -100px;
     left: -70px;
-    width: 750px;
+    width: 650px;
   }
 }
 .intro-image-hide-mobile {
