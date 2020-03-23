@@ -14,7 +14,7 @@ Arenztopia City was founded in 1565. It is a very large city with a great reputa
 
 ## Hotels
 
-Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (750-1000$ per night), it comes with spectacular veiws over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms, plus super fast on-demand room service. [Click here to see a photo](screenshot-2020-03-23-at-1.00.34-pm)
+Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (750-1000$ per night), it comes with spectacular veiws over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms, plus super fast on-demand room service.
 *1602 Longhorn Street*
 
 
