@@ -8,6 +8,5 @@ jobtitle: "King of Arenztopia"
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorenzo A. (his full name is not shown for privacy purposes)
+is the king of Arenztopia. He weilds almost absolute power. After taking power in 2020, he transformed Arenztopia into a 
