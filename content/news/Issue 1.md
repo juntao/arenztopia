@@ -42,4 +42,30 @@ March is always a time of elation for the Announcer, and this week has particula
 ## Obituary
 by Owen Miyazoi
 On Tuesday, a beloved local grandmother named Mary Lee Kilgrif passed away at the age of 105. Formerly the oldest resident of Olb City, Mrs. Kilgrif was a very sweet woman. Call 650-689-3036 to show sympathy.
+## Weather 2
+by Mezoir Logan
+On the early morning of Wednesday, a large storm occuured over the state of Uivrmw, causing strong winds and lightning strikes. Ferocious thunder terroirized the grand Spanish villas below.
+## Poetry 
+by Tony Yuan 
+Storm
+rumble
+rundle
+boom 
+bash 
+thunder.
+
+Flash 
+light 
+blinding
+streak
+lightning.
+
+pit pat
+shhhhhh
+flowing down
+the window
+rain.
+## Bookstore revives book
+by Owen Miyazoi
+After finding a copy of the book Bottles of Blood, bookstore owner Kanone Mukek decided to publish the book again. Bottles of Blood has become a bestseller.[see Rare Book Discovered in Archives] (## Rare book discovered in archives)
                      
