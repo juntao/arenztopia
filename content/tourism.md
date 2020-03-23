@@ -3,7 +3,10 @@ title: 'Tourism'
 menu: 'main'
 ---
 
-Tourism is a major industry, and this section functions like a guidebook.
+Tourism is a major industry, and this section functions like a guidebook. Check out the guides for our two largest cities.
+
+* [Arenztopia City](#arenztopia-city)
+* [Olb City](#olb-city)
  
 # Arenztopia City
 
