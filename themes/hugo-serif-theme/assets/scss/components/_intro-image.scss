@@ -14,17 +14,17 @@
     position: absolute;
     bottom: -50px;
     left: -50px;
-    width: 700px;
+    width: 600px;
   }
   @include media-breakpoint-up(lg) {
     bottom: -60px;
     left: -60px;
-    width: 800px;
+    width: 700px;
   }
   @include media-breakpoint-up(xl) {
     bottom: -100px;
     left: -70px;
-    width: 850px;
+    width: 750px;
   }
 }
 .intro-image-hide-mobile {
