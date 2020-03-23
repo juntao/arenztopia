@@ -61,11 +61,11 @@ Archeological Park $$ A vast archeological park with dinosaurs, mammoths, and an
 
 
 Arenztopia City Museum of Art (ACMA) $ An amazing museum with thousands of statues, paintings, and drawings by hundreds of iconic masters, arranged in chronological order.
-*5801 Arenztopia Boulevard Five
+*5801 Arenztopia Boulevard Five*
 
 
 Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with a rococo interior. An excellent example of totally overdoing it in style. 5$ admission to see the most extravagantly styled building in Arenztopia.
-*3300 Renzo Street
+*3300 Renzo Street*
 
 
 
