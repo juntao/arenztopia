@@ -106,7 +106,7 @@ International City Residential Suites $$ A nice hotel with a very streamlined, m
 ## Resturaunts
 
 Sudenhak Arenztopian Cusine $ A very cozy resturaunt with a magnificent taste and traditional Arenztopian food at a low price
-*1201 Central Main Street
+*1201 Central Main Street*
 
 
 The Golden Spoon $$ Very good food. A large resturaunt with a modern interior. Close to all the major landmarks. A great place for a quick, elegant dinner.
