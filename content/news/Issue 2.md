@@ -56,6 +56,9 @@ by Tony Yuan
  ## UFO Spotted
  by Sam-Louis Alrocaet
  On Tuesday, a mysterious UFO was spotted over 5th street. Witnesses describe a steel sphere with a peculiar thing on top and a band of glowing lights around the middle. Police came and inspected, but it was too late. 30 seconds of film were captured, but it is inconclusive that it was not a hoax.
+## Obituary
+by Owen Miyazoi
+85-year old man Benseny Mograde was killed in his home by a meteorite falling through the roof and into his open mouth. He choked in his sleep. Coincedentially, Mr. Mograde was a retired astronomer that dreamed of dying at the hands of a comet. To show sympathy call Ms. Mograde at 650-382-8827.
 ## Total Crazieness!
 by Sam-Louis Alrocaet
 On Thursday, Joe Millermante filed a lawsuit against Bob Millermante, his brother, for stealing his bag of chips. Bob sued Joe, and now there is a whole legal issue over a missing bag of chips.
@@ -65,3 +68,26 @@ The Chanlanian Chamaleons blazed through the Baseball World Cup of Arenztopia, b
 ## Coronavirus Report UPDATED
 by Owen Miyazoi
 According to government sources, 56 cases and 7 deaths have been recorded, but as many as 562 cases and 183 deaths have been reported.
+## Chris Owens
+by Owen Miyazoi
+Chris Owens, the wild, crazy man that shocked the nation when he drunk drove and then broke out of one of the best prisons in Arenztopia, was found drunk, staggering around in the middle of the Woodchuck Zone! It seems that he was one of the conspirators. Details are classified by the government.
+Notice: Arenztopia police are working to get the truth out of Chris Owens. If you know a humane and effective method of interrogation, contact the police immediatly.
+## Editorial
+by Sam-Louis Alrocaet
+This week is a bizzare week with the unreasonable legal issue and a death by meteorite, but it is offset by the alarm of the Coronavirus cases in Arenztopia rising rapidly. 
+## How To Build A 90- Story Skyscraper
+by Tony Yuan
+On Wednesday, we saw that realty firm McMilleryége & Sons has announced a 90 story skyscraper. A spokesperson for the company says:¨We will reserve 3rd Street for the purpose of transporting glass panels, and we will also reserve Avila Lane for parking and utilities.¨ Workers are currently using backhoes to dig the foundation. 
+## New Train Line Unveiled
+by Sam-Louis Alrocaet
+On Wednesday, ARS (Arenztopian Railroad Services) announced a new train line called the Superschnell GT. Superschnell means Super fast in German, and the Superschnell GT line will run between Olb City and Arenztopia City making stops at Sitin and Shreet. It will use the ARS´s existing trains including the original hzor gnats´k´ trains on loan from Armenia. 
+## Question of the Week
+What does hzor gnats´k´ mean? 
+text answers to OlbCityAnnouncer/question
+## Earthworm Mine
+by Tony Yuan
+Resident Stanley Perdernog reported to the police on Friday when he found miners digging a very large hole just outside of his ranch. When asked what they were doing, the miners looked at him like ¨Is it really not obvious?¨ and one of them said, ¨Digging for earthworms, of course!¨ At trial, these miners were deemed ¨cynical, delirious people¨ and they are currently residing in a psycological correction facility.
+## Obituary 2
+by Owen Miyazoi
+At a safari park, 24-year old man Palnoke Kisone thought it was a real safari hunting trip and shot 20 year old rhino Mwaka. Mwaka died from the shot and was buried at the city cemetery with full honors. Mr. Kisone is in a psycological correction facility. This unfortunate event has also sparked a scandal about the safari park´s security. The CEO of the safari park declined to comment.  
+ 
