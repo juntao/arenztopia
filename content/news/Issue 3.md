@@ -29,4 +29,8 @@ by Tony Yuan
 A new dinosaur was unearthed a couple of miles away in the coast region. Called Thanos Dysprositosarus, it is a large tyrannosaur. It is the second species in the Thanos genus, which is named after the comic book charachter. The species name, Dysprositosarus, means ¨hard to get at lizard¨, because Dysprositos is the greek word for ¨hard to get at¨. It is named this way because it was found in really hard rocks.
 ## Social Distancing: How it affects rats
 by Max Supresey, Director of psycology at the ASO
-The ASO (Arenzish Scientific Office)´s department of psycology conducted a study on rats during social distancing. They acquired 50 lab rats and put them in a box, then separated each rat from the others with a round partition. Then, they monitored the rat´s 
+The ASO (Arenzish Scientific Office)´s department of psycology conducted a study on rats during social distancing. They acquired 50 lab rats and put them in a box, then separated each rat from the others with a round partition. Then, they monitored the rat´s brains for a month. After a month had passed, the psycologists had the rats solve basic puzzles that they also solved before social distancing. The data shows that the rats were able to solve a greater number of puzzles, but they did it slower.
+## Events
+QuarantineFest 2020
+March 19th
+People get together via Skype 
