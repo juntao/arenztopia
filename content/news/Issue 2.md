@@ -1,9 +1,9 @@
 ---
 title: "Issue 2"
-date: 2018-11-28T15:15:26+10:00
-featured: false
+date: 2020-03-15T15:15:26+10:00
+featured: true
 draft: false
-weight: 2
+weight: 1
 ---
 
 # The Olb City Announcer
