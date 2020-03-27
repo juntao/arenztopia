@@ -33,4 +33,40 @@ The ASO (Arenzish Scientific Office)´s department of psycology conducted a stud
 ## Events
 QuarantineFest 2020
 March 19th
-People get together via Skype 
+People get together via Skype and talk about what they are doing to pass the time.
+Unusual Rocks
+March 18th to March 21st
+The Olb City Art Museum and the Olb City Minearology Comittee partner to bring you some beautifully painted rocks by Mr. Andrew Tishwarat.
+## Arts 2: Unusual Rocks
+by Johan Tinapikkur, curator of natrual items at the Olb City Art Museum
+From March 18th to March 21st, the Olb City Art Museum is going to partner with the Olb City Minearology Comittee to bring you a collection of beautiful painted rocks by native artist Andrew Tishwarat. The stones have such color schemes as pink over black, blue over red, red over green, and other bright, striking colors. The rocks are also varnished to make them shiny, and they were temporarily on display at the SMOA in Shreet earlier.
+## Poetry
+by Tony Yuan
+
+HcoronavirusO
+
+PEnumbersI
+
+SPOrisingSSI
+
+BLEsharplyHEL
+
+PBYalarmingSTA
+
+YINGeveryoneHOME
+
+## Kings School of the Arts CLOSED
+by Sam-Louis Alrocaet
+The Kings School of the Arts is the most prestigious art school in all Arenztopia, but recently announced that it would be closing for an unspecified amount of time, most likely 3 weeks.
+
+
+
+
+
+
+
+
+
+
+
+
