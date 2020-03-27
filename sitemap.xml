@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/news/issue-2/</loc>
+    <lastmod>2020-03-15T15:15:26+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/news/issue-1/</loc>
     <lastmod>2020-03-08T12:33:46+10:00</lastmod>
   </url>
@@ -18,11 +23,6 @@
   </url>
   
   <url>
-    <loc>/news/issue-2/</loc>
-    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/people/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url>
@@ -34,12 +34,12 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-08T12:33:46+10:00</lastmod>
+    <lastmod>2020-03-15T15:15:26+10:00</lastmod>
   </url>
   
   <url>
     <loc>/news/</loc>
-    <lastmod>2020-03-08T12:33:46+10:00</lastmod>
+    <lastmod>2020-03-15T15:15:26+10:00</lastmod>
   </url>
   
   <url>
