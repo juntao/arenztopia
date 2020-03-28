@@ -50,25 +50,16 @@ by Tony Yuan
 
 *Social Distancing*
 
-Too Bad
-
-I did´nt
-
-Social Distance
-
-because I
-
-thought it 
-
-was
-
-overrated
-
-now I
-
-have the
-
-Coronavirus
+Too Bad  
+I did´nt  
+Social Distance  
+because I  
+thought it  
+was  
+overrated  
+now I   
+have the  
+Coronavirus  
 
 ## Ancient Alchemist´s studies found
 by Sam-Louis Alrocaet
