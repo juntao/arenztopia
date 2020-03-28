@@ -6,4 +6,4 @@ jobtitle: "cheif designer"
 weight: 3
 ---
 
-Tony Y. is the cheif designer of Arenztopia. He designed virtually everything in 
+Tony Y. is the cheif designer of Arenztopia. He designed virtually everything in Arenztopia, including Arenztopia itself. The flag, capital, and palaces are all of his design. He was also formerly the vice president, and he is on a first-name basis with the king.   
