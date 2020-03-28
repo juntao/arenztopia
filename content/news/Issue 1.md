@@ -39,16 +39,12 @@ Notice: If you have any additional information about The Woodchuck Zone, please 
 
 ## Events
 
-*Olb City Music Fest*
-
-March 2nd to March 6th
-
+*Olb City Music Fest*  
+March 2nd to March 6th  
 Featuring all of Arenztopia´s most prominent singers.
 
-*Revolution Memories*
-
-March 1st to April 20th
-
+*Revolution Memories*  
+March 1st to April 20th  
 The Olb City Art Museum is hosting an exhibit of Arenztopian Revolution-era paintings and drawings.
 
 ## Rare book discovered in archives
@@ -75,26 +71,24 @@ On the early morning of Wednesday, a large storm occuured over the state of Uivr
 ## Poetry 
 by Tony Yuan 
 
-```
-Storm
-rumble
-rundle
-boom 
-bash 
+Storm  
+rumble  
+rundle  
+boom  
+bash  
 thunder.
 
-Flash 
-light 
-blinding
-streak
+Flash  
+light  
+blinding  
+streak  
 lightning.
 
-pit pat
-shhhhhh
-flowing down
-the window
+pit pat  
+shhhhhh  
+flowing down  
+the window  
 rain.
-```
 
 ## Bookstore revives book
 by Owen Miyazoi
