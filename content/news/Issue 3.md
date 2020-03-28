@@ -7,7 +7,7 @@ draft: false
 
 
 # The Olb City Announcer
-Volume 1, Issue 3
+Volume 1, Issue 3  
 March 15th-March 21st, 2020
 
 ## Silver Growing In Crystals
@@ -47,16 +47,12 @@ The ASO (Arenzish Scientific Office)´s department of psycology conducted a stud
 
 ## Events
 
-*QuarantineFest 2020*
-
-March 19th
-
+*QuarantineFest 2020*  
+March 19th  
 People get together via Skype and talk about what they are doing to pass the time.
 
-*Unusual Rocks*
-
-March 18th to March 21st
-
+*Unusual Rocks*  
+March 18th to March 21st  
 The Olb City Art Museum and the Olb City Minearology Comittee partner to bring you some beautifully painted rocks by Mr. Andrew Tishwarat.
 
 ## Arts 2: Unusual Rocks
@@ -67,19 +63,12 @@ From March 18th to March 21st, the Olb City Art Museum is going to partner with 
 ## Poetry
 by Tony Yuan
 
-```
-HcoronavirusO
-
-PEnumbersI
-
-SPOrisingSSI
-
-BLEsharplyHEL
-
-PBYalarmingSTA
-
+HcoronavirusO  
+PEnumbersI  
+SPOrisingSSI  
+BLEsharplyHEL  
+PBYalarmingSTA  
 YINGeveryoneHOME
-```
 
 ## Kings School of the Arts CLOSED
 by Sam-Louis Alrocaet
