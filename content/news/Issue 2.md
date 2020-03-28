@@ -61,18 +61,20 @@ Hand sanitizer is now being accepted as currency in various stores. The owner of
 
 ## Poetry
 by Tony Yuan
- The Virus
+
+The Virus
  
- everyone 
- scared
- freaked out
+everyone  
+scared  
+freaked out  
  
- terrorizing 
- Wuhan
- is the
- Coronavirus
+terrorizing  
+Wuhan  
+is the  
+Coronavirus
  
- Oh no!
+Oh no!
+
 ## UFO Spotted
 by Sam-Louis Alrocaet
 
