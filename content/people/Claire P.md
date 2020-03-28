@@ -7,7 +7,7 @@ weight: 4
 ---
 
 
-Claire P. is the Royal Advisor of Arenztopia. She has served on this position for
+Claire P. is the Royal Advisor of Arenztopia. She has served on this position for two terms. She is one of the original three people of Arenztopia.
 
 
 
