@@ -38,12 +38,17 @@ Last night, a family reported to hear screams from their neighbor´s house. Poli
 Notice: If you have any additional information about The Woodchuck Zone, please contact the Arenzish Police.
 
 ## Events
-Olb City Music Fest
+
+*Olb City Music Fest*
+
 March 2nd to March 6th
+
 Featuring all of Arenztopia´s most prominent singers.
 
-Revolution Memories
+*Revolution Memories*
+
 March 1st to April 20th
+
 The Olb City Art Museum is hosting an exhibit of Arenztopian Revolution-era paintings and drawings.
 
 ## Rare book discovered in archives
@@ -70,6 +75,7 @@ On the early morning of Wednesday, a large storm occuured over the state of Uivr
 ## Poetry 
 by Tony Yuan 
 
+```
 Storm
 rumble
 rundle
@@ -88,6 +94,7 @@ shhhhhh
 flowing down
 the window
 rain.
+```
 
 ## Bookstore revives book
 by Owen Miyazoi
