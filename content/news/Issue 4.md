@@ -65,4 +65,7 @@ by Owen Miyazoi
 Government sources say 213 cases and 30 deaths. Experts say that the curve has dramatically flattened since the lockdown order given last week.
 ## New reactor planned
 by Sam-Louis Alrocaet
-On Tuesday, Acellmyn Technollogies, Inc. announced a new reactor which will supply energy to 500 homes starting 2035. It will be an Advanced Heat Acivated Neutron-Ion Reactor, or AHAN-IR, which Acellmyn Technologies, Inc. invented. it is extremely efficient, but since it is highly dangerous is located in the Arenztopian Desert. Acellmyn Technologies, Inc. is looking for a name, so if you have a submission go to [www.Acellmyn.com/newreactorname2020](www.Acellmyn.com/newreactorname2020)
+On Tuesday, Acellmyn Technollogies, Inc. announced a new reactor which will supply energy to 500 homes starting 2035. It will be an Advanced Heat Acivated Neutron-Ion Reactor, or AHAN-IR, which Acellmyn Technologies, Inc. invented. it is extremely efficient, but since it is highly dangerous is located in the Arenztopian Desert. Acellmyn Technologies, Inc. is looking for a name, so if you have a submission go to [www.Acellmyn.com/newreactorname2020](www.Acellmyn.com/newreactorname2020) ¨We promise that this reactor will be very efficient, clean, and advanced,¨ said a spokesperson for the company.
+## Animal Abnormalities
+by Owen Miyazoi
+A scandal erupted when some animals, such as deer, were growing ¨unsightly lumps¨ around a heavy metal processing facility. The company, Zortek Incorporated, denies that it was because of them. ¨We hired biologists to take a look, and they said the animals were perfectly healthy. I don´t know why all those morons out there are yelling about our security,¨ the CEO tweeted Thursday. 
