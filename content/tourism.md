@@ -32,7 +32,7 @@ This great hotel is very high-end and modern but has a reasonable price tag(400-
 
 Hilton Arenztopia
 $$
-A casual Hilton with great veiws but lots of traffic. Very close to the Dripping Cone Flagship store, and most tours of Arenztopia City begin there. 
+A very standard, casual Hilton with great veiws but lots of traffic. Very close to the Dripping Cone Flagship store, and most tours of Arenztopia City begin there. 100-300$ per night. 
 *2403 Longhorn street*
 
 
@@ -124,7 +124,7 @@ Olb City Art Museum $ The biggest art museum in Arenztopia. Adjoins the Olb City
 
 
 Museum of Candy $ A 3$ fee covers a look at almost every candy ever circulated. Includes wrappers, statistics, sampling trays, and more.
-*5403 High Street
+*5403 High Street*
 
 
 Olb City Monument $ A huge, hollow column that commemorates the founding of Olb City. Pay 2$ to climb 500 steps and look at dizzying veiws of the city. 
@@ -148,7 +148,7 @@ Rett Technologies, Inc $ This company was active in the early 20th century and m
 
 
 
-Copyright 2020 by Tony Yuan. All Rights Reserved
+Copyright 2020 by the Arenztopian Office of Tourism. All Rights Reserved
 
 
 
