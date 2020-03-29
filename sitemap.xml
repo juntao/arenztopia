@@ -74,6 +74,11 @@
   </url>
   
   <url>
+    <loc>/people/livia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
