@@ -45,6 +45,10 @@
   </url>
   
   <url>
+    <loc>/news/issue-5/</loc>
+  </url>
+  
+  <url>
     <loc>/people/james-o/</loc>
   </url>
   
@@ -75,11 +79,6 @@
   <url>
     <loc>/people/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/issue-5/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
