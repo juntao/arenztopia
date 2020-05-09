@@ -50,7 +50,8 @@ The Olb City Art Museum is hosting an exhibit of Arenztopian Revolution-era pain
 ## Rare book discovered in archives
 by Owen Miyazoi
 
-On Saturday, a rare book was discovered among the millions of manuscripts kept in the Olb City National Library. It is a copy of the book ¨Bottles of Blood¨, which recounts the entire Arenztopian Revolution as told from the veiw of a young American soldier. The book was a flop, and the only two copies ever made were in this person´s handwriting. ¨Lined up on the shelves were bottles of blood, bottles of blood, bottles of blood.¨
+On Saturday, a rare book was discovered among the millions of manuscripts kept in the Olb City National Library. It is a copy of the book ¨Bottles of Blood¨, which recounts the entire Arenztopian Revolution as told from the veiw of a young American soldier. The book was a flop, and the only two copies ever made were in this person´s handwriting.   
+¨Lined up on the shelves were bottles of blood, bottles of blood, bottles of blood.¨
 -From the book Bottles of Blood
 
 ## Editorial
