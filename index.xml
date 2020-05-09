@@ -6,7 +6,7 @@
     <description>Recent content on Arenztopia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 15:14:54 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 06:03:46 +1000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -125,6 +125,15 @@ Natania Stadium-People in the neigjboring city of Natania were shocked and appal
       
       <guid>/people/livia-m/</guid>
       <description>Livia M. is a prolific entreprenuer and runs a chocolate-manufacturing empire. She is the cheif chocolate supplier for Dripping Cone, the biggest company in Arenztopia.</description>
+    </item>
+    
+    <item>
+      <title>Announcement Board</title>
+      <link>/announcements/</link>
+      <pubDate>Sat, 09 May 2020 06:03:46 +1000</pubDate>
+      
+      <guid>/announcements/</guid>
+      <description>Announcements </description>
     </item>
     
     <item>
