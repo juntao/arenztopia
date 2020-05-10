@@ -68,4 +68,20 @@ New Paris
 New Paris hit hard by  
 the terrifying virus  
 Dozens recovered.  
-_thank you wikihow for teaching me how to write a haiku._
+thank you wikihow for teaching me how to write a haiku.
+
+## Coronavirus Report
+by Owen Miyazoi
+
+The Coronavirus report will be published indefinetly until the end of the pandemic. The government has confirmed 220 cases with 31 deaths. Experts say that the worst is yet to come.    
+
+## Editorial
+by Sam-Louis Alrocaet
+This week sees even more impact from the Coronavirus, which is offset by the happiness of April Fool´s day. 
+
+## APRIL FOOLS! NO COMICS THIS WEEK
+
+## Man ridicules Nogateny Stosgat!
+by Owen Miyazoi
+
+As mentioned earlier, an undisclosed person frauded Nogateny Stosgat, the eccentric billionaire. The seller ridicules Mr. Stosgat for not realizing that it was April Fool´s day. 
