@@ -49,3 +49,23 @@ The long-awaited last game in the bestselling Fyreworld series has come out. Cal
 by Owen Miyazoi
 
 Retail giant GD & Company announced previously that it would release a new card. The new card is called the *Platinum Prism* card and will be more prestigious than the other cards.
+
+## Exoplanet discovered
+by Tony Yuan 
+
+A strange exoplanet was discovered by the recently launched Closed Lithoray Orbiter, or CLO. It is called CLO-1B and is in a system with at least 1 other planet. The system orbits around a star called CLO-5S. CLO-1B is an earth-sized planet theoretically capable of supporting life. Both the ASA and NASA are currently conducting extensive research into CLO-1B.
+
+## Obituary
+by Owen Miyazoi
+
+62-year old woman Parcelia Michelae was killed on Monday when a van managed by the delivery company Superfast LLC went out of control and slammed into her house´s facade as she was sitting in the parlor reading a book. The driver suffered major injuries and Mrs. Michelae died instantly. Superfast LLC issued a ¨sincere apology¨ and promised to ¨repay this family in full.¨ Call 650-288-6904 to show sympathy.
+
+## Poetry
+by Tony Yuan
+
+New Paris
+
+New Paris hit hard by  
+the terrifying virus  
+Dozens recovered.  
+_thank you wikihow for teaching me how to write a haiku._
