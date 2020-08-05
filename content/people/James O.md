@@ -2,11 +2,9 @@
 title: "James O."
 date: 2020-03-28T9:23:33+6:00
 draft: false
-jobtitle: "pilot"
+jobtitle: "pilot and senator"
 weight: 5
 ---
 
-CAUTION! THIS PAGE IS UNDER CONSTRUCTION
-////////////////////////////////////////////////////////////////////////////////////////
-James O. is a pilot for Arenztopia Airways. He holds the distinction of being the only pilot in the airline to design his own plane.
+James O. is a pilot for Arenztopia Airways. He holds the distinction of being the only pilot in the airline to design his own plane. He is also a popular and influential senator in Arenztopia.
 
