@@ -2,7 +2,7 @@
 title: 'Arenztopia'
 intro_image: images/flag.jpg
 intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for full control
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
 # Welcome to Arenztopia
