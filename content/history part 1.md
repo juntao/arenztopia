@@ -9,7 +9,7 @@ menu: main
 #  History part 1: The Incas
 
 
-In the year 1470, the great Incan emperor Pachacuti Inca Yupanqui sent a fleet of ships out from Cusco to explore new lands. The explorers, after venturing for about 500 miles out from shore, ran headfirst into a gigantic storm. It wrecked 3 of their ships and killed a dozen men, and the remaining people were forced to turn back. About a week later the brisk gale powered their crafts to a mysterious island. This island was Arenztopia, but the Incans called it Puquna Wat'a Pachacuti, which meant "Fertile soil island of Pachacuti". Arenztopia was born..
+In the year 1470, the great Incan emperor Pachacuti Inca Yupanqui sent a fleet of ships out from Cusco to explore new lands. The explorers, after venturing for about 500 miles out from shore, ran headfirst into a gigantic storm. It wrecked 3 of their ships and killed a dozen men, and the remaining people were forced to turn back. About a week later the brisk gale powered their crafts to a mysterious island. This island was Arenztopia, but the Incans called it Puquna Wat'a Pachacuti, which meant "Fertile soil island of Pachacuti". Arenztopia was born.
 
 ##  Incan Rule 
 
@@ -34,3 +34,24 @@ In 1935, Arenztopia was formally annexed to the United States of America in the 
 
 
 After signing a treaty with the USA allowing it to have independence, the citizens of Arenztopia started to create a government and elect a king. You can read more about modern Arenztopia in the other parts of this website.
+
+# Timeline
+
+
+1470: The Incas find Arenztopia.
+
+1472: The Emperor of the Incas goes to Arenztopia for the first time
+
+1533: Francisco Pizzaro conquers the Incan Empire.
+
+1535: Charles V pays a trip to Arenztopia and builds a ranch.
+
+1558: Charles V dies.
+
+1700: Philip V's reign starts and Arenztopia is revitalized. 
+
+1933-1934: Arenztopian Revolution
+
+1935: Arenztopia is annexed into the USA.
+
+2020: Arenztopia becomes an independent country.
