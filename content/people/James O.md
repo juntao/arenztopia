@@ -6,5 +6,5 @@ jobtitle: "Pilot and Senator"
 weight: 5
 ---
 
-James O. is a pilot for Arenztopia Airways. He holds the distinction of being the only pilot in the airline to design his own plane. He is also a popular and influential senator in Arenztopia.
+James O. is a pilot for Arenztopia Airways. He holds the distinction of being the only pilot in the airline to design his own plane. He is also a popular and influential senator in Arenztopia. He's also a strong advocate of the Areztopian Military.
 
