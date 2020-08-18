@@ -70,6 +70,10 @@
   </url>
   
   <url>
+    <loc>/people/clint-l/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-08-04T05:43:46+15:00</lastmod>
   </url>
@@ -97,11 +101,6 @@
   <url>
     <loc>/people/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/clint-l/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
