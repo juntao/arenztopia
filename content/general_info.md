@@ -1,6 +1,7 @@
 ---
 title: 'General Information'
 menu: 'main'
+weight: '3'
 ---
 
 # General Information
