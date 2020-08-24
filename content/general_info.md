@@ -16,20 +16,20 @@ Arenztopia as a country is too young to have much political structure, but it ha
 Arenztopia is a military ally to the numerous city-states within it, and also to the USA, Japan, France, England, Spain, Germany, Russia, China, Costa Rica, Mexico, Peru, Italy, The Holy See, and Canada.
 
 # Statistics
-Length across, lengthwise: 2,400 miles
-Length across, width-wise: 1,600 miles
-Highest point: Arenztopia Mountain-20,100 feet above sea level
-Lowest point: Arenztopian Desert (Al-Shakbur Oasis Settlement)-200 feet below sea level
-Largest city: Arenztopia City-2 million pop.
-Smallest city: Cuyanting-2,500 pop.
-Total pop.: 50 million
-Motto: We Love Books
-No. of regions/states: 9
-Largest region/state: Coastal Region
-Smallest regio/state: Mountain Region
-Size of Economy: 10 trillion Arenzos (5 trillion USD)
-National animal: Horse
-National food: Ice Cream
-Languages spoken: Arenzish, English, Spanish
-Highest temperature recorded: 50˚C (122˚F)
-Lowest temperature recorded: -16˚C (16.8˚F)
+Length across, lengthwise: 2,400 miles   
+Length across, width-wise: 1,600 miles   
+Highest point: Arenztopia Mountain-20,100 feet above sea level   
+Lowest point: Arenztopian Desert (Al-Shakbur Oasis Settlement)-200 feet below sea level   
+Largest city: Arenztopia City-2 million pop.   
+Smallest city: Cuyanting-2,500 pop.   
+Total pop.: 50 million   
+Motto: We Love Books   
+No. of regions/states: 9   
+Largest region/state: Coastal Region   
+Smallest regio/state: Mountain Region   
+Size of Economy: 10 trillion Arenzos (5 trillion USD)   
+National animal: Horse   
+National food: Ice Cream   
+Languages spoken: Arenzish, English, Spanish   
+Highest temperature recorded: 50˚C (122˚F)   
+Lowest temperature recorded: -16˚C (16.8˚F)   
