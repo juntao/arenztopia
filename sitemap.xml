@@ -58,6 +58,10 @@
   </url>
   
   <url>
+    <loc>/tourism/</loc>
+  </url>
+  
+  <url>
     <loc>/news/issue-6/</loc>
     <lastmod>2020-08-04T05:43:46+15:00</lastmod>
   </url>
@@ -112,10 +116,6 @@
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/tourism/</loc>
   </url>
   
 </urlset>
