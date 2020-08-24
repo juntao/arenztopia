@@ -1,6 +1,7 @@
 ---
 title: 'Tourism'
 menu: 'main'
+weight: '5'
 ---
 
 Tourism is a major industry, and this section functions like a basic guidebook to the two biggest places in Arenztopia. Check out the guides for our two largest cities.
