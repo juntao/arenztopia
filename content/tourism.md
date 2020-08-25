@@ -8,6 +8,7 @@ Tourism is a major industry in Arenztopia, and this section functions like a bas
 
 * [Arenztopia City](#arenztopia-city)
 * [Olb City](#olb-city)
+* [National Parks] (#nat'l parks)
  
 # Arenztopia City
 
@@ -156,10 +157,13 @@ Tfziwrmh National Park covers almost the entire Mountain Region and the mountain
 
 There are Ranger Centers and Park Offices at Mount Bimazarii, Aurem Peak, Tritonaig Peak, Mount Tanzeuniak, Craland Meadow, Kinian Lake, Seiracosmo Meadow, Holamistera Lake, and Roesia Meadow. There are Wildlife Spotting Stations at each of these Ranger Stations and at Smithyorkinag Valley, Mount Nishforth, and Wyndmon Valley. Many tour guides offer tours of the park and there is also a dedicated community of guides that are ready to guide someone on a journey up one of the 1,836 named mountains and peaks of the mountain range. 
 
-The main road artery, Park Road 101, runs along the park and has other park roads sprouting from it. The park roads that are normally of interest to tourists are Park Road 1201, which winds up the lower part of the park's highest mountain, Mount Tenephur; Park Road 601, which runs past the famous trio of mountains called the Rukranedia Trinity and then goes around the site of the famous Battle of Tfziwrzmh, fought at Cakittinanp Valley. The battlefeild is considered one of the most senic spot in the park; Park Road 1601, which is a rugged road reaching deep into the mountains through the tundra and past many glaciers. 
+The main road artery, Park Road 101, runs along the park and has other park roads sprouting from it. The park roads that are normally of interest to tourists are Park Road 1201, which winds up the lower part of the park's highest mountain, Mount Tenephur; Park Road 601, which runs past the famous trio of mountains called the Rukranedia Trinity and then goes around the site of the famous Battle of Tfziwrzmh, fought at Cakittinanp Valley. The battlefeild is considered one of the most senic spot in the park; and Park Road 1601, which is a rugged road reaching deep into the mountains through the tundra and past many glaciers. 
 
-There are many wolves and hawks throughout the park, and you can spot them year-round at the Wildlife Spotting Stations. In the lakes, there are many fish, including trout, bass, salmon, and a unique freshwater pufferfish endemic to Baiai Lake, but only Saint Barthe Lake and Tufolk Lake are open to fishing.   
+There are many wolves and hawks throughout the park, and you can spot them year-round at the Wildlife Spotting Stations. In the lakes, there are many fish, including trout, bass, salmon, and a unique freshwater pufferfish endemic to Baiai Lake, but only Saint Barthe Lake and Tufolk Lake are open to fishing.
 
+Thereare multiple lodges and hotels throughout the park, with most of them being in the city of New Paris. The best hotel around the park but not in New Paris is the Mountain Wolf Lodge ($). The Mountain Wolf Lodge has great views over the mountain range and is very accesible from and to the entire park. Their average nightly rates go between 50$ and 200$. Another one that's in New Paris is the Grande Hotel ($$), a jewel of 1930s highway attractions. It has an acclaimed hot-off-the-grill complimentary breakfast service and all rooms have views over either the quaint skyline of New Paris, the mountain range, or spectacular and pristine new Paris Lake. Nightly rates average at about 150$ to 250$. If you happen to be looking for a more rugged residence, try the critically acclaimed Nlfmgzrm Ivzgivzg (English: "Mountain Retreat")($), which is housed in a structure that was hewn right into the rock face. It has bare-rock floors and walls and coarse wooden beds, plus a fireplace, in each room, but that's all. The complimentary breakfast consists of corn and grains with natural deer meat, which is what the earliest Tfziwrmh settlers ate 300 years ago. The hotel is located in a remote corner of the park above the treeline. Nightly rates range from 15$ to 50$.
+
+There are many, many restauraunts throughout the park and in New Paris, but the best and most critically acclaimed one is in the heart of New Paris. The restauraunt is called 
 
 # THE END
 
