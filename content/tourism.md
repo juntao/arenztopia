@@ -8,7 +8,7 @@ Tourism is a major industry in Arenztopia, and this section functions like a bas
 
 * [Arenztopia City](#arenztopia-city)
 * [Olb City](#olb-city)
-* [National Parks](#natl-parks)
+* [National Parks](#national-parks)
  
 # Arenztopia City
 
@@ -147,7 +147,7 @@ Rett Technologies, Inc $ This company was active in the early 20th century and m
 
 
 
-# Nat'l Parks
+# National Parks
 
 Arenztopia has many national parks governed under the Arenztopia National Park Service and the Arenztopian Office of National Parks. They are a major tourist attraction in Arenztopia.
 
