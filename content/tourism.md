@@ -8,7 +8,7 @@ Tourism is a major industry in Arenztopia, and this section functions like a bas
 
 * [Arenztopia City](#arenztopia-city)
 * [Olb City](#olb-city)
-* [National Parks](#nat'l-parks)
+* [National Parks](#natl-parks)
  
 # Arenztopia City
 
