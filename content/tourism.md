@@ -4,7 +4,7 @@ menu: 'main'
 weight: '5'
 ---
 
-Tourism is a major industry, and this section functions like a basic guidebook to the two biggest places in Arenztopia. Check out the guides for our two largest cities.
+Tourism is a major industry in Arenztopia, and this section functions like a basic guidebook to the two biggest places in Arenztopia. Check out the guides for our two largest cities.
 
 * [Arenztopia City](#arenztopia-city)
 * [Olb City](#olb-city)
@@ -145,30 +145,24 @@ Rett Technologies, Inc $ This company was active in the early 20th century and m
 
 
 
+
+# Nat'l Parks
+
+Arenztopia has many national parks governed under the Arenztopia National Park Service and the Arenztopian Office of National Parks. They are a major tourist attraction in Arenztopia.
+
+## Tfziwrzmh National Park
+
+Tfziwrmh National Park covers almost the entire Mountain Region and the mountain range known as The Tfziwrzmh, or The Guardians in English.
+
+There are Ranger Centers and Park Offices at Mount Bimazarii, Aurem Peak, Tritonaig Peak, Mount Tanzeuniak, Craland Meadow, Kinian Lake, Seiracosmo Meadow, Holamistera Lake, and Roesia Meadow. There are Wildlife Spotting Stations at each of these Ranger Stations and at Smithyorkinag Valley, Mount Nishforth, and Wyndmon Valley. Many tour guides offer tours of the park and there is also a dedicated community of guides that are ready to guide someone on a journey up one of the 1,836 named mountains and peaks of the mountain range. 
+
+The main road artery, Park Road 101, runs along the park and has other park roads sprouting from it. The park roads that are normally of interest to tourists are Park Road 1201, which winds up the lower part of the park's highest mountain, Mount Tenephur; Park Road 601, which runs past the famous trio of mountains called the Rukranedia Trinity and then goes around the site of the famous Battle of Tfziwrzmh, fought at Cakittinanp Valley. The battlefeild is considered one of the most senic spot in the park; Park Road 1601, which is a rugged road reaching deep into the mountains through the tundra and past many glaciers. 
+
+There are many wolves and hawks throughout the park, and you can spot them year-round at the Wildlife Spotting Stations. In the lakes, there are many fish, including trout, bass, salmon, and a unique freshwater pufferfish endemic to Baiai Lake, but only Saint Barthe Lake and Tufolk Lake are open to fishing.   
+
+
 # THE END
 
 
 
 Copyright 2020 by the Arenztopian Office of Tourism. All Rights Reserved
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
