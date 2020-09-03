@@ -167,23 +167,19 @@ There are many, many restauraunts throughout the park and in New Paris, but the 
 
 ## James O. National Park
 
-James O. National Park is a medium-sized national park situated on the border between Ensley, also known as the national forest, and the Arenztopian Desert. Many endangered species reside within its borders. It's named after James O., a wealthyand influential Arenztopian senator. 
+James O. National Park is a medium-sized national park situated on the border between Ensley, also known as the national forest, and the Arenztopian Desert. Many endangered species reside within its borders. It's named after James O., a wealthy and influential Arenztopian senator. 
 
 There are Ranger Centers and Park Offices at the Al-Hyynb Dunes, Siverat Grove, East Hernandez River Crossing, West Hernandez River Crossing, Nollile Cabins, Caasen Oases Group, and Droutreanap Watering Hole. There are Wildlife Spotting Stations at each of these Ranger Centers and Park Offices except for the Al-Hyynb Dunes and West Hernandez River Crossing stations. Guides offer tours of both the forest and desert sections of the park.
 
 The main road artery, Park Road 102, curves in an S shape through the middle of the park. This road provides great access to many of the best spots in the park, but more great options include Park Road 1402, which follows Hernandez River to the edge of the park; Park Road 902, which comprehensively tours the desert section of the park; Park Road 1002, which meanders around the foothills of the forest, and finally Park Road 1802, which travels along the high ridge at the perimeter of the park, providing a great view of both the forest and the desert. 
 
-Rhinos and One-Horned Lions are frequently sighted throughout the desert section of the park, and herds of gazelle roam the grassland parts of the desert section. Many endangered species live in the forest section, including Arenztopian Kestrels, the Kerns Giant River Toad, the Arenztopian White-Horned Deer, and many others. Many tour guides also offer bird-watching opportunities, and you can buy binoculars and bird-watching kits in the Park Store, which is located on the left right sfter you go into the park on Park Road 102.
+Rhinos and one-horned lions are frequently sighted throughout the desert section of the park, and herds of gazelle roam the grassland parts of the desert section. Many endangered species live in the forest section, including Arenztopian kestrels, the Kerns giant river toad, the Arenztopian white-horned deer, and many others.
+Arenztopian wombats live in the central area of the park. Many tour guides also offer bird-watching opportunities, and you can buy binoculars and bird-watching kits in the Park Store, which is located on the left right sfter you go into the park on Park Road 102.
 
 There are many oasis settlements throughout the desert section and also lots of lodges in the forest section. One of the best is Kirkpatrick, Soninap and Sons. ($), a small lodge established in 1842 with many cabins nestled the shore of Lake Manninae. Their little restauraunt serves homey, warm food and bread, such as venison and wild potato sandwich garnished with pumpkin seed fresh and warm off the grill, wild boar and grilled onion salad with black eyed-beans, or wild turkey and basil stew with mustard plant garnished with lettuce. The cozy cabins have great access to the entire forest section of the park and are made of 500-year old birch trees. They are softly lighted at night and come with full utilities (shower, toilet, electricity, water, etc.) and many cabins have a full fireplace. Nightly rates average about 10-15 dollars. A more classy option in the desert section is Ernoae and Co. ($$), which is located in Dar-Ocaared Oasis at the eastern part of the desert region of the park. It's an early 1900s brick structure with many elegant suites. Its restauraunt serves traditional but progressive food such as cactus leaf and grilled lizard tail stew, or date and palm sap salad garnished with oregano. Nightly rates in their hotel range from 30-50 dollars.
 
 More restauraunts include Dregak ($$$), which is a chic, luxury restauraunt housed in a large former airplane hangar at the foot of one of the hills in the forest section. They're known for their dedacent bell pepper and roasted sparrow soup and their crunchy mushroom and chickpea salad. A great choice if you're in the desert section is Emionak, Desfri, and Wesnab ($$), a 1956 restauraunt that provides light, traditional foods such as crunchy grilled wild artichoke salad with yam dressing, or a banana (yes, banana) and sandhopper bird wrapped in traditional thin palm wheat bread. A more rugged option is the Dansatia Lodge & Restauraunt ($$), a new restauraunt established in 2018. They are housed in a large wood building nestled in the heart of the forest section. Some of their staples include wild perch and boar sandwiches, or chickpea and pheasant stew seasoned with black pepper and oregano.
 
-## Arenztopia Mountain National Park
-
-## Arenztopia Volcano National Park
-
-## Peters Arenztopian National Marine Reserve
 
 # THE END
 
