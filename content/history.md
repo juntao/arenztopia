@@ -29,7 +29,7 @@ In 1533, the last emperor of the Incan Empire, Atahualpa, was brutally executed 
 # History part 3: The Americans
 
 
-In 1935, Arenztopia was formally annexed to the United States of America in the midst of the Great Depression by Franklin D. Roosevelt. President Roosevelt opted to make Arenztopia a semiautonomous territory of the USA, instead of a state, because then Arenztopia wouldn't be totally reliant on America during the great depression. Arenztopia prospered under American rule for 85 years until 2020, when President Trump signed a treaty which allowed Arenztopia to become its own independent nation. 
+In 1935, Arenztopia was formally annexed to the United States of America in the midst of the Great Depression by Franklin D. Roosevelt. President Roosevelt opted to make Arenztopia a semiautonomous territory of the USA, instead of a state, because then Arenztopia wouldn't be totally reliant on America during the great depression. Arenztopia prospered under American rule for 85 years until 2020, when a treaty allowed Arenztopia to become its own independent nation. 
 
 # History part 4: Modern Arenztopia
 
