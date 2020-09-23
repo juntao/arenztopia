@@ -38,7 +38,9 @@ On Thursday, the University of Arenztopia at Natania City announced that it woul
 ## Weather
 by Mezoir Logan
 
-In an unusual case, a tropical storm dubbed Tropical Storm Sophia is brewing about 120 miles off the coast of Olb City.
+In an unusual case, a tropical storm dubbed Tropical Storm Sophia is brewing about 120 miles off the coast of Olb City. Light rainfall may come by Sunday, and the bulk of the storm will come by next week. 
+
+
 
 
 
