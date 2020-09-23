@@ -10,5 +10,4 @@ draft: false
 Volume 1, Issue 8 and 1/2
 September 23
 
-Arenztopia Mountain is the home to a top security prison, but 2 robbers have broken out. They are alive and are hunting down targets. A few people have been put under witness protection. One, named Bob Richy, commented "I am not scared for me, I am scared for my family." Top Detectives are on the case. Some think they are the same robbers that stole a priceless painting from the Arenztopia Treasury. Related: [Issue 7, Arts section](https://www.arenztopia.com/news/issue-7/) King LSJA says: "We will find them, we are safe, stay calm."  
-
+Arenztopia Mountain is the home to a top security prison, but 2 robbers have broken out. They are alive and are hunting down targets. A few people have been put under witness protection. One, named Bob Richy, commented "I am not scared for me, I am scared for my family." Top detectives are on the case. Some think they are the same robbers that stole a priceless painting from the Arenztopia Treasury [See Issue 7, Arts section](https://www.arenztopia.com/news/issue-7/). King LSJA says: "We will find them, we are safe, stay calm."  
