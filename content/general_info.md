@@ -27,7 +27,7 @@ Total pop.: 50 million
 Motto: We Love Books   
 No. of regions/states: 9   
 Largest region/state: Coastal Region   
-Smallest regio/state: Mountain Region   
+Smallest region/state: Mountain Region   
 Size of Economy: 10 trillion Arenzos (5 trillion USD)   
 National animal: Horse   
 National food: Ice Cream   
