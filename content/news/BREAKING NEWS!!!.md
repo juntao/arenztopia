@@ -1,5 +1,5 @@
 ---
-title: "Breaking news"
+title: "Issue 8"
 date: 2020-09-22T15:15:34+10:00
 featured: true
 draft: false
