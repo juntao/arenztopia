@@ -2,7 +2,8 @@
 title: "Suhan L."
 date: 2020-09-T2:02:56+9:00
 draft: false
-jobtitle: "Former prime minister"
+jobtitle: "Conflicted former prime minister"
 weight: 11
 ---
 
+Suhan Li is a conflicted figure in Arenztopian politics, having served as the first and only Prime Minister of Arenztopia from the middle of January 2020 until the removal of the Prime Minister post in the middle of March 2020. 
