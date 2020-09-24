@@ -6,7 +6,8 @@ intro_image_hide_on_mobile: true
 ---
 ## News
 
-This section contains the Olb City Announcer. It provides comprehensive news.
+This section contains the Olb City Announcer. It provides comprehensive news. 
+With new Articles every week.
 The articles are copied exactly as they were in print, with the exception of advertisements, pictures, and comics. Symbols that were not able to be reproduced are described (ex. degree symbol in newspaper = the word degrees in digital reproduction)
 
 Copyright 2020 Olb City Announcer, Incoporated. All rights reserved.
