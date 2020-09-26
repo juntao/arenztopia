@@ -31,9 +31,9 @@ No. of regions/states: 9
 Largest region/state: Coastal Region   
 Smallest region/state: Mountain Region   
 Size of Economy: 10 trillion Arenzos (5 trillion USD)
-Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/home)
-National animal: Horse
-National food: Ice Cream   
+Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/home)    
+National animal: Horse    
+National food: Ice Cream    
 Languages spoken: Arenzish, English, Spanish   
 Highest temperature recorded: 50˚C (122˚F)   
 Lowest temperature recorded: -16˚C (16.8˚F)    
