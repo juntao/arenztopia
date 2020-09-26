@@ -26,7 +26,8 @@ Lowest point: Arenztopian Desert (Al-Shakbur Oasis Settlement)-200 feet below se
 Largest city: Arenztopia City-2 million pop.   
 Smallest city: Cuyanting-2,500 pop.   
 Total pop.: 50 million   
-Motto: We Love Books   
+Motto: We Love Books    
+Web Suffixes: .az, .arenz, .arnz, .arnztpa    
 No. of regions/states: 9   
 Largest region/state: Coastal Region   
 Smallest region/state: Mountain Region   
