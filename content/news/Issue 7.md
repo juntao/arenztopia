@@ -23,24 +23,29 @@ We temporarily shut down in April because one of our lead reporters caught COVID
 ## Giant Meteor Seen Over Olb City
 by Tony Yuan    
 
-Lower West Quarter-A huge meteor, dubbed HIO-20201862DDES, was seen streaking through the air in the evening on Tuesday. HIO-20201862DDES was detected by the Arenztopian satellite known as HIO. It came from the Oort Cloud and was observed in one part of its 1,534,702-year orbit, but a gravitational disruption due to the reversal of the magnetic feilds of Mars caused it to veer onto a collision course with Earth. The meteor was estimated to be about 100 meters in diameter. It broke up in the atmosphere and several chunks caused minor damage to homes and cars. The ASA is currently studying the rock for any precious metals or signs of extraterrestrial life. One peice is to be displayed at the seasonal exhibition "Rocks of the Cosmos: A journey through the amazing world of space rocks" in 2021 at the Olb City Natural History Museum in 2022.
+Lower West Quarter-A huge meteor, dubbed HIO-20201862DDES, was seen streaking through the air in the evening on Tuesday. HIO-20201862DDES was detected by the Arenztopian satellite known as HIO. It came from the Oort Cloud and was observed in one part of its 1,534,702-year orbit, but a gravitational disruption due to the reversal of the magnetic feilds of Mars caused it to veer onto a collision course with Earth. The meteor was estimated to be about 100 meters in diameter. It broke up in the atmosphere and several chunks caused minor damage to homes and cars. The ASA is currently studying the rock for any precious metals or signs of extraterrestrial life. One peice is to be displayed at the seasonal exhibition "Rocks of the Cosmos: A journey through the amazing world of space rocks" in 2021 at the Olb City Natural History Museum.
 
 ## Arts
 by Guest Author Lorenzo Sebastian Javier Avila, King of Arenztopia
 
-Two robbers stole a priceless peice from the Arenztopian Treasury on Monday. Top detectives are on the case but no suspects have been found. We will have an update next week.
+Two robbers stole a priceless Rembrandt painting, dated 1644, among other valuable treasures from the Arenztopian Royal Treasury on Monday. Top detectives are on the case but no suspects have been found. The Royal Treasury is under high alert and all major police departments are also on high alert. We will have an update next week.
 
 ## Sports
 by Sam-Louis Alrocaet
 
 On Thursday, the University of Arenztopia at Natania City announced that it would be opening its stadium, Brookers Field, and it would have a football game against the New Paris Panthers. On Friday, the night of the game, Brookers Field was packed with adoring fans. The Natania City Narwhals won 15-14, but over 30 people contracted the coronavirus as a result of going to the game. The University quickly closed Brookers Field and paid compensation to the famillies of the people who contracted COVID-19.
 
+Also, on Tuesday, the final game of the Arenztopian Chanlania-Hasiania Grand Soccer Tournament happened, with the Hasianian Hornets beating the Chanlanian Chamaleons 4-6 to win the tournament.
+
 ## Weather
 by Mezoir Logan
 
 In an unusual case, a tropical storm dubbed Tropical Storm Sophia is brewing about 120 miles off the coast of Olb City. Light rainfall may come by Sunday, and the bulk of the storm will come by next week. 
 
+## SEYR Foods, Inc goes bankrupt
+by Owen Miyazoi
 
+SEYR Foods, Inc, one of the largest food distributors in Arenztopia, filed for level 5 bankruptcy on Friday as a result of the pandemic. SEYR Foods, Inc, the food subsidary of the Argen Group, distributed 50% of the food from Nutrifood Farms
 
 
 
