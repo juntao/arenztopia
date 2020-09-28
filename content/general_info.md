@@ -38,3 +38,39 @@ National food: Ice Cream
 Languages spoken: Arenzish, English, Spanish   
 Highest temperature recorded: 50˚C (122˚F)   
 Lowest temperature recorded: -16˚C (16.8˚F)    
+
+-----
+## ↓↓↓Arenzish Translation↓↓↓
+# Tvmvizo Rmulinzgrlm
+Gsv Zivmaglkrzm rhozmw ivhrwvh luu gsv xlzhg lu Nvcrxl. Gsv prmt rh Olivmal Z, Hfkivnv Nlmzixs Lu gsv Xlfmgib Lu Zivmaglkrz, zmw sv orevh rm Zivmaglkrz Xrgb, dsrxs rh olxzgvw mvcg gl gsv Yzb lu Zivmaglkrz zg gsv hlfgsvzhg xlimvi lu gsv rhozmw. Gsv 50 nroorlm kvlkov lm gsv rhozmw vmqlb z kovmgrufo vxlmlnb lu $5 giroorlm zmw olgh lu yvzfgrufo xrgrvh. Gsv nzqli xrgrvh ziv Arenztopia City, Olb City, Noi City, Austerfeild, Arville, Shersville, New Athens, New Austin, Sitin, Shreet, New Rome, zmw New Paris. Hbnyloh lu Zivmaglkrz rmxofwv z slihv (gsv mzgrlmzo zmrnzo) zmw rxv xivzn, dsrxs rh gsv mzgrlmzo ullw. Gsv kvlkov hkvzp Arenzish, English, zmw Spanish. Nlfmg Zivmaglkrz rh gsv srtsvhg hklg, zg zm zhglfmwrmt 20,100 uvvg. Lm gsv xlmgizib, gsv oldvhg klrmg rh rm gsv Zivmaglkrzm Wvhvig zg 200 uvvg yvold hvz ovevo. Gsv xlfmgib'h nlggl rh Dv Olev Yllph. Gsv xfiivmxb lu Zivmaglkrz rh xzoovw gsv Arenzo. Lmv Arenzo rh vjfzo gl 50 xvmgh USD. Zoo hglivh droo zxxvkg rg, zmw nlhg kvlkov fhv rg. Rg rh fmrjfv rm gszg rg rh xlnkovgvob wrtrgzo-ml kzkvi yrooh li xlrmh rmeloevw.
+
+Arenztopia rh slnv gl nzmb xrgrvh. Arenztopia City rh gsv ozitvhg, zg mvziob 2 nroorlm kvlkov rm klkfozgrlm, zmw gsviv ziv nzmb hvnr-zfglmlnlfh xrgb-hgzgvh drgsrm Arenztopia, rmxofwrmt Hasiania, Chasiania, Rohadden, Iremdor, zmw Aradakon, dsrxs ziv gzc-uivv vmgrgrvh gszg xlnkvgv rm Arenztopian hkligrmt zxgrergrvh. Gsvb ziv zivzh gszg wrw mlg ztivv gl gsv 2020 Znvirxzm Givzgb zmw hl yvxznv gsvri ldm hvnr-zfglmlnlfh vmgrgrvh. Gsv hnzoovhg xrgb rh Cuyanting, drgs z klkfozgrlm lu qfhg 2,500 kvlkov.   
+
+# Klorgrxzo Hgifxgfiv
+Arenztopia zh z xlfmgib rh gll blfmt gl szev nfxs klorgrxzo hgifxgfiv, yfg rg szh yvvm vhgzyorhsvw gszg gsviv rh z prmt, dsl rh elgvw rmgl kozxv, zmw dsl ulooldh z xlmhgrgfgrlm. Gsv Erxv Kivhrwvmg rh zohl elgvw rmgl kozxv zmw droo yvxlnv gsv mvd rmgvirn prmt rm dzpv lu gsv prmt hfwwvmob ivhrtmrmt li wbrmt.
+
+# Klorgrxzo Zortmnvmg
+Arenztopia rh z nrorgzib zoob gl gsv mfnvilfh xrgb-hgzgvh drgsrm rg, zmw zohl gl gsv FHZ, Qzkzm, Uizmxv, Vmtozmw, Hkzrm, Tvinzmb, Ifhhrz, Xsrmz, Xlhgz Irxz, Nvcrxl, Kvif, Rgzob, Gsv Slob Hvv, zmw Xzmzwz
+
+Arenztopia wlvh mlg szev zmb vmvnrvh bvg, vcxvkg uli gsv hslig-orevw xszlh litzmrazgrlm Chickentopia zmw gsv gviilirhg tilfk Milestopia.
+
+# Hgzgrhgrxh
+Ovmtgs zxilhh, ovmtgsdrhv: 2,400 nrovh   
+Ovmtgs zxilhh, drwgs-drhv: 1,600 nrovh   
+Srtsvhg klrmg: Arenztopia Nlfmgzrm-20,100 uvvg zylev hvz ovevo   
+Oldvhg klrmg: Arenztopian Wvhvig (Al-Shakbur Lzhrh Hvggovnvmg)-200 uvvg yvold hvz ovevo   
+Ozitvhg xrgb: Arenztopia Xrgb-2 nroorlm klk.    
+Hnzoovhg xrgb: Cuyanting-2,500 klk.   
+Glgzo klk.: 50 nroorlm   
+Nlggl: Dv Olev Yllph    
+Dvy Hfuurcvh: .az, .arenz, .arnz, .arenztpa    
+Ml. lu ivtrlmh/hgzgvh: 9   
+Ozitvhg ivtrlm/hgzgv: Xlzhgzo Ivtrlm   
+Hnzoovhg ivtrlm/hgzgv: Nlfmgzrm Ivtrlm   
+Hrav lu Vxlmlnb: 10 giroorlm Arenzos (5 giroorlm USD)    
+Ozitvhg Xlnkzmb: [Wirkkrmt Xlmv](https://sites.google.com/view/drippingcone-com/home)    
+Mzgrlmzo zmrnzo: Slihv    
+Mzgrlmzo ullw: Rxv Xivzn    
+Ozmtfztvh hklpvm: Arenzish, English, Spanish   
+Srtsvhg gvnkvizgfiv ivxliwvw: 50°X (122°U)   
+Oldvhg gvnkvizgfiv ivxliwvw: -16°X (16.8°U)
