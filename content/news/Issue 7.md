@@ -46,6 +46,3 @@ In an unusual case, a tropical storm dubbed Tropical Storm Sophia is brewing abo
 by Owen Miyazoi
 
 SEYR Foods, Inc, one of the largest food distributors in Arenztopia, filed for level 5 bankruptcy on Friday as a result of the pandemic. SEYR Foods, Inc, the food subsidary of the Argen Group, distributed 50% of the food from Nutrifood Farms
-
-
-
