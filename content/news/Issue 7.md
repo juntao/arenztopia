@@ -57,4 +57,24 @@ by Sam-Louis Alroacaet
 
 On Monday, the Olb City Monument Commission dedicated a new monument to the people in Olb City who have lost their lives as a result of the coronavirus pandemic. The monument, which is a large, monolithic black rock building with the names of the coronavirus victims carved into its inside walls, is located next to the town cemetery in its own plaza. The plaza, which is circular, contains a tile path, bushes, and several benches. The monument is situated at the back of the plaza. It was christened the Ronasek Monument.
 
+## Fire erupts near City Hall
+by Sam-Louis Alrocaet
 
+On Monday, a large fire erupted in an apartment building near City Hall. Firefighters rushed to the scene and evacuated the building. Two people were hospitalized and three more people were also injured. The flames also spread to a neighboring dorm complex serving the University of Olb City and one person was hospitalized and two others were injured there. Nobody was killed. The northern wall of City Hall was slightly singed, and was repaired on Tuesday. The two buildings are currently being assessed for any structural weaknesses before repairs or destruction begins.
+
+## Coronavirus Report
+by Owen Miyazoi
+
+Cases are leveling out at about 1,550 and deaths are very slowly decreasing at 230 deaths, down from 225 in late August. Mayor Tony Yuan has approved 10 million Arenzos to increase testing and to provide coronavirus relief. He also donated another 5 million Arenzos to the WHO.
+
+## Poetry
+by Tony Yuan
+
+Dollars
+
+Millions of dollars    
+in an effort to quench the    
+pandemic    
+succeed.
+
+##
