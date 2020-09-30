@@ -85,7 +85,7 @@ On Wednesday, a beloved great white shark was found dead at the Olb City Aquariu
 ## Feature: Anthony Threshdam
 by Owen Miyazoi
 
-- The Announcer interviewed Anthony Threshdam, an Olb City-based engineer who invented a cheap and efficient ventilator that is saving lives across Arenztopia. -
+The Announcer interviewed Anthony Threshdam, an Olb City-based engineer who invented a cheap and efficient ventilator that is saving lives across Arenztopia.
 
 Olb City Announcer: So what got you going on this idea?
 
@@ -110,3 +110,5 @@ TA: Well, all the parts are made of plastic, and it's really simple, and really 
 OCA: Well, that looks like all the questions we have for you right now, so bye!
 
 TA: Bye, and thanks for having me!
+
+This interview was slightly edited for length and clarity.
