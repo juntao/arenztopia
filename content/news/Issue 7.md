@@ -77,4 +77,30 @@ in an effort to quench the
 pandemic    
 succeed.
 
-##
+## Great White Shark Dies at Olb City Aquarium
+by Sam-Louis Alrocaet
+
+On Wednesday, a beloved great white shark was found dead at the Olb City Aquarium. The shark, whose name was Bertha, was 23 years old. Bertha was stuffed and she is in storage at the Olb City Institute of Oceanology. Bertha is scheduled to go on display at the Olb City Natural History Museum in early 2021.
+
+## Feature: Anthony Threshdam
+by Owen Miyazoi
+
+* The Announcer interviewed Anthony Threshdam, an Olb City-based engineer who invented a cheap and efficient ventilator that is saving lives across Arenztopia. *
+
+Olb City Announcer: So what got you going on this idea?
+
+Anthony Threshdam: Well, I saw that most ventilators were extremely expensive and needlessly complicated, so I thought, "Well, why don't I invent a ventilator myself?" And I started tinkering with some machine parts that I had lying around.
+
+OCA: Can you explain, basically, how your ventilator works?
+
+AT: So basically, it has this little electrical motor, which drives this tiny piston, which pushes down on a bag of air and pushes air into a hose, which goes into the patient's lungs. So it's really very quite simple.
+
+OCA: Are you proud of your invention saving lives?
+
+TA: Yes, I certainly am. I get about a trillion e-mails every day from people who are thanking me for saving one of their family members. But it's not me they should credit, it's those people who agreed to bravely market and produce my idea. Without them, my idea wouldn't have gotten off the ground.
+
+OCA: When did you come up with this idea and when did the ventilator start being produced?
+
+TA: I came up with this idea about five months ago, and it started to be produced about four months ago. So, that was a pretty busy month. We got our first order, like, half a month after it started production, and the next order came a week after, then a couple days after that we started getting orders, like, every two hours.
+
+OCA: Why is the 
