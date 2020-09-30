@@ -35,7 +35,7 @@ by Sam-Louis Alrocaet
 
 On Thursday, the University of Arenztopia at Natania City announced that it would be opening its stadium, Brookers Field, and it would have a football game against the New Paris Panthers. On Friday, the night of the game, Brookers Field was packed with adoring fans. The Natania City Narwhals won 15-14, but over 30 people contracted the coronavirus as a result of going to the game. The University quickly closed Brookers Field and paid compensation to the families of the people who contracted COVID-19.
 
-Also, on Tuesday, the final game of the Arenztopian Chanlania-Hasiania Grand Soccer Tournament happened, with the Hasianian Hornets beating the Chanlanian Chamaleons 4-6 to win the tournament.
+Also, on Tuesday, the final game of the Arenztopian Chanlania-Hasiania National Baseball Tournament happened, with the Hasianian Hornets beating the Chanlanian Chamaleons 4-6 to win the tournament.
 
 ## Weather
 by Mezoir Logan
