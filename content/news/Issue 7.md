@@ -103,4 +103,10 @@ OCA: When did you come up with this idea and when did the ventilator start being
 
 TA: I came up with this idea about five months ago, and it started to be produced about four months ago. So, that was a pretty busy month. We got our first order, like, half a month after it started production, and the next order came a week after, then a couple days after that we started getting orders, like, every two hours.
 
-OCA: Why is the 
+OCA: Why is the ventilator so cheap?
+
+TA: Well, all the parts are made of plastic, and it's really simple, and really light.
+
+OCA: Well, that looks like all the questions we have for you right now, so bye!
+
+TA: Bye, and thanks for having me!
