@@ -141,6 +141,11 @@
   </url>
   
   <url>
+    <loc>/awp-podcast/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/news/issue-8/</loc>
     <priority>0</priority>
   </url>
