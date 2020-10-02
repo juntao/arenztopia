@@ -1,13 +1,13 @@
 ---
-title: "Issue 3"
-date: 2020-03-22T15:15:34+10:00
+title: "Issue 8"
+date: 2020-010-2T15:15:34+10:00
 featured: true
 draft: false
 ---
 
 
 # The Olb City Announcer
-Volume 1, Issue 3  
+Volume 1, Issue 8  
 March 15th-March 21st, 2020
 
 ## Silver Growing In Crystals
