@@ -9,12 +9,12 @@ weight: 8
 
 # The Olb City Announcer
 Volume 1, Issue 8  
-March 15th-March 21st, 2020
+September 27th-October 3rd, 2020
 
-## Silver Growing In Crystals
+## Ancient city found
 by Tony Yuan
 
-Albrecht Cave-Miners using enimulgemid etatetnepodag disulfate technology were able to bust the entire back and half of the side walls of Albrecht Cave. Seeing a narrow tunnel, one of the miners climbed into the tunnel. Emerging in a giant cavern, he saw silver everywhere, except these were growing in huge, diamond and quartz style crystals! Having never seen this before, the miner called the other people over to see while he called the ASO (Arenzish Scientific Office). Experts and scientists the country over are peering, poking, and testing samples of this bizzare phenomenon. Alex DuChiniko, a scientist and one of the nation´s leading experts on precious metals, says ¨I´ve never seen anything like it. Silver just isn´t supposed to do this!¨ Says a spokesperson for the ASO, ¨We could be on the brink of a scientific revolution that changes our understanding of the elements.¨
+Freguloson Lake-
 
 ## Spring Starts
 by Tony Yuan
