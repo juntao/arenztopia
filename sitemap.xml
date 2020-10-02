@@ -146,15 +146,16 @@
   </url>
   
   <url>
+    <loc>/news/issue-8/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/404/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/news/issue-8/</loc>
   </url>
   
   <url>
