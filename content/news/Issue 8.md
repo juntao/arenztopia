@@ -3,7 +3,6 @@ title: "Issue 8"
 date: 2020-010-2T15:15:34+10:00
 featured: true
 draft: false
-weight: 8
 ---
 
 
@@ -11,15 +10,14 @@ weight: 8
 Volume 1, Issue 8  
 September 27th-October 3rd, 2020
 
-## Ancient city found
+## Silver Growing In Crystals
 by Tony Yuan
 
-Freguloson Lake-A major discovery was made on Monday when a construction crew digging the foundations for a new resort at Freguloson Lake happened upon a large, buried Incan metropolis. The lost city was located about fifteen feet underground. Experts predict that it sprawls for over a mile inland. Teams of arceaologists have already unearthed over 1000 square feet of the city. Studies with SONAR have confirmed multiple temples, many small altars, several houses, and part of a palace. Two human skeletons have been found already. " 
+Albrecht Cave-Miners using enimulgemid etatetnepodag disulfate technology were able to bust the entire back and half of the side walls of Albrecht Cave. Seeing a narrow tunnel, one of the miners climbed into the tunnel. Emerging in a giant cavern, he saw silver everywhere, except these were growing in huge, diamond and quartz style crystals! Having never seen this before, the miner called the other people over to see while he called the ASO (Arenzish Scientific Office). Experts and scientists the country over are peering, poking, and testing samples of this bizzare phenomenon. Alex DuChiniko, a scientist and one of the nation´s leading experts on precious metals, says ¨I´ve never seen anything like it. Silver just isn´t supposed to do this!¨ Says a spokesperson for the ASO, ¨We could be on the brink of a scientific revolution that changes our understanding of the elements.¨
 
-## Spring Starts
-by Tony Yuan
-
-Everyone is happy and joyful when spring starts, as it heralds the beginning of a prosperous new season. This spring is different, however, as when it started on March 19th, the world remembered it as the first time spring has started early on March 19th in 154 years. The last time was in 1866.
+## Autumn Starts
+by Renzo AVila
+ With Autumn Brings cooler weather, Leaves changing colors, And of course most importantly HALLOWEEN!!! CANDY,COSTUMES,PUMKINS. OH NO. Covid... But don't worry it may not be the same but we can still have fun. We can still have costumes, we can hold family partys, and we can still eat so much candy. So don't be sad, be excited. IT'S HALLOWEEN!!!
 
 ## Sports 
 by Sam-Louis Alrocaet
@@ -29,7 +27,7 @@ To kick off football season in Arenztopia, the Shreetian Star Hawks blazed throu
 ## Arts
 by Owen Miyazoi
 
-The sculpture Galaxy, created by local sculptor Moe Kinakshi, is debuting Wednesday at the Olb City Art Mueseum, along with beautiful pictures of viruses created by Thomas Gessbegere, a local photographer. Taken through a Scanning Electron Microscope (the strongest microscopes), these include such iconic lifeforms as the flu, COVID-19, and the infamous Ebola.
+The Robbers are found On october 1st 2020 The PD has released nothing besides to pictures of the culprits. All stolen items were returned to the Treasury. All art enthusiasts are overjoyed "I can't believe someone would try to take 
 
 ## Coronavirus Report
 by Owen Miyazoi
@@ -46,16 +44,7 @@ by Max Supresey, Director of psycology at the ASO
 
 The ASO (Arenzish Scientific Office)´s department of psycology conducted a study on rats during social distancing. They acquired 50 lab rats and put them in a box, then separated each rat from the others with a round partition. Then, they monitored the rat´s brains for a month. After a month had passed, the psycologists had the rats solve basic puzzles that they also solved before social distancing. The data shows that the rats were able to solve a greater number of puzzles, but they did it slower.
 
-## Events
-
-*QuarantineFest 2020*  
-March 19th  
-People get together via Skype and talk about what they are doing to pass the time.
-
-*Unusual Rocks*  
-March 18th to March 21st  
-The Olb City Art Museum and the Olb City Minearology Comittee partner to bring you some beautifully painted rocks by Mr. Andrew Tishwarat.
-
+ 
 ## Arts 2: Unusual Rocks
 by Johan Tinapikkur, curator of natrual items at the Olb City Art Museum
 
