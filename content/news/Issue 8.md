@@ -14,7 +14,7 @@ September 27th-October 3rd, 2020
 ## Ancient city found
 by Tony Yuan
 
-Freguloson Lake-A major discovery was made on Monday when a construction crew digging the foundations for a new resort at Freguloson Lake happened upon a large, buried Incan metropolis. The lost city was located about fifteen feet underground. Experts predict that it sprawls for over a mile inland. Teams of arcealogists 
+Freguloson Lake-A major discovery was made on Monday when a construction crew digging the foundations for a new resort at Freguloson Lake happened upon a large, buried Incan metropolis. The lost city was located about fifteen feet underground. Experts predict that it sprawls for over a mile inland. Teams of arceaologists have already unearthed over 1000 square feet of the city. Studies with SONAR have confirmed multiple temples, many small altars, several houses, and part of a palace. Two human skeletons have been found already. " 
 
 ## Spring Starts
 by Tony Yuan
