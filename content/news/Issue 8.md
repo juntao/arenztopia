@@ -16,7 +16,8 @@ by Tony Yuan
 Albrecht Cave-Miners using enimulgemid etatetnepodag disulfate technology were able to bust the entire back and half of the side walls of Albrecht Cave. Seeing a narrow tunnel, one of the miners climbed into the tunnel. Emerging in a giant cavern, he saw silver everywhere, except these were growing in huge, diamond and quartz style crystals! Having never seen this before, the miner called the other people over to see while he called the ASO (Arenzish Scientific Office). Experts and scientists the country over are peering, poking, and testing samples of this bizzare phenomenon. Alex DuChiniko, a scientist and one of the nation´s leading experts on precious metals, says ¨I´ve never seen anything like it. Silver just isn´t supposed to do this!¨ Says a spokesperson for the ASO, ¨We could be on the brink of a scientific revolution that changes our understanding of the elements.¨
 
 ## Autumn Starts
-by Renzo AVila
+by Renzo Avila
+
  With Autumn Brings cooler weather, Leaves changing colors, And of course most importantly HALLOWEEN!!! CANDY,COSTUMES,PUMKINS. OH NO. Covid... But don't worry it may not be the same but we can still have fun. We can still have costumes, we can hold family partys, and we can still eat so much candy. So don't be sad, be excited. IT'S HALLOWEEN!!!
 
 ## Sports 
