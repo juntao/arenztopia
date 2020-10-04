@@ -76,11 +76,11 @@ The city-state of Iremdor announced on Wednesday that it would become a “partn
 ## Poetry
 by Tony Yuan
 
-Coronavirus
-Orderly days; proceeding in unison
-Vaccine
-In the house, trapped
-Death
+Coronavirus    
+Orderly days; proceeding in unison    
+Vaccine    
+In the house, trapped    
+Death    
 
 ## Obituary
 by Owen Miyazoi
