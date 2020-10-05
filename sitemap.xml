@@ -145,11 +145,6 @@
   </url>
   
   <url>
-    <loc>/awp-podcast/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/404/</loc>
   </url>
   
@@ -159,6 +154,10 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/awp-podcast/</loc>
   </url>
   
 </urlset>
