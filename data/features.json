@@ -1,17 +1,17 @@
 [
   {
     "title": "Republic",
-    "description": "The King does not wield all power",
+    "description": "The King does not wield absolute power.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
     "title": "Democracy",
-    "description": "One person one vote",
+    "description": "One person, One vote.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Justice",
-    "description": "All persons are equal",
+    "description": "All people are equal.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
