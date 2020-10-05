@@ -38,6 +38,11 @@ theme = "hugo-serif-theme"
       name = "People"
       url = "/people/"
       weight = 2
+      
+  [[menu.main]]
+      name = "AWP"
+      url = "/awp podcast/"
+      weight = 3
 
   # Footer Menu
   [[menu.footer]]
