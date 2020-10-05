@@ -7,3 +7,5 @@ menu: main
 ---
 
 Hi! We're the Arenztopia Weekly Podcast, a podcast consisting of Renzo and Tony. We read this week's news and talk about local events.
+
+Here's our first episode: 
