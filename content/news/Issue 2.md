@@ -3,7 +3,7 @@ title: "Issue 2"
 date: 2020-03-15T15:15:26+10:00
 featured: true
 draft: false
-weight: 1
+weight: 2
 ---
 
 # The Olb City Announcer
