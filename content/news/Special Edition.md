@@ -7,7 +7,7 @@ draft: false
 
 
 # The Olb City Announcer: SPECIAL EDITION
-Volume 1, Issue 8 and 1/2
+Volume 1, Issue 7 and 1/2
 September 23
 
 
