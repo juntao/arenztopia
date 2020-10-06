@@ -39,7 +39,7 @@ Notice: If you have info about the criminals, call the police.
 ## New Skyscraper Planned
 by Owen Miyazoi
 
-In downtown Olb City, a realty firm announced a new 90-floor skyscraper. It will be the tallest skyscraper in West Arenztopia on it´s completion in 2035.
+In downtown Olb City, a realty firm announced a new 96-floor skyscraper. It will be the tallest skyscraper in West Arenztopia on it´s completion in October.
 
 ## New Resturaunt is HOT!
 by Tony Yuan
@@ -111,10 +111,10 @@ by Sam-Louis Alrocaet
 
 This week is a bizzare week with the unreasonable legal issue and a death by meteorite, but it is offset by the alarm of the Coronavirus cases in Arenztopia rising rapidly. 
 
-## How To Build A 90- Story Skyscraper
+## How To Build A 96-Story Skyscraper
 by Tony Yuan
 
-On Wednesday, we saw that realty firm McMilleryége & Sons has announced a 90 story skyscraper. A spokesperson for the company says:¨We will reserve 3rd Street for the purpose of transporting glass panels, and we will also reserve Avila Lane for parking and utilities.¨ Workers are currently using backhoes to dig the foundation. 
+On Wednesday, we saw that realty firm McMilleryége & Sons has announced a 96 story skyscraper. A spokesperson for the company says:¨We will reserve 3rd Street for the purpose of transporting glass panels, and we will also reserve Avila Lane for parking and utilities.¨ Workers are currently using backhoes to dig the foundation. 
 
 ## New Train Line Unveiled
 by Sam-Louis Alrocaet
