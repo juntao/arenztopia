@@ -44,8 +44,8 @@ by Renzo Avila
 ## New virtual exhibit at OCAM
 by Sam-Louis Alrocaet
 
-On Friday, the OCAM announced a new 
- 
+On Friday, the OCAM announced a new exhibit by rising artist Trillian Dorfeeden. It features beautiful, vibrant photography of rivers and lakes in the Old Region. It is called Sun and you can view it at ocam.org/exhibits/sun2020 through Februrary 1st, 2021.
+
 ## (article title)
 By Renzo Avila
 
@@ -67,6 +67,4 @@ and go virtual.
 ## Obituary
 by Owen Miyazoi
 
-On Tuesday, Dr. Sayon Ferguson, an influential surgeon, died of natural causes in his sleep. He was 76 years old. Dr. Ferguson pioneered many novel practices in his years as a surgeon. To show sympathy, call Mrs. Ferguson at 680-223-3329.
-
-
+On Thursday, Dases Sonoma, a famed actor who acted in the 1960s through the 2000s, died of COVID-19. He was 89 years old. Mr. Sonoma acted in over 150 plays, musicals, movies, and TV shows. To show sympathy, call the Dases Sonoma Foundation at 680-996-5426.
