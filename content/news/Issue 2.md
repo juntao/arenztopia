@@ -39,7 +39,7 @@ Notice: If you have info about the criminals, call the police.
 ## New Skyscraper Planned
 by Owen Miyazoi
 
-In downtown Olb City, a realty firm announced a new 96-floor skyscraper. It will be the tallest skyscraper in West Arenztopia on it´s completion in October.
+In downtown Olb City, a realty firm announced a new 96-floor skyscraper. It will be the tallest skyscraper in West Arenztopia on it´s completion in September.
 
 ## New Resturaunt is HOT!
 by Tony Yuan
