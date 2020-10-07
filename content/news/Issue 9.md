@@ -19,8 +19,8 @@ Sanson Tower-On Monday, a large explosion occured on the Sanson Tower's 96th flo
 ## Arts
 by Renzo Avila
 
- Famous movie director, Tom bing, recently passed away. his most popular movie The halloween life is about two kids getting stuck in halloween everyday. That movie recently did a re-realease of the movie in honer of him. buy it now for 4.99 Arenzo 
- wherever movies are sold.
+Famous movie director, Tom Bing, recently passed away. His most popular movie, The Halloween Life, a Groundhog Day-style children's comedy, is about two kids getting stuck in Halloween. The studio recently did a re-realease of the movie in honor of him. buy it now for 4.99 Arenzos wherever movies are sold.
+
 ## Sports
 by Sam-Louis Alrocaet
 
@@ -29,7 +29,7 @@ The Arenztopian Cycling Grand Tournament continued on Tuesday as the Noi City Dr
 ## Weather
 by Mezoir Logan
 
-Tropical Storm Sophia turned into a Category 1 Hurricane and made landfall on Thursday. It blazed through Austerfield and made a seiries of thunderstorms over Olb City. Next week should see some light showers and strong winds 
+Tropical Storm Sophia turned into a Category 1 Hurricane and made landfall on Thursday. It blazed through Austerfield and made a seiries of thunderstorms over Olb City. Next week should see some light showers and strong winds.
 
 ## Coronavirus Report
 by Owen Miyazoi
