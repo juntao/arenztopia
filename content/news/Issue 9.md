@@ -19,8 +19,8 @@ Sanson Tower-On Monday, a large explosion occured on the Sanson Tower's 96th flo
 ## Arts
 by Renzo Avila
 
-{Notes: you need to write this renzo}
-
+ Famous movie director, Tom bing, recently passed away. his most popular movie The halloween life is about two kids getting stuck in halloween everyday. That movie recently did a re-realease of the movie in honer of him. buy it now for 4.99 Arenzo 
+ wherever movies are sold.
 ## Sports
 by Sam-Louis Alrocaet
 
