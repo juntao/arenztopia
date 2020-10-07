@@ -9,7 +9,7 @@ weight: 9
 
 # The Olb City Announcer
 Volume 1, Issue 9  
-October 4-October {11/10 <- Notes: decide on this}, 2020
+October 4-October 10, 2020
 
 ## Explosion occurs on Sanson Tower's top floor
 by Tony Yuan
