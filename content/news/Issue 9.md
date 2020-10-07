@@ -36,20 +36,16 @@ by Owen Miyazoi
 
 Official government sources say 1,520 cases with 104 deaths, down drastically from 224 deaths last week. Normal safety restrictions are in place.
 
-## Feature:
-by Renzo Avila
-
-{Notes: Hi renzo, you can do the "feature" column, which is an interview between the oca and a person. You start off each interview by putting: We interviewed (person), who (did this). and then you put Olb City Announcer: (question), and press enter twice, and then put (person): (answer). After that you follow this pattern: OCA: (question), and then (person's initials): (answer). If this was confusing just write an interview the way you like it and I will come and edit it.}
 
 ## New virtual exhibit at OCAM
 by Sam-Louis Alrocaet
 
 On Friday, the OCAM announced a new exhibit by rising artist Trillian Dorfeeden. It features beautiful, vibrant photography of rivers and lakes in the Old Region. It is called Sun and you can view it at ocam.org/exhibits/sun2020 through Februrary 1st, 2021.
 
-## (article title)
+## Pumkin patch open
 By Renzo Avila
 
-{Notes: hi renzo, you can do this one however you want}
+The mozt famous pumkin patch in New paris ,Heritage pumkin , is offically open due to covid it will have an ocupancy of 10 people at a time and masks are required. make a resevation now at Their website or call 238-238-5123.
 
 ## Poetry
 by Tony Yuan
