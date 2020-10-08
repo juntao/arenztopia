@@ -42,10 +42,10 @@ by Sam-Louis Alrocaet
 
 On Friday, the OCAM announced a new exhibit by rising artist Trillian Dorfeeden. It features beautiful, vibrant photography of rivers and lakes in the Old Region. It is called Sun and you can view it at ocam.org/exhibits/sun2020 through Februrary 1st, 2021.
 
-## Pumkin patch open
+## Pumpkin patch open
 By Renzo Avila
 
-The mozt famous pumkin patch in New paris ,Heritage pumkin , is offically open due to covid it will have an ocupancy of 10 people at a time and masks are required. make a resevation now at Their website or call 238-238-5123.
+The most famous pumpkin patch in New Paris, Heritage Pumpkins, is offically open. Due to Covid it will have an occupancy of 10 people at a time and masks are required. Make a reservation now at their website or call 238-238-5123.
 
 ## Poetry
 by Tony Yuan
