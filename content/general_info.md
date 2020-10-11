@@ -7,7 +7,7 @@ weight: '3'
 # General Information
 The Arenztopian island resides off the coast of Mexico. The king is Lorenzo Sebastian Javier Avila, Supreme Monarch Of the Country Of Arenztopia, and he lives in Arenztopia City, which is located next to the Bay of Arenztopia at the southeast corner of the island. The 50 million people on the island enjoy a plentiful economy of $5 trillion and lots of beautiful cities. The major cities are Arenztopia City, Olb City, Noi City, Austerfeild, Arville, Shersville, New Athens, New Austin, Sitin, Shreet, New Rome, and New Paris. Symbols of Arenztopia include a horse (the national animal) and ice cream, which is the national food. The people speak Arenzese, English, and Spanish. Mount Arenztopia is the highest spot, at an astounding 20,100 feet. On the contrary, the lowest point is in the Arenztopian Desert at 200 feet below sea level. The country´s motto is We Love Books, but the more commonly used version is the Arenzese, Dv Olev Yllph. The currency of Arenztopia is called the Arenzo. One arenzo is equal to 50 cents USD. All stores will accept it, and most people use it. It is unique in that it is completely digital-no paper bills or coins involved.
 
-Heres a free Arenzese  
+Here's a [free Arenzese translator] (https://www.theproblemsite.com/reference/mathematics/codes/backwards-alphabet-code). You type English into the box, press "encode", and it'll translate into Arenzese.   
  
 Arenztopia is home to many cities. Arenztopia City is the largest, at nearly 2 million people in population, and there are many semi-autonomous city-states within Arenztopia, including Hasiania, Chasiania, Rohadden, Iremdor, and Aradakon, which are tax-free entities that compete in Arenztopian sporting activities. They are areas that did not agree to the 2020 American Treaty and so became their own semi-autonomous entities. The smallest city is Cuyanting, with a population of just 2,500 people.  
 
@@ -88,3 +88,16 @@ Mzgrlmzo ullw: Rxv Xivzn
 Ozmtfztvh hklpvm: Arenzese, English, Spanish   
 Srtsvhg gvnkvizgfiv ivxliwvw: 50°X (122°U)   
 Oldvhg gvnkvizgfiv ivxliwvw: -16°X (16.8°U)
+
+# Gsrh Dvvp'h Xsvxporhg: Yvgz Gvhg
+
+Rm zm zggvnkg gl yv nliv gizmhkzivmg, dv'iv rmxofwrmt z xsvxporhg sviv uli dszg fkwzgvh droo (slkvufoob) yv nzwv gl gsv dvyhrgv gsrh dvvp.
+
+- [x] Kfyorhs gsv uivv Zivmavhv gizmhozgrlm gllo.
+- [x] Gvhg lfg vnlqrh: :lxglxzg: :ilxpvg: :gzwz: :hkzipovh: :+1: :100: :hnrovb_xzg:
+- [ ] Urmrhs Rhhfv 10 lu gsv mvdh
+- [ ] Zww nliv kvlkov gl gsv kvlkov hvxgrlm
+
+
+
+
