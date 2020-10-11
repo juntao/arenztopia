@@ -39,6 +39,17 @@ Languages spoken: Arenzese, English, Spanish
 Highest temperature recorded: 50˚C (122˚F)   
 Lowest temperature recorded: -16˚C (16.8˚F)    
 
+# This Week's Checklist: Beta Test
+
+In an attempt to be more transparent, we're including a checklist here for what updates will (hopefully) be made to the website this week.
+
+- [x] Publish the free Arenzese translation tool.
+- [ ] Finish Issue 10 of the news.
+- [ ] Add more people to the people section.
+- [ ] Test out emojis: :octocat: :rocket: :tada: :sparkles: :+1:
+
+
+
 -----
 # ↓↓↓Arenzish Translation↓↓↓
 -----
