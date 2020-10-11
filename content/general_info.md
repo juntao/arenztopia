@@ -26,6 +26,7 @@ Highest point: Arenztopia Mountain-20,100 feet above sea level
 Lowest point: Arenztopian Desert (Al-Shakbur Oasis Settlement)-200 feet below sea level   
 Largest city: Arenztopia City-2 million pop.   
 Smallest city: Cuyanting-2,500 pop.   
+Tallest building: Arenztopia Tower-1,800 feet (550 meters)    
 Total pop.: 50 million   
 Motto: We Love Books    
 Web Suffixes: .az, .arenz, .arnz, .arnztpa    
@@ -57,6 +58,8 @@ In an attempt to be more transparent, we're including a checklist here for what 
 
 # Tvmvizo Rmulinzgrlm
 Gsv Zivmaglkrzm rhozmw ivhrwvh luu gsv xlzhg lu Nvcrxl. Gsv prmt rh Olivmal Hvyzhgrzm Qzervi Zeroz, Hfkivnv Nlmzixs Lu gsv Xlfmgib Lu Zivmaglkrz, zmw sv orevh rm Zivmaglkrz Xrgb, dsrxs rh olxzgvw mvcg gl gsv Yzb lu Zivmaglkrz zg gsv hlfgsvzhg xlimvi lu gsv rhozmw. Gsv 50 nroorlm kvlkov lm gsv rhozmw vmqlb z kovmgrufo vxlmlnb lu $5 giroorlm zmw olgh lu yvzfgrufo xrgrvh. Gsv nzqli xrgrvh ziv Arenztopia City, Olb City, Noi City, Austerfeild, Arville, Shersville, New Athens, New Austin, Sitin, Shreet, New Rome, zmw New Paris. Hbnyloh lu Zivmaglkrz rmxofwv z slihv (gsv mzgrlmzo zmrnzo) zmw rxv xivzn, dsrxs rh gsv mzgrlmzo ullw. Gsv kvlkov hkvzp Arenzese, English, zmw Spanish. Nlfmg Zivmaglkrz rh gsv srtsvhg hklg, zg zm zhglfmwrmt 20,100 uvvg. Lm gsv xlmgizib, gsv oldvhg klrmg rh rm gsv Zivmaglkrzm Wvhvig zg 200 uvvg yvold hvz ovevo. Gsv xlfmgib'h nlggl rh Dv Olev Yllph. Gsv xfiivmxb lu Zivmaglkrz rh xzoovw gsv Arenzo. Lmv Arenzo rh vjfzo gl 50 xvmgh USD. Zoo hglivh droo zxxvkg rg, zmw nlhg kvlkov fhv rg. Rg rh fmrjfv rm gszg rg rh xlnkovgvob wrtrgzo-ml kzkvi yrooh li xlrmh rmeloevw.
+
+Sviv'h z [uivv Arenzese gizmhozgli] (https://www.theproblemsite.com/reference/mathematics/codes/backwards-alphabet-code). Blf gbkv Vmtorhs rmgl gsv ylc, kivhh "encode", zmw rg'oo gizmhozgv rmgl Arenzese.   
 
 Arenztopia rh slnv gl nzmb xrgrvh. Arenztopia City rh gsv ozitvhg, zg mvziob 2 nroorlm kvlkov rm klkfozgrlm, zmw gsviv ziv nzmb hvnr-zfglmlnlfh xrgb-hgzgvh drgsrm Arenztopia, rmxofwrmt Hasiania, Chasiania, Rohadden, Iremdor, zmw Aradakon, dsrxs ziv gzc-uivv vmgrgrvh gszg xlnkvgv rm Arenztopian hkligrmt zxgrergrvh. Gsvb ziv zivzh gszg wrw mlg ztivv gl gsv 2020 Znvirxzm Givzgb zmw hl yvxznv gsvri ldm hvnr-zfglmlnlfh vmgrgrvh. Gsv hnzoovhg xrgb rh Cuyanting, drgs z klkfozgrlm lu qfhg 2,500 kvlkov.   
 
@@ -94,10 +97,6 @@ Oldvhg gvnkvizgfiv ivxliwvw: -16°X (16.8°U)
 Rm zm zggvnkg gl yv nliv gizmhkzivmg, dv'iv rmxofwrmt z xsvxporhg sviv uli dszg fkwzgvh droo (slkvufoob) yv nzwv gl gsv dvyhrgv gsrh dvvp.
 
 - [x] Kfyorhs gsv uivv Zivmavhv gizmhozgrlm gllo.
-- [x] Gvhg lfg vnlqrh: :lxglxzg: :ilxpvg: :gzwz: :hkzipovh: :+1: :100: :hnrovb_xzg:
+- [x] Gvhg lfg vnlqrh: :octocat: :rocket: :tada: :sparkles: :+1: :100: :smiley_cat:
 - [ ] Urmrhs Rhhfv 10 lu gsv mvdh
-- [ ] Zww nliv kvlkov gl gsv kvlkov hvxgrlm
-
-
-
-
+- [ ] Zww nliv kvlkov gl gsv "people" hvxgrlm
