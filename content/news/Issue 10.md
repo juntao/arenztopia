@@ -39,10 +39,15 @@ by Owen Miyazoi
 
 (article)
 
-## (article title)
+## Lorenzo gives a speech
 by Sam-Louis Alrocaet
 
-(article)
+On Monday, the King, Lorenzo Avila, gave a speech. It was aired on ATV and ANN. The speech adressed the coronavirus and many of the issues in the economy. Here's a quote:
+
+> We will persevere through these difficulties
+> with the help of the populace, and after we
+> solve these problems, we will thrive like never
+> before.
 
 ## Feature: (person name)
 By Tony Yuan
