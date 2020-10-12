@@ -45,9 +45,11 @@ by Sam-Louis Alrocaet
 On Monday, the King, Lorenzo Avila, gave a speech. It was aired on ATV and ANN. The speech adressed the coronavirus and many of the issues in the economy. Here's a quote:
 
 > We will persevere through these difficulties
-> with the help of the populace, and after we
-> solve these problems, we will thrive like never
-> before.
+> with the help of the populace, and in order to
+> make a faster recovery, we need to stay safe and
+> follow rules. Also, after we deal with this
+> extraordinary time, we will be better at dealing
+> with pandemics in the future.
 
 ## Feature: (person name)
 By Tony Yuan
