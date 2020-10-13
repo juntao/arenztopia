@@ -14,7 +14,7 @@ October 11-October 17, 2020
 ## Factory Explodes In Olb City Outskirts
 by Tony Yuan
 
-West Lane Textile Factory-On Tuesday
+West Lane Textile Factory-On Tuesday, a textile factory operated by the company West Lane exploded in the industrial area in the outskirts of Olb City. Five people were killed and twenty people were injured. The factory was a historically designated building built in 1922 out of brick for the oil baron Sandon Donnasen.
 
 ## Arts
 by Renzo Avila
