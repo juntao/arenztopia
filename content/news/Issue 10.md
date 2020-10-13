@@ -7,17 +7,14 @@ weight: 10
 ---
 
 
-# {this has to be finished by the 17th so no rush}
-
-
 # The Olb City Announcer
 Volume 1, Issue 10  
 October 11-October 17, 2020
 
-## 
+## Factory Explodes In Olb City Outskirts
 by Tony Yuan
 
-(article setting)-(article)
+West Lane Textile Factory-On Tuesday
 
 ## Arts
 by Renzo Avila
