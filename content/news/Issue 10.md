@@ -14,7 +14,7 @@ weight: 10
 Volume 1, Issue 10  
 October 11-October 17, 2020
 
-## (article title)
+## 
 by Tony Yuan
 
 (article setting)-(article)
@@ -33,6 +33,11 @@ by Sam-Louis Alrocaet
 by Mezoir Logan
 
 (article)
+
+## King Stung by Scorpion
+by Sam-Louis Alrocaet
+
+On Monday, the King, Lorenzo Avila, was stung three times while visiting a relative's house. The scorpion attacked unprovoked and Lorenzo was able to get it to stop stinging, but suffered a scar on the side of his chest. The scorpion escaped and is still on the loose. The ACPD is suspecting an assassination plot.
 
 ## Coronavirus Report
 by Owen Miyazoi
