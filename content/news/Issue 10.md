@@ -21,7 +21,7 @@ West Lane Textile Factory-On Tuesday, a textile factory operated by the company 
 ## Arts
 by Renzo Avila
 
-(article)
+The
 
 ## Sports
 by Sam-Louis Alrocaet
