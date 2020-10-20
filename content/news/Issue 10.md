@@ -14,24 +14,24 @@ October 11-October 17, 2020
 ## Factory Explodes In Olb City Outskirts
 by Tony Yuan
 
-West Lane Textile Factory-On Tuesday, a textile factory operated by the company West Lane exploded in the industrial area in the outskirts of Olb City. Five people were killed and twenty people were injured. The factory was a historically designated building built in 1922 out of brick for the oil baron Sandon Donnasen. The factory had exploded previously in 1944, when a bomb dropped on it. Here's the picture of the aftermath of the first explosion: 
+West Lane Textile Factory-On Friday, a textile factory operated by the company West Lane exploded in the industrial area in the outskirts of Olb City. Five people were killed and twenty people were injured. The factory was a historically designated building built in 1922 out of brick for the oil baron Sandon Donnasen. The factory had exploded previously in 1944, when a bomb dropped on it. Here's the picture of the aftermath of the 1944 explosion:
 
 ![Factory Explosion Aftermath](https://img.huffingtonpost.com/asset/5ba2a8d33c000066000aed38.jpeg?ops=scalefit_630_noupscale)
 
 ## Arts
 by Renzo Avila
 
-The
+The OCAM announced a new exhibit on tuesday on the OCAM.org website. Called the The Experience, the new exhibit turns the OCAM’s most prominent works and turns them into themed worlds that you can explore.
 
 ## Sports
 by Sam-Louis Alrocaet
 
-(article)
+The Arenztopian National Gaming Team, which is the official esports team of Arenztopia, played the popular video game Among Us on monday. The game was streamed on Twitch, Instagram, Youtube, and other social media sites.
 
 ## Weather
 by Mezoir Logan
 
-(article)
+Next week should be mild, but cooler, as temperatures drop to around 12 degrees.
 
 ## King Stung by Scorpion
 by Sam-Louis Alrocaet
@@ -41,12 +41,12 @@ On Monday, the King, Lorenzo Avila, was stung three times while visiting a relat
 ## Coronavirus Report
 by Owen Miyazoi
 
-(article)
+Cases declined drastically to just above 950; deaths are still hovering around 100. Safety measures were relaxed a little, allowing restaurants to have 75% capacity instead of 50%, but Lorenzo says that he will not eliminate restrictions entirely until cases have dropped to 50 or under.
 
 ## Lorenzo gives a speech
 by Sam-Louis Alrocaet
 
-On Monday, the King, Lorenzo Avila, gave a speech. It was aired on ATV and ANN. The speech adressed the coronavirus and many of the issues in the economy. Here's a quote:
+On Monday, the King, Lorenzo Avila, gave a speech. It was aired on ATV and ANN. The speech addressed the coronavirus and many of the issues in the economy. Here's a quote:
 
 > We will persevere through these difficulties
 > with the help of the populace, and in order to
@@ -55,17 +55,38 @@ On Monday, the King, Lorenzo Avila, gave a speech. It was aired on ATV and ANN. 
 > extraordinary time, we will be better at dealing
 > with pandemics in the future.
 
-## Feature: (person name)
+## Feature: Andrew McSakins
 By Tony Yuan
 
-(article)
+We interviewed Andrew McSakins, who discovered a new cluster of galaxies using the High-powered Ionoscopic Observatory (HIO), a high-tech Arenztopian space observatory.
+
+Olb City Announcer: So how, basically, did you find these galaxies?
+
+AS: I was looking at pictures from HIO and saw this abnormal cluster of light that wasn’t there in any of the other pictures, and I showed this to my boss and he went like, “Yep, some new galaxies,” you know? And I was so excited.
+
+OCA: What traits help you identify the galaxies?
+
+AS: So, well, there’s the physical light from the galaxies, and there’s also the gravitational disruption caused by the galaxies, which, you know, there’s all those stars, so the gravitational signature is kind of like, you know, bumpy, if you know what I mean.
+
+OCA: What are the potential implications of your discovery?
+
+AS: Obviously it means that HIO is, like, viable for galaxy-discovering, you know? But additionally, maybe there’s, like, alien life on one of the planets in there, it’s all very exciting.
+
+OCA: Ok! Well, that’s pretty much all! Thanks for letting us interview you!
+
+AS: Thanks! I hope I get to come back on here someday.
+
+This interview was edited for length and clarity.
 
 ## Poetry
 by Tony Yuan
 
-(article)
+One virus    
+Causing so much fear    
+Fear;    
+That is justified.    
 
 ## Obituary
 by Owen Miyazoi
 
-(article)
+On Thursday, Albert Connidas, the famous gangster, died in prison at the age of 67. Mr. Connidas was a feared figure in the alleys of Natania City during the late 1980s and early 1990s.
