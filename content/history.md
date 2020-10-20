@@ -73,7 +73,7 @@ This is all the pictures of some Official Arenztopian Documents.
 
 ## Museum Exhibit 2: List
 
-This is the unabridged list of all the items in the Arenztopia Folder, a big blue folder that serves as a repository for almost every paper document ever in the history of Arenztopia. This list represents an unprecedented attempt to catalog Arenztopian history.
+This is the unabridged list of all the items in the Arenztopia Folder, a big blue folder that serves as a repository for almost every paper document ever in the history of Arenztopia. In all, this list contains 90 objects, all important and integral to the establishment of Arenztopia as we know it today. This list represents an unprecedented attempt to catalog Arenztopian history.
 
 
 Key:
