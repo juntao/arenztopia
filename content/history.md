@@ -34,7 +34,7 @@ In 1935, Arenztopia was formally annexed to the United States of America in the 
 # History part 4: Modern Arenztopia
 
 
-After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a king. You can read more about modern Arenztopia in the other parts of this website.
+After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a king. In March, the War of Chickentopia occured, when Arenztopia warred against the chaos organization known as Chickentopia. You can read more about modern Arenztopia in the other parts of this website.
 
 # Timeline
 
@@ -56,3 +56,127 @@ After signing a treaty with the USA in 2020 allowing it to have independence, th
 1935: Arenztopia is annexed into the USA.
 
 2020: Arenztopia becomes an independent country.
+
+
+-----
+# History Section II: The Museum
+
+This is the museum, where you can see some of the official Arenztopian documents. It also includes a full list of everything in the Arenztopia Folder, a folder containing all the paper documents of Arenztopia, and many, many things from the founding of Arenztopia.
+
+
+## Museum Exhibit 1: Gallery
+
+This is all the pictures of some Official Arenztopian Documents.
+
+{i need to make higher quality pics}
+
+
+## Museum Exhibit 2: List
+
+This is the unabridged list of all the items in the Arenztopia Folder, a big blue folder that serves as a repository for almost every paper document ever in the history of Arenztopia. This list represents an unprecedented attempt to catalog Arenztopian history.
+
+
+Key:
+(IT) = Informational Text (writing)
+(O) = Old stuff (stuff that we dont need anymore)
+(WiP) = Work in Progress (unfinished)
+(2P) = two pages taped together
+[thing] / [thing on back of page]
+[thing]+[other thing on the same page]
+
+## Left pocket (government things):
+Arenztopia official map / History of Arenztopia (IT)
+Arenztopia topographical map
+Arenztopia highway map
+Arenztopia full coat of arms
+City coat of arms
+Arenztopian cities
+Arenzese translation guide
+Arenztopia info sheet
+The Arenztopian Island (IT)
+Arenztopian Flag
+Arenzese translation guide (O)
+Top Secret Document (O)
+Top Secret Document (O)
+Job Sheet (O)
+Crown of the King / Crown explanation (IT)
+Incan temple complex diagram (2P) / Arenztopian Incan jewels (2P) (IT)
+Aircraft illustration (O) / Death Squadron Elite division thingy (IT)
+The King's great military affairs hall facade drawing / The King's great reception hall floor plan+king's throne diagram
+Forbidden Halls of Arenztopia drawing
+King Renzo's Meeting Schedule (O)
+Blank sheet of paper
+Suhan L. Release Form (O)
+Allies signature sheet (O)
+Do Not Let These People In!: Suhan, Luke, and Jake (O)
+Check for 1 trillion Arenzos: Paid from Renzo to Suhan (O)
+New Arenztopian Constitution (WiP)
+New Arenztopian Constitution 2nd page (WiP)
+Old Arenztopian Constitution (O) / Old Facts (O)
+Arenzese Translation Guide, Tony edition (WiP) (2P)
+Original Arenzese Translation Guide (O)
+List of National Parks (O)
+Arenztopian National Park Service logo
+Old Arenztopian Facts (O) / Arenztopia Founders+Welcome to Arenztopia Sign (WiP) (O)
+An old drawing of an Arenztopian Villa (WiP)
+The Hall of Splendorous Grandour / The King's Guard
+
+## Notebook paper in the middle:
+title page: Arenztopia Official Government Documents
+Arenzish Sign Language / Arenzish Sign Language cont.+timeline (O)
+Map of Arenztopia City
+Arenztopia Train Station+Arenztopia Train Station description
+Mrs. Young Day is March 9th
+Clint Lee Memorial Day
+Budget Sheet: Suhan Edition+stuff that Suhan wants (O)
+Arenztopia Coat of Arms Rough Draft
+Government Warning: James M. is a Spy! (O)
+Jobs (O)
+Arenztopia Government Balance Sheet
+Tax Checklist (WiP)
+Arenztopia Citizen Register (O)
+Note: Yeet Language Precursor: Alejandro Version (O)
+Store Notes: Sam's Pokemon Store
+Meeting Summary Government Crisis Form (O)
+Arenztopia Governmental Meeting Register (WiP)
+Political Structure
+List of Bureaus
+List of National Parks
+
+## Right Pocket (non-government things):
+Dripping Cone Logo
+Dripping Cone 100 Years (O)
+Olb City Art Museum drawing
+Arenztopia City Hall drawing
+Tony's University Diploma
+Olb City Announcer Issue 5 Page 1-2
+Olb City Announcer Issue 5 Page 3-4
+Olb City Announcer Issue 4 Page 1-2
+Olb City Announcer Issue 4 Page 3-4
+Olb City Announcer Issue 3 Page 1-2
+Olb City Announcer Issue 3 Page 3-4
+Olb City Announcer Issue 2 Page 1-2
+Olb City Announcer Issue 2 Page 3-4
+Olb City Announcer Issue 2 Page 5-6
+Olb City Announcer Issue 1 Page 1-2
+Olb City Announcer Issue 1 Page 3-4
+Arenztopiarus Genus Page 1
+Arenztopiarus Genus Page 2
+Arenztopiarus Genus Page 3
+Map of Soa
+Olb City Announcer To-do (O)
+GD & Co advert
+Incan Decorative Helmet drawing / Incan dagger drawing
+Arenztopai Beach Palace drawing / Title of Drawing+Stats about the palace
+GD & Co flagship and headquarters drawing
+Arenztopia Financial Center drawing (O)
+Arenzese Translation Guide (O)
+Unknown Arenztopia Palace floor plans
+Arenzese Coca-Cola advert
+Arenztopian Incan Temple drawing
+The Presidential Limousine drawing
+Arenztopia Mountain drawing (O)
+Battle Plan: War of Chickentopia (O)
+Battle Plan: War of Chickentopia 2 (O)
+Arenztopia government diagram (O)
+Confidential: For the King's eyes only (O)
