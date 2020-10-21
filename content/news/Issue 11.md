@@ -29,7 +29,7 @@ The OCAM's new exhibit, The Experience, garnered over 40,000 views on its first 
 ## Update: West Lane Factory Explosion
 by Tony Yuan
 
-On Friday, the West Lane Textile Factory exploded. (See [Issue 10](https://www.arenztopia.com/news/issue-10/) Shortly after, on Monday, West Lane declared bankruptcy. The factory had been the source of nearly 45% of the company's total production, and sales fell by 50%, causing West Lane to declare bankruptcy.
+On Friday, the West Lane Textile Factory exploded. (See [Issue 10](https://www.arenztopia.com/news/issue-10/)) Shortly after, on Monday, West Lane declared bankruptcy. The factory had been the source of nearly 45% of the company's total production, and sales fell by 50%, causing West Lane to declare bankruptcy.
 
 ## Coronavirus Report
 by Owen Miyazoi
