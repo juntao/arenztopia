@@ -19,7 +19,7 @@ Servan Wayazoya, the Manager of Health in Olb City, was arrested and fired on Tu
 ## Sports
 by Sam-Louis Alrocaet
 
-After last week's ultra-popular Among Us stream, (See [Issue 10](https://www.arenztopia.com/news/issue-10/)the Arenztopian National Gaming Team cited similar successes and announced an informal Among Us match with esports teams from Brazil, the United States, Japan, France, and many other esports teams on Thursday. The match nearly broke a record on Twitch, acheiving over 595,000 viewers. The match was also aired on Instagram Live, acheiving a similar viewer count, Facebook, where it garnered 630,000 viewers, and Youtube, where it soared with over 800,000 veiwers at its highest. The matches were sponsered by Innersloth, the company that developed Among Us.
+After last week's ultra-popular Among Us stream, (See [Issue 10](https://www.arenztopia.com/news/issue-10/)) the Arenztopian National Gaming Team cited similar successes and announced an informal Among Us match with esports teams from Brazil, the United States, Japan, France, and many other esports teams on Thursday. The match nearly broke a record on Twitch, acheiving over 595,000 viewers. The match was also aired on Instagram Live, acheiving a similar viewer count, Facebook, where it garnered 630,000 viewers, and Youtube, where it soared with over 800,000 veiwers at its highest. The matches were sponsered by Innersloth, the company that developed Among Us.
 
 ## Arts
 by Owen Miyazoi
