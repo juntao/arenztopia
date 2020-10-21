@@ -18,6 +18,8 @@ West Lane Textile Factory-On Friday, a textile factory operated by the company W
 
 ![Factory Explosion Aftermath](https://img.huffingtonpost.com/asset/5ba2a8d33c000066000aed38.jpeg?ops=scalefit_630_noupscale)
 
+West Lane issued an official apology to the families of the workers who were killed. The factory was one of West Lane's biggest manufacturing centers in Arenztopia, and West Lane is now looking for a new property to build the factory. "We mourn the loss of everybody who lost their lives because of this unfortunate accident, and we will persevere through these unfortunate events.", a West Lane spokesperson said.
+
 ## Arts
 by Renzo Avila
 
