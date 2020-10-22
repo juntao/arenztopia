@@ -27,7 +27,6 @@ The OCAM announced a new exhibit on tuesday on the OCAM.org website. Called the 
 
 ## Sports
 by Sam-Louis Alrocaet
-
 The Arenztopian National Gaming Team, which is the official esports team of Arenztopia, played the popular video game Among Us on monday. The game was streamed on Twitch, Instagram, Youtube, and other social media sites.
 
 ## Weather
@@ -92,3 +91,14 @@ That is justified.
 by Owen Miyazoi
 
 On Thursday, Albert Connidas, the famous gangster, died in prison at the age of 67. Mr. Connidas was a feared figure in the alleys of Natania City during the late 1980s and early 1990s.
+
+
+Arenzish:
+Uzxglib Vckolwvh Rm Loy Xrgb Lfghprigh
+yb Glmb Bfzm
+
+Dvhg Ozmv Gvcgrov Uzxglib-Lm Uirwzb, z gvcgrov uzxglib lkvizgvw yb gsv xlnkzmb Dvhg Ozmv vckolwvw rm gsv rmwfhgirzo zivz rm gsv lfghprigh lu Loy Xrgb. Urev kvlkov dviv proovw zmw gdvmgb kvlkov dviv rmqfivw. Gsv uzxglib dzh z srhglirxzoob wvhrtmzgvw yfrowrmt yfrog rm 1922 lfg lu yirxp uli gsv lro yzilm Hzmwlm Wlmmzhvm. Gsv uzxglib szw vckolwvw kiverlfhob rm 1944, dsvm z ylny wilkkvw lm rg. Sviv'h gsv krxgfiv lu gsv zugvinzgs lu gsv 1944 vckolhrlm:
+
+Uzxglib Vckolhrlm Zugvinzgs
+
+Dvhg Ozmv rhhfvw zm luurxrzo zkloltb gl gsv uznrorvh lu gsv dlipvih dsl dviv proovw. Gsv uzxglib dzh lmv lu Dvhg Ozmv'h yrttvhg nzmfuzxgfirmt xvmgvih rm Zivmaglkrz, zmw Dvhg Ozmv rh mld ollprmt uli z mvd kilkvigb gl yfrow gsv uzxglib. "Dv nlfim gsv olhh lu vevibylwb dsl olhg gsvri orevh yvxzfhv lu gsrh fmuligfmzgv zxxrwvmg, zmw dv droo kvihveviv gsilfts gsvhv fmuligfmzgv vevmgh.", z Dvhg Ozmv hklpvhkvihlm hzrw.
