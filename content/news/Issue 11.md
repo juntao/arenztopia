@@ -39,18 +39,32 @@ Cases are continuing to decline, with the case count pegged at 900. Deaths are d
 ## Feature: Terrayn Consan
 by Tony Yuan
 
-We interviewed Terrayn Consan, the manager of Qwarn, a social-media site, and the first transgender buiseness owner in Olb City.
+We interviewed Terrayn Consan, the CEO of Qwarn, a social-media site, and the first transgender CEO in Olb City.
 
 Olb City Announcer: How did you get this job?
 
-Terrayn Consan: 
+Terrayn Consan: So Qwarn, as you may know, is an extremely progressive sort of company. So they said "Well, for our next CEO, let's get a transgender person!" and they saw me, who had a social work degree, and they were like, "Let's hire them!" and so they hired me.
 
-## (article)
+OCA: What major policies have you implemented at Qwarn?
+
+TC: I banned any type of conspiracy theory beck in 2017, and I made Qwarn the first company in the Old Region to have an all-minority board, plus a bunch of other stuff.
+
+OCA: What are the implications of you having this post?
+
+TC: I've seen many other transgender people become CEOs since I was hired, and I get multiple phone calls per year from people who are thanking me for inspiring them to start their own buisenesses.
+
+OCA: Well, that's all for today! Thanks for coming!
+
+TC: Thanks for inviting me!
+
+This interview was edited for length and clarity.
+
+## Derna Sendaq Publishes New Book
 by Sam-Louis Alrocaet
 
-(article)
+The famous Olb City writer, Derna Sendaq, published a new book on Wednesday. Titled "The Debacle of Death", it is a horror/romance book.
 
-## (article)
+## 
 By Owen Miyazoi
 
 (article)
@@ -58,13 +72,9 @@ By Owen Miyazoi
 ## Poetry
 by Tony Yuan
 
-Coronavirus    
-Orderly days; proceeding in unison    
-Vaccine    
-In the house, trapped    
-Death    
+(article)
 
 ## Obituary
 by Owen Miyazoi
 
-On Tuesday, Dr. Sayon Ferguson, an influential surgeon, died of natural causes in his sleep. He was 76 years old. Dr. Ferguson pioneered many novel practices in his years as a surgeon. To show sympathy, call Mrs. Ferguson at 680-223-3329.
+(article)
