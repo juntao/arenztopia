@@ -36,10 +36,14 @@ by Owen Miyazoi
 
 Cases are continuing to decline, with the case count pegged at 900. Deaths are decreasing drastically, with government sources saying 60 deaths.
 
-## Feature: (person)
+## Feature: Terrayn Consan
 by Tony Yuan
 
-(article)
+We interviewed Terrayn Consan, the manager of Qwarn, a social-media site, and the first transgender buiseness owner in Olb City.
+
+Olb City Announcer: How did you get this job?
+
+Terrayn Consan: 
 
 ## (article)
 by Sam-Louis Alrocaet
@@ -47,7 +51,7 @@ by Sam-Louis Alrocaet
 (article)
 
 ## (article)
-By Erhari Dessad, Assistant Domestic Ambassador of Iremdor
+By Owen Miyazoi
 
 (article)
 
