@@ -67,12 +67,12 @@ The famous Olb City writer, Derna Sendaq, published a new book on Wednesday. Tit
 ## Beloved Tree Moved
 By Owen Miyazoi
 
-A huge poplar tree, named "Kim", gained popularity last year after it was found to be the oldest tree in Olb City, clocking in at nearly 550 years old. On Tuesday, however, the tree was carefully uprooted and moved to a new spot at a special park. The action was made after repeated requests by environmental agencies pointing out that the tree was extremely close to the factory district of Olb City, and so the new park was located 50 miles away from the
+A huge poplar tree, named "Kim", gained popularity last year after it was found to be the oldest tree in Olb City, clocking in at nearly 550 years old. On Tuesday, however, the tree was carefully uprooted and moved to a new spot at a special park. The action was made after repeated requests by environmental agencies pointing out that the tree was extremely close to the factory district of Olb City, and so the new park was located 50 miles away from the factory district. The tree took two days to move and the park was officially opened in a virtual ribbon-cutting ceremony on Friday.
 
 ## Poetry
 by Tony Yuan
 
-(article)
+
 
 ## Obituary
 by Owen Miyazoi
