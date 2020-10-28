@@ -64,10 +64,10 @@ by Sam-Louis Alrocaet
 
 The famous Olb City writer, Derna Sendaq, published a new book on Wednesday. Titled "The Debacle of Death", it is a horror/romance book.
 
-## 
+## Beloved Tree Moved
 By Owen Miyazoi
 
-(article)
+A huge poplar tree, named "Kim", gained popularity last year after it was found to be the oldest tree in Olb City, clocking in at nearly 550 years old. On Tuesday, however, the tree was carefully uprooted and moved to a new spot at a special park. The action was made after repeated requests by environmental agencies pointing out that the tree was extremely close to the factory district of Olb City, and so the new park was located 50 miles away from the
 
 ## Poetry
 by Tony Yuan
