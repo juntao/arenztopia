@@ -72,9 +72,12 @@ A huge poplar tree, named "Kim", gained popularity last year after it was found 
 ## Poetry
 by Tony Yuan
 
-
+The pandemic rages
+Still
+But losing force.
 
 ## Obituary
 by Owen Miyazoi
 
-(article)
+Wilson Farrens, a famous hatmaker, died at the age of 102 due to COVID-19 on Wednesday. He was an influential figure in the world of hatmaking, having established the largest hatmaking company in Arenztopia, Farrens Hatmakers, in 1951. To show sympathy, call 680-302-9877.
+
