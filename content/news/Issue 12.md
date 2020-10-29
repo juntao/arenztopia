@@ -16,6 +16,12 @@ by Tony Yuan
 
 (article)
 
+---
+## Our Halloween Raffle!
+
+We are having a Halloween raffle! Take a screenshot of this page and email it to raffles@olbcityannouncer.com with the subject "Halloween raffle" to win a pumpkin, official OCA merchandise, an orange Macbook laptop, or a Dodge Charger in an orange-and-black color scheme. Entries are accepted until November 3rd. Limit 1 entry per person.
+---
+
 ## Sports
 by Sam-Louis Alrocaet
 
