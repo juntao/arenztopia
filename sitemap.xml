@@ -124,6 +124,10 @@
   </url>
   
   <url>
+    <loc>/news/issue-12/</loc>
+  </url>
+  
+  <url>
     <loc>/people/ethan-h/</loc>
   </url>
   
@@ -153,11 +157,6 @@
   <url>
     <loc>/people/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/issue-12/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
