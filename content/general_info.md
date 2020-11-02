@@ -48,7 +48,5 @@ Lowest temperature recorded: -16˚C (16.8˚F)
 
 In an attempt to be more transparent, we're including a checklist here for what updates will (hopefully) be made to the website this week.
 
-- [x] Publish the free Arenzese translation tool.
-- [x] Test out emojis: :octocat: :rocket: :tada: :sparkles: :+1: :100: :smiley_cat:
-- [ ] Finish Issue 10 of the news
-- [ ] Add more people to the people section
+- [x] Credit Renzo; resolve authorship issue
+- [ ] Finish Issue 12 of the news
