@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: false
 
 # THE ARENZTOPIAN ELECTIONS
 ## The 2020-2021 Arenztopian Elections are being held RIGHT NOW! Cast your vote TODAY for such important positions as Vice President and Senator.
-## Read this document for important voting information.
+## Read [this document](https://docs.google.com/document/d/e/2PACX-1vTfzeXcfyjm8i6Eqp0PGrXVm6KuAeUDdDcpe4R--Lf93lrdTl-RqqeUvk8CHXKFpqQ0pPmgTU1MRZ_s/pub) for important voting information.
 ## NOTE: Voting is only avaliable to Arenztopian Citizens.
 
 # Welcome to Arenztopia
