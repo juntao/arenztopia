@@ -5,11 +5,13 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: false
 ---
 
+----------
 # THE ARENZTOPIAN ELECTIONS: VOTE NOW!
 # [VOTE HERE!](https://docs.google.com/forms/d/e/1FAIpQLScw5cuwjcrW1CdwWcQIXAldPVjksigzs9m5U8HaWnqNXUprIw/viewform)
 ## The 2020-2021 Arenztopian Elections are being held RIGHT NOW! Cast your vote TODAY for such important positions as Vice President and Senator.
 ## Read [this document](https://docs.google.com/document/d/e/2PACX-1vTfzeXcfyjm8i6Eqp0PGrXVm6KuAeUDdDcpe4R--Lf93lrdTl-RqqeUvk8CHXKFpqQ0pPmgTU1MRZ_s/pub) for important voting information.
 ## NOTE: Voting is only avaliable to Arenztopian Citizens.
+----------
 
 # Welcome to Arenztopia
 
