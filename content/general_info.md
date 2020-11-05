@@ -14,6 +14,14 @@ Arenztopia is home to many cities. Arenztopia City is the largest, at nearly 2 m
 # Political Structure
 There is a king, who is voted into place, and who follows a constitution. The Vice President is also voted into place and will become the new interim king in wake of the king suddenly resigning or dying. There are also 3 judges in the Supreme Court, and three senators. The judges function much like the Supreme Court of the USA, handling high-level cases and approving laws. The senators propose laws and perform other executive duties. Finally, the Executive Branch, consisting of the King, the Vice President, and the advisors, organizes the political ecosystem and keeps things in order, as well as making top-level desicions and passing laws. There is also a House of Representatives, which contains one representative from every state and region. They represent the state's intentions and propose bills.
 
+There are two main parties: 
+
+The Ethics Party, which values ethics over science. For example, if killing an animal is necessary for an experiment, as long as the animal is not absolutely necessary to the experiment, an Ethics person will not kill it. However, Ethics people are not vegetarians, because they think that animals can be eaten.
+
+The Science Party, which values science over ethics 
+
+All independents are grouped into the Red Party.
+
 Laws are approved by this process: First, a group of citizens or a politician proposes a bill. If the bill is on a level lower than national, the citizens in the area that is affected by the bill vote on it. If it wins the vote, the leaders of the affected area review it again, then the bill is apporved and passed into law. If the bill affects the entire nation, it goes to the senate. The senators look at the bill and make sure that it is reasonable and can be implemented, and if the bill is passed, it goes to the Executive Branch. The King, the advisors, and the Vice President look over the bill and see if it improves the situation oof the country and if it fits the interests of the people. After that, the bill goes to the Judicial Branch, which are the judges, who make sure that it is constitutional, then they will officially pass the bill into law.
 
 # Political Alignment
