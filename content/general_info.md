@@ -18,7 +18,7 @@ There are two main parties:
 
 The Ethics Party, which values ethics over science. For example, if killing an animal is necessary for an experiment, as long as the animal is not absolutely necessary to the experiment, an Ethics person will not kill it. However, Ethics people are not vegetarians, because they think that animals can be eaten.
 
-The Science Party, which values science over ethics 
+The Science Party, which values science over ethics. A Science person will kill an animal even if it is not absolutely necessary to the experiment.
 
 All independents are grouped into the Red Party.
 
@@ -58,4 +58,4 @@ In an attempt to be more transparent, we're including a checklist here for what 
 
 - [x] Credit Renzo; resolve authorship issue
 - [ ] Finish Issue 12 of the news
-- [ ] 
+- [ ] Elections
