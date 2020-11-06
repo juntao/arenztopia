@@ -58,3 +58,4 @@ In an attempt to be more transparent, we're including a checklist here for what 
 
 - [x] Credit Renzo; resolve authorship issue
 - [ ] Finish Issue 12 of the news
+- [ ] 
