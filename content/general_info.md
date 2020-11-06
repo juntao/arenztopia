@@ -49,7 +49,7 @@ Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/
 National animal: Horse    
 National food: Ice Cream    
 Languages spoken: Arenzese, English, Spanish   
-Highest temperature recorded: 50˚C (122˚F)   
+Highest temperature recorded: 41˚C (105˚F)   
 Lowest temperature recorded: -16˚C (16.8˚F)    
 
 # This Week's Checklist: Beta Test
