@@ -29,6 +29,15 @@ Arenztopia is a military ally to the numerous city-states within it, and also to
 
 Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the terrorist group Milestopia.
 
+# Media
+The main media group in Arenztopia is the AMG, Arenztopia Media Group, which is an association that includes APR (Arenztopia Public Radio), ARB (Arenztopia Royal Broadcasting), ATV (Arenztopia TV), ATN (Arenztopia Television Network), and ANN (Arenztopia News Network)
+APR is the central radio station in Arenztopia. It has stations, such as QAXR and NRTX, in every city in Arenztopia.
+ARB is the main TV channel from which royal announcements and political news are broadcast.
+ATV is the main entertainment channel, showing mainly cartoons, TV movies, and comedy.
+ATN is one of the main news channels, mostly broadcasting Science Party news.
+Finally, ANN is the other main news channel, mostly broadcasting Ethics Party news.
+
+
 # Statistics
 Length across, lengthwise: 2,400 miles   
 Length across, width-wise: 1,600 miles   
