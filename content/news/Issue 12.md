@@ -18,8 +18,7 @@ October 25-October 31, 2020
 
 ---
 
-
-## (article)
+## 
 by Tony Yuan
 
 (article)
