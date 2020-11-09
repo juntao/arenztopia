@@ -20,6 +20,6 @@ Welcome to the great nation of Arenztopia. This website will tell you about our 
 
 [Click here to become a citizen of Arenztopia](https://forms.gle/qpPD6GfMb2dE3Y9P9)
 
-![The campaign posters for the Science and Ethics parties.](Pink and Orange Campaign Posters.jpg)
+![The campaign posters for the Science and Ethics parties.](pinkandorangecampaignposters.jpg)
 
 
