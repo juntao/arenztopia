@@ -20,8 +20,6 @@ Welcome to the great nation of Arenztopia. This website will tell you about our 
 
 [Click here to become a citizen of Arenztopia](https://forms.gle/qpPD6GfMb2dE3Y9P9)
 
-image: Pink and Orange Campaign Posters.jpg
-image_absolute: true # edit /assets/scss/components/_intro-image.scss for full control
-image_hide_on_mobile: false
+![The campaign posters for the Science and Ethics parties.](Pink and Orange Campaign Posters.jpg)
 
 
