@@ -7,6 +7,7 @@ intro_image_hide_on_mobile: false
 
 ----------
 # THE ARENZTOPIAN ELECTIONS: VOTE NOW!
+Email any questions o lokozoavila@gmail.com.
 # [VOTE HERE!](https://docs.google.com/forms/d/e/1FAIpQLScw5cuwjcrW1CdwWcQIXAldPVjksigzs9m5U8HaWnqNXUprIw/viewform)
 # [ELGV SVIV!](https://docs.google.com/forms/d/e/1FAIpQLSfXjF1wDB2S2BTGEgd3noxLTdGKfo5AF9O5esaGevlC0wprhQ/viewform)
 ## The 2020-2021 Arenztopian Elections are being held RIGHT NOW! Cast your vote TODAY for such important positions as Vice President and Senator.
