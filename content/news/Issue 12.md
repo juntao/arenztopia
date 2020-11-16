@@ -18,15 +18,20 @@ October 25-October 31, 2020
 
 ---
 
-## 
+## Stansberry Auctions
 by Tony Yuan
 
-(article)
+Olb City Convention Center-On Tuesday, the auction house Stansberry virtually auctioned off many items. One of the most expensive objects was a super-rare 1918 Arenz Motors Simile, which sold for over 300,000 Arenzos.
+
+![A typical Stansberry private auction.](https://www.esprit-de-france.com/sites/esprit-de-france.com/files/styles/article_header_943x420/public/article/ventes_aux_encheres_1_0.jpg?itok=Sm4_EGtW)
+A private estate auctioon held by Stansberry last year.
+
+Other items include a work by trending painter Ronald Gry, which sold for over 240,000 Arenzos, a Ming dynasty vase from China, which sold for over 200,000 Arenzos, and a sports car that sold for over 190,000 Arenzos and was once owned by Felipe González, who was the president of Spain from 1982 to 1996. Over 50,000 people were bidding at the auction's peak attendance, and the total amount of money collected was over 1,000,000 Arenzos. Stanberry says that it will hold more auctions over the coming weeks.
 
 ## Sports
 by Sam-Louis Alrocaet
 
-(article)
+On Wednesday, the official Arenztopian 
 
 ## Arts
 by Owen Miyazoi
