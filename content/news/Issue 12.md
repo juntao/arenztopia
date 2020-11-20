@@ -23,7 +23,7 @@ by Tony Yuan
 
 Olb City Convention Center-On Tuesday, the auction house Stansberry virtually auctioned off many items. One of the most expensive objects was a super-rare 1918 Arenz Motors Simile, which sold for over 300,000 Arenzos.
 
-![A typical Stansberry private auction.](https://www.esprit-de-france.com/sites/esprit-de-france.com/files/styles/article_header_943x420/public/article/ventes_aux_encheres_1_0.jpg?itok=Sm4_EGtW)
+![A typical Stansberry private auction.](https://www.esprit-de-france.com/sites/esprit-de-france.com/files/styles/article_header_943x420/public/article/ventes_aux_encheres_1_0.jpg?itok=Sm4_EGtW)    
 A private estate auction held by Stansberry last year.
 
 Other items include a work by trending painter Ronald Gry, which sold for over 240,000 Arenzos, a Ming dynasty vase from China, which sold for over 200,000 Arenzos, and a sports car that sold for over 190,000 Arenzos and was once owned by Felipe González, who was the president of Spain from 1982 to 1996. Over 50,000 people were bidding at the auction's peak attendance, and the total amount of money collected was over 1,000,000 Arenzos. Stanberry says that it will hold more auctions over the coming weeks.
@@ -43,14 +43,14 @@ by Tony Yuan
 
 The Political Politician is a news column that will run until New Year's Day, and it will cover the Arenztopian Elections.
 
-As campaigning starts up a little bit, Tony Yuan and Ellidy J. have announced their intentions to run for Vice President. They represent the Science and Ethics parties, respectively. They are both running against each other and against independent incumbent Kassie K. Both Tony and Ellidy are also running for Mayor.
+As campaigning starts up a little bit, Tony Yuan and Ellidy J. have announced their intentions to run for Vice President. They represent the Science and Ethics parties, respectively. They are both running against each other and against independent incumbent Kassie K. Both Tony and Ellidy are also running for Mayor. James O. is expected to officially announce his intention for running for Senator next week.
 
 ## Coronavirus Report
 by Owen Miyazoi
 
-(article)
+Cases and deaths are still declining, with 867 confirmed cases and 53 deaths. The Arenztopian Officer of Health, Johannes Peterson, asked to have 15,000 doses of the new, promising Pfizer COVID-19 vaccine, and the doses are supposed to be delivered in early January 2021.
 
-## Feature: (person)
+## Feature: 
 by Tony Yuan
 
 (article)
