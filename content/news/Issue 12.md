@@ -24,24 +24,26 @@ by Tony Yuan
 Olb City Convention Center-On Tuesday, the auction house Stansberry virtually auctioned off many items. One of the most expensive objects was a super-rare 1918 Arenz Motors Simile, which sold for over 300,000 Arenzos.
 
 ![A typical Stansberry private auction.](https://www.esprit-de-france.com/sites/esprit-de-france.com/files/styles/article_header_943x420/public/article/ventes_aux_encheres_1_0.jpg?itok=Sm4_EGtW)
-A private estate auctioon held by Stansberry last year.
+A private estate auction held by Stansberry last year.
 
 Other items include a work by trending painter Ronald Gry, which sold for over 240,000 Arenzos, a Ming dynasty vase from China, which sold for over 200,000 Arenzos, and a sports car that sold for over 190,000 Arenzos and was once owned by Felipe González, who was the president of Spain from 1982 to 1996. Over 50,000 people were bidding at the auction's peak attendance, and the total amount of money collected was over 1,000,000 Arenzos. Stanberry says that it will hold more auctions over the coming weeks.
 
 ## Sports
 by Sam-Louis Alrocaet
 
-On Wednesday, the official Arenztopian 
+On Wednesday, the Natania City Rockets went against the Canopian Pirahnas in the first match of the Arenztopian Hockey Season. THe Natania City Rockets won 14-12, and the next match will be on December 5th against the Arville Pythons.
 
 ## Arts
 by Owen Miyazoi
 
-(article)
+Trending painter Ronald Gry produced another painting on Tuesday. Titled "RRR", which stands for Reuse, Repurpose, Recycle, it depicts a brilliant landscape made using paint that is made of recycled water bottles. It emphasizes the importance of recycling or reusing objects tht could otherwise become harmful pollutants in landfills.
 
-## (article)
+## The Political Politician: the weekly politics column
 by Tony Yuan
 
-(article)
+The Political Politician is a news column that will run until New Year's Day, and it will cover the Arenztopian Elections.
+
+As campaigning starts up a little bit, Tony Yuan and Ellidy J. have announced their intentions to run for Vice President. They represent the Science and Ethics parties, respectively. They are both running against each other and against independent incumbent Kassie K. Both Tony and Ellidy are also running for Mayor.
 
 ## Coronavirus Report
 by Owen Miyazoi
