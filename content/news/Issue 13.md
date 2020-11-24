@@ -24,7 +24,7 @@ October 25-October 31, 2020
 ## Movie Announcments!
 by Renzo Avila
 
-Welcome to our new column! We will give 5 ideas for trending movies in Arenztopia. Here are the top 5 movies during thankgiving week!
+Welcome to our new column! We will give 5 ideas for trending movies in Arenztopia. Here are the top 5 movies during Thanksgiving week!
 
 - Elf (2003)
 - A Charlie Brown Thanksgiving (1973)
@@ -42,7 +42,7 @@ Sports have been shut down by the Arenztopian Government due to an outbreak of c
 ## Arts
 by Renzo Avila
 
-A famous piece was sold at the auction recently, The Dv ziv uivv (We are Free.), or Mad in the time of the Arenztopian Revolution. It sold for about 23,000 Arenzos to an anonymous buyer.
+A famous piece was sold at the auction recently, The Dv ziv uivv (We are Free.), or Mad in the Time of the Arenztopian Revolution. It sold for about 23,000 Arenzos to an anonymous buyer.
 
 ## The Political Politician: the weekly politics column
 by Renzo Avila
