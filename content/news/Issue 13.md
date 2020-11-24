@@ -9,7 +9,7 @@ weight: 12
 
 # The Olb City Announcer
 Volume 1, Issue 13 
-October 25-October 31, 2020
+November 1-November 7, 2020
 
 # SPECIAL EDITION:
 ## This week's news is written entirely by Renzo Avila.
@@ -66,9 +66,9 @@ By Renzo Avila
 They have made a decision. Arenztopia winter will now start on November 20th. There were many people who did not wish Winter only to start 4 days before Xmas.
 
 ## Obituary
-by Owen Miyazoi
+by Renzo Avila
 
-Jacob Parmesan, a famous leader who helped Arenztopia build Hpb Srts a famous tower in AR. desert. Please email RememberJacob@gmail.com to send well wishes to his family.
+Jacob Parmesan, a famous leader who helped Arenztopia build Hpb Srts a famous tower in Arenztopia Desert. Please email RememberJacob@gmail.com to send well wishes to his family.
 
 
 
