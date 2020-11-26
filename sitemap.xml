@@ -144,6 +144,10 @@
   </url>
   
   <url>
+    <loc>/news/issue-14/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-09-23T01:22:56+19:00</lastmod>
   </url>
@@ -160,11 +164,6 @@
   
   <url>
     <loc>/2021-arenztopian-elections/timeline/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/news/issue-14/</loc>
     <priority>0</priority>
   </url>
   
