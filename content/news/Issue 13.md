@@ -41,7 +41,7 @@ The 2020-2021 Arenztopian Elections were kicked off on Monday. All three Senaato
 ## Coronavirus Report
 by Owen Miyazoi
 
-Cases are still falling, with a total of 843 cases according to government sources. However, deaths rose a little, with 55 deaths.
+Cases are still falling, with a total of 843 cases according to government sources. However, deaths rose a little, with 55 deaths. The Arenztopian Officer of Health, Johannes Peterson, hinted that he would relax restrictions sometime in December.
 
 ## Feature: Joe Biden
 by Tony Yuan
