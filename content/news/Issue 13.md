@@ -14,16 +14,24 @@ November 1-November 7, 2020
 ## Arenztopian Elections Kickoff
 by Tony Yuan
 
-On Monday, the 2020-2021 Arenztopian Elections were kicked off. Tony Yuan (S) and Ellidy J. (E) are both competing against incumbent Kassie K. (R) for the Vice President position. 
-## Sports
-by Renzo Avila
+On Monday, the 2020-2021 Arenztopian Elections were kicked off; many campaign signs have already benn spotted all over Arenztopia. Tony Yuan (S) and Ellidy J. (E) are both competing against incumbent Kassie K. (R) for the Vice President position. James O. announced on Friday that he was running for Senator. Tony Yuan and Ellidy are also both cometing for the Mayor position. Suhan L., the conflicted former prime minister, has announced his intentions to "run in the elections" but he has not made clear what position he is running for. Michael A., a new arival to the Arenztopian political scene and the former Dean of Economics at Shreet University, has also announced his intentions for running in the election. He, too, has not revealed what position he is running for.
 
-Sports have been shut down by the Arenztopian Government due to an outbreak of covid within the sports department. Sorry, sports fans!
+## Sports
+by Sam-Louis Alrocaet
+
+The coach of the New Rome Bulldogs, New Rome's soccer team, tested positive for COVID-19 on Monday. His name is Calvin Hedmerr and he is from the city-state of Aradakon, a notoriously far-right area in the Coast Region. Doctors say that he is in "Critical condition" and he was put into the ICU on Wednesday.
 
 ## Arts
-by Renzo Avila
+by Owen Miyazoi
 
 A famous piece was sold at the auction recently, The Dv ziv uivv (We are Free.), or Mad in the Time of the Arenztopian Revolution. It sold for about 23,000 Arenzos to an anonymous buyer.
+
+## Weather
+by Mezoir Logan
+
+NOTE: The Weather section has not benn published for several weeks because Mr. Logan caught the coronavirus. He is better now and will continue writing the Weather column.
+
+Next Monday should be a very cold 5 degrees celsius, with temperatures rising up to the lower 10s by next Wednesday. Temperatures should be back to 5 degrees on Saturday.
 
 ## The Political Politician: the weekly politics column
 by Renzo Avila
