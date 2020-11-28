@@ -8,7 +8,7 @@ weight: 12
 
 
 # The Olb City Announcer
-Volume 1, Issue 12  
+Volume 2, Issue 2  
 October 25-October 31, 2020
 
 ---
