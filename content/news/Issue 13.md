@@ -14,7 +14,7 @@ November 1-November 7, 2020
 ## Arenztopian Elections Kickoff
 by Tony Yuan
 
-On Monday, the 2020-2021 Arenztopian Elections were kicked off; many campaign signs have already benn spotted all over Arenztopia. Tony Yuan (S) and Ellidy J. (E) are both competing against incumbent Kassie K. (R) for the Vice President position. James O. announced on Friday that he was running for Senator. Tony Yuan and Ellidy are also both cometing for the Mayor position. Claire P., the advisor incumbent, is currently running for a third term as advisor and does not have any competition yet. Suhan L., the conflicted former prime minister, has announced his intentions to "run in the elections" but he has not made clear what position he is running for. Michael A., a new arival to the Arenztopian political scene and the former Dean of Economics at Shreet University, has also announced his intentions for running in the election. He, too, has not revealed what position he is running for.
+On Monday, the 2020-2021 Arenztopian Elections were kicked off; many campaign signs have already benn spotted all over Arenztopia. Tony Yuan (S) and Ellidy J. (E) are both competing against incumbent Kassie K. (R) for the Vice President position. James O. announced on Friday that he was running for Senator. Tony Yuan and Ellidy are also both cometing for the Mayor position. Claire P., the advisor incumbent, is currently running for a third term as advisor and does not have any competition yet. Michael A., a new arival to the Arenztopian political scene and the former Dean of Economics at Shreet University, has announced his intentions for running in the election. He has not revealed what position he is running for.
 
 ## Sports
 by Sam-Louis Alrocaet
@@ -24,7 +24,7 @@ The coach of the New Rome Bulldogs, New Rome's soccer team, tested positive for 
 ## Arts
 by Owen Miyazoi
 
-Famous and eccentric artist, jeweler, and fashion designer Vladmir Mons'czye announced a new fashion campaign called the FashionBag Foundation on Tuesday. The foundation hopes to raise awareness of child blindness by hiring models to put bags over their heads, and then going to fashion shows. "This, is the epitome, of fashion", Mr. Mons'czye said in his announcement. The movement has drawn acclaim from prominent fashion designers throughout Arenztopia, and has also drawn positive feedback from abroad.
+Famous and eccentric artist, jeweler, and fashion designer Vladmir Mons'czye announced a new fashion campaign called the FashionBag Foundation on Tuesday. The foundation hopes to raise awareness of child blindness by hiring models to put bags over their heads, and then going to fashion shows. "This, is the epitome, of fashion", Mr. Mons'czye said in his announcement. The movement has already drawn acclaim from prominent fashion designers throughout Arenztopia, and has also drawn positive feedback from abroad.
 
 ## Weather
 by Mezoir Logan
@@ -54,11 +54,13 @@ Christansen Redfield: I am an immigrant from Finland. I moved here back in the 1
 
 OCA: Well, so we all know your story. You were in the ICU for a month, on the brink of death. Then, within two days, you were up and running again. Could you elaborate on the beginning of tht story? I say the beginning because your story is probably gonna be pretty long.
 
-CR: Ok, so here it goes: I probably caught the coronavirus from a birthday party I went to, back in February when nobody really thought about the coronavirus; I was on a trip to visit my cousins in China. So after that, I began to show symptoms, and this was in early March, where I was back in Arenztopia. And then the pandemic was declared a pandemic. So I was like, 'Well, maybe this is COVID', and I went to my doctor, and he looked me over, patted me on the back, and said that it was 'unlikely' to be COVID. So then I'm like, I just have a cold, or the flu maybe. So I had better stay away from people. So I did, I told people with questions to email me, and I stayed away from the university. So pretty much at that point I was under house arrest (laughs), basically. 
+CR: Ok, so here it goes: I probably caught the coronavirus from a birthday party I went to, back in February when nobody really thought about the coronavirus; I was on a trip to visit my cousins in China. So after that, I began to show symptoms, and this was in early March, where I was back in Arenztopia. And then the pandemic was declared a pandemic. So I was like, 'Well, maybe this is COVID', and I went to my doctor, and he looked me over, patted me on the back, and said that it was 'unlikely' to be COVID. So then I'm like, I just have a cold, or the flu maybe. So I had better stay away from people. So I did, I told people with questions to email me, and I stayed away from [AUOC]. So pretty much at that point I was under house arrest (laughs), basically. 
 
 OCA: And then continue your story.
 
-CR: And then the symptoms started worsening very quick, very fast, and I went to the hospital, and they said, 'You have COVID-19', and I was like, oh, ok. So I was admitted to the ICU a couple days later, this is in April or June, and it truly, truly felt like I was being pushed underwater and forced to breathe, like, my lungs felt full of goo, and I was literally gasping for air. And the rest is history.
+CR: And then the symptoms started worsening very quick, very fast, and I went to the hospital at AUOC, and they said, 'You have COVID-19', and I was like, oh, ok. So I was admitted to the ICU a couple days later, this is in April or June, and it truly, truly felt like I was being pushed underwater and forced to breathe, like, my lungs felt full of goo, and I was literally gasping for air. And the rest is history.
+
+OCA: So, uh, what 
 
 
 ## Movie Announcements!
