@@ -43,9 +43,22 @@ by Owen Miyazoi
 
 Cases are still falling, with a total of 843 cases according to government sources. However, deaths rose a little, with 55 deaths. The Arenztopian Officer of Health, Johannes Peterson, hinted that he would relax restrictions sometime in December.
 
-## Feature: Joe Biden
+## Feature: Christansen Redfield
 by Tony Yuan
 
+We interviewed Christansen Redfield, who is the Dean of Accounting at Arenztopia University at Olb City, or AUOC. He caught COVID-19 in March, and was brought back from a seemingly hopeless situation.
+
+Olb City Announcer: So, uh, tell us a little bit about yourself.
+
+Christansen Redfield: I am an immigrant from Finland. I moved here back in the 1990s. I became a lawyer, and I became the Dean of Accounting in 2018. And that's uh, that's me!
+
+OCA: Well, so we all know your story. You were in the ICU for a month, on the brink of death. Then, within two days, you were up and running again. Could you elaborate on the beginning of tht story? I say the beginning because your story is probably gonna be pretty long.
+
+CR: Ok, so here it goes: I probably caught the coronavirus from a birthday party I went to, back in February when nobody really thought about the coronavirus; I was on a trip to visit my cousins in China. So after that, I began to show symptoms, and this was in early March, where I was back in Arenztopia. And then the pandemic was declared a pandemic. So I was like, 'Well, maybe this is COVID', and I went to my doctor, and he looked me over, patted me on the back, and said that it was 'unlikely' to be COVID. So then I'm like, I just have a cold, or the flu maybe. So I had better stay away from people. So I did, I told people with questions to email me, and I stayed away from the university. So pretty much at that point I was under house arrest (laughs), basically. 
+
+OCA: And then continue your story.
+
+CR: And then the symptoms started worsening very quick, very fast, and I went to the hospital, and they said, 'You have COVID-19', and I was like, oh, ok. So I was admitted to the ICU a couple days later, this is in April or June, and it truly, truly felt like I was being pushed underwater and forced to breathe, like, my lungs felt full of goo, and I was literally gasping for air. And the rest is history.
 
 
 ## Movie Announcements!
