@@ -86,4 +86,4 @@ There you go! Enjoy!
 ## Obituary
 by Owen Miyazoi
 
-On Wednesday, Jacob Parrea, a famous financier, died at the age of 96. Parrea was an extremely successful stockbroker in the 1970s, ammassing a fortune that was worth over 4 billion Arenzos. From 1998 to 2007, he was the richest person in Arenztopia. Visit jparrea.org/memorial to show sympathy.
+On Wednesday, Jacob Parrea, a famous financier, died at the age of 96. Parrea was an extremely successful stockbroker in the 1970s, ammassing a fortune that was worth over 4 billion Arenzos. From 1998 to 2007, he was the richest person in Arenztopia. Visit [jparrea.org/memorial](jparrea.org/memorial) to show sympathy.
