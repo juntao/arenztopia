@@ -60,8 +60,15 @@ OCA: And then continue your story.
 
 CR: And then the symptoms started worsening very quick, very fast, and I went to the hospital at AUOC, and they said, 'You have COVID-19', and I was like, oh, ok. So I was admitted to the ICU a couple days later, this is in April or June, and it truly, truly felt like I was being pushed underwater and forced to breathe, like, my lungs felt full of goo, and I was literally gasping for air. And the rest is history.
 
-OCA: So, uh, what 
+OCA: So, uh, why do you think, personally, that you miraculously survived?
 
+CR: Well, I think the one half of it was the doctors; they were working on shifts 24/7 and many of them worked 10-hour days; but they kept persevering and every one of them gave their all. They gave me pretty much the best COVID-19 care that I could have gotten in Olb City.
+
+OCA: Well, that's it! Thank's for sharing your story with us!
+
+CR: Thank you! Bye!
+
+This interview was edited for length and clarity.
 
 ## Movie Announcements!
 by Renzo Avila
@@ -77,10 +84,6 @@ We will give 5 ideas for trending movies in Arenztopia. Here are the top 5 movie
 There you go! Enjoy!
 
 ## Obituary
-by Renzo Avila
+by Owen Miyazoi
 
-Jacob Parmesan, a famous leader who helped Arenztopia build Hpb Srts a famous tower in Arenztopia Desert. Please email RememberJacob@gmail.com to send well wishes to his family.
-
-
-
-Thanks for reading this week's edition of the OCA. Have a great week.
+On Wednesday, Jacob Parrea, a famous financier, died at the age of 96. Parrea was an extremely successful stockbroker in the 1970s, ammassing a fortune that was worth over 4 billion Arenzos. From 1998 to 2007, he was the richest person in Arenztopia. Visit jparrea.org/memorial to show sympathy.
