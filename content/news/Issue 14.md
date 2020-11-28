@@ -11,30 +11,20 @@ weight: 14
 Volume 1, Issue 12  
 November 8-November 14, 2020
 
-## A note on Issue 13
-
-## Due
----
-
-## Stansberry Auctions
+## APAIS-2 reaches asteroid
 by Tony Yuan
 
-Olb City Convention Center-On Tuesday, the auction house Stansberry virtually auctioned off many items. One of the most expensive objects was a super-rare 1918 Arenz Motors Simile, which sold for over 300,000 Arenzos.
-
-![A typical Stansberry private auction.](https://www.esprit-de-france.com/sites/esprit-de-france.com/files/styles/article_header_943x420/public/article/ventes_aux_encheres_1_0.jpg?itok=Sm4_EGtW)    
-A private estate auction held by Stansberry last year.
-
-Other items include a work by trending painter Ronald Gry, which sold for over 240,000 Arenzos, a Ming dynasty vase from China, which sold for over 200,000 Arenzos, and a sports car that sold for over 190,000 Arenzos and was once owned by Felipe González, who was the president of Spain from 1982 to 1996. Over 50,000 people were bidding at the auction's peak attendance, and the total amount of money collected was over 1,000,000 Arenzos. Stanberry says that it will hold more auctions over the coming weeks.
+Derlass Space Facility-The revolutionary satellite APAIS-2 (All-Purpose Asteroid Imaging System) reached the asteroid Vesta on Tuesday after a journey of more than three years. It will orbit the asteroid for four Earth years collecting data about Vesta. This will help astronomers assess if Vesta will be suitable for a future mission. "We are eyeing the Asteroid Belt as a potential destination for intergalactic explorers after stopping at Mars, which could become a 'gas station' for future missions," the Arenztopian Officer of Science, Tony Yuan, said. APAIS-2 is the second satellite in the APAIS sieries. Its predecessor, APAIS-1, launched in 2008 and studied another asteroid, Pallas, until 2014.
 
 ## Sports
 by Sam-Louis Alrocaet
 
-On Wednesday, the Natania City Rockets went against the Canopian Pirahnas in the first match of the Arenztopian Hockey Season. THe Natania City Rockets won 14-12, and the next match will be on December 5th against the Arville Pythons.
+Calvin Hedmerr, the head coach of the New Rome Bulldogs, who tested positive for COVID last week (See [Issue 13](https://www.arenztopia.com/news/issue-13/)) died at New Rome Hospital on Monday following an extremely rapid decline.
 
 ## Arts
 by Owen Miyazoi
 
-Trending painter Ronald Gry produced another painting on Tuesday. Titled "RRR", which stands for Reuse, Repurpose, Recycle, it depicts a brilliant landscape made using paint that is made of recycled water bottles. It emphasizes the importance of recycling or reusing objects tht could otherwise become harmful pollutants in landfills.
+
 
 ## The Political Politician: the weekly politics column
 by Tony Yuan
