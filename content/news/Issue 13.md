@@ -8,7 +8,7 @@ weight: 13
 
 
 # The Olb City Announcer
-Volume 1, Issue 13    
+Volume 2, Issue 3    
 November 1-November 7, 2020
 
 ## Arenztopian Elections Kickoff
