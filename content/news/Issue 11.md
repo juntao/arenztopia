@@ -8,8 +8,10 @@ weight: 11
 
 
 # The Olb City Announcer
-Volume 1, Issue 11  
+Volume 2, Issue 1  
 October 18-October 24, 2020
+
+## NOTE: This is the first issue of Volume 2 of the Olb City Announcer.
 
 ## Olb City Manager of Health Arrested
 by Tony Yuan
