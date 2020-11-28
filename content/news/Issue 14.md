@@ -8,7 +8,7 @@ weight: 14
 
 
 # The Olb City Announcer
-Volume 1, Issue 12  
+Volume 2, Issue 4  
 November 8-November 14, 2020
 
 ## APAIS-2 reaches asteroid
@@ -19,26 +19,24 @@ Derlass Space Facility-The revolutionary satellite APAIS-2 (All-Purpose Asteroid
 ## Sports
 by Sam-Louis Alrocaet
 
-Calvin Hedmerr, the head coach of the New Rome Bulldogs, who tested positive for COVID last week (See [Issue 13](https://www.arenztopia.com/news/issue-13/)) died at New Rome Hospital on Monday following an extremely rapid decline.
+Calvin Hedmerr, the head coach of the New Rome Bulldogs, who tested positive for COVID last week (See [Issue 13](https://www.arenztopia.com/news/issue-13/), Sports section) died at New Rome Hospital on Monday following an extremely rapid decline.
 
 ## Arts
 by Owen Miyazoi
 
-
+On Tuesday, local photographer Thomas Gessbegere (See [Issue 3](https://www.arenztopia.com/news/issue-3/), Arts section) released a new seiries of photos of the descendants of Arenztopian Incans. The powerful and moving pictures are slated to go on display at OCAM in February.
 
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
-The Political Politician is a news column that will run until New Year's Day, and it will cover the Arenztopian Elections.
-
-As campaigning starts up a little bit, Tony Yuan and Ellidy J. have announced their intentions to run for Vice President. They represent the Science and Ethics parties, respectively. They are both running against each other and against independent incumbent Kassie K. Both Tony and Ellidy are also running for Mayor. James O. is expected to officially announce his intention for running for Senator next week.
+According to polls by Olb University, many people in Olb City favor Tony Yuan for Vice President, but Ellidy J. for Mayor. In overall polls of Arenztopia in general, Tony is favored for both positions that he is running for; but for the position of Mayor, he only has a .5% lead over Ellidy.
 
 ## Coronavirus Report
 by Owen Miyazoi
 
-Cases and deaths are still declining, with 867 confirmed cases and 53 deaths. The Arenztopian Officer of Health, Johannes Peterson, asked to have 15,000 doses of the new, promising Pfizer COVID-19 vaccine, and the doses are supposed to be delivered in early January 2021.
+Cases and deaths are still steadily declining, with 831 cases so far. Deaths are lower, with 45 deaths. 
 
-## Feature: Jack Ma
+## Feature: Fred G
 by Tony Yuan
 
 We interviewed Jack Ma, the richest person in China and the owner of Ant Group, which is a subsidiary of his company Alibaba. Ant Group has announced its intentions to start a massive, 626 billion Arenzo IPO sometime next week.
