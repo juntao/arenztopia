@@ -75,7 +75,10 @@ by Tony Yuan
 
 Spaceship
 
-Space
+Space vessel    
+Space explorer    
+Carrying humanity's hopes
+into space.
 
 ## Obituary
 by Owen Miyazoi
