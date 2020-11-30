@@ -47,37 +47,35 @@ Fred Nelson: Well, so the APAIS program is to survey the major asteroids of the 
 
 OCA: Could you explain the satellites in more detail?
 
-FN: Sure! So these satellites, they were launched back in 2017. Each one of the APAIS satellites is about the size of a small van, and they contain many different types of cameras and scientific instruments. The APAIS satellites, once they reach the asteroid, they attempt to orbit it. After that, they orbit the asteroid for three or four Earth years, taking precise measurements, 
-OCA: What are you planning to do with all the extra money, if there is any?
+FN: Sure! So these satellites, they were launched back in 2017. Each one of the APAIS satellites is about the size of a small van, and they contain many different types of cameras and scientific instruments. The APAIS satellites, once they reach the asteroid, they attempt to orbit it. After that, they orbit the asteroid for three or four Earth years, taking precise measurements, taking pictures, and hopefully with APAIS-3, getting samples.
 
-JM: I want to give it to small buisenesses; they're the ones who need it the mot, espcially during the pandemic.
+OCA: Why did you select Vesta and Pallas as the go-to asteroids?
 
-OCA: Thanks! That's all for today. Thanks for coming!
+FN: Well, Vesta is the second-biggest thing, and the biggest asteroid, in the Asteroid Belt. So it has a lot of building space. It also may have precious metals that we can mine.
+As for Pallas, it's also pretty big, and is confirmed to be chock-full of minerals and precious metals.
 
-JM: Thank you!
+OCA: Thank you! That's all for today. Thanks for coming!
+
+FN: Thanks for inviting me!
 
 This interview was edited for length and clarity.
 
-## 
+## Elephant arrives at Olb City Zoo
 by Sam-Louis Alrocaet
 
-Next week, we're planning to do a special edition written entirely by Renzo Avila, who is the King of Arenztopia and an occasional guest author. Stay tuned! 
+An elephant named Keesha was transported to the Olb City Zoo on Tuesday. She had been rescued from some poachers in 2015 and spent 5 years at an elephant rehabilitation center in Kenya. 
 
-## Stocks Fall
+## New Movie?
 By Owen Miyazoi
 
-This week has been one of the worst on record for the Areenztopian General Stock Market (AGSM), with overall stocks declining by over 500 billion Arenzos. The Arenztopian Officer of Economics, Dr. Kennan Sawyer, says he hopes for stocks to rise after the Arenztopian Elections.
+A new movie may be coming out in 2021, according to a leaked picture on Twitter. It includes zombie sharks, but nobody knows anything else about it.
 
 ## Poetry
 by Tony Yuan
 
-Economics
+Spaceship
 
-Huge IPO    
-coming up    
-But Arenztopian Stocks    
-continue declining.    
-Economics.    
+Space
 
 ## Obituary
 by Owen Miyazoi
