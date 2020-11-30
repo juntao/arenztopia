@@ -76,7 +76,7 @@ This interview was edited for length and clarity.
 ## Mansion planned
 by Sam-Louis Alrocaet
 
-Celebrity actor Jagan Darpesan announced a new mansion to be built in the foothills of  Arenztopia Mountain, in the outskirts of Olb City. He has already released the plans, and they show a huge, 10-bedroom, 12-bath extravaganza with a golf course, three pools, and four stories.
+Celebrity actor Jagan Darpesan announced a new mansion to be built in the foothills of Arenztopia Mountain, in the outskirts of Olb City. He has already released the plans, and they show a huge, 10-bedroom, 12-bath extravaganza with an 18-hole golf course, three pools, and four stories. The mansion also has such amenities as a full sauna, game room with full-size basketball court, 50-seat theater, and more.
 
 ## Stocks Fall
 By Owen Miyazoi
