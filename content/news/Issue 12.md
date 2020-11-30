@@ -73,10 +73,10 @@ JM: Thank you!
 
 This interview was edited for length and clarity.
 
-## Special Edition Next Week
+## Mansion planned
 by Sam-Louis Alrocaet
 
-Next week, we're planning to do a special edition written entirely by Renzo Avila, who is the King of Arenztopia and an occasional guest author. Stay tuned! 
+Celebrity actor Jagan Darpesan announced a new mansion to be built in the foothills of  Arenztopia Mountain, in the outskirts of Olb City. He has already released the plans, and they show a huge, 10-bedroom, 12-bath extravaganza with a golf course, three pools, and four stories.
 
 ## Stocks Fall
 By Owen Miyazoi
