@@ -77,7 +77,7 @@ Spaceship
 
 Space vessel    
 Space explorer    
-Carrying humanity's hopes
+Carrying humanity's hopes    
 into space.
 
 ## Obituary
