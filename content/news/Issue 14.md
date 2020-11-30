@@ -14,7 +14,7 @@ November 8-November 14, 2020
 ## APAIS-2 reaches asteroid
 by Tony Yuan
 
-Derlass Space Facility-The revolutionary satellite APAIS-2 (All-Purpose Asteroid Imaging System) reached the asteroid Vesta on Tuesday after a journey of more than three years. It will orbit the asteroid for four Earth years collecting data about Vesta. This will help astronomers assess if Vesta will be suitable for a future mission. "We are eyeing the Asteroid Belt as a potential destination for intergalactic explorers after stopping at Mars, which could become a 'gas station' for future missions," the Arenztopian Officer of Science, Tony Yuan, said. APAIS-2 is the second satellite in the APAIS sieries. Its predecessor, APAIS-1, launched in 2008 and studied another asteroid, Pallas, until 2014.
+Derlass Space Facility-The revolutionary satellite APAIS-2 (All-Purpose Asteroid Imaging System) reached the asteroid Vesta on Tuesday after a journey of more than three years. It will orbit the asteroid for four Earth years collecting data about Vesta. This will help astronomers assess if Vesta will be suitable for a future mission. "We are eyeing the Asteroid Belt as a potential destination for intergalactic explorers after stopping at Mars, which could become a 'gas station' for future missions," the director of the APAIS team, Fred Nelson, said. APAIS-2 is the second satellite in the APAIS series. Its predecessor, APAIS-1, launched in 2008 and studied another asteroid, Pallas, until 2014.
 
 ## Sports
 by Sam-Louis Alrocaet
@@ -36,19 +36,18 @@ by Owen Miyazoi
 
 Cases and deaths are still steadily declining, with 831 cases so far. Deaths are lower, with 45 deaths. 
 
-## Feature: Fred G
+## Feature: Fred Nelson
 by Tony Yuan
 
-We interviewed Jack Ma, the richest person in China and the owner of Ant Group, which is a subsidiary of his company Alibaba. Ant Group has announced its intentions to start a massive, 626 billion Arenzo IPO sometime next week.
+We interviewed Fred Nelson, a famous astronomer who heads the team that manages the APAIS satellite program (See cover story).
 
-Olb City Announcer: So tell us a little bit about your upcoming IPO.
+Olb City Announcer: So could you explain, just briefly, what the goals and implications are for the APAIS program?
 
-Jack Ma: So first I want to tell people what an IPO is. It's an event where a company goes public, basically. So what everybody means by biggest IPO is that Ant Group is going to be worth the most money when it goes public.
+Fred Nelson: Well, so the APAIS program is to survey the major asteroids of the Asteroid Belt, mostly because we want future people to literally refuel their spaceships and/or rest for a bit at refuelling centers on asteroids before going out to explore the outer solar system. This program is the first step in building a crucial link for interstellar travel. 
 
-OCA: What are the potential implications of this IPO?
+OCA: Could you explain the satellites in more detail?
 
-JM: So first, it would add a lot more value to the Chinese stock market. Also, it would hopefully make Ant Group or ALibaba grow in size through trading.
-
+FN: Sure! So these satellites, they were launched back in 2017. Each one of the APAIS satellites is about the size of a small van, and they contain many different types of cameras and scientific instruments. The APAIS satellites, once they reach the asteroid, they attempt to orbit it. After that, they orbit the asteroid for three or four Earth years, taking precise measurements, 
 OCA: What are you planning to do with all the extra money, if there is any?
 
 JM: I want to give it to small buisenesses; they're the ones who need it the mot, espcially during the pandemic.
@@ -59,7 +58,7 @@ JM: Thank you!
 
 This interview was edited for length and clarity.
 
-## Special Edition Next Week
+## 
 by Sam-Louis Alrocaet
 
 Next week, we're planning to do a special edition written entirely by Renzo Avila, who is the King of Arenztopia and an occasional guest author. Stay tuned! 
