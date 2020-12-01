@@ -19,7 +19,7 @@ South Olb City Electricity Center-On Tuesday, a blackout happened that affected 
 ## Sports
 by Sam-Louis Alrocaet
 
-As temperatures rapidly drop, the Arenztopian winter sports season has started up. The New Paris Pucks faced off against the Austerfield Aardvarks in the first match of the hockey season, and the Pucks won 7-4. The   
+As temperatures rapidly drop, the Arenztopian winter sports season has started up. The New Paris Pucks faced off against the Austerfield Aardvarks in the first match of the hockey season, and the Pucks won 7-4.
 
 ## Arts
 by Owen Miyazoi
