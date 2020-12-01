@@ -26,6 +26,11 @@ by Owen Miyazoi
 
 On Tuesday, local photographer Thomas Gessbegere (See [Issue 3](https://www.arenztopia.com/news/issue-3/), Arts section) released a new seiries of photos of the descendants of Arenztopian Incans. The powerful and moving pictures are slated to go on display at OCAM in February.
 
+## Weather
+by Mezoir Logan
+
+Next week should have an extremely low temperature of just 2 degrees celsius, with temperatures rising up to 6 degrees celsius. Additionally, snow and hail are expected on Tuesday and Wednesday, but temperatures may rise up to as high as 8 degrees on Friday.
+
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
