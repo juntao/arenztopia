@@ -19,7 +19,7 @@ South Olb City Electricity Center-On Tuesday, a blackout happened that affected 
 ## Sports
 by Sam-Louis Alrocaet
 
-Calvin Hedmerr, the head coach of the New Rome Bulldogs, who tested positive for COVID last week (See [Issue 13](https://www.arenztopia.com/news/issue-13/), Sports section) died at New Rome Hospital on Monday following an extremely rapid decline.
+As temperatures rapidly drop, the Arenztopian winter sports season has started up. The New Paris Pucks faced off against the Austerfield Aardvarks in the first match of the hockey season, and the Pucks won 7-4. The   
 
 ## Arts
 by Owen Miyazoi
