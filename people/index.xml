@@ -148,21 +148,21 @@ Note: Please fill out the Email field with your preferred email, that you or you
     </item>
     
     <item>
-      <title></title>
-      <link>/people/claire-p/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/claire-p/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Siblings</title>
       <link>/people/siblings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/siblings/</guid>
       <description>The Arenztopian Goverment has reluctantly let multiple siblings and/or sibling freinds of Arenztopian Citizens to join our great nation because everyone is welcome. BUT. We want them to stay anonymous since siblings are rarely allowed to join. Currently, we have let in 6 siblings who may have their names displayed here someday.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/claire-p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/claire-p/</guid>
+      <description></description>
     </item>
     
   </channel>
