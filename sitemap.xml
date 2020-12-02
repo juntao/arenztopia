@@ -148,10 +148,6 @@
   </url>
   
   <url>
-    <loc>/people/siblings/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2020-09-23T01:22:56+19:00</lastmod>
   </url>
@@ -195,6 +191,10 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/people/siblings/</loc>
   </url>
   
   <url>
