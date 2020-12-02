@@ -29,12 +29,12 @@ At the famous Therzin Sculpture Park, a new sculpture was unveiled. Titled "Comp
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
-According to polls by Olb University, many people in Olb City favor Tony Yuan for Vice President and Ellidy J. for Mayor, so current trends remain the same. In overall polls of Arenztopia in general, Kassie K., the Vice President incumbent, 
+According to polls by Olb University, many people in Olb City favor Tony Yuan for Vice President and Ellidy J. for Mayor, so current trends remain the same. In overall polls of Arenztopia in general, Kassie K., the Vice President incumbent, gained 10 percentage points, making an overall approval rating of 35%. Tony still has 45%, and Ellidy has the remaining 20% of the poll. 
 
 ## Coronavirus Report
 by Owen Miyazoi
 
-Cases and deaths are still steadily declining, with 831 cases so far. Deaths are lower, with 45 deaths. 
+Cases and deaths are still steadily declining, with 831 cases so far. Deaths are lower, Cases are still declining, with a massive decline to 745 cases. Deaths are still steadily declining, with 38 deaths. 
 
 ## Feature: Fred Nelson
 by Tony Yuan
