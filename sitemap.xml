@@ -46,6 +46,10 @@
   </url>
   
   <url>
+    <loc>/people/claire-p/</loc>
+  </url>
+  
+  <url>
     <loc>/news/issue-5/</loc>
   </url>
   
@@ -173,11 +177,6 @@
   
   <url>
     <loc>/news/issue-16/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/people/claire-p/</loc>
     <priority>0</priority>
   </url>
   
