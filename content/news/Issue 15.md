@@ -24,12 +24,12 @@ As temperatures rapidly drop, the Arenztopian winter sports season has started u
 ## Arts
 by Owen Miyazoi
 
-On Tuesday, local photographer Thomas Gessbegere (See [Issue 3](https://www.arenztopia.com/news/issue-3/), Arts section) released a new seiries of photos of the descendants of Arenztopian Incans. The powerful and moving pictures are slated to go on display at OCAM in February.
+At the famous Therzin Sculpture Park, a new sculpture was unveiled. Titled "Composition 12," it is by a sculptor known only by N12 who has made many other sculptures in the past. Composition 12 consists of a 50-foot jumble of curved metal that is covered in graffiti.
 
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
-According to polls by Olb University, many people in Olb City favor Tony Yuan for Vice President, but Ellidy J. for Mayor. In overall polls of Arenztopia in general, Tony is favored for both positions that he is running for; but for the position of Mayor, he only has a .5% lead over Ellidy.
+According to polls by Olb University, many people in Olb City favor Tony Yuan for Vice President and Ellidy J. for Mayor, so current trends remain the same. In overall polls of Arenztopia in general, Kassie K., the Vice President incumbent, 
 
 ## Coronavirus Report
 by Owen Miyazoi
