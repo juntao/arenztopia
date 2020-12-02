@@ -67,6 +67,10 @@
   </url>
   
   <url>
+    <loc>/bank/</loc>
+  </url>
+  
+  <url>
     <loc>/people/livia-m/</loc>
   </url>
   
@@ -186,10 +190,6 @@
   
   <url>
     <loc>/404/</loc>
-  </url>
-  
-  <url>
-    <loc>/bank/</loc>
   </url>
   
   <url>
