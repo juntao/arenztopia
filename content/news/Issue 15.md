@@ -34,16 +34,16 @@ According to polls by Olb University, many people in Olb City favor Tony Yuan fo
 ## Coronavirus Report
 by Owen Miyazoi
 
-Cases and deaths are still steadily declining, with 831 cases so far. Deaths are lower, Cases are still declining, with a massive decline to 745 cases. Deaths are still steadily declining, with 38 deaths. 
+Cases are still declining, with a massive decline to 745 cases. Deaths are still steadily declining, with 38 deaths. 
 
-## Feature: Fred Nelson
+## Feature: Doren Fu
 by Tony Yuan
 
-We interviewed Fred Nelson, a famous astronomer who heads the team that manages the APAIS satellite program (See cover story).
+We interviewed Doren Fu, the leader of the new, trending religion of Scientism.
 
-Olb City Announcer: So could you explain, just briefly, what the goals and implications are for the APAIS program?
+Olb City Announcer: Could you briefly explain what Scientism is?
 
-Fred Nelson: Well, so the APAIS program is to survey the major asteroids of the Asteroid Belt, mostly because we want future people to literally refuel their spaceships and/or rest for a bit at refuelling centers on asteroids before going out to explore the outer solar system. This program is the first step in building a crucial link for interstellar travel. 
+Doren Fu:  
 
 OCA: Could you explain the satellites in more detail?
 
