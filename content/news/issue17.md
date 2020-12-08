@@ -50,11 +50,11 @@ The NPAA, New Paris Acting Association, Has confirmed a new movie will be coming
 ## Poetry
 by Lorenzo Avila
 
-A new day comes
--
-vacinne brings hope and joy yay
--
-for the coming holiday
+-A new day comes-
+
+vacinne brings hope and joy yay-
+
+for the coming holiday-
 
 ## Obituary
 by Owen Miyazoi
