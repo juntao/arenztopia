@@ -25,7 +25,7 @@ The winter weather is still as cold as always as hockey continues. This weekend 
 ## Arts
 by Owen Miyazoi
 
-A new art published on monday, yllph, was up for auction with the top bid being 700,000. the piece is about the love of books all over arenztopia. place a bid at bidforit@yllph.com. the artist, lue von helk, says he is "gratful for this oppurtunity of a lifetime."
+A new art published on monday, yllph, was up for auction with the top bid being 700,000. the piece is about the love of books all over arenztopia. place a bid at bidforit@yph.com. the artist, lue von helk, says he is "gratful for this oppurtunity of a lifetime."
 
 ## The Political Politician: the weekly politics column
 by Lorenzo Avila
