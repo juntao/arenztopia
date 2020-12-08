@@ -51,7 +51,9 @@ The NPAA, New Paris Acting Association, Has confirmed a new movie will be coming
 by Lorenzo Avila
 
 A new day comes
+-
 vacinne brings hope and joy yay
+-
 for the coming holiday
 
 ## Obituary
