@@ -1,5 +1,5 @@
 ---
-title: "Voting News"
+title: "The Political Politician"
 date: 2020-010-21T15:23:34+10:00
 featured: true
 draft: false
@@ -7,17 +7,14 @@ weight: 11
 ---
 
 
-# The Olb City Announcer
-Special Edition: Voting 
-by Lorenzo Avila & Tony Yuan
+# The Political Politician
+## Your go-to stop fro Arenztopian Politics
 
-
-## NOTE: This is a temporary collumn that will go over election and voting news.
-
+## This is the home page of the Political Politician. The Political Politician is the Olb City Announcer's Political News column.
 
 
 
-##Updates:
+# Live Electoral Updates:
 
 ## Judges (2 positions available)
 As of right now, Kassie K. is in the lead with 52.45% of the general vote. Next comes James with 23.20% of the vote. Next, Tony, with 22.35% of the vote. More polls from New austin and Olb City are expected to come in today for the position of Judge.
