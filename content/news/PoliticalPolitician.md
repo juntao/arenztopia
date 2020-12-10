@@ -18,8 +18,11 @@ weight: 11
 
 ## Judges (2 positions available)
 Kassie K. : 55.6% 
+-
 James O.  : 15.55% 
+-
 Livia     : 9.666666667%
+-
 
 ## Senators (2 positions available)
 Charlotte: 33.3%
