@@ -17,24 +17,36 @@ weight: 11
 # Live Electoral Updates:
 
 ## Judges (2 positions available)
-As of right now, Kassie K. is in the lead with 52.45% of the general vote. Next comes James with 23.20% of the vote. Next, Tony, with 22.35% of the vote. More polls from New austin and Olb City are expected to come in today for the position of Judge.
+Kassie K. : 55.6% 
+James O.  : 15.55% 
+Livia     : 9.666666667%
 
 ## Senators (2 positions available)
-Currently, Charlotte is has the lead of the vote with 55.38%. Coming in second Michal A. with 20.18%. Tony Yuan has a strong 20.14, right behind Michal. the rest of the vote goes too the independent partys.
+Charlotte: 33.3%
+Livia: 33.3%
+Ryan O. : 22.2%
 
 ## Advisor (1 position available)
-The current advisor Claire P. has a 59.96% Majority vote. James, holds 27.35% of the vote, and coming in last is Tony Y. with a small 12.40% vote majority.
+Claire P. :77.8%
+James O.  :11.1% 
+Tony :11.1
 
 ## Mayor (1 position available)
-This one was close with only 2 people in the race. This is a new position. Ellidy J. has an astounding 55.27% and Tony Y. with an incredibly close 43.23%.
+Ellidy: 55.6%
+Tony  : 44.4
 
 ## VP (1 position available)
-This is one of the most important jobs and as of now kassie is stepping down since she has served 2 terms ut it is looking good for her as judge. The person with the most votes is Tony Yuan with 60.65% and next Henry with 35.73% and last Ellidy with 4.46%.
+Tony : 44.4%
+Henry: 33.3%
+Ellidy: 22.2
 
 ## Conclusion
+Thanks for reading OCA! we will be updating again tomorrow. Remember The Political Politician is your go-to stop for election news! 
 
-More votes will be coming in this is not final but some of these people are far ahead and it's looking good for them. make sure you read OCA for all of the stories from around arentopia. Keep up to date with election news have a great day!
 
-NOTE: If you are not in this race for any position you can still be part of the goverment. email lokozoavila@gmail.com for more info.
+
+
+
+
 
 
