@@ -53,4 +53,4 @@ Ellidy: 22.2%
 
 ## About the Political Politician
 
-The Political Politician was established in 2012 and has been running every election season. Our political journalists are Mary Ferged, Jack Hanur, and Kim Logan. Lorenzo Avila monitors and updates the live election results. Tony Yuan is our assistant electoral advisor and Yauve McWaumann is our Cheif of Staff. Go to [politicalpolitician.org](
+The Political Politician was established in 2012 and has been running every election season. Our political journalists are Mary Ferged, Jack Hanur, and Kim Logan. Lorenzo Avila monitors and updates the live election results. Tony Yuan is our assistant electoral advisor and Yauve McWaumann is our Cheif of Staff. Go to [politicalpolitician.org](politicalpolitician.org)
