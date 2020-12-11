@@ -3,18 +3,21 @@ title: "Issue 17"
 date: 2020-011-30T010:40:30+10:00
 featured: true
 draft: false
-weight: 15
+weight: 17
 ---
 
 
 # The Olb City Announcer
-Volume 2, Issue 17  
+Volume 2, Issue 7     
 November 15-November 21, 2020
 
 ## Flood
 by Renzo Avila
+Edited by Tony Yuan
 
 over the weekend, in new austin, a Hydro power plant had some sort of inner problems in the generator or in the transformer (Officals are looking into it,) and the impact knocked down part of the dam and water from in the resevoir flooded a small part of the city. 2 people were killed and 14 were put in medical care. Workers are making repairs and many of the houses destroyed are being paid for by the city (4 houses to be exact)
+
+On Saturday, a hydropower plant failed in New Austin. 
 
 ## Sports
 by Sam-Louis Alrocaet
@@ -25,7 +28,7 @@ The winter weather is still as cold as always as hockey continues. This weekend 
 ## Arts
 by Owen Miyazoi
 
-A new art published on monday, yllph, was up for auction with the top bid being 700,000. the piece is about the love of books all over arenztopia. place a bid at bidforit@yph.com. the artist, lue von helk, says he is "gratful for this oppurtunity of a lifetime."
+A new art published on monday, yllph, was up for auction with the top bid being 700,000. the piece is about the love of books all over arenztopia. place a bid at bidding@ypllh.com. the artist, lue von helk, says he is "gratful for this oppurtunity of a lifetime."
 
 ## The Political Politician: the weekly politics column
 by Lorenzo Avila
