@@ -12,12 +12,11 @@ Volume 2, Issue 7
 November 15-November 21, 2020
 
 ## Flood
-by Renzo Avila
-Edited by Tony Yuan
+by Tony Yuan
 
 over the weekend, in new austin, a Hydro power plant had some sort of inner problems in the generator or in the transformer (Officals are looking into it,) and the impact knocked down part of the dam and water from in the resevoir flooded a small part of the city. 2 people were killed and 14 were put in medical care. Workers are making repairs and many of the houses destroyed are being paid for by the city (4 houses to be exact)
 
-On Saturday, a hydropower plant failed in New Austin. 
+On Saturday, a small hydropower plant failed upstream of the Tortoise River. Officials are still trying to determine the cause of the failure. Based on preliminary evidence, it seems like an object had gotten lodged into the pipe which held the turbine, and when the fast-moving turbine struck the object, the plant exploded. The explosion 
 
 ## Sports
 by Sam-Louis Alrocaet
