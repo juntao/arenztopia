@@ -39,15 +39,15 @@ Cases are still declining, with a massive decline to 745 cases. Deaths are still
 ## Feature: Doren Fu
 by Tony Yuan
 
-We interviewed Doren Fu, the leader of the new, trending religion of Scientism.
+We interviewed Doren Fu, the founder and leader of the new, trending religion of Scientism.
 
 Olb City Announcer: Could you briefly explain what Scientism is?
 
-Doren Fu:  
+Doren Fu: Scientism is a satirical religion that believes in six core principles: First, everything anybody says has to be true. Second, the Earth is a two-dimensional octagon with the continents and oceans on its backside. Third, the Earth is trapped beneath a very large dome with holes poked in it. Fourth, the Sun is actually just a big basketball. Fifth, every fiction story is nonfiction and every nonfiction story is fiction. Finally, outside of the dome which the Earth is trapped under lies the Great and Heavenly Leader, the Great God Bous, who is all-seeing and all-knowing.
 
-OCA: Could you explain the satellites in more detail?
+OCA: How did you come up with Scientism?
 
-FN: Sure! So these satellites, they were launched back in 2017. Each one of the APAIS satellites is about the size of a small van, and they contain many different types of cameras and scientific instruments. The APAIS satellites, once they reach the asteroid, they attempt to orbit it. After that, they orbit the asteroid for three or four Earth years, taking precise measurements, taking pictures, and hopefully with APAIS-3, getting samples.
+DF: So one day I was sitting in my house and this was back in April, and I was bored out of my mind, and I was reading this news story about a couple of guys who had started this religion which had over 100,000 people in two months. So I was like, "This is a great idea!" and I went and drafted some ridiculous and arbitrary ideas for a 
 
 OCA: Why did you select Vesta and Pallas as the go-to asteroids?
 
