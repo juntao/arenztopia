@@ -4,9 +4,7 @@ menu: 'main'
 weight: '6'
 ---
 
-# Geography
-
-Arenztopia is a reasonably large island roughly 2,000 miles off the coast of Mexico. In the west, it has mainly grassland and some forest. In the central part, it has a desert and a large forest. Near the northern and southern tips of the island are two tall mountains, Arenztopia Volcano and Arenztopia Mountain. In the east, there is a large mountain range called the [Tfziwrmh](), and some hilly terrain dotted with some forests. In the north there are some more mountains and more hills, with several large patches of grassland.
+Arenztopia is a reasonably large island roughly 2,000 miles off the coast of Mexico. In the west, it has mainly grassland and some forest. In the central part, it has a desert and a large forest. Near the northern and southern tips of the island are two tall mountains, Arenztopia Volcano and Arenztopia Mountain. In the east, there is a large mountain range called the [Tfziwrmh](https://www.arenztopia.com/tourism/#national-parks), and some hilly terrain dotted with some forests. In the north there are some more mountains and more hills, with several large patches of grassland.
 
 Several major rivers and deltas exist in Arenztopia.
 
@@ -19,6 +17,8 @@ Several major rivers and deltas exist in Arenztopia.
 * The Marsh River feeds a large bog in the Coast Region. Outflows from this bog help water the National Forest. The Marsh River also forms a river system with the Hernandez River.
 * The Squash River forms one of the longest river systems in Arenztopia with the Prairie River. This river system helps water the vast grasslands of Uivrmw.
 * The Prairie River is the only river in Arenztopia which does not have a delta where it meets the sea. It forms a river system with the Squash River.
+
+Arenztopia has many 
 
 Arenztopia also has lots of cities.
 
