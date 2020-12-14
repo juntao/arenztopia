@@ -47,16 +47,15 @@ Doren Fu: Scientism is a satirical religion that believes in six core principles
 
 OCA: How did you come up with Scientism?
 
-DF: So one day I was sitting in my house and this was back in April, and I was bored out of my mind, and I was reading this news story about a couple of guys who had started this religion which had over 100,000 people in two months. So I was like, "This is a great idea!" and I went and drafted some ridiculous and arbitrary ideas for a 
+DF: So one day I was sitting in my house and this was back in April, and I was bored out of my mind, and I was reading this news story about a couple of guys who had started this religion which had over 100,000 people in two months. So I was like, "This is a great idea!" and I went and drafted some ridiculous and arbitrary ideas for a religion. Then, I published it to the world!
 
-OCA: Why did you select Vesta and Pallas as the go-to asteroids?
+OCA: What is Scientism satirizing?
 
-FN: Well, Vesta is the second-biggest thing, and the biggest asteroid, in the Asteroid Belt. So it has a lot of building space. It also may have precious metals that we can mine.
-As for Pallas, it's also pretty big, and is confirmed to be chock-full of minerals and precious metals.
+DF: Huh, that's a hard one. I suppose Scientism is satirizing un-scientific beliefs about our world, things like gods and flat earthers. And I think Scientism is also satirizing the fact that people love religion, that people will join a religion having no true idea of what they're getting into.
 
 OCA: Thank you! That's all for today. Thanks for coming!
 
-FN: Thanks for inviting me!
+DF: Thank you, and I hope to see you soon!
 
 This interview was edited for length and clarity.
 
