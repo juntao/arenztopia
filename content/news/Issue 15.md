@@ -59,28 +59,26 @@ DF: Thank you, and I hope to see you soon!
 
 This interview was edited for length and clarity.
 
-## Elephant arrives at Olb City Zoo
+## New fish species found
 by Sam-Louis Alrocaet
 
-An elephant named Keesha was transported to the Olb City Zoo on Tuesday. She had been rescued from some poachers in 2015 and spent 5 years at an elephant rehabilitation center in Kenya. 
+A new species of fish was found in Lake Oglethorpe on Wednesday. The fish, which was named the Lake Oglethorpe Milkfish, is scientifically named Chanos Oglethorpi. It appears to be endemic to Lake Oglethorpe and is confirmed to edible when grilled. It has silvery scales and tender meat, and is about 6 inches in length.
 
-## New Movie?
+## Church bell replaced
 By Owen Miyazoi
 
-A new movie may be coming out in 2021, according to a leaked picture on Twitter. It includes zombie sharks, but nobody knows anything else about it.
+A seven-month long operation culminated on Tuesday when the bell of the Drapper Ministry Church was replaced. The historic church, built in the 1940s, is known for its bell, which was cast in 1590. However, the 430-year old bell suffered irreparable damage during a fire at the church last year and was replaced by a replica. The old bell will be transported to the Olb City History Museum. 
 
 ## Poetry
 by Tony Yuan
 
-Spaceship
-
-Space vessel    
-Space explorer    
-Carrying humanity's hopes
-into space.
+Social    
+Has been customized    
+"2020 edition!"    
+"Limited time!"    
+To Social Distancing.    
 
 ## Obituary
 by Owen Miyazoi
 
-Famous mathematician Sakar Gourbouise died at the age of 102 on Tuesday. He pioneered many theorems that revolutionized mathematics in the 1960s and 70s. Call his son, Darber Gourbouise, at 680-998-6334 to show sympathy.
-
+Legendary army general Dan Sawger died on Thursday at 103 of old age. He was decorated with two purple hearts during his service during World War 2. He had also fought in the Vietnam War and was decorated with over 120 badges, medals, and honors over the course of his life. To show sympathy, leave a rememberance at his memorial board, which can be accessed at [army.az/dansawger](army.az/dansawger).
