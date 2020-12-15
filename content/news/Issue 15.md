@@ -26,6 +26,11 @@ by Owen Miyazoi
 
 At the famous Therzin Sculpture Park, a new sculpture was unveiled. Titled "Composition 12," it is by a sculptor known only by N12 who has made many other sculptures in the past. Composition 12 consists of a 50-foot jumble of curved metal that is covered in graffiti.
 
+## Weather
+by Mezoir Logan
+
+Temperatures keep dropping drastically with a very low freeze of -8 degrees on Monday and Tuesday, but temperatures will be back to around 4 degrees celsius on Thursday. Temperatures may drop again on Friday with a projected temperature of 0 degrees.
+
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
