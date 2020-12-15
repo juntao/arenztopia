@@ -44,35 +44,35 @@ According to goverment sources, there are 733 cases and 35 deaths. Kennan Sawyer
 ## Feature: Sallo Doremia
 by Tony Yuan
 
-We interviewed Sallo Doremia, the new CEO of ArenzIro, which is the third-largest oil company in Arenztopia. She is the first
+We interviewed Sallo Doremia, the new CEO of ArenzIro, which is the third-largest oil company in Arenztopia. She is the first female CEO of ArenzIro.
 
-Olb City Announcer: Could you briefly explain what Scientism is?
+Olb City Announcer: Could you briefly explain what ArenzoIro is?
 
-Doren Fu: Scientism is a satirical religion that believes in six core principles: First, everything anybody says has to be true. Second, the Earth is a two-dimensional octagon with the continents and oceans on its backside. Third, the Earth is trapped beneath a very large dome with holes poked in it. Fourth, the Sun is actually just a big basketball. Fifth, every fiction story is nonfiction and every nonfiction story is fiction. Finally, outside of the dome which the Earth is trapped under lies the Great and Heavenly Leader, the Great God Bous, who is all-seeing and all-knowing.
+Sallo Doremia: ArenzIro is an oil company, and we mine oil! (laughter) We get a lot of inquiries about our name, and it's just Arenz and then Iro, which is Arenzese for Oil.
 
-OCA: How did you come up with Scientism?
+OCA: What policies are you planning in your term as CEO?
 
-DF: So one day I was sitting in my house and this was back in April, and I was bored out of my mind, and I was reading this news story about a couple of guys who had started this religion which had over 100,000 people in two months. So I was like, "This is a great idea!" and I went and drafted some ridiculous and arbitrary ideas for a religion. Then, I published it to the world!
+SD: So I'm planning a bunch of diversifying acts, such as changing the Board of Directors, and I would also improve and maintain our oil rigs, after we found that the individual rig managers were not keeping the oil rigs sanitary or clean. So yeah, definetely some diversity and some housekeeping, or rig-keeping, as we call it. (laughter)
 
-OCA: What is Scientism satirizing?
+OCA: What do you think about the new oil resovoir that was found on Wednesday?
 
-DF: Huh, that's a hard one. I suppose Scientism is satirizing un-scientific beliefs about our world, things like gods and flat earthers. And I think Scientism is also satirizing the fact that people love religion, that people will join a religion having no true idea of what they're getting into.
+SD: I think that this is a good opportunity for profits, but I also think that the other companies, Iroil AZ especially, should be more careful this time of what their environmental impact is.
 
 OCA: Thank you! That's all for today. Thanks for coming!
 
-DF: Thank you, and I hope to see you soon!
+SD: Thank you for inviting me here! I had a great time.
 
 This interview was edited for length and clarity.
 
-## New fish species found
+## Armwu Industries goes bankrupt after scandal
 by Sam-Louis Alrocaet
 
-A new species of fish was found in Lake Oglethorpe on Wednesday. The fish, which was named the Lake Oglethorpe Milkfish, is scientifically named Chanos Oglethorpi. It appears to be endemic to Lake Oglethorpe and is confirmed to edible when grilled. It has silvery scales and tender meat, and is about 6 inches in length.
+Armwu Industries, a major biopharmucetical company, went bankrupt on Monday after a huge scandal where the CEO took over 120 million dollars from employee's salaries and made up lies about why their salaries had suddenly dropped by 20,000 Arenzos or more. The CEO was sentenced to 72 years in prison.
 
-## Church bell replaced
+## Scientists find new exoplanet
 By Owen Miyazoi
 
-A seven-month long operation culminated on Tuesday when the bell of the Drapper Ministry Church was replaced. The historic church, built in the 1940s, is known for its bell, which was cast in 1590. However, the 430-year old bell suffered irreparable damage during a fire at the church last year and was replaced by a replica. The old bell will be transported to the Olb City History Museum. 
+The new satellite Specialized Arenztopian Exoplanet Hunter (SAEH), which was launched in December 2019, found its fourth exoplanet on Tuesday.  
 
 ## Poetry
 by Tony Yuan
