@@ -19,20 +19,22 @@ Sar Basin-On Wednesday, an oil platform hit upon a gigantic underground pool of 
 ## Sports
 by Sam-Louis Alrocaet
 
-As temperatures rapidly drop, the Arenztopian winter sports season has started up. The New Paris Pucks faced off against the Austerfield Aardvarks in the first match of the hockey season, and the Pucks won 7-4.
+Sled-racing fans are watching anxiously as the Arville Anacondas, the fastest and most popular team in the country, sruggle to keep the first place after nearly being beaten by their rivals, the New Athens Rockets, on Tuesday in the Herbar Sled Races.
 
 ## Arts
 by Owen Miyazoi
 
-At the famous Therzin Sculpture Park, a new sculpture was unveiled. Titled "Composition 12," it is by a sculptor known only by N12 who has made many other sculptures in the past. Composition 12 consists of a 50-foot jumble of curved metal that is covered in graffiti.
+Rising sculptor and snowglobe maker John Cardner unveiled another exquisite snowglobe on Wednesday featuring an exquisitely detailed, stoned-looking cat. The work is powered by an electrical motor which allows the cat to lick its paw and meow.
 
 ## Weather
 by Mezoir Logan
 
+Temperatures are supposed to drop to as low as -10 degrees celsius from Monday thru Wednesday. As a bank of thunderclouds approaches from the east, Olb City may see its first snowfall of the winter by Tuesday. On Thursday and Friday, temperatures will warm again to 4 degrees.
+
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
-According to polls by Olb University, many people in Olb City favor Tony Yuan for Vice President and Ellidy J. for Mayor, so current trends remain the same. In overall polls of Arenztopia in general, Kassie K., the Vice President incumbent, gained 10 percentage points, making an overall approval rating of 35%. Tony still has 45%, and Ellidy has the remaining 20% of the poll. 
+According to reliable sources,  
 
 ## Coronavirus Report
 by Owen Miyazoi
