@@ -14,7 +14,7 @@ November 22-November 28, 2020
 ## Huge new oil deposit found
 by Tony Yuan
 
-Sar Basin-On Wednesday, an oil platform hit upon a gigantic underground pool of oil on the north edge of the Sar Basin, a large underwater plain some 40 miles out from the coast. The oil platform, which was built in 2016 and chistened the Haruga, pumped in oil for over two hours before calling it a day. Research ships have determined that the huge resovior holds at least 10 billion gallons of oil, making it the second-largest oil resovoir ever found in Arenztopia. Arenztopia Oil Conglemerate (AOC) is expected to claim the northern side of the resovoir, while ArenzIro is expected to claim the southeast corner. The southwest corner may go to Iroil AZ, but that is not confirmed.
+Sar Basin-On Wednesday, an oil platform hit upon a gigantic underground pool of oil on the north edge of the Sar Basin, a large underwater plain some 40 miles out from the coast. The oil platform, which was built in 2016 and chistened the Haruga, pumped in oil for over two hours before calling it a day. Research ships have determined that the huge resovior holds at least 10 billion gallons of oil, making it the second-largest oil resovoir ever found in Arenztopia. Arenztopia Oil Conglemerate (AOC) is expected to claim the northern side of the resovoir, while ArenzIro is expected to claim the southeast corner. The southwest corner may go to Iroil AZ, but that is not confirmed. The central area will be open to anybody.
 
 ## Sports
 by Sam-Louis Alrocaet
@@ -34,17 +34,17 @@ Temperatures are supposed to drop to as low as -10 degrees celsius from Monday t
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
-According to reliable sources,  
+According to reliable sources,  Joe Biden has now been officially recognized by the US as the 46th president of the United States. This is a turning point because President Biden has promised a stronger relationship between the US and Arenztopia. On Wednesday, King L. S. J. Avila met with President Biden, and King Avila says that it was a productive meeting.
 
 ## Coronavirus Report
 by Owen Miyazoi
 
-Cases are still declining, with a massive decline to 745 cases. Deaths are still steadily declining, with 38 deaths. 
+According to goverment sources, there are 733 cases and 35 deaths. Kennan Sawyer, the Arenztopian Minister of Health, said that he was "rushing" to arrange shipments of the acclaimed Pfizer vaccine and he is also trying to push the vaccine through FDA approval in order to ensure safe export and importation.
 
-## Feature: Doren Fu
+## Feature: Sallo Doremia
 by Tony Yuan
 
-We interviewed Doren Fu, the founder and leader of the new, trending religion of Scientism.
+We interviewed Sallo Doremia, the new CEO of ArenzIro, which is the third-largest oil company in Arenztopia. She is the first
 
 Olb City Announcer: Could you briefly explain what Scientism is?
 
