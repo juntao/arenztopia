@@ -1,22 +1,21 @@
 ---
-title: "Issue 15"
-date: 2020-011-30T010:40:30+10:00
+title: "Issue 18"
+date: 2020-012-15T010:40:30+10:00
 featured: true
 draft: false
-weight: 15
+weight: 18
 ---
 
 
 # The Olb City Announcer
-Volume 3, Issue 1 
-December 11th
-
-NOTE: THis is the first article for Volume 3 of OCA. The OCA has decided every volume will be 8 articles long.
+Volume 2, Issue 8    
+December 6-December 12, 2020    
 
 ## Famous Athlete Missing
-by Renzo Avila
+by Tony Yuan
 
-Luke Hkligh, A famed hockey player in the 90's, went missing today. His wife let us into their home for a short interveiw. (All quotes are typed exactly the way they were said.) She told us she was "Very disconsolate" and "Depressed". Officals beielve this was a kidnapping. They have found 5 suspects and mor info from the New Austin PD will be coming out this afternoon.
+Marifu Hills-Famous soccer player Luke Jasil went missing on Wednesday. Police say he disappeared from his home at night. Officials think that he was kidnapped. 
+
 ## Sports
 by Sam-Louis Alrocaet
 
