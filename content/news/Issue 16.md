@@ -19,7 +19,7 @@ Sar Basin-On Wednesday, an oil platform hit upon a gigantic underground pool of 
 ## Sports
 by Sam-Louis Alrocaet
 
-Sled-racing fans are watching anxiously as the Arville Anacondas, the fastest and most popular team in the country, sruggle to keep the first place after nearly being beaten by their rivals, the New Athens Rockets, on Tuesday in the Herbar Sled Races.
+Sled-racing fans are watching anxiously as the Arville Anacondas, the fastest and most popular team in the country, struggle to keep the first place after nearly being beaten by their rivals, the New Athens Rockets, on Tuesday in the Herbar Sled Races.
 
 ## Arts
 by Owen Miyazoi
@@ -60,7 +60,7 @@ SD: I think that this is a good opportunity for profits, but I also think that t
 
 OCA: Thank you! That's all for today. Thanks for coming!
 
-SD: Thank you for inviting me here! I had a great time.
+SD: Thank you! I was happy to have my thoughts published about the Sar Basin Resovoir, as well!
 
 This interview was edited for length and clarity.
 
@@ -72,19 +72,17 @@ Armwu Industries, a major biopharmucetical company, went bankrupt on Monday afte
 ## Scientists find new exoplanet
 By Owen Miyazoi
 
-The new satellite Specialized Arenztopian Exoplanet Hunter (SAEH), which was launched in December 2019, found its fourth exoplanet on Tuesday.  
+The new satellite Specialized Arenztopian Exoplanet Hunter (SAEH), which was launched in December 2019, found its fourth exoplanet on Tuesday.  The exoplanet, which was named SAEH-4, is orbiting around a star some 5,000 light years away.
 
 ## Poetry
 by Tony Yuan
 
-Social    
-Has been customized    
-"2020 edition!"    
-"Limited time!"    
-To Social Distancing.    
+Well, I guess we can't have Thanksgiving    
+'cause the food shops are closed    
+And the relatives may have Covid    
+So I suppose we could just stay home.    
 
 ## Obituary
 by Owen Miyazoi
 
-Legendary army general Dan Sawger died on Thursday at 103 of old age. He was decorated with two purple hearts during his service during World War 2. He had also fought in the Vietnam War and was decorated with over 120 badges, medals, and honors over the course of his life. To show sympathy, leave a rememberance at his memorial board, which can be accessed at [army.az/dansawger](army.az/dansawger).
-
+Famous actor Sayner Reywas died on Wednesday of COVID-19. She was 78. She had starred in over 50 movies from the 1970s onward and had also starred in over 80 stage plays. To show sympathy, call 680-5512-7080.
