@@ -14,7 +14,7 @@ November 29-December 5, 2020
 ## Flood
 by Tony Yuan
 
-On Tuesday, a small hydropower plant failed upstream of the Tortoise River. Officials are still trying to determine the cause of the failure. Based on preliminary evidence, it seems like an object had gotten lodged into the pipe which held the turbine, and when the fast-moving turbine struck the object, the plant exploded. The explosion knocked down a part of the dam, causing a catastrophic collapse. Water from the resovoir flooded part of Natania City, and destroyed four houses. Five people were killed, and fourteen people were hospitalized. 8 people are still missing. Natania City says that it will fully compensate the victims and their families. 
+Servap Hydropower Plant-On Tuesday, a small hydropower plant failed upstream of the Tortoise River. Officials are still trying to determine the cause of the failure. Based on preliminary evidence, it seems like an object had gotten lodged into the pipe which held the turbine, and when the fast-moving turbine struck the object, the plant exploded. The explosion knocked down a part of the dam, causing a catastrophic collapse. Water from the resovoir flooded part of Natania City, and destroyed four houses. Five people were killed, and fourteen people were hospitalized. 8 people are still missing. Natania City says that it will fully compensate the victims and their families. 
 
 ## Sports
 by Sam-Louis Alrocaet
