@@ -1,6 +1,6 @@
 ---
 title: "Issue 17"
-date: 2020-011-30T010:40:30+10:00
+date: 2020-012-05T010:40:30+10:00
 featured: true
 draft: false
 weight: 17
@@ -9,32 +9,27 @@ weight: 17
 
 # The Olb City Announcer
 Volume 2, Issue 7     
-November 15-November 21, 2020
+November 29-December 5, 2020
 
 ## Flood
 by Tony Yuan
 
-over the weekend, in new austin, a Hydro power plant had some sort of inner problems in the generator or in the transformer (Officals are looking into it,) and the impact knocked down part of the dam and water from in the resevoir flooded a small part of the city. 2 people were killed and 14 were put in medical care. Workers are making repairs and many of the houses destroyed are being paid for by the city (4 houses to be exact)
-
-On Saturday, a small hydropower plant failed upstream of the Tortoise River. Officials are still trying to determine the cause of the failure. Based on preliminary evidence, it seems like an object had gotten lodged into the pipe which held the turbine, and when the fast-moving turbine struck the object, the plant exploded. The explosion 
+On Tuesday, a small hydropower plant failed upstream of the Tortoise River. Officials are still trying to determine the cause of the failure. Based on preliminary evidence, it seems like an object had gotten lodged into the pipe which held the turbine, and when the fast-moving turbine struck the object, the plant exploded. The explosion knocked down a part of the dam, causing a catastrophic collapse. Water from the resovoir flooded part of Natania City, and destroyed four houses. Five people were killed, and fourteen people were hospitalized. 8 people are still missing. Natania City says that it will fully compensate the victims and their families. 
 
 ## Sports
 by Sam-Louis Alrocaet
 
-The winter weather is still as cold as always as hockey continues. This weekend the New Austin Adélie penguin's are set to go up against the olb city Octopus's. and on thursday a celebrity basketball game will be taking place in arenztopia city.
-
+The Arenztopian Hockey Season continues as the New Austin Penguins are set to go up against the Olb City Octopi. Also, on Thursday, a celebrity basketball game happened in Arenztopia City. All sports are still virtual-only.
 
 ## Arts
 by Owen Miyazoi
 
-A new art published on monday, yllph, was up for auction with the top bid being 700,000. the piece is about the love of books all over arenztopia. place a bid at bidding@ypllh.com. the artist, lue von helk, says he is "gratful for this oppurtunity of a lifetime."
+Artist Lue von Helk put one of her most famous art pieces on auction on Monday. The art piece, titled Yllph, was sold for 1,400,000 Arenzos. Yllph depicts the love of books around Arenztopia using thick, vibrant, colorful brushstrokes. Lue von Helk said that she was "grateful for this opportunity of a lifetime."
 
 ## The Political Politician: the weekly politics column
-by Lorenzo Avila
+by Tony Yuan
 
-(NOTE: this weeks edition is showing votes from within the goverment this is not final in anyway and this is not a majority vote. Also this is only Judge nest week will be senetar, vp, and mator, and advisor.)
-Judge:
-Kassie K. (R) and James (S) are the top votes this week, with a lead over Tony Y. (R) by 9.347% and next Charlotte (E) behind tony with tony leading by 3.734%. Only 39% of votes have been counted.
+The voting season started 
 
 ## Coronavirus Report
 by Owen Miyazoi
