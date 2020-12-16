@@ -14,12 +14,12 @@ December 6-December 12, 2020
 ## Famous Athlete Missing
 by Tony Yuan
 
-Marifu Hills-Famous soccer player Luke Jasil went missing on Wednesday. Police say he disappeared from his home at night. Officials think that he was kidnapped. 
+Marifu Hills-Famous soccer player Luke Jasil went missing on Wednesday. Police say he disappeared from his home at night. Officials think that he was kidnapped. The OCPD has published five suspects on its website at [ocpd.org/suspects](ocpd.org/suspects). "This is an act of grevious cowardice," Jack Carter, the leader of the Olb City Detective Association, said in a statement. Forensic scientists have roped off Jasil's home and are searching for evidence. In a statement, they said that they had found several incomplete fingerprints 
 
 ## Sports
 by Sam-Louis Alrocaet
 
-REMEMBER TO FINISH
+REMEMBER TO 
 
 ## Arts
 by Owen Miyazoi
