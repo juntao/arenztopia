@@ -29,32 +29,26 @@ Artist Lue von Helk put one of her most famous art pieces on auction on Monday. 
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
-The voting season started 
+The voting season started on December 1st, and is due to end on December 20th. There was considerable confusion and consternation as Renzo Avila, the Manager of Voting, changed the number of judges to one and the number of senators to one on the ballot, while saying that there were different numbers of senators and judges. The matter still has not been resolved.
 
 ## Coronavirus Report
 by Owen Miyazoi
 
-Cases have dropped rapidly with cases being 347 total and 7 deaths this week. Top scientist  Suhan Lee Head of Science and tech in the goverment, has told OCA that the vaccine would become open to the general public on December 20th. The goverment has made minor changes to the lockdown like, movie theters are open but there must be 5 seats between veiwers, outdoor dining is now open, and gathering are now allowed to be up to 5 with people outside of your family. A statment from King LSJA says that they are trig to open the econemy as safe as possible. King LSJA, Tony Yuan, Kassie K, and claire P. the founders all have medical degrees as well as degrees in arenzish, law,  writing and various other degrees. They are beileved to be the perfect founders for the pandemic period of time.
+There are 698 confirmed cases and 32 deaths as cases steadily drop. Everything is still virtual and strict lockdown is still imposed.
 
-
-
-
-## New Movie Confirmed
+## PEOPELELE
 By Owen Miyazoi
 
 The NPAA, New Paris Acting Association, Has confirmed a new movie will be coming out 2021 they have given out little info other then it will be a movie with few actors and they hinted that actor Ellidy J. may be a part of it (as she recently got her degree in theater.)
 
 ## Poetry
-by Lorenzo Avila
+by Lorenzo Avila, guest author
 
--A new day comes-
-
-vacinne brings hope and joy yay-
-
-for the coming holiday-
+A new day comes    
+vaccine brings hope and joy yay    
+for the coming holiday-    
 
 ## Obituary
 by Owen Miyazoi
 
-Recently, Author John Listid has passed from covid. he wrote many books including A New Day about covid coming to the end. sadly he wont live to see the vaccine. Send your regrets to 678-456-2310.
-
+Famous sci-fi author John Listid passed away at the age of 89 from COVID-19 on Wednesday. He wrote over 50 books. Show sympathy by calling 680-456-2310.
