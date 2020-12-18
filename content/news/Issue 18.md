@@ -29,7 +29,7 @@ A new tapestry was unveiled for the growing and trending exhibit at the OCAM, We
 ## Weather
 by Mezoir Logan
 
-
+In a continuation of the falling temperatures of the last few weeks, next week should be a very cold -10 celsius throughout. These temperatures will likely continue through the rest of December and into January.
 
 ## Coronavirus Report
 by Owen Miyazoi
