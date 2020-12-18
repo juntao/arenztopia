@@ -24,7 +24,7 @@ On Wednesday, the annual Freezing Man event was announced. A rip-off of Burning 
 ## Arts
 by Owen Miyazoi
 
-A new tapestry was unveiled for the growing and trending exhibit at the OCAM, Weaving Magic. It is billed as 
+A new tapestry was unveiled for the growing and trending exhibit at the OCAM, Weaving Magic. It is billed as "The largest tapestry in Olb City!" and that is actually true. The gargantuan, whose actual title is "Woodland Scene with Deer and Rabbits," was weaven by renowned tapestry artist Pedro Sacala in 1735. At 75 feet by 50 feet, it took 10 years to compete and was previously stored at the Arenztopia City Museum of Art. 
 
 ## Weather
 by Mezoir Logan
