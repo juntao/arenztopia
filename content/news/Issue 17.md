@@ -36,10 +36,10 @@ by Owen Miyazoi
 
 There are 698 confirmed cases and 32 deaths as cases steadily drop. Everything is still virtual and strict lockdown is still imposed.
 
-## PEOPELELE
+## New book released
 By Owen Miyazoi
 
-The NPAA, New Paris Acting Association, Has confirmed a new movie will be coming out 2021 they have given out little info other then it will be a movie with few actors and they hinted that actor Ellidy J. may be a part of it (as she recently got her degree in theater.)
+Famous author Jan Desyin released a new book on Wednesday. Titled "The Climb," it is a nonfiction chronicle of Fredrick Karsper's amazing climb of Mount Arenztopia last year, which is the fastest ever ascent of Mount Arenztopia at a breakneck pace of 8 hours.
 
 ## Poetry
 by Lorenzo Avila, guest author
