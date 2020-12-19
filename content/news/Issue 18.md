@@ -34,7 +34,7 @@ In a continuation of the falling temperatures of the last few weeks, next week s
 ## Coronavirus Report
 by Owen Miyazoi
 
-
+Cases are dropping steadily with 685 cases and 36 deaths. With the FDA approval of the Pfizer COVID-19 vaccine, Kennan Sawyer, the Arenztopian Minister of Health, says that he has arranged for 15,000 doses to be delivered to Arenztopia City, Olb City, and other parts of Arenztopia.
 
 ## Feature: Doren Fu
 by Tony Yuan
