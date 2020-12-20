@@ -26,6 +26,11 @@ by Owen Miyazoi
 
 Artist Lue von Helk put one of her most famous art pieces on auction on Monday. The art piece, titled Yllph, was sold for 1,400,000 Arenzos. Yllph depicts the love of books around Arenztopia using thick, vibrant, colorful brushstrokes. Lue von Helk said that she was "grateful for this opportunity of a lifetime."
 
+## Weather
+by Mezoir Logan
+
+
+
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
