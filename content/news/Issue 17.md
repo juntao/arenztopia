@@ -45,6 +45,22 @@ There are 698 confirmed cases and 32 deaths as cases steadily drop. Everything i
 
 We interviewed Harne Pearson, the leader of DaroHealth, a company that is aiming to create a COVID vaccine.
 
+Olb City Announcer: So why is DaroHealth's vaccine so special?
+
+Harne Pearson: DaroHealth's vaccine is using a mixture, actually, of COVID patient blood plasma, and dead COVID particles. This is a combination that's never been tried in any COVID vaccine.
+
+OCA: So how's the concept going along?
+
+HP: We raised about 10 million dollars in capital, and we've already burned through about eight million of that developing the vaccine itself, and we're entering Stage 1 clinical trials now!
+
+OCA: What are the pros and cons of this new approach?
+
+HP: So the pros are that this approach has already been tried successfully in many experimental vaccines, and that it seems to be quite useful against these coronavirus-type viruses. However, the blood plasma part is still not proven in COVID-19.
+
+OCA: That's all for today! Thanks for coming!
+
+HP: Thank you!
+
 ## New book released
 By Owen Miyazoi
 
