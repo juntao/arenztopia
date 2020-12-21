@@ -29,7 +29,7 @@ Artist Lue von Helk put one of her most famous art pieces on auction on Monday. 
 ## Weather
 by Mezoir Logan
 
-
+Temperatures should be at about -7 degrees throughout the whole week, with temperatures jumping to 8 degrees on Wednesday. A storm system is approaching from the southeast, which should bring snow by Thursday. 
 
 ## The Political Politician: the weekly politics column
 by Tony Yuan
@@ -40,6 +40,10 @@ The voting season started on December 1st, and is due to end on December 20th. T
 by Owen Miyazoi
 
 There are 698 confirmed cases and 32 deaths as cases steadily drop. Everything is still virtual and strict lockdown is still imposed.
+
+## Feature: Harne Pearson
+
+We interviewed Harne Pearson, the leader of DaroHealth, a company that is aiming to create a COVID vaccine.
 
 ## New book released
 By Owen Miyazoi
