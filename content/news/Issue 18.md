@@ -50,13 +50,13 @@ Olb City Announcer: What is special about the ASD?
 
 Gerel Farnor: The ASD is a huge society, about 10,000 members, and the special thing about it is that it's composed completely of ICU frnt-line workers, and it's the only doctors' society in Arenztopia to be composed entirely of ICU doctors.
 
-OCA: How have these doctors helped with the COVID relief effort?
-
-GF: Well, since the number of COVID cases is comparably low, the doctors in some of the places with less COVID cases are actually pretty fine, they're not stretched to the limit. However, in the places with more cases, such as New Athens and Austerfeild, since about a third of COVID cases end up in the ICU in Arenztopia, those doctors have more patients than usual in their ICUs, and they're trying their best, and so far, over 150 people with COVID have recovered nationwide under the care of ASD doctors.
-
 OCA: 
 
 GF:
+
+OCA: How have these doctors helped with the COVID relief effort?
+
+GF: Well, since the number of COVID cases is comparably low, the doctors in some of the places with less COVID cases are actually pretty fine, they're not stretched to the limit. However, in the places with more cases, such as New Athens and Austerfeild, since about a third of COVID cases end up in the ICU in Arenztopia, those doctors have more patients than usual in their ICUs, and they're trying their best, and so far, over 150 people with COVID have recovered nationwide under the care of ASD doctors.
 
 OCA: Well, that's it for today, and thanks for coming!
 
