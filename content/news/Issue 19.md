@@ -31,8 +31,7 @@ On Sunday the Arenztopian National Hockey team will go up against the Canadian n
 ## Weather
 by Mezoir Logan 
 
-A tropical storm named Vonso, has started moving towards Arenztopia. Meotoroligists bielieve the worst of the storm will be in Arenztopia on friday. Vonso will be gone by Sunday. Weather is getting warmer with morning temerature on Monday being 70 F.
-
+A tropical storm named Vonso, has started moving towards Arenztopia. meteorologist believe the worst of the storm will be in Arenztopia on friday. Vonso will be gone by Sunday. Weather is getting warmer with morning temperature on Monday being 70 F.
 
 
 ## Poetry 
