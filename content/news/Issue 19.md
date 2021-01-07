@@ -25,51 +25,32 @@ Famous artist, Diego Nahum know for his abstract paintings, died of cancer. His 
 ## Sports
 by Sam-Louis Alrocaet
 
-On Sunday the Arenztpian National Hockey team is set to go up (finish by Jan. 6th 5 pm) 
+On Sunday the Arenztopian National Hockey team will go up against the Canadian national team. The winner will go up against the Swedish national team. Weather has started getting lightly warmer, so the first Soccer game of the season will take place on January 25th.
 
 
 ## Weather
 by Mezoir Logan 
 
+A tropical storm named Vonso, has started moving towards Arenztopia. Meotoroligists bielieve the worst of the storm will be in Arenztopia on friday. Vonso will be gone by Sunday. Weather is getting warmer with morning temerature on Monday being 70 F.
 
-## KIDNAPPED!
-by John Mavelin, CEO of Arenztopia Police Co.
-
-
-
-## Events
-
-
-
-## Rare book discovered in archives
-by Owen Miyazoi
-
-
-## Editorial
-by Sam-Louis Alrocaet
-
-
-## Obituary
-by Owen Miyazoi
-
-
-## Weather 2
-by Mezoir Logan
 
 
 ## Poetry 
-by Tony Yuan 
+by Lorenzo Avila 
+
+Diego 
+gone
+brave and true
+gone
+Happy and loving
+gone
+he is gone 
+he was Diego
 
 
 
-## Bookstore revives book
-by Owen Miyazoi
 
 
-## Store Established
-by Sam-Louis Alrocaet
 
 
-## Coronavirus Report
-by Owen Miyazoi
 
