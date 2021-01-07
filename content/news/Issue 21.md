@@ -7,5 +7,5 @@ weight: 21
 ---
 
 # The Olb City Announcer
-Volume 3, Issue 2    
+Volume 3, Issue 1    
 December 27th-January 2nd, 2020 and 2021, respectively
