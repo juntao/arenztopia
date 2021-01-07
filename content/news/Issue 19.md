@@ -30,26 +30,19 @@ by Mezoir Logan
 
 A tropical storm named Vonso has started moving towards Arenztopia from the east. Meteorologist believe the worst of the storm will be in Arenztopia on Friday next week. Tropical Storm Vonso will probably be gone by 2021. Weather is getting warmer with morning temperature on Monday being 21 F.
 
-## Coronavirus Report
-by Owen Miyazoi
-
-## The Political Politician
-by Tony Yuan
-
-
 ## Poetry 
 by Lorenzo Avila 
 
 Ode to Diego Nahum
 
-Diego 
-gone
-brave and true
-gone
-Happy and loving
-gone
-he is gone 
-he was Diego
+Diego     
+gone    
+brave and true    
+gone    
+Happy and loving    
+gone    
+he is gone    
+he was Diego    
 
 
 
