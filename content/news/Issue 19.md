@@ -7,7 +7,7 @@ weight: 19
 ---
 
 # The Olb City Announcer
-Volume 1, Issue 19    
+Volume 2, Issue 19    
 December 13th-December 19th, 2020
 
 ## Japenese Military Bunker Found
@@ -42,7 +42,13 @@ gone
 Happy and loving    
 gone    
 he is gone    
-he was Diego    
+he was Diego   
+
+
+## Covid-19 Vaccine 
+by Owen Miyazoi
+
+Arenztopian doctors have developed a vaccine, essentially different than the one used in the US. The vaccine is 1 part and will be 95% affective in 10 hours. The vaccine will temporarily only be availeble to fronline workers, 65 years +, and people with disease. The Covid vaccine will be open to the public on January 25th.
 
 
 
