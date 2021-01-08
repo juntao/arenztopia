@@ -6,4 +6,4 @@ jobtitle: "Chief Designer"
 weight: 3
 ---
 
-Tony Y. is the chief designer of Arenztopia. Many Designs in Arenztopia are his design including the flag. He was also formerly the vice president, and he is on a first-name basis with the king.   
+Tony Y. is the chief designer of Arenztopia. Many official designs in Arenztopia are his design including the flag and the official map. He was also formerly the vice president, and he is on a first-name basis with the king.   
