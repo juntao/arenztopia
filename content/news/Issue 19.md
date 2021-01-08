@@ -18,12 +18,12 @@ On Monday, gold miners digging in the Arenztopian Desert hit a strong and suspis
 ## Arts
 by Lorenzo Avila
 
-Famous artist, Diego Nahum know for his abstract paintings, died of cancer. His entire fortune will be donated to cancer research. His last art piece "the light" (stylized in all lowercase,) is about his final days. The piece will be auctioned at the New paris art gallery for a starting bid of 10 million. His wife passed away 2 hours after his death.
+Famous artist, Diego Nahum know for his abstract paintings, died of cancer. His entire fortune will be donated to cancer research. His last art piece "the light" (stylized in all lowercase,) is about his final days. The piece will be auctioned at the New Paris Art Gallery for a starting bid of 10 million. His wife passed away 2 hours after his death. Doctors believe she died of a heart attack. The Autopsie will be coming in 5 hours.
 
 ## Sports
 by Sam-Louis Alrocaet
 
-On Sunday the Arenztopian National Hockey team will go up against the Canadian national team. The winner will go up against the Swedish national team. Weather has started getting slightly warmer, so a special celebrity soccer game will take place on January 25th.
+On Sunday the Arenztopian National Hockey team will go up against the Canadian national team. The winner will go up against the Swedish national team. Weather has started getting slightly warmer, so a special celebrity soccer game will take place on January 25th. 
 
 ## Weather
 by Mezoir Logan 
