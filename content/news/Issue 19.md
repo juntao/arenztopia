@@ -48,7 +48,7 @@ he was Diego
 ## Covid-19 Vaccine 
 by Owen Miyazoi
 
-Arenztopian doctors have developed a vaccine, essentially different than the one used in the US. The vaccine is 1 part and will be 95% affective in 10 hours. The vaccine will temporarily only be availeble to fronline workers, 65 years +, and people with disease. The Covid vaccine will be open to the public on January 25th.
+Arenztopian doctors have developed a vaccine, essentially different than the one used in the US. The vaccine is 1 part and will be 95% affective in 10 hours. The vaccine will temporarily only be available to fronline workers, 65 years +, and people with critical disease. The Covid vaccine will be open to the public on January 25th.
 
 
 
