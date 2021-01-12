@@ -11,6 +11,8 @@ Here's a [free Arenzese translator](https://www.theproblemsite.com/reference/mat
  
 Arenztopia is home to many cities. Arenztopia City is the largest, at nearly 2 million people in population, and there are many semi-autonomous city-states within Arenztopia, which are called Rohadden, Iremdor, and Aradakon, which are tax-free entities. They are areas that did not agree to the 2020 American Treaty and so became their own semi-autonomous entities. The smallest city is Cuyanting, with a population of just 2,500 people.  
 
+
+
 # Political Structure
 There is a king, who is voted into place, and who follows a constitution. The Vice President is also voted into place and will become the new interim king in wake of the king suddenly resigning or dying. There are also 2 judges in the Supreme Court, and two senators. The judges function much like the Supreme Court of the USA, handling high-level cases and approving laws. The senators propose laws and perform other executive duties. Finally, the Executive Branch, consisting of the King, the Vice President, and the advisors, organizes the political ecosystem and keeps things in order, as well as making top-level desicions and passing laws. There is also a House of Representatives, which contains one representative from every state and region. They represent the state's intentions and propose bills. Every term for every position is two months, except for the king, who has a term of four months.
 
@@ -24,10 +26,14 @@ All independents are grouped into the Red Party.
 
 Laws are approved by this process: First, a group of citizens or a politician proposes a bill. If the bill is on a level lower than national, the citizens in the area that is affected by the bill vote on it. If it wins the vote, the leaders of the affected area review it again, then the bill is apporved and passed into law. If the bill affects the entire nation, it goes to the senate. The senators look at the bill and make sure that it is reasonable and can be implemented, and if the bill is passed, it goes to the Executive Branch. The King, the advisors, and the Vice President look over the bill and see if it improves the situation of the country and if it fits the interests of the people. After that, the bill goes to the Judicial Branch, which are the judges, who make sure that it is constitutional, then they will officially pass the bill into law.
 
+
+
 # Political Alignment
 Arenztopia is a military and economics ally to the numerous city-states within it, and also to the USA, Japan, France, England, Germany, China, Mexico, Italy, Vatican City, and Canada.
 
 Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the now-defunct terrorist group Milestopia
+
+
 
 # Media
 The main media group in Arenztopia is the AMG, Arenztopia Media Group, which is an association that includes APR (Arenztopia Public Radio), ARB (Arenztopia Royal Broadcasting), ATV (Arenztopia TV), ATN (Arenztopia Television Network), and ANN (Arenztopia News Network)
@@ -37,14 +43,16 @@ ATV is the main entertainment channel, showing mainly cartoons, TV movies, and c
 ATN is one of the main news channels, mostly broadcasting Science Party news.
 Finally, ANN is the other main news channel, mostly broadcasting Ethics Party news.
 
+
+
 # Bank and Economics
 This section explores the Bureau of Economics, which includes the Arenztopian Stock Market and the Arenztopian Central Bank. (Go to [this Google form](https://forms.gle/FzM1NHhjE7xB9eFa8) to sign up for a bank account.) In this section, you can also shop multiple stores.
+
 
 
 # History
 
 ## History part 1: The Incas
-
 
 In the year 1470, the great Incan emperor Pachacuti Inca Yupanqui sent a fleet of ships out from Cusco to explore new lands. The explorers, after venturing for about 500 miles out from shore, ran headfirst into a gigantic storm. It wrecked 3 of their ships and killed a dozen men, and the remaining people were forced to turn back. About a week later the brisk gale powered their crafts to a mysterious island. This island was Arenztopia, but the Incans called it Puquna Wat'a Pachacuti, which meant "Fertile soil island of Pachacuti". Arenztopia was born.
 
@@ -70,7 +78,6 @@ After signing a treaty with the USA in 2020 allowing it to have independence, th
 
 ## Timeline
 
-
 1470: The Incas find Arenztopia.
 
 1472: The Emperor of the Incas goes to Arenztopia for the first time
@@ -89,12 +96,10 @@ After signing a treaty with the USA in 2020 allowing it to have independence, th
 
 2020: Arenztopia becomes an independent country.
 
-
 -----
 # History Section II: The Museum
 
 This is the museum, where you can see some of the official Arenztopian documents. It also includes a full list of everything in the Arenztopia Folder, a folder containing all the paper documents of Arenztopia, and many, many things from the founding of Arenztopia.
-
 
 ## Museum Exhibit 1: Gallery
 
@@ -102,11 +107,9 @@ This is all the pictures of some Official Arenztopian Documents.
 
 {i need to make higher quality pics}
 
-
 ## Museum Exhibit 2: List
 
 This is the unabridged list of all the items in the Arenztopia Folder, a big blue folder that serves as a repository for almost every paper document ever in the history of Arenztopia. In all, this list contains 90 objects, all important and integral to the establishment of Arenztopia as we know it today. This list represents an unprecedented attempt to catalog Arenztopian history.
-
 
 Key:
 (IT) = Informational Text (writing)    
@@ -214,6 +217,59 @@ Arenztopia government diagram (O)
 Confidential: For the King's eyes only (O)    
 
 
+
+# Geography
+
+Arenztopia is a reasonably large island roughly 2,000 miles off the coast of Mexico. In the west, it has mainly grassland and some forest. In the central part, it has a desert and a large forest. Near the northern and southern tips of the island are two tall mountains, Arenztopia Volcano and Arenztopia Mountain. In the east, there is a large mountain range called the [Tfziwrmh](https://www.arenztopia.com/tourism/#national-parks), and some hilly terrain dotted with some forests. In the north there are some more mountains and more hills, with several large patches of grassland.
+
+Several major rivers and deltas exist in Arenztopia.
+
+* Arenztopia River is the largest river in Arenztopia. It runs through the heart of Arenztopia City and continues inland, where it feeds several lakes and wetlands.
+* The Tortoise River flows through Olb City and meets the Chrysanthemum River at the largest delta in Arenztopia to form one of the largest river systems in Arenztopia.
+* The Chrysanthemum River feeds several mountain lakes on Arenztopia Mountain. It shares a delta with the Tortoise River where the two rivers meet the sea.
+* The Hernandez River is an extremely long river that waters the National Forest and reaches a little bit into the Arenztopian Desert. 
+* The Cattle River feeds a massive floodplain in the Coast Region. It forms a long river system with the Glass River. 
+* The Glass River feeds several large lakes and meets the Cattle River at a third lake.
+* The Marsh River feeds a large bog in the Coast Region. Outflows from this bog help water the National Forest. The Marsh River also forms a river system with the Hernandez River.
+* The Squash River forms one of the longest river systems in Arenztopia with the Prairie River. This river system helps water the vast grasslands of Uivrmw.
+* The Prairie River is the only river in Arenztopia which does not have a delta where it meets the sea. It forms a river system with the Squash River.
+
+Arenztopia has lots of cities:
+
+Arenztopia City is on the southern coast. It is the capital of Arenztopia and of the Capital Region. It's the biggest city in Arenztopia and it controls Arenztopia Bay, a stop on many major shipping routes. Arenztopia City is strategically placed next to Arenztopia Bay on a steep hill.
+
+New Rome is farther inland in the Capital Region. It's the center of technology in Arenztopia; compare to Silicon Valley.
+
+New Athens is in the Coast Region, about 75 to a hundred miles away from Arenztopia Volcano. It's the capital of the arts, and has produced many trending and contemporary artists throughout the ages.
+
+Canopia, on the northern coast, is the capital of the Coast Region. It is a bustling resort town which has a bustling tourism industry.
+
+Arville is near the northern tip of Arenztopia. It boasts the record for the lowest temperature in Arenztopia: -16 degrees celsius.
+
+Shersville is the capital of Uivrmw. It has a bunch of museums. It is a relatively young city, having been established in 1890.
+
+Chanlania is the largest city in Uivrmw. It was formerly a city-state.
+
+Hasiania is the capital of Qfhgrxv, which is a minor state bordering the Arenztopian Desert. It's the sister city of Chanlania and was also formerly a city-state.
+
+Sitin is a city on the border between Qfhgrxv, the Arenztopian Desert, and the National Forest. It is the sister city of Shreet.
+
+Shreet is a city on the border between Qfhgrxv and the Arenztopian Desert. It is known for its art museum. It's the sister city of Sitin. 
+
+New Paris is the capital of, and the largest city in, the Tfziwrzmh. It has a bustling tourist industry.
+
+New Austin is the capital of, and the largest city in, the Arenztopian Desert. It's the sister city of New Paris, and also has a bustling tourist industry.
+
+Austerfield is the capital of Szkkrmvhh. It is one of the oldest cities in Arenztopia, having been founded in 1544. It's known as a very industrial city.
+
+Olb City is the second-largest city in Arenztopia, with 1.75 million residents. It is known for its architecture, industry, and science. It's the capital of the Old Region.
+
+Natania City is a satellite city of Olb City. There's nothing really special about it.
+
+Noi City is the sister city of Olb City and is home to much contemporary art and architecture.
+
+
+
 # Statistics
 Length across, lengthwise: 2,400 miles   
 Length across, width-wise: 1,600 miles   
@@ -236,6 +292,8 @@ National food: Ice Cream
 Languages spoken: Arenzese, English, Spanish   
 Highest temperature recorded: 41˚C (105˚F)   
 Lowest temperature recorded: -16˚C (16.8˚F)    
+
+
 
 # This Week's Checklist
 
