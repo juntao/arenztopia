@@ -27,7 +27,7 @@ Laws are approved by this process: First, a group of citizens or a politician pr
 # Political Alignment
 Arenztopia is a military and economics ally to the numerous city-states within it, and also to the USA, Japan, France, England, Germany, China, Mexico, Italy, Vatican City, and Canada.
 
-Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the terrorist group Milestopia (Extinct)
+Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the now-defunct terrorist group Milestopia
 
 # Media
 The main media group in Arenztopia is the AMG, Arenztopia Media Group, which is an association that includes APR (Arenztopia Public Radio), ARB (Arenztopia Royal Broadcasting), ATV (Arenztopia TV), ATN (Arenztopia Television Network), and ANN (Arenztopia News Network)
@@ -70,8 +70,9 @@ Lowest temperature recorded: -16˚C (16.8˚F)
 In an attempt to be more transparent, we're including a checklist here for what updates will (hopefully) be made to the website this week.
 
 - [ ] Elections
-- [x] Finish Issue 12
-- [x] Finish Issue 13
-- [x] Finish Issue 14
-- [ ] Finish Issue 15
-- [ ] Finish Issue 16
+- [ ] Change People section to reflect election results
+- [ ] Finish Issue 19
+- [ ] Finish Issue 20
+- [ ] Finish Issue 21
+- [ ] Finish Issue 22
+- [ ] Finish Issue 23
