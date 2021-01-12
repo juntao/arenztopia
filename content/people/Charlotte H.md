@@ -6,4 +6,4 @@ jobtitle: "Senator and Taste Tester"
 weight: 7
 ---
 
-Charlotte is a senator and also a taste tester for Dripping Cone ice cream company, which was voted "Best job in Arenztopia" by The Arenztopia Inquirer.
+Charlotte recently won her second term as senator and also a taste tester for Dripping Cone ice cream company, which was voted "Best job in Arenztopia" by The Arenztopia Inquirer.
