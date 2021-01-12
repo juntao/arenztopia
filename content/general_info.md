@@ -25,9 +25,9 @@ All independents are grouped into the Red Party.
 Laws are approved by this process: First, a group of citizens or a politician proposes a bill. If the bill is on a level lower than national, the citizens in the area that is affected by the bill vote on it. If it wins the vote, the leaders of the affected area review it again, then the bill is apporved and passed into law. If the bill affects the entire nation, it goes to the senate. The senators look at the bill and make sure that it is reasonable and can be implemented, and if the bill is passed, it goes to the Executive Branch. The King, the advisors, and the Vice President look over the bill and see if it improves the situation of the country and if it fits the interests of the people. After that, the bill goes to the Judicial Branch, which are the judges, who make sure that it is constitutional, then they will officially pass the bill into law.
 
 # Political Alignment
-Arenztopia is a military ally to the numerous city-states within it, and also to the USA, Japan, France, England, Spain, Germany, Russia, China, Costa Rica, Mexico, Peru, Italy, The Holy See, and Canada.
+Arenztopia is a military and economics ally to the numerous city-states within it, and also to the USA, Japan, France, England, Germany, China, Mexico, Italy, Vatican City, and Canada.
 
-Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the terrorist group Milestopia.
+Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the terrorist group Milestopia (Extinct)
 
 # Media
 The main media group in Arenztopia is the AMG, Arenztopia Media Group, which is an association that includes APR (Arenztopia Public Radio), ARB (Arenztopia Royal Broadcasting), ATV (Arenztopia TV), ATN (Arenztopia Television Network), and ANN (Arenztopia News Network)
