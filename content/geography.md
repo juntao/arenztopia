@@ -18,9 +18,7 @@ Several major rivers and deltas exist in Arenztopia.
 * The Squash River forms one of the longest river systems in Arenztopia with the Prairie River. This river system helps water the vast grasslands of Uivrmw.
 * The Prairie River is the only river in Arenztopia which does not have a delta where it meets the sea. It forms a river system with the Squash River.
 
-Arenztopia has many 
-
-Arenztopia also has lots of cities.
+Arenztopia has lots of cities:
 
 Arenztopia City is on the southern coast. It is the capital of Arenztopia and of the Capital Region. It's the biggest city in Arenztopia and it controls Arenztopia Bay, a stop on many major shipping routes. Arenztopia City is strategically placed next to Arenztopia Bay on a steep hill.
 
