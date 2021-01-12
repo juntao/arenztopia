@@ -2,8 +2,8 @@
 title: "Suhan L."
 date: 2020-09-T2:02:56+9:00
 draft: false
-jobtitle: "Conflicted former prime minister"
+jobtitle: "Secretary of STEM"
 weight: 11
 ---
 
-Suhan Li is a conflicted figure in Arenztopian politics, having served as the first and only Prime Minister of Arenztopia from the middle of January 2020 until the removal of the Prime Minister post in the middle of March 2020. After he was forced to resign, he threatened to bomb Arenztopia, so he was put in jail. However, less than a week later he broke out when an enemy helicopter airlifted him out of the prison. He was loyal to the enemy of Arenztopia, Milestopia, which is a terrorist organization. Suhan was on a "arrest on sight" order for the Arenztopia Police Association. However, since then, he has appealed for another chance and has now become a loyal citizen and developed trust from many political figures.
+Suhan Li is an interesting figure in Arenztopian Politics. He was born in Suzhou, China and moved to Arenztopia state in the US when he was young. In US, people were impressed by his inspiring character. He stayed in Arenztopia when it was free, and has become the Secretary of STEE(Science, Technology, Engineering, and Economics). Some of his contributions to Arenztopia includes the founding of Arenztopian Airlines, blockchain technology, Arenztopian enviroment health, and more.
