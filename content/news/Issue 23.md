@@ -8,4 +8,4 @@ weight: 22
 
 # The Olb City Announcer
 Volume 3, Issue 4    
-January 11th-January 16th, 2021
+January 10th-January 16th, 2021
