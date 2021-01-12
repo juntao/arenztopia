@@ -8,12 +8,12 @@ weight: 19
 
 # The Olb City Announcer
 Volume 2, Issue 20    
-December 28th-January 3rd, 2020
+December 20th-December 26th, 2020
 
 ## Inauguration next Friday
-by Lorenzo Avila
+by Tony Yuan
 
-The winners of the 2020 Arenztopian elections will be inaugurated Friday, January 15th. To attend the inauguration ceremony check your email or signup for citizenship if you have not. The Runnoff election for the last 2 positions of judge will also start on the 15th and go until the 25th. Make sure to cast your ballot. 
+The winners of the 2020-2021 Arenztopian Elections will be inaugurated Friday, January 15th. To attend the inauguration ceremony so start on the 15th and go until the 25th. Make sure to cast your ballot. 
 
 
 ## Covid Updates
