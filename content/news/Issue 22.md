@@ -10,5 +10,4 @@ weight: 22
 Volume 3, Issue 3    
 January 3rd-January 9th, 2021
 
-
-(this one is yours tony.)
+## Inauguration Next Week
