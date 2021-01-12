@@ -10,15 +10,6 @@ weight: 21
 Volume 3, Issue 1    
 December 27th-January 2nd, 2020 and 2021, respectively
 
-
----
-title: "Issue 21"
-date: 2020-03-08T12:33:46+10:00
-draft: false
-featured: true
-weight: 1
----
-
 # The Olb City Announcer
 Volume 1, Issue 1
 March 1st- March 7th, 2020
