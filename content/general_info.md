@@ -1,5 +1,5 @@
 ---
-title: 'General Information'
+title: 'Essential Information'
 menu: 'main'
 weight: '3'
 ---
