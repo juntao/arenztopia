@@ -38,7 +38,7 @@ Arenztopian doctors have developed a vaccine which is very different than the on
 ## The Political Politician
 by Tony Yuan
 
-The race is getting heated as all the candidates gain votes quicker than anybody can count. We still don't have exact poll or election numbers because of a sudden technological failure.
+The race is getting heated as all the candidates gain votes quicker than anybody can count. We still don't have exact poll or election numbers because of the sudden technological failure mentioned in the last issue.
 
 ## Feature:
 By Tony Yuan
