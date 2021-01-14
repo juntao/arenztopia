@@ -287,23 +287,9 @@ Largest region/state: Coastal Region
 Smallest region/state: Mountain Region   
 Size of Economy: 10 trillion Arenzos (5 trillion USD)    
 Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/home)
-Airline: Arenztopian Airlines (AAL)
+Airline: [Arenztopian Airlines](https://sites.google.com/view/totoro-airlines/home)
 National animal: Horse    
 National food: Ice Cream    
 Languages spoken: Arenzese, English, Spanish   
 Highest temperature recorded: 41˚C (105˚F)   
 Lowest temperature recorded: -16˚C (16.8˚F)    
-
-
-
-# This Week's Checklist
-
-In an attempt to be more transparent, we're including a checklist here for what updates will (hopefully) be made to the website this week.
-
-- [ ] Elections
-- [ ] Change People section to reflect election results
-- [ ] Finish Issue 19
-- [ ] Finish Issue 20
-- [ ] Finish Issue 21
-- [ ] Finish Issue 22
-- [ ] Finish Issue 23
