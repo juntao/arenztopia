@@ -39,7 +39,7 @@ Cases are dropping steadily with 685 cases and 36 deaths. With the FDA approval 
 ## The Political Politician
 by Tony Yuan
 
-We've stopped recieving election updates due to a sudden technological failure. Therefore, we cannot report accurate news; so, we are temporarily halting the Political Politician
+We've stopped recieving election updates due to a sudden technological failure. Therefore, we cannot report accurate news and so we will not be giving as accurate reports as we have been. We are sincerely sorry for any inconveniences this might cause.
 
 ## Feature: Gerel Farnor
 by Tony Yuan
