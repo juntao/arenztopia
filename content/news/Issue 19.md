@@ -13,22 +13,41 @@ December 13th-December 19th, 2020
 ## Japenese Military Bunker Found
 by Tony Yuan
 
-On Monday, gold miners digging in the Arenztopian Desert hit a strong and suspisciously flat rock. After 2 days of digging they found a bunker marked with the Japanese flag. Scientists and historians believe that this bunker was built during WW2 to combat the American soldiers who had used Arenztopia as a US base. 
+Bull Horn Oasis-On Monday, gold miners digging in the Arenztopian Desert hit a strong and suspisciously flat rock. After 2 days of digging they found a bunker marked with the Japanese flag. Scientists and historians believe that this bunker was built during WW2 to combat the American soldiers who had used Arenztopia as a US base. During WW2, the Japanese breifly captured this area of the Arenztopian Desert but were only defeated after they had built several bunkers like this one. This find is especially significant because this is the largest Japanese bunker ever found in Arenztopia. Scientists believe that the bunker was abandoned by the Japanese in early 1945 after and air strike; there is a large hole in the top of the bunker, with two skeletons around it. The bunker contains several rooms, including a medical bay, a common area, beds for 15 soldiers, a mess hall, and more. The bunker also contains dozens of crates of nearly pristine Japanese WW2 artifacts, including a crate full of extremely rare Japanese grenades. "This is a very exciting find", says George Danska, the director of the Arenztopia WWII Historical Society. "The finds in this bunker could help revolutionize our understanding of the Japanese in Arenztopia during WW2." Some people say that the artifacts should be preserved and the bunker turned into a museum; others say that the artifacts should be shipped off to historians and scientists.
 
 ## Arts
-by Lorenzo Avila
+by Owen Miyazoi
 
-Famous artist, Diego Nahum know for his abstract paintings, died of cancer. His entire fortune will be donated to cancer research. His last art piece "the light" (stylized in all lowercase,) is about his final days. The piece will be auctioned at the New Paris Art Gallery for a starting bid of 10 million. His wife passed away 2 hours after his death. Doctors believe she died of a heart attack. The Autopsie will be coming in 5 hours.
+The famous artist Diego Nahum, who was known for his abstract paintings, died of cancer on Tuesday. He was 68. He had amassed a gigantic fortune of 140 million Arenzos through the sale of his artwork, and this money will be completely donated to cancer research. His wife also passed away of a heart attack less than a day after his death.
 
 ## Sports
 by Sam-Louis Alrocaet
 
-On Sunday the Arenztopian National Hockey team will go up against the Canadian national team. The winner will go up against the Swedish national team. Weather has started getting slightly warmer, so a special celebrity soccer game will take place on January 25th. 
+On Wednesday, the Arenztopian National Hockey Team went up against the Canadian national team. The Arenztopian Team won and will go up against the Swedish national team next. The weather has started getting slightly warmer, so a special celebrity soccer game will take place on January 25th. 
 
 ## Weather
 by Mezoir Logan 
 
-A tropical storm named Vonso has started moving towards Arenztopia from the east. Meteorologist believe the worst of the storm will be in Arenztopia on Friday next week. Tropical Storm Vonso will probably be gone by 2021. Weather is getting warmer with morning temperature on Monday being 21 F.
+A tropical storm named Vonso has started moving towards Arenztopia from the East. Meteorologists believe the worst of the storm will be in Arenztopia on Friday next week. Tropical Storm Vonso will probably be gone by 2021. Weather is getting warmer with morning temperature on Monday being 21 degrees F.
+
+## Coronavirus Report (Special: Vaccine!)
+by Owen Miyazoi
+
+Arenztopian doctors have developed a vaccine which is very different than the one used in the US. The vaccine is 1 dose and takes action within 12 hours. The vaccine will temporarily only be available to fronline workers, people who are older than 65, and people with critical disease. The vaccine will be open to the general public on Feburary 1st.
+
+## The Political Politician
+by Tony Yuan
+
+The race is getting heated as all the candidates gain votes quicker than anybody can count. We still don't have exact poll or election numbers because of a sudden technological failure.
+
+## Feature:
+By Tony Yuan
+
+## [random article]
+by Sam-Louis Alrocaet
+
+## [random article]
+by Owen Miyazoi
 
 ## Poetry 
 by Lorenzo Avila 
@@ -44,16 +63,5 @@ gone
 he is gone    
 he was Diego   
 
-
-## Covid-19 Vaccine 
+## Obituary
 by Owen Miyazoi
-
-Arenztopian doctors have developed a vaccine, essentially different than the one used in the US. The vaccine is 1 part and will be 95% affective in 10 hours. The vaccine will temporarily only be available to fronline workers, 65 years +, and people with critical disease. The Covid vaccine will be open to the public on January 25th.
-
-
-
-
-
-
-
-
