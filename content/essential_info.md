@@ -5,7 +5,7 @@ weight: '3'
 ---
 
 # Essential Information
-This section is your one-stop shop for information about Arenztopia. It includes a general guide, guides to the political structure and alignment of Arenztopia, a basic guide to the media companies in Arenztopia, a guide to the economics of Arenztopia, an extremely comprehensive guide to the history of Arenztopia, 
+This section is your one-stop shop for information about Arenztopia. It includes a general guide, guides to the political structure and alignment of Arenztopia, a basic guide to the media companies in Arenztopia, a guide to the economics of Arenztopia, an extremely comprehensive guide to the history of Arenztopia, and more.
 
 ## General Guide
 The Arenztopian Island resides off the coast of Mexico. The President is Lorenzo Sebastian Javier Avila, Ruler Of the Country Of Arenztopia, and he lives in Arenztopia City, which is located next to the Bay of Arenztopia at the southeast corner of the island. The 50 million people on the island enjoy a plentiful economy of $5 trillion and lots of beautiful cities. The major cities are Arenztopia City, Olb City, Noi City, Austerfield, Arville, Shersville, New Austin, Sitin, and New Rome. Symbols of Arenztopia include a horse (the national animal) and ice cream, (national food). The people speak Arenzese, English, and Spanish. Mount Arenztopia is the highest spot, at an astounding 20,100 feet. On the contrary, the lowest point is in the Arenztopian Desert at 200 feet below sea level. The country's motto is "We love books", but the more commonly used version is the Arenzese, "Dv Olev Yllph."The currency of Arenztopia is called the Arenzo. One arenzo is equal to 50 cents USD. All stores will accept it, and most people use it. It is unique in that it is completely digital-no paper bills or coins involved.
@@ -214,8 +214,6 @@ Battle Plan: War of Chickentopia (O)
 Battle Plan: War of Chickentopia 2 (O)    
 Arenztopia government diagram (O)    
 Confidential: For the King's eyes only (O)    
-
-
 
 ## Geography
 
