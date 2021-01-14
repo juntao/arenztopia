@@ -5,7 +5,7 @@ weight: '3'
 ---
 
 # General Information
-The Arenztopian Island resides off the coast of Mexico. The king is Lorenzo Sebastian Javier Avila, Supreme Monarch Of the Country Of Arenztopia, and he lives in Arenztopia City, which is located next to the Bay of Arenztopia at the southeast corner of the island. The 50 million people on the island enjoy a plentiful economy of $5 trillion and lots of beautiful cities. The major cities are Arenztopia City, Olb City, Noi City, Austerfield, Arville, Shersville, New Austin, Sitin, and New Rome. Symbols of Arenztopia include a horse (the national animal) and ice cream, (national food). The people speak Arenzese, English, and Spanish. Mount Arenztopia is the highest spot, at an astounding 20,100 feet. On the contrary, the lowest point is in the Arenztopian Desert at 200 feet below sea level. The country's motto is "A job in the government is to serve and not dominate", but the more commonly used version is the Arenzese, "Z qly rm gsv tlevimnvmg rh gl hviev zmw mlg wlnrmzgv". The currency of Arenztopia is called the Arenzo. One arenzo is equal to 50 cents USD. All stores will accept it, and most people use it. It is unique in that it is completely digital-no paper bills or coins involved.
+The Arenztopian Island resides off the coast of Mexico. The President is Lorenzo Sebastian Javier Avila, Ruler Of the Country Of Arenztopia, and he lives in Arenztopia City, which is located next to the Bay of Arenztopia at the southeast corner of the island. The 50 million people on the island enjoy a plentiful economy of $5 trillion and lots of beautiful cities. The major cities are Arenztopia City, Olb City, Noi City, Austerfield, Arville, Shersville, New Austin, Sitin, and New Rome. Symbols of Arenztopia include a horse (the national animal) and ice cream, (national food). The people speak Arenzese, English, and Spanish. Mount Arenztopia is the highest spot, at an astounding 20,100 feet. On the contrary, the lowest point is in the Arenztopian Desert at 200 feet below sea level. The country's motto is "We love books", but the more commonly used version is the Arenzese, "Dv Olev Yllph."The currency of Arenztopia is called the Arenzo. One arenzo is equal to 50 cents USD. All stores will accept it, and most people use it. It is unique in that it is completely digital-no paper bills or coins involved.
 
 Here's a [free Arenzese translator](https://www.theproblemsite.com/reference/mathematics/codes/backwards-alphabet-code). You type English into the box, press "encode", and it'll translate into Arenzese.   
  
@@ -275,19 +275,18 @@ Length across, lengthwise: 2,400 miles
 Length across, width-wise: 1,600 miles   
 Highest point: Arenztopia Mountain-20,100 feet above sea level   
 Lowest point: Arenztopian Desert (Al-Shakbur Oasis Settlement)-200 feet below sea level   
-Largest city: Arenztopia City-2 million   
-Smallest city: Cuyanting-2,500  
+Largest city: Arenztopia City-2 million pop.   
+Smallest city: Cuyanting-2,500 pop.  
 Tallest building: Arenztopia Tower-1,800 feet (550 meters)    
 Total population: 50 million   
-Motto: A job in the government is to serve and not dominate    
+Motto: We love books (Dv Olev Yllph)    
 Demonyms: Arenztopian, Arenzish, Arenzese    
 Web Suffixes: .az, .arenz, .arnz, .arnztpa    
 No. of regions/states: 9   
 Largest region/state: Coastal Region   
 Smallest region/state: Mountain Region   
 Size of Economy: 10 trillion Arenzos (5 trillion USD)    
-Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/home)
-Airline: [Arenztopian Airlines](https://sites.google.com/view/totoro-airlines/home)
+Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/home)    
 National animal: Horse    
 National food: Ice Cream    
 Languages spoken: Arenzese, English, Spanish   
