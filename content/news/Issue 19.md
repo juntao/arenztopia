@@ -11,7 +11,7 @@ Volume 2, Issue 19
 December 13th-December 19th, 2020
 
 ## Japenese Military Bunker Found
-by Tony Yuan
+by Lorenzo Avila
 
 Bull Horn Oasis-On Monday, gold miners digging in the Arenztopian Desert hit a strong and suspisciously flat rock. After 2 days of digging they found a bunker marked with the Japanese flag. Scientists and historians believe that this bunker was built during WW2 to combat the American soldiers who had used Arenztopia as a US base. During WW2, the Japanese breifly captured this area of the Arenztopian Desert but were only defeated after they had built several bunkers like this one. This find is especially significant because this is the largest Japanese bunker ever found in Arenztopia. Scientists believe that the bunker was abandoned by the Japanese in early 1945 after and air strike; there is a large hole in the top of the bunker, with two skeletons around it. The bunker contains several rooms, including a medical bay, a common area, beds for 15 soldiers, a mess hall, and more. The bunker also contains dozens of crates of nearly pristine Japanese WW2 artifacts, including a crate full of extremely rare Japanese grenades. "This is a very exciting find", says George Danska, the director of the Arenztopia WWII Historical Society. "The finds in this bunker could help revolutionize our understanding of the Japanese in Arenztopia during WW2." Some people say that the artifacts should be preserved and the bunker turned into a museum; others say that the artifacts should be shipped off to historians and scientists.
 
