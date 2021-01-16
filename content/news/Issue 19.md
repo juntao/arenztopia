@@ -28,7 +28,7 @@ On Wednesday, the Arenztopian National Hockey Team went up against the Canadian 
 ## Weather
 by Mezoir Logan 
 
-A tropical storm named Vonso has started moving towards Arenztopia from the East. Meteorologists believe the worst of the storm will be in Arenztopia on Friday next week. Tropical Storm Vonso will probably be gone by 2021. Weather is getting warmer with morning temperature on Monday being 21 degrees F.
+A tropical storm named Vonso has started moving towards Arenztopia from the East. Meteorologists believe the worst of the storm will be in Arenztopia on Friday next week. Tropical Storm Vonso will probably be gone by 2021. The weather is getting warmer with morning temperature on Monday being 21 degrees F.
 
 ## Coronavirus Report (Special: Vaccine!)
 by Owen Miyazoi
@@ -40,8 +40,11 @@ by Tony Yuan
 
 The race is getting heated as all the candidates gain votes quicker than anybody can count. We still don't have exact poll or election numbers because of the sudden technological failure mentioned in the last issue.
 
-## Feature:
+## Feature: Fedangu Roh
 By Tony Yuan
+
+We interviewed Fedangu Roh, a famous Thai-Arenztopian entreprenuer who now runs the largest donut business in Olb City, PX Donuts.
+
 
 ## [random article]
 by Sam-Louis Alrocaet
