@@ -40,12 +40,12 @@ by Tony Yuan
 
 The race is getting heated as all the candidates gain votes quicker than anybody can count. We still don't have exact poll or election numbers because of the sudden technological failure mentioned in the last issue.
 
-## Feature: Fedangu Roh
+## Feature: Terry Chan
 By Tony Yuan
 
-We interviewed Fedangu Roh, a famous Thai-Arenztopian entreprenuer who now runs the largest donut business in Olb City, PX Donuts.
+We interviewed Terry Chan, a famous Cambodian-Arenztopian entreprenuer who now runs the largest donut business in Olb City, PX Donuts.
 
-
+Olb City Announcer: 
 ## [random article]
 by Sam-Louis Alrocaet
 
