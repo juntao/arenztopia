@@ -79,13 +79,13 @@ by Tony Yuan
 
 Vaccine
 
-Vaccine
-A blessing
-Covid be gone!
-Could we be saved?
-In the labs of thousands of scientists
-No expense spared
-Egad! A vaccine.
+Vaccine    
+A blessing    
+Covid be gone!    
+Could we be saved?    
+In the labs of thousands of scientists    
+No expense spared    
+Egad! A vaccine.    
 
 ## Obituary
 by Owen Miyazoi
