@@ -43,9 +43,23 @@ The race is getting heated as all the candidates gain votes quicker than anybody
 ## Feature: Terry Chan
 By Tony Yuan
 
-We interviewed Terry Chan, a famous Cambodian-Arenztopian entreprenuer who now runs the largest donut business in Olb City, PX Donuts.
+We interviewed Terry Chan, a Cambodian refugee who now runs the largest donut business in Olb City, PX Donuts.
 
-Olb City Announcer: 
+Olb City Announcer: How did you get started in the donut business?
+
+Terry Chan:
+
+OCA:
+
+TC:
+
+OCA:
+
+TC:
+
+OCA: Well, that' all the questions that we have today, and thanks for coming!
+
+TC: Thank you, thank you for inviting me!
 ## [random article]
 by Sam-Louis Alrocaet
 
