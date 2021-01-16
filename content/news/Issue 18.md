@@ -90,4 +90,4 @@ Egad! A vaccine.
 ## Obituary
 by Owen Miyazoi
 
-Influential and powerful former mayor Danand Sagarwad died at the age of 88 on Thursday. He was the mayor of Olb City from 1978 to 1988 and pressed forward on aggressive environmental change and urban expansion, transforming Olb City from a small, stuffy factory town into the gleaming, green metropolis that we see today. To pay your respects, visit his online monument at olbcity.az/sagarwad or attend his funeral in Olb Plaza on January 10.
+Influential and powerful former mayor Danand Sagarwad died at the age of 88 on Thursday. He was the mayor of Olb City from 1978 to 1988 and pressed forward on aggressive environmental change and urban expansion, transforming Olb City from a small, stuffy factory town into the gleaming, green metropolis that we see today. To pay your respects, visit his online monument at [olbcity.az/sagarwad](olbcity.az/sagarwad) or attend his funeral in Olb Plaza on January 10.
