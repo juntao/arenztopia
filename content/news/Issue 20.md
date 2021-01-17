@@ -3,25 +3,64 @@ title: "Issue 20"
 date: 2020-03-8T12:33:46+10:00
 draft: false
 featured: true
-weight: 19
+weight: 20
 ---
 
 # The Olb City Announcer
 Volume 2, Issue 20    
 December 20th-December 26th, 2020
 
-## Inauguration next Friday
+## Election Results Announced
 by Tony Yuan
 
-The winners of the 2020-2021 Arenztopian Elections will be inaugurated Friday, January 15th. To attend the inauguration ceremony so start on the 15th and go until the 25th. Make sure to cast your ballot. 
+{Article}
 
+## Arts
+by Owen Miyazoi
 
-## Covid Updates
+{Article}
 
+## Sports
+by Sam-Louis Alrocaet
 
-Vaccine distribution is the same as stated in issue 19. Cases have gone down quite a bit with only 123 cases as of the moment. Arenztopia Tech, A goverment run tech buisness, has made many more ventilators. They have 9x the amount that hospitals around arenztopia needed. CEO of Arenztopia Tech, Suhan lee, says "it was necessary." If you are feeling any syptoms contact CovidArenztopia@Arenztopia.com
+{Article}
 
+## Weather
+by Mezoir Logan 
 
+{Article: Tropical Storm Vonso}
 
+## Coronavirus Report
+by Owen Miyazoi
 
-(Tony you are working on this one)
+{Article}
+
+## The Political Politician: The Final Issue
+by Tony Yuan
+
+{Article}
+
+## Feature: {Person}
+By Tony Yuan
+
+{Article}
+
+## {Title}
+by Sam-Louis Alrocaet
+
+{Article: Follow-up to jet boat crash}
+
+## {Title}
+by Owen Miyazoi
+
+{Article}
+
+## Poetry 
+by Tony Yuan
+
+{Poem}
+
+## Obituary
+by Owen Miyazoi
+
+{Article}
