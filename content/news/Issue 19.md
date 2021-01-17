@@ -51,23 +51,27 @@ Terry Chan: Well, so I was fleeing from Cambodia in 1971 during the war there, a
 
 OCA: What was your life in Cambodia like?
 
-TC:
+TC: Well, I was a lawyer, one of the best jobs in Cambodia at the time, and then the war started, and once the Khmer Rouge conquered more than a third of the country, I detected that it would be difficult to get away from Cambodia if I left any later, and besides, nobody wants to be trapped in the middle of a war. So I boarded a plane with my wife and son and left.
 
 OCA: How did you build your donut empire?
 
-TC:
+TC: Well, I think it was all very hard work. My wife worked the counter, me and my son made the donuts and did all the financial stuff, and we worked that hard, taking orders 24/7, and we never got more than three hours of sleep every night. And to make matters even worse, we didn't speak a scrap of English at the time.
 
-OCA: Well, that' all the questions that we have today, and thanks for coming!
+OCA: Well, that's all the questions that we have today, and thanks for coming!
 
 TC: Thank you for inviting me!
 
 This interview was edited for length and clarity.
 
-## [random article]
+## Experimental jet boat crashes
 by Sam-Louis Alrocaet
 
-## [random article]
+A new, experimental jet boat crashed spectacularily on Lake Oglethorpe on Wednesday. The jet boat was a project that was being developed by students at Olb University with the permission of their professor. It was going for its first test run, but the jet engines turned out to be more powerful than predicted and launched the entire boat into the air, effectively rendering it a plane. The boat whizzed around in the sky above Lake Oglethorpe before crashing into the shore and bursting into flames. The pilot, a 19-year-old named John Servelt, suffered injuries and was taken to the hospital. Doctors say that he is in a stable condition. "It's a miracle that nobody died during that test run," says Humboldt Retuson, one of the students involved in the development of the jet boat. The professor quickly shut down the project after the crash and the fifteen students responsible for developing the boat are expected to go to court next week.
+
+## Fatal train crash occurs
 by Owen Miyazoi
+
+The Arctic Wolf, a high-speed passenger train that goes through Olb City, derailed and crashed into several pedestrians on Monday. Eyewitnesses describe the train as suddenly swerving off of the elevated track and falling onto an intersection below, where it crushed two cars and hit five pedestrians before flipping over and shutting down. Three out of five of the pedestrians have died, while two people who were in cars have also died. The train, fortunately, was empty, but the driver suffered major injuries and is still in an unstable condition. The intersection was roped off and the wreckage of the train and cars has been removed, although the elevated track is still undergoing repairs. The driver is named George Dermak and his record is spotless. "The train was cruising along fine and then it simply swerved and fell off of the track", Mr. Dermak says.
 
 ## Poetry 
 by Lorenzo Avila 
@@ -85,3 +89,5 @@ he was Diego
 
 ## Obituary
 by Owen Miyazoi
+
+On Friday, beloved local actor Worna Gorhe died of old age at the age of 98 on Tuesday. Mrs. Gorhe was renowned around Arenztopia for being one of the most popular film actors from 1940 to 1987. She was also famous for her beautiful voice, which starred in many radio plays and musicals. To show sympathy, call 680-551-2290 or go to her website at [wornagorhe.com.](wornagorhe.com)
