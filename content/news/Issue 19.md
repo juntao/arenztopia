@@ -47,19 +47,22 @@ We interviewed Terry Chan, a Cambodian refugee who now runs the largest donut bu
 
 Olb City Announcer: How did you get started in the donut business?
 
-Terry Chan:
+Terry Chan: Well, so I was fleeing from Cambodia in 1971 during the war there, and I had no work, right? So I was looking around for work, and I saw this donut shop, and it was absolutely crazy, like 24/7 there were at least 15 people in line, all day and night. So I went and asked how much it cost to run a donut shop, and the nice lady at the counter told me that it was between 1,500 and 2,000 dollars, and I was like, ok, that's pretty cheap, because coming from Cambodia I had 4,000 dollars. So I went and opened my own donut shop, down on 5th street, and it just totally took off, like I was selling 4,000 dollars of donuts per month. So I got rich in no time, and opened another shop, and another, and another, and now it's the biggest donut company in Olb City.
 
-OCA:
+OCA: What was your life in Cambodia like?
 
 TC:
 
-OCA:
+OCA: How did you build your donut empire?
 
 TC:
 
 OCA: Well, that' all the questions that we have today, and thanks for coming!
 
-TC: Thank you, thank you for inviting me!
+TC: Thank you for inviting me!
+
+This interview was edited for length and clarity.
+
 ## [random article]
 by Sam-Louis Alrocaet
 
