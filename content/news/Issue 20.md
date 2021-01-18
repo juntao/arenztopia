@@ -23,7 +23,7 @@ Famous street artist Kahn Cankam rolled his newest art piece into the middle of 
 ## Sports
 by Sam-Louis Alrocaet
 
-The National Arenztopian Mountaineering Tournament (NAMT) finished on Wednesday when the Arenztopia City Alpacas beat the Canopian Cheetahs in just about every part of the game. The only award that the Cheetahs won was the Best Costume award. "How the Cheetahs actually go to the top of the tournament, I'll never understand," says Pat Green, the presiding judge of the NAMT.
+The National Arenztopian Mountaineering Tournament (NAMT) finished on Wednesday when the Arenztopia City Alpacas beat the Canopian Cheetahs in just about every part of the game. The only award that the Cheetahs won was the Best Costume award. "How the Cheetahs actually got to the top of the tournament, I'll never understand," says Pat Green, the presiding judge of the NAMT.
 
 ## Weather
 by Mezoir Logan 
