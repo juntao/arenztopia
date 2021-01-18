@@ -13,22 +13,22 @@ December 20th-December 26th, 2020
 ## Election Results Announced
 by Tony Yuan
 
-{Article}
+On Sunday, the results of the 2020-2021 Arenztopian Elections were announced. The position of Vice President was given to Tony Yuan, while the Mayor position was won by Ellidy J. Claire P. won a third term as Advisor, and the senators are James O., Charlotte H, and Michael A. Cheif Judge is Kassie K., and there will be a runoff for the other judges next month. "I'm really happy with who our citizens have voted for," says Laura Vercal, a politics expert at Olb University. "I think these choices are suitable for representing our country."
 
 ## Arts
 by Owen Miyazoi
 
-{Article}
+Famous street artist Kahn Cankam rolled his newest art piece into the middle of Olb Plaza during the dead of night on Tuesday. The sculpture is a huge wooden horse covered in colorful geometric patterns. Titled "Trojan Horse," the new installation caused a sensation when everybody woke up on Wednesday. "I was actually quite shocked," says Mercine Darasen, a citizen. "I mean, I wake up and there's this huge colorful horse staring at me through my window." 
 
 ## Sports
 by Sam-Louis Alrocaet
 
-{Article}
+The National Arenztopian Mountaineering Tournament (NAMT) finished on Wednesday when the Arenztopia City Alpacas beat the Canopian Cheetahs in just about every part of the game. The only award that the Cheetahs won was the Best Costume award. "How the Cheetahs actually go to the top of the tournament, I'll never understand," says Pat Green, the presiding judge of the NAMT.
 
 ## Weather
 by Mezoir Logan 
 
-{Article: Tropical Storm Vonso}
+Tropical Storm Vonso touched land on Wednesday after briefly strengthening to a Category 1 Hurricane on Tuesday. Austerfeild was hit first and reported stong winds of up to 79 mph and heavy rain, but no casualities and only minor damage such as branches breaking off and shingles blowing away. In other news, temperatures have fallen to -2 and -3 degrees, and meteorologists predict that Tropical Storm Vonso might actually bring ice, hail, snow and sleet instead of rain.
 
 ## Coronavirus Report
 by Owen Miyazoi
