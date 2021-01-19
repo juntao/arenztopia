@@ -173,4 +173,4 @@ More restauraunts include Dregak ($$$), which is a chic, luxury restauraunt hous
 
 Written by Renzo and Tony. Powered by the Arenztopian Bureau of Tourism.
 
-Copyright 2020 by the Arenztopian Office of Tourism. All Rights Reserved
+Copyright 2020, 2021 by the Arenztopian Bureau of Tourism. All Rights Reserved.
