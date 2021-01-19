@@ -6,4 +6,4 @@ jobtitle: "Student of Theater"
 weight: 9
 ---
 
-Ellidy is a student currently studying theater at the University of Arenztopia. She is a distinguished Arenztopian for her contributions to the archives of the Department of Theater. She is believed to be cast in the new AZ movie coming out mid 2020.
+Ellidy is a student currently studying theater at the University of Arenztopia. She is a distinguished Arenztopian for her contributions to the archives of the Department of Theater.
