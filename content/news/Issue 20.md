@@ -33,14 +33,14 @@ Tropical Storm Vonso touched land on Wednesday after briefly strengthening to a 
 ## Coronavirus Report
 by Owen Miyazoi
 
-{Article}
+As cases steadily drop to just under 625, over 200 medical doctors and front-line staff have been given the new Arenztopian COVID-19 vaccine. The vaccine has been nicknamed Avac. If you're wanting more exact numbers, cases are at 623 and deaths are at 29.
 
-## The Political Politician: The Final Issue
+## The Political Politician: Not The Final Issue Yet!
 by Tony Yuan
 
-{Article}
+The main elections are over with the announcements of the results on Sunday, but we'll take a pause and then continue reporting when the runoffs for the judges start.
 
-## Feature: {Person}
+## Feature: 
 By Tony Yuan
 
 {Article}
