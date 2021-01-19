@@ -16,25 +16,28 @@ Arenztopia City was founded in 1565. It is a very large city with a great reputa
 
 ## Hotels
 
-Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (750-1000$ per night), it comes with spectacular veiws over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms, plus super fast on-demand room service.
-*1602 Longhorn Street*
+Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (750-1000$ per night), it comes with spectacular veiws over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms, plus super fast on-demand room service. They aslo have the option of rooms with less of a 16th century look going for a more modern look. Top of the line appliances an automated voice assistant and a plasma 100 inch flat screen tv in the bedrooms and the main room.
+
+Left wing is Modern
+Right wing is 16th century look
+*1602 tourism Street*
 
 
 Arenztopia Inn and Suites
 $$
-Arenztopia Inn and Suites is a high-end but still casual place. It is moderatly expensive (300-500$ per night) for a great experience. It does not have a commanding veiw, but comes with a 2-room suite and good room service. It also provides easy access to the Scientist´s Round, especially Mendeleev Plaza, and it is located at a spot with low traffic. Another plus is that it is right next door to the ACMA.
+Arenztopia Inn and Suites is a high-end but still casual place. It is moderatly expensive (300-500$ per night) for a great experience. It does not have a commanding veiw, but comes with a 2-room suite and high quality room service. It also provides easy access to the Scientist´s Round, especially Mendeleev Plaza, and it is located at a spot with low traffic. Another plus is that it is right next door to the ACMA. It is located close to the OCA building where you can take tours of how they produce news. Plus it is within 15 miles of the Palace of Arenztopia.
 *5802 Arenztopia Boulevard Five*
 
 
 Hotel Reale
 $$
-This great hotel is very high-end and modern but has a reasonable price tag(400-600$ per night). It has moderate veiws, but unfortunatley is located in a high-traffic zone. It has a free shuttle to all major sites. 
+This great hotel is very high-end and modern but has a reasonable price tag(300-500$ per night). It has moderate veiws, but unfortunatley is located in a high-traffic zone. It has a free shuttle to all major sites. It is know for its Pro- Chefs who cook breakfast and dinner Monday through saturday.
 *1202 Texas Road*
 
 
 Hilton Arenztopia
 $$
-A very standard, casual Hilton with great veiws but lots of traffic. Very close to the Dripping Cone Flagship store, and most tours of Arenztopia City begin there. 100-300$ per night. 
+A very standard, casual Hilton with great veiws but lots of traffic. Very close to the Dripping Cone Flagship store, and most tours of Arenztopia City begin there. 100-300$ per night. Most visitors will spend $100 arenzos on dripping cone plus many other sites. We recomend you bring 300 dollars for souveinirs.
 *2403 Longhorn street*
 
 
@@ -42,34 +45,34 @@ A very standard, casual Hilton with great veiws but lots of traffic. Very close 
 
 Fuhulemishirae Luxury Cusine
 $$$
-This is the undisputed king of all resturaunts in Arenztopia. The name Fuhulemshirae strikes fear into the hearts of food critics, chefs, and foodies alike. Komare Fuhulemshirae has spent all fifty years of his life preparing food and perfecting it. The signature dish is the 150$ Fuhulemshirae´s Klolmrfn Super, which is a dish so spicy and so good that people have fainted eating it. 
-*by appointment only. Must reserve 3 months in advance.
+This is the undisputed king of all resturaunts in Arenztopia. The name Fuhulemshirae strikes fear into the hearts of food critics, chefs, and foodies alike. Komare Fuhulemshirae has spent all fifty years of his life preparing food and perfecting it. The signature dish is the 150$ Fuhulemshirae´s Klolmrfn Super, which is a dish so spicy and so good that people have fainted eating it. Komare, often cooks at the hotel reale.
+*by appointment only. Must reserve 4 months in advance.
 *1000 Arenztopia Roundabout*
 
 
 Dripping Cone Flagship Store
 $$
-A huge store filled with the all of the best ice cream flavors that you could imagine. Dripping Cone ice cream is a classic staple of Arenztopia and has been since 1920.
+A huge store filled with the all of the best ice cream flavors that you could imagine. Dripping Cone ice cream is a classic staple of Arenztopia and has been since 1920. Though DC is a ice cream store, in 2020 it joined with a choclate company and now offers many candys and choclates along with ice cream. The shop has many colorfull paintings. It also includes a slide for children to slid on.
 *2401 Arenztopia Boulevard*
 
 
 NIOP Palace of Cusine
 $$
-One of the biggest resturaunts in Arenztopia, this gargantuan behemoth is 21,780 square feet of all the food from all the cultures you could imagine, from pad thai to hot dogs to haggis to pizza to empanadas to some that you´ve never heard of-it´s all here.
+One of the biggest resturaunts in Arenztopia, this gargantuan behemoth is 21,780 square feet of all the food from all the cultures you could imagine, from pad thai to hot dogs to haggis to pizza to empanadas to some that you´ve never heard of-it´s all here. It also includes brand new food that is now considered arenzish cuisine.
 *2700 Arenztopia Boulevard Three*
 
 
 ## Things to do
 
-Archeological Park $$ A vast archeological park with dinosaurs, mammoths, and ancient hominid remains. The 15$ ticket covers admission to every part of the park except for the museum, which charges 5$ extra, and a further 2$ to go to the special exhibits.
+Archeological Park $$ A vast archeological park with dinosaurs, mammoths, and ancient hominid remains. The 15$ ticket covers admission to every part of the park except for the museum, which charges 5$ extra, and a further 2$ to go to the special exhibits. Many times Ishaan P. does presantations.
 *2600-3400 Texas Road*
 
 
-Arenztopia City Museum of Art (ACMA) $ An amazing museum with thousands of statues, paintings, and drawings by hundreds of iconic masters, arranged in chronological order.
+Arenztopia City Museum of Art (ACMA) $ An amazing museum with thousands of statues, paintings, and drawings by hundreds of iconic masters, arranged in chronological order. You can do a variety of things there like bid on paintings.
 *5801 Arenztopia Boulevard Five*
 
 
-Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with a rococo interior. An excellent example of totally overdoing it in style. 5$ admission to see the most extravagantly styled building in Arenztopia.
+Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with a rococo interior. An excellent example of totally overdoing it in style. 5$ admission to see the most extravagantly styled building in Arenztopia. The main building was made in 1495 but was remodeled in 2020.
 *3300 Renzo Street*
 
 
@@ -81,7 +84,7 @@ Zoo National $ A large zoo that has hippos, elephants, giraffes, and tigers, amo
 *4000 Longhorn Street*
 
 
-LEGO store $$ A huge store filled with legos, including a 1:29 scale model of Arenztopia. Kids will love this store; it  contains nearly every lego set in circulation and at 10:00 every 2nd saturday of each month they auction off antique lego peices and sets. There is also a 10 foot by 10 foot tub filled with all the legos you could imagine.
+LEGO store $$ A huge store filled with legos, including a 1:29 scale model of Arenztopia. Kids will love this store; it  contains nearly every lego set in circulation and at 10:00 every 2nd saturday of each month they auction off antique lego peices and sets. There is also a 10 foot by 10 foot tub filled with all the legos you could imagine. As well as many legos it has a $9000 lego set from 1950. It is unknown what it was origanaly meant to be but we believe it to be a rocket.
 *2300 Arenztopia Boulevard*
 
 
@@ -183,6 +186,6 @@ More restauraunts include Dregak ($$$), which is a chic, luxury restauraunt hous
 
 # THE END
 
-
+Written by Renzo and Tony. Powered by Arenztopian Travel
 
 Copyright 2020 by the Arenztopian Office of Tourism. All Rights Reserved
