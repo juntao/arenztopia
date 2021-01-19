@@ -168,6 +168,14 @@ There are many oasis settlements throughout the desert section and also lots of 
 
 More restauraunts include Dregak ($$$), which is a chic, luxury restauraunt housed in a large former airplane hangar at the foot of one of the hills in the forest section. They're known for their dedacent bell pepper and roasted sparrow soup and their crunchy mushroom and chickpea salad. A great choice if you're in the desert section is Emionak, Desfri, and Wesnab ($$), a 1956 restauraunt that provides light, traditional foods such as crunchy grilled wild artichoke salad with yam dressing, or a banana (yes, banana) and sandhopper bird wrapped in traditional thin palm wheat bread. A more rugged option is the Dansatia Lodge & Restauraunt ($$), a new restauraunt established in 2018. They are housed in a large wood building nestled in the heart of the forest section. Some of their staples include wild perch and boar sandwiches, or chickpea and pheasant stew seasoned with black pepper and oregano.
 
+## Arenztopia Mountain National Park
+
+## Arenztopia Volcano National Park
+
+## Thunberg National Marine Reserve
+
+## Reef National Marine Reserve
+
 
 # THE END
 
