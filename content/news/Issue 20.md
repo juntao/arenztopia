@@ -40,10 +40,10 @@ by Tony Yuan
 
 The main elections are over with the announcements of the results on Sunday, but we'll take a pause and then continue reporting when the runoffs for the judges start.
 
-## Feature: 
+## Feature: Kahn Cankam
 By Tony Yuan
 
-{Article}
+We interviewed Kahn Cankam, a popular and famous street artist, about his new artwork, Trojan Horse.
 
 ## {Title}
 by Sam-Louis Alrocaet
