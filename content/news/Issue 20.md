@@ -64,7 +64,7 @@ KC: Thank you for inviting me! I hope you have a nice day!
 ## Students in jet boat crash acquitted
 by Sam-Louis Alrocaet
 
-This is a follow-up story to one of [last week's](https://www.arenztopia.com/news/issue-19/)stories. Most of the students involved in the catastrophic jet boat crash last Wednesday were acquitted of any crime when an investigation found that their supervising professor had been mostly responsible for creating the faulty jet engines that led to the crash. He was fired and sentenced to 1 year in jail; several, but not all, of the students were sentenced to less than one month in jail for their roles in developing other elements of the faulty jet engines.
+This is a follow-up story to one of [last week's](https://www.arenztopia.com/news/issue-19/) stories. Most of the students involved in the catastrophic jet boat crash last Wednesday were acquitted of any crime when an investigation found that their supervising professor had been mostly responsible for creating the faulty jet engines that led to the crash. He was fired and sentenced to 1 year in jail; several, but not all, of the students were sentenced to less than one month in jail for their roles in developing other elements of the faulty jet engines.
 
 ## {Title}
 by Owen Miyazoi
