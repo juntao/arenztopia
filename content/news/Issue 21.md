@@ -14,10 +14,10 @@ December 27th-January 2nd, 2020 and 2021, respectively
 Volume 1, Issue 1
 March 1st- March 7th, 2020
 
-## Restraunt owner shut down
+## Restraunt shut down
 by Lorenzo Avila
 
-A local restraunt owner, Joe Lonou, was arrested today for not following Covid guidelines. He had his tables not 6 feet apart, he had the restraunt at max capacity, and he was not  a mask. He was put in jail for 5 months. His restraunt also is being shut down. He told the OCA that "I don't regret a thing." The police said "This is the type of person who is selfish, and cares for no one but himself."
+A local restraunt owner, Joe Lonou, was arrested today for not following Covid guidelines. He had his tables not 6 feet apart, he had the restraunt at max capacity, and he was not requiring a mask. He was put in jail for 5 months. His restraunt also is being shut down. He told the OCA that "I don't regret a thing." The police said "This is the type of person who is selfish, and cares for no one but himself."
 
 
 ## Arts
@@ -29,8 +29,7 @@ An art piece,The Flood , depicting a waterfall in a fictinal wonderland painted 
 ## Sports
 by Sam-Louis Alrocaet
 
-
-
+The Arenztopian Tigers, a newer hockey team formed in Olb City, went up against the Arenztopian Horses for their final game of the season. They won 5-2. Their start player , Samuel Williams, said he is "proud of himself and his team mates. i am grateful for all the work his coach put in to helping us reach this milestone." They are being honored in New paris and will be awarded the Youngest champion team by The Arenztopia sports inc.
 
 ## Weather
 by Mezoir Logan 
