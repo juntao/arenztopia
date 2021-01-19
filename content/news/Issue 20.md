@@ -45,6 +45,18 @@ By Tony Yuan
 
 We interviewed Kahn Cankam, a popular and famous street artist, about his new artwork, Trojan Horse.
 
+Olb City Announcer: So what was the inspiration for Trojan Horse?
+
+Kahn Cankam: I'm inspired a lot by Bansky, the English street artist, and he did some stuff where he had classical-looking busts but he [made them look "glitchy."](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F491877590522063225%2F&psig=AOvVaw1i3BnC4y6W0CZLXbMxmAgj&ust=1611180478728000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCM_5SBqe4CFQAAAAAdAAAAABAd) So I was inspired by that and decided to make a classical thing look very modernized.
+
+OCA: How did you make this artwork, and how did you get it into Olb Plaza without anybody noticing?
+
+KC: So I set up a large workshop and started building a big horse out of wood, and after I was done with that I set up some crude scaffolding around it and started painting. I worked on it for, I don't know, maybe five months. As for how I got it into the plaza, I'm not gonna say.
+
+OCA: 
+
+KC:
+
 ## {Title}
 by Sam-Louis Alrocaet
 
