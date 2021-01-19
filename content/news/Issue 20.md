@@ -18,7 +18,7 @@ On Sunday, the results of the 2020-2021 Arenztopian Elections were announced. Th
 ## Arts
 by Owen Miyazoi
 
-Famous street artist Kahn Cankam rolled his newest art piece into the middle of Olb Plaza during the dead of night on Tuesday. The sculpture is a huge wooden horse covered in colorful geometric patterns. Titled "Trojan Horse," the new installation caused a sensation when everybody woke up on Wednesday. "I was actually quite shocked," says Mercine Darasen, a citizen. "I mean, I wake up and there's this huge colorful horse staring at me through my window." 
+Famous street artist Kahn Cankam, who is originally of American descent, rolled his newest art piece into the middle of Olb Plaza during the dead of night on Tuesday. The sculpture is a huge wooden horse covered in colorful geometric patterns. Titled "Trojan Horse," the new installation caused a sensation when everybody woke up on Wednesday. "I was actually quite shocked," says Mercine Darasen, a citizen. "I mean, I wake up and there's this huge colorful horse staring at me through my window." 
 
 ## Sports
 by Sam-Louis Alrocaet
@@ -47,20 +47,24 @@ We interviewed Kahn Cankam, a popular and famous street artist, about his new ar
 
 Olb City Announcer: So what was the inspiration for Trojan Horse?
 
-Kahn Cankam: I'm inspired a lot by Bansky, the English street artist, and he did some stuff where he had classical-looking busts but he [made them look "glitchy."](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F491877590522063225%2F&psig=AOvVaw1i3BnC4y6W0CZLXbMxmAgj&ust=1611180478728000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCM_5SBqe4CFQAAAAAdAAAAABAd) So I was inspired by that and decided to make a classical thing look very modernized.
+Kahn Cankam: I'm inspired a lot by Bansky, the English street artist, and he did some stuff where he had classical-looking busts but he [made them look "glitchy."](https://mymodernmet.com/wp/wp-content/uploads/archive/5POsppGFcnlAXKqJ1uX2_1082085663.jpeg) So I was inspired by that and decided to make a classical thing look very modernized.
 
 OCA: How did you make this artwork, and how did you get it into Olb Plaza without anybody noticing?
 
 KC: So I set up a large workshop and started building a big horse out of wood, and after I was done with that I set up some crude scaffolding around it and started painting. I worked on it for, I don't know, maybe five months. As for how I got it into the plaza, I'm not gonna say.
 
-OCA: 
+OCA: What does this sculpture represent? 
 
-KC:
+KC: That's kind of a difficult question; I don't think it really strictly means anything. I guess the geometric patterns are representing the chaos and craziness that's happening over in America during the pandemic, and as for the horse shape, I don't know.
 
-## {Title}
+OCA: Well, that's all for today, and thanks for coming!
+
+KC: Thank you for inviting me! I hope you have a nice day!
+
+## Students in jet boat crash acquitted
 by Sam-Louis Alrocaet
 
-{Article: Follow-up to jet boat crash}
+This is a follow-up story to one of [last week's](https://www.arenztopia.com/news/issue-19/)stories. Most of the students involved in the catastrophic jet boat crash last Wednesday were acquitted of any crime when an investigation found that their supervising professor had been mostly responsible for creating the faulty jet engines that led to the crash. He was fired and sentenced to 1 year in jail; several, but not all, of the students were sentenced to less than one month in jail for their roles in developing other elements of the faulty jet engines.
 
 ## {Title}
 by Owen Miyazoi
