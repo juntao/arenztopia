@@ -13,19 +13,37 @@ January 3rd-January 9th, 2021
 ## Inauguration Next Week
 
 
-## Weather
 
+## Arts
 
-## Poetry
 
 
 ## Sports
 
 
+
+## Weather
+
+
+
+## Coronavirus Report
+
+
+
+## Feature:
+
+
+
 ## Story
 
 
+
 ## Story
+
+
+
+## Poetry
+
 
 
 ## Obituary
