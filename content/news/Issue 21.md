@@ -71,9 +71,13 @@ by Owen Miyazoi
 by Lorenzo Avila
 
 New years
+
 New goals
+
 New ideas
+
 New everything
+
 Happy new years!
 
 ## Obituary
