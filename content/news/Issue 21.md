@@ -62,10 +62,6 @@ by Lorenzo Avila and Tony Yuan
 
 A local restauraunt owner, Joe Lounou, was arrested on Tuesday for not following COVID-19 guidelines. He had his tables only 2 feet apart, not the required 6 feet. His restauraunt was operating at 100% capacity, not the required 25% capacity. And, perhaps most importantly, he was not enforcing masks or any sanitary guidelines of any kind. He told the Olb City Announcer that he "doesn't regret a thing." The police have sentenced him to 50 years in jail in accordance to a law passed that classifies not following COVID-19 guidelines as attempted manslaughter. Our fact-checkers also did a thorough search of his police records (with permission of the OCPD) and found that he has a criminal record; after being arrested for shoplifting in 2015, he changed his name and opened this restauraunt. We have notified the OCPD about this potential criminal potential but have not heard back from them yet.
 
-## {Title}
-by Owen Miyazoi
-
-{Article}
 
 ## Poetry 
 by Lorenzo Avila
@@ -83,7 +79,6 @@ Happy new years!
 ## Obituary
 by Owen Miyazoi
 
-{Article}
-
+Today we mourn the loss of Susan Rznwvw. She was a local baker who made 200 cookies a week at age 100 for the local childrens hospital to cheer them up. She died of natural causes. Text 085-519-0632 to show sympathy to her children.
 
 
