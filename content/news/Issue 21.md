@@ -13,8 +13,7 @@ December 27th-January 2nd, 2020 and 2021, respectively
 ## Huge, virtual New Year's party happens
 by Tony Yuan
 
-The Olb City government staged a huge New Year's celebration in Olb Plaza, with fireworks and acrobats. The show was livestreamed on Youtube but almost nobody was there in person. After the show, a couple thousand people gradually filtered into the plaza and enjoyed the beautiful veiws of the plaza covered in snow, after the snowstorm on Thursday. "I'm really glad about the sense of community that this event has created,"
-says Gardon Foresen, the administrator of the event.
+The Olb City government staged a huge New Year's celebration in Olb Plaza, with fireworks and acrobats. The show was livestreamed on Youtube but almost nobody was there in person. After the show, a couple thousand people gradually filtered into the plaza and enjoyed the beautiful veiws of the plaza covered in snow, after the snowstorm on Thursday. Before the event, the artwork Trojan Horse (See [Issue 20](https://www.arenztopia.com/news/issue-20/)) was removed from the plaza and installed in the middle of Shoreside Park, because of a risk of fire. "I'm really glad about the sense of community that this event has created," says Gardon Foresen, the administrator of the event.
 
 ## Arts
 by Tony Yuan
@@ -36,15 +35,31 @@ by Owen Miyazoi
 
 Cases dropped drastically to 524, and deaths are at an all-time low of 28. Doctors say that the pandemic in Arenztopia will largely be over by Febuary, thanks to the new Avac vaccine.
 
-## Feature: {Person}
+## Feature: Gardon Foresen
 By Tony Yuan
 
-{Article}
+We interviewed Gardon Foresen, the billionare politician and entrepreneur who staged Friday's New Years celebration.
+
+Olb City Announcer: Just breifly, what are the statistics of this event?
+
+Gardon Foresen:
+
+OCA:
+
+GF:
+
+OCA:
+
+GF:
+
+OCA: Well, that's all the questions that we have for you today, and thanks for coming!
+
+GF: Thanks for inviting me!
 
 ## Restauraunt shut down
 by Tony Yuan
 
-A local restauraunt owner, Joe Lounou, was arrested today for not following COVID-19 guidelines. He had his tables only 2 feet apart, not the required 6 feet. His restauraunt was operating at 100% capacity, not the required 25% capacity. And, perhaps most importantly, he was not enforcing masks or any sanitary guidelines of any kind. He told the Olb City Announcer that he "doesn't regret a thing." The police have sentenced him to 50 years in jail in accordance to a law passed that classifies not following COVID-19 guidelines as attempted manslaughter. Our fact-checkers also did a thorough search of his police records (with permission of the OCPD) and found that he has a criminal record; after being arrested for shoplifting in 2015, he changed his name and opened this restauraunt. We have notified the OCPD about this potential criminal potential but have not heard back from them yet.
+A local restauraunt owner, Joe Lounou, was arrested on Tuesday for not following COVID-19 guidelines. He had his tables only 2 feet apart, not the required 6 feet. His restauraunt was operating at 100% capacity, not the required 25% capacity. And, perhaps most importantly, he was not enforcing masks or any sanitary guidelines of any kind. He told the Olb City Announcer that he "doesn't regret a thing." The police have sentenced him to 50 years in jail in accordance to a law passed that classifies not following COVID-19 guidelines as attempted manslaughter. Our fact-checkers also did a thorough search of his police records (with permission of the OCPD) and found that he has a criminal record; after being arrested for shoplifting in 2015, he changed his name and opened this restauraunt. We have notified the OCPD about this potential criminal potential but have not heard back from them yet.
 
 ## {Title}
 by Owen Miyazoi
