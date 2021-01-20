@@ -74,9 +74,14 @@ Worheisinger & Sons, a gourmet sandwich company based in Olb City, declared them
 ## Poetry 
 by Tony Yuan
 
+Sandwich
 
+Oh, a sandwich
+Such a simple thing
+But at once versatile and beautiful
+in taste;
 
 ## Obituary
 by Owen Miyazoi
 
-{Article}
+The guy in the famous Worsham Hand Soap commercial has died at the age of 88, Worsham announced. The man's name has not been released. The famous commercial aired from 1980 all the way up to 2013, and was veiwed over half a billion times.
