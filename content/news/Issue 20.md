@@ -69,12 +69,12 @@ This is a follow-up story to one of [last week's](https://www.arenztopia.com/new
 ## Worheisinger & Sons goes bankrupt
 by Owen Miyazoi
 
-Worheisinger & Sons, a gourmet sandwich company based in Olb City, declared themselves bankrupt after sales dropped by nearly 60% in the pandemic.
+Worheisinger & Sons, a gourmet sandwich company based in Olb City, declared themselves bankrupt after sales dropped by nearly 60% in the pandemic. Stores were seen being boarded up en masse around the country, and the CEO, Searvan Worheisinger, said that "we will likely never recover from the pandemic."
 
 ## Poetry 
 by Tony Yuan
 
-{Poem}
+
 
 ## Obituary
 by Owen Miyazoi
