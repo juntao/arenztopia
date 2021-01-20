@@ -76,10 +76,10 @@ by Tony Yuan
 
 Sandwich
 
-Oh, a sandwich
-Such a simple thing
-But at once versatile and beautiful
-in taste;
+Oh, a sandwich    
+Such a simple thing    
+But at once versatile and beautiful    
+in taste;    
 
 ## Obituary
 by Owen Miyazoi
