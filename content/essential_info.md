@@ -266,8 +266,7 @@ No. of regions/states: 9
 Largest region/state: Coastal Region   
 Smallest region/state: Mountain Region   
 Size of Economy: 10 trillion Arenzos (5 trillion USD)    
-Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/home)
-Airline: [Arenztopian Airways](https://sites.google.com/view/arentopian-air)
+Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/home)    
 National animal: Horse    
 National food: Ice Cream    
 Languages spoken: Arenzese, English, Spanish   
