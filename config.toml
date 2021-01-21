@@ -35,7 +35,7 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-      name = "People"
+      name = "Government"
       url = "/people/"
       weight = 2
   
@@ -46,6 +46,6 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.footer]]
-    name = "General Information"
+    name = "About Arenztopia"
     url = "/info/"
       weight = 2
