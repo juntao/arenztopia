@@ -11,39 +11,50 @@ Volume 3, Issue 2
 January 3rd-January 9th, 2021
 
 ## Inauguration Next Week
+By Tony Yuan
 
 
 
 ## Arts
+By Owen Miyazoi
 
 
 
 ## Sports
+By Sam-Louis Alrocaet
 
 
 
 ## Weather
+By Mezoir Logan
 
 
 
 ## Coronavirus Report
+By Owen Miyazoi
 
 
 
 ## Feature:
+By Tony Yuan
 
 
 
 ## Story
+By Sam-Louis Alrocaet
 
 
 
 ## Story
+By Owen Miyazoi
 
 
 
 ## Poetry
+By Tony Yuan
 
 
 
 ## Obituary
+By Owen Miyazoi
+
