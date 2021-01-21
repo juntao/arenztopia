@@ -38,6 +38,24 @@ By Owen Miyazoi
 ## Feature:
 By Tony Yuan
 
+We interviewed Velso Morales, the creator of Eco-Tech.
+
+Olb City Announcer: Just breifly, what is Eco-Tech?
+
+Velso Morales: Eco-Tech is a tech company that focuses on ideas to help improve the planet by using Eco-friendly production, and making Eco-friendly products. 
+
+OCA: That's awesome! What is your favorite product?
+
+VM: Well, i think my favorite is the E-21. It has no official name yet, but it is a tool used to clean water. you put it into a river, Boom! less polution in the river. We are still making edits to make it work even better.
+
+OCA: Impressive! How do you manage to make these inventions all Eco-friendly? 
+
+VM: We only use the parts that are completely necessary we never have left over pieces. In the rare case ther is we will use those leftover pieces for another project. Less wasted material, less polution.
+
+OCA: Well, thats all the time we have. Thanks for coming!
+
+VM: Thanks for inviting me!
+
 
 
 ## Inauguration Next Week
