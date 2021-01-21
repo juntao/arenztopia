@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "zh"
+languageCode = "zh-cn"
 title = "Arenztopia"
 themesDir = "themes"
 theme = "hugo-serif-theme"
