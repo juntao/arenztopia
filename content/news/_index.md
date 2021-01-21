@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 
 This section contains the Olb City Announcer, which is a weekly newspaper that provides comprehensive news from around Arenztopia. The Olb City Announcer is known as a reputable source of news and has been approved by the Arenztopian Government.
 
-CEO, Developer of OCA, and Head Writer: Tony Yuan    
+Co-CEO, Developer of OCA, and co-Head Writer: Tony Yuan    
 Editor In Chief, Co-CEO and Co-Head Writer: Lorenzo Avila    
 Head Journalist and creator of idea of OCA: Claire Peters    
 Meteorologist: Mezoir Logan    
