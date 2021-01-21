@@ -18,7 +18,7 @@ Arenztopia is home to many cities. Arenztopia City is the largest, at nearly 2 m
 This section explores the political alignment and structure of Arenztopia.
 
 ### Political Structure
-There is a President, who is voted into place, and who follows a constitution. The Vice President is also voted into place and will become the new interim king in wake of the king suddenly resigning or dying. There are also 2 judges in the Supreme Court, and two senators. The judges function much like the Supreme Court of the USA, handling high-level cases and approving laws. The senators propose laws and perform other executive duties. Finally, the Executive Branch, consisting of the King, the Vice President, and the advisors, organizes the political ecosystem and keeps things in order, as well as making top-level desicions and passing laws. There is also a House of Representatives, which contains one representative from every state and region. They represent the state's intentions and propose bills. Every term for every position is two months, except for the king, who has a unlimited term.
+There is a President, who is voted into place, and who follows a constitution. The Vice President is also voted into place and will become the new interim president in wake of the president suddenly resigning or dying. There are also 2 judges in the Supreme Court, and two senators. The judges function much like the Supreme Court of the USA, handling high-level cases and approving laws. The senators propose laws and perform other executive duties. Finally, the Executive Branch, consisting of the President, the Vice President, and the advisors, organizes the political ecosystem and keeps things in order, as well as making top-level desicions and passing laws. There is also a House of Representatives, which contains one representative from every state and region. They represent the state's intentions and propose bills. Every term for every position is two months, except for the president, who has a unlimited term.
 
 There are two main parties: 
 
@@ -28,17 +28,17 @@ The Science Party, which values science over ethics. A Science person will kill 
 
 All independents are grouped into the Red Party.
 
-Laws are approved by this process: First, a group of citizens or a politician proposes a bill. If the bill is on a level lower than national, the citizens in the area that is affected by the bill vote on it. If it wins the vote, the leaders of the affected area review it again, then the bill is apporved and passed into law. If the bill affects the entire nation, it goes to the senate. The senators look at the bill and make sure that it is reasonable and can be implemented, and if the bill is passed, it goes to the Executive Branch. The King, the advisors, and the Vice President look over the bill and see if it improves the situation of the country and if it fits the interests of the people. After that, the bill goes to the Judicial Branch, which are the judges, who make sure that it is constitutional, then they will officially pass the bill into law.
+Laws are approved by this process: First, a group of citizens or a politician proposes a bill. If the bill is on a level lower than national, the citizens in the area that is affected by the bill vote on it. If it wins the vote, the leaders of the affected area review it again, then the bill is approved and passed into law. If the bill affects the entire nation, it goes to the senate. The senators look at the bill and make sure that it is reasonable and can be implemented, and if the bill is passed, it goes to the Executive Branch. The President, the advisors, and the Vice President look over the bill and see if it improves the situation of the country and if it fits the interests of the people. After that, the bill goes to the Judicial Branch, which are the judges, who make sure that it is constitutional, then they will officially pass the bill into law.
 
 ### Political Alignment
 Arenztopia is a military and economics ally to the numerous city-states within it, and also to the USA, Japan, France, England, Germany, China, Mexico, Italy, Vatican City, and Canada.
 
-Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the now-defunct terrorist group Milestopia
+Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the now-defunct terrorist group Milestopia.
 
 ## Media
-The main media group in Arenztopia is the AMG, Arenztopia Media Group, which is an association that includes APR (Arenztopia Public Radio), ARB (Arenztopia Royal Broadcasting), ATV (Arenztopia TV), ATN (Arenztopia Television Network), and ANN (Arenztopia News Network)
+The main media group in Arenztopia is the AMG, Arenztopia Media Group, which is an association that includes APR (Arenztopia Public Radio), ARB (Arenztopia Royal Broadcasting), ATV (Arenztopia TV), ATN (Arenztopia Television Network), and ANN (Arenztopia News Network).
 APR is the central radio station in Arenztopia. It has stations, such as QAXR and NRTX, in every city in Arenztopia.
-ARB is the main TV channel from which royal announcements and political news are broadcast.
+ARB is the main TV channel from which presidential announcements and political news are broadcast.
 ATV is the main entertainment channel, showing mainly cartoons, TV movies, and comedy.
 ATN is one of the main news channels, mostly broadcasting Science Party news.
 Finally, ANN is the other main news channel, mostly broadcasting Ethics Party news.
@@ -58,7 +58,7 @@ In the year 1470, the great Incan emperor Pachacuti Inca Yupanqui sent a fleet o
 
 ##### Incan Rule 
 
-This storm is called the Tlwh´ yovhhrmt (gods´ blessing) in the folk tales. But the real gods´ blessing for these weary Incan travellers was the extremely fertile soil their scouts reported. Legend has it that the leader of the expeditionaries fell to his knees and said "Agradiseyki Inti, chaypas nogakuna munay llapa tiyay hamchi!"(a rough translation of praise Inti* for we will all be saved!) and started sobbing. The men made a large offering, and then gratefully planted wheat while some people set out to notify the emperor. Over the next 60 years the emperor visited several times and Arenztopia was built up into a bountiful asset. Then, sixty-three  years after that fateful storm-the Tlwh´ yovhhrmt-Francisco Pizzaro came along and felled the mighty Inca Empire.
+This storm is called the Tlwh' Yovhhrmt (gods' blessing) in the folk tales. But the real gods' blessing for these weary Incan travellers was the extremely fertile soil their scouts reported. Legend has it that the leader of the expeditionaries fell to his knees and said "Agradiseyki Inti, chaypas nogakuna munay llapa tiyay hamchi!"(a rough translation of praise Inti* for we will all be saved!) and started sobbing. The men made a large offering, and then gratefully planted wheat while some people set out to notify the emperor. Over the next 60 years the emperor visited several times and Arenztopia was built up into a bountiful asset. Then, sixty-three  years after that fateful storm-the Tlwh' Yovhhrmt-Francisco Pizzaro came along and felled the mighty Inca Empire.
 
 Spanish rule had begun.
 
@@ -74,7 +74,7 @@ In 1935, Arenztopia was formally annexed to the United States of America in the 
 
 #### History part 4: Modern Arenztopia
 
-After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a king. In March, the War of Chickentopia occured, when Arenztopia warred against the chaos organization known as Chickentopia. You can read more about modern Arenztopia in the other parts of this website.
+After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a president. In March, the War of Chickentopia occured, when Arenztopia warred against the chaos organization known as Chickentopia. You can read more about modern Arenztopia in the other parts of this website.
 
 #### Timeline
 
