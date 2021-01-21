@@ -36,7 +36,7 @@ By Owen Miyazoi
 
 
 ## Feature:
-By Tony Yuan
+By Lorenzo Avila
 
 We interviewed Velso Morales, the creator of Eco-Tech.
 
