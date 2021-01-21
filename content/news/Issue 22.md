@@ -63,13 +63,22 @@ By Sam-Louis Alrocaet
 
 The winners of the 2020-2021 Arenztopian Elections will be inaugurated on January 15th, which is next week. 
 
-## Story
+## New store opened
 By Owen Miyazoi
+
+
+(tony or suhan you can write this i just liked the sound of the title you can write the actual story)
 
 
 
 ## Poetry
-By Tony Yuan
+By Lorenzo Avila
+
+Remember the plane crash:
+
+devastating crash
+ people dead,gone or, missing
+aching felt by all
 
 
 
