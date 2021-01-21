@@ -16,7 +16,7 @@ Writer: Owen Miyazoi
 Writer: Sam-Louis Alrocaet    
 Head of Printing: Lakino Jonoe    
 
-Copyright 2020 Olb City Announcer, Incoporated. All rights reserved.
+Copyright 2020 Olb City Announcer, Incorporated. All rights reserved.     
 Important disclaimer: Lorenzo likes to think that Claire P. created the Olb City Announcer. This is not true; Tony Yuan created the Olb City Announcer. If you see that Lorenzo has edited this to say that Claire established the OCA, please report the error. Thank you.
 
 
