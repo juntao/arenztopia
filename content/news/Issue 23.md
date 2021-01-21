@@ -11,7 +11,7 @@ Volume 3, Issue 3
 January 10th-January 16th, 2021
 
 ## Cover Story
-By Tony Yuan
+By Lorenzo Avila
 
 
 
@@ -36,7 +36,7 @@ By Owen Miyazoi
 
 
 ## Feature:
-By Tony Yuan
+By Lorenzo Avila
 
 
 
@@ -51,7 +51,7 @@ By Owen Miyazoi
 
 
 ## Poetry
-By Tony Yuan
+By Lorenzo Avila
 
 
 
