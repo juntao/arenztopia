@@ -226,7 +226,7 @@ Several major rivers and deltas exist in Arenztopia.
 * The Chrysanthemum River feeds several mountain lakes on Arenztopia Mountain. It shares a delta with the Tortoise River where the two rivers meet the sea.
 * The Hernandez River is an extremely long river that waters the National Forest and reaches a little bit into the Arenztopian Desert. 
 * The Cattle River feeds a massive floodplain in the Coast Region. It forms a long river system with the Glass River. 
-* The Glass River feeds several large lakes and meets the Cattle River at a third lake.
+* The Glass River feeds two very large lakes and meets the Cattle River at a third lake.
 * The Marsh River feeds a large bog in the Coast Region. Outflows from this bog help water the National Forest. The Marsh River also forms a river system with the Hernandez River.
 * The Squash River forms one of the longest river systems in Arenztopia with the Prairie River. This river system helps water the vast grasslands of Uivrmw.
 * The Prairie River is the only river in Arenztopia which does not have a delta where it meets the sea. It forms a river system with the Squash River.
