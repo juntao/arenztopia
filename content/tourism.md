@@ -137,7 +137,7 @@ Rett Technologies, Inc $ This company was active in the early 20th century and m
 
 # National Parks
 
-Arenztopia has many national parks governed under the Arenztopia National Park Service and the Arenztopian Office of National Parks. They are a major tourist attraction in Arenztopia.
+Arenztopia has many national parks governed under the Arenztopia National Park Service and the Arenztopian Bureau of Conservation. They are a major tourist attraction in Arenztopia.
 
 ## Tfziwrzmh National Park
 
