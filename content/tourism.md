@@ -4,7 +4,7 @@ menu: 'main'
 weight: '5'
 ---
 
-Tourism is a major industry in Arenztopia, and this section functions like a basic guidebook to the two biggest places in Arenztopia. Check out the guides for our two largest cities.
+Tourism is a major industry in Arenztopia, and this section functions like a basic guidebook to the three biggest tourist destinations in Arenztopia.
 
 * [Arenztopia City](#arenztopia-city)
 * [Olb City](#olb-city)
@@ -20,15 +20,15 @@ Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Althoug
 *1602 Tourism Street*
 
 
-Arenztopia Inn and Suites $$ Arenztopia Inn and Suites is a high-end but still casual place. It is moderatly expensive (300-500$ per night) for a great experience. It does not have a commanding veiw, but comes with a 2-room suite and high quality room service. It also provides easy access to the Scientist´s Round, especially Mendeleev Plaza, and it is located at a spot with low traffic. Another plus is that it is right next door to the ACMA. It is within a 10-minute walk from both the Palace of Arenztopia and the Arenztopia City Town Hall.
+Arenztopia Inn and Suites $$ Arenztopia Inn and Suites is a high-end but still casual place. It is moderatly expensive (100-150$ per night) for a great experience. It does not have a commanding veiw, but comes with a 2-room suite and high quality room service. It also provides easy access to the Scientist´s Round, especially Mendeleev Plaza, and it is located at a spot with low traffic. Another plus is that it is right next door to the ACMA. It is within a 10-minute walk from both the Palace of Arenztopia and the Arenztopia City Town Hall.
 *5802 Arenztopia Boulevard Five*
 
 
-Hotel Reale $$ This great hotel is very high-end and modern but has a reasonable price tag(300-500$ per night). It has moderate veiws, but unfortunatley is located in a high-traffic zone. It has a free shuttle to all major sites. It is know for its professional chefs who cook breakfast and dinner Monday through Saturday.
+Hotel Reale $$ This great hotel is very high-end and modern but has a reasonable price tag (50-100$ per night). It has moderate veiws, but unfortunatley is located in a high-traffic zone. It has a free shuttle to all major sites. It is know for its professional chefs who cook breakfast and dinner Monday through Saturday.
 *1202 Texas Road*
 
 
-Hilton Arenztopia $$ A very standard, casual Hilton with great veiws but lots of traffic. Very close to the Dripping Cone Flagship store, and most tours of Arenztopia City begin there. 100-300$ per night. Most visitors will spend 100 arenzos on Dripping Cone, and we reccomend you bring 200 Arenzos for souveinirs.
+Hilton Arenztopia $$ A very standard, casual Hilton with great veiws but lots of traffic. Very close to the Dripping Cone Flagship store, and most tours of Arenztopia City begin there. 50-100$ per night.
 *2403 Longhorn street*
 
 
@@ -57,7 +57,7 @@ Arenztopia City Museum of Art (ACMA) $ An amazing museum with thousands of statu
 *5801 Arenztopia Boulevard Five*
 
 
-Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with a rococo interior. An excellent example of totally overdoing it in style. 5$ admission to see the most extravagantly styled building in Arenztopia. The main building was made in 1495 but was remodeled in 2020.
+Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with a rococo interior. An excellent example of totally overdoing it in style. 5$ admission to see the most extravagantly styled building in Arenztopia. The main building was built in 1495 but was remodeled in 2020.
 *3300 Renzo Street*
 
 
@@ -85,11 +85,11 @@ Xcar Tower Residences $$$ A very luxurious hotel. It is 78 stories tall, boasts 
 *8900 4th Street*
 
 
-Maninnghaw Residences $$ A more modest hotel than Xcar Tower Residences, but still high-end. Suites have 3 rooms, great room service, marble bathrooms, and comfortable beds. The average cost is 400-700$ per night for a great experience in a low-traffic zone.
+Maninnghaw Residences $$ A more modest hotel than Xcar Tower Residences, but still high-end. Suites have 3 rooms, great room service, marble bathrooms, and comfortable beds. The average cost is 200-250$ per night for a great experience in a low-traffic zone.
 *6502 Kercher Lane*
 
 
-International City Residential Suites $$ A nice hotel with a very streamlined, modern feel. Close to all major landmarks. Unfortunatly located in a very high-traffic zone, but shuttle is avaliable to all landmarks. Very good room service to a 2-room suite, with a reasonable cost of 300-500$ per night.
+International City Residential Suites $$ A nice hotel with a very streamlined, modern feel. Close to all major landmarks. Unfortunatly located in a very high-traffic zone, but shuttle is avaliable to all landmarks. Very good room service to a 2-room suite, with a reasonable cost of 50-100$ per night.
 *3407 West Main Street*
 
 
@@ -109,7 +109,7 @@ The Cheesehouse $$ A great resturaunt with spectacular food, a surprisingly good
 
 ## Things To do
 
-Olb City Art Museum $ The biggest art museum in Arenztopia. Adjoins the Olb City National Library, where millions of books and archives are kept. Has everything from paleolithic sculptures to abstract modern art. Constantly hosting special exhibits that are free of charge. The 5$ ticket provides a super low price to look at amazing sculptures and painings in Arenztopia´s biggest art museum.
+Olb City Art Museum $ The biggest art museum in Arenztopia. Adjoins the Olb City National Library, where millions of books and archives are kept. Has everything from paleolithic sculptures to abstract modern art. Constantly hosting special exhibits that are free of charge. The 5$ ticket provides a super low price to look at amazing sculptures and paintings in Arenztopia's biggest art museum.
 *3500 West Main Street*
 
 
@@ -145,7 +145,7 @@ Tfziwrmh National Park covers almost the entire Mountain Region and the mountain
 
 There are Ranger Centers and Park Offices at Mount Bimazarii, Aurem Peak, Tritonaig Peak, Mount Tanzeuniak, Craland Meadow, Kinian Lake, Seiracosmo Meadow, Holamistera Lake, and Roesia Meadow. There are Wildlife Spotting Stations at each of these Ranger Stations and at Smithyorkinag Valley, Mount Nishforth, and Wyndmon Valley. Many tour guides offer tours of the park and there is also a dedicated community of guides that are ready to guide someone on a journey up one of the 1,836 named mountains and peaks of the mountain range. 
 
-The main road artery, Park Road 101, runs along the park and has other park roads sprouting from it. The park roads that are normally of interest to tourists are Park Road 1201, which winds up the lower part of the park's highest mountain, Mount Tenephur; Park Road 601, which runs past the famous trio of mountains called the Rukranedia Trinity and then goes around the site of the famous Battle of Tfziwrzmh, fought at Cakittinanp Valley. The battlefeild is considered one of the most senic spots in the park; and Park Road 1601, which is a rugged road reaching deep into the mountains through the tundra and past many glaciers. 
+The main road artery, Park Road 1001, runs along the park and has other park roads sprouting from it. The park roads that are normally of interest to tourists are Park Road 1201, which winds up the lower part of the park's highest mountain, Mount Tenephur; Park Road 1601, which runs past the famous trio of mountains called the Rukranedia Trinity and then goes around the site of the famous Battle of Tfziwrzmh, fought at Cakittinanp Valley. The battlefeild is considered one of the most senic spots in the park; and Park Road 1901, which is a rugged road reaching deep into the mountains through the tundra and past many glaciers. 
 
 There are many wolves and hawks throughout the park, and you can spot them year-round at the Wildlife Spotting Stations. In the lakes, there are many fish, including trout, bass, salmon, and a unique freshwater pufferfish endemic to Baiai Lake, but only Saint Barthe Lake and Tufolk Lake are open to fishing.
 
@@ -155,20 +155,31 @@ There are many, many restauraunts throughout the park and in New Paris, but the 
 
 ## James O. National Park
 
-James O. National Park is a medium-sized national park situated on the border between Ensley, also known as the national forest, and the Arenztopian Desert. Many endangered species reside within its borders. It's named after James O., a wealthy and influential Arenztopian senator. 
+James O. National Park is a medium-sized national park situated on the border between the National Forest and the Arenztopian Desert. Many endangered species reside within its borders. It's named after James O., a wealthy and influential Arenztopian senator. 
 
 There are Ranger Centers and Park Offices at the Al-Hyynb Dunes, Siverat Grove, East Hernandez River Crossing, West Hernandez River Crossing, Nollile Cabins, Caasen Oases Group, and Droutreanap Watering Hole. There are Wildlife Spotting Stations at each of these Ranger Centers and Park Offices except for the Al-Hyynb Dunes and West Hernandez River Crossing stations. Guides offer tours of both the forest and desert sections of the park.
 
-The main road artery, Park Road 102, curves in an S shape through the middle of the park. This road provides great access to many of the best spots in the park, but more great options include Park Road 1402, which follows Hernandez River to the edge of the park; Park Road 902, which comprehensively tours the desert section of the park; Park Road 1002, which meanders around the foothills of the forest, and finally Park Road 1802, which travels along the high ridge at the perimeter of the park, providing a great view of both the forest and the desert. 
+The main road artery, Park Road 1002, curves in an S shape through the middle of the park. This road provides great access to many of the best spots in the park, but more great options include Park Road 1402, which follows Hernandez River to the edge of the park; Park Road 902, which comprehensively tours the desert section of the park; Park Road 1102, which meanders around the foothills of the forest, and finally Park Road 1802, which travels along the high ridge at the perimeter of the park, providing a great view of both the forest and the desert. 
 
-Rhinos and one-horned lions are frequently sighted throughout the desert section of the park, and herds of gazelle roam the grassland parts of the desert section. Many endangered species live in the forest section, including Arenztopian kestrels, the Kerns giant river toad, the Arenztopian white-horned deer, and many others.
-Arenztopian wombats live in the central area of the park. Many tour guides also offer bird-watching opportunities, and you can buy binoculars and bird-watching kits in the Park Store, which is located on the left right after you go into the park on Park Road 102.
+Rhinos and one-horned lions are frequently sighted throughout the desert section of the park, and herds of gazelle roam the grassland parts of the desert section. Many endangered species live in the forest section, including Arenztopian kestrels, the Kerns giant river toad, the Arenztopian white-horned deer, and many others. Arenztopian wombats live in the central area of the park. Many tour guides also offer bird-watching opportunities, and you can buy binoculars and bird-watching kits in the Park Store, which is located on the left right after you go into the park on Park Road 1002.
 
 There are many oasis settlements throughout the desert section and also lots of lodges in the forest section. One of the best is Kirkpatrick, Soninap and Sons. ($), a small lodge established in 1842 with many cabins nestled in the shore of Lake Manninae. Their little restauraunt serves homey, warm food and bread, such as venison and wild potato sandwich garnished with pumpkin seed fresh and warm off the grill, wild boar and grilled onion salad with black eyed-beans, or wild turkey and basil stew with mustard plant garnished with lettuce. The cozy cabins have great access to the entire forest section of the park and are made of 500-year old birch trees. They are softly lighted at night and come with full utilities (shower, toilet, electricity, water, etc.) and many cabins have a full fireplace. Nightly rates average about 10-15 dollars. A more classy option in the desert section is Ernoae and Co. ($$), which is located in Dar-Ocaared Oasis at the eastern part of the desert region of the park. It's an early 1900s brick structure with many elegant suites. Its restauraunt serves traditional but progressive food such as cactus leaf and grilled lizard tail stew, or date and palm sap salad garnished with oregano. Nightly rates in their hotel range from 30-50 dollars.
 
 More restauraunts include Dregak ($$$), which is a chic, luxury restauraunt housed in a large former airplane hangar at the foot of one of the hills in the forest section. They're known for their dedacent bell pepper and roasted sparrow soup and their crunchy mushroom and chickpea salad. A great choice if you're in the desert section is Emionak, Desfri, and Wesnab ($$), a 1956 restauraunt that provides light, traditional foods such as crunchy grilled wild artichoke salad with yam dressing, or a banana (yes, banana) and sandhopper bird wrapped in traditional thin palm wheat bread. A more rugged option is the Dansatia Lodge & Restauraunt ($$), a new restauraunt established in 2018. They are housed in a large wood building nestled in the heart of the forest section. Some of their staples include wild perch and boar sandwiches, or chickpea and pheasant stew seasoned with black pepper and oregano.
 
 ## Arenztopia Mountain National Park
+
+Arenztopia Mountain National Park is a relatively small national park protecting Mount Arenztopia and the diverse species that live on and around it. It's barely a 25-minute drive from Olb City. Arenztopia Mountain is also sometimes referred to as Mount Arenztopia. 
+
+There are Ranger Centers and Park Offices at Asahl Peak, Vivoren Peak, the Summit, Kalkalakhl Ridge, Ross Forest, Epular Creek, and Waegufern Forest. There are Wildlife Spotting Centers at each of these Park Offices and Ranger Centers, and at Lokalak Forest.
+
+The main road, Park Road 1003, winds around the perimeter of the park and then spirals up to about the midsection of Arenztopia Mountain, before executing a sharp turn and looping back down the mountain. Other options include Park Road 1203, which winds all the way up the mountain; Park Road 1113, which does a full circuit around the mountain, and Park Road 1133, which goes around the mountain and then meanders around the northeastern foothills of the park.
+
+The foothills of Arenztopia Mountain are covered in grasslands and sparse forest, with several small ponds. In these habitats you can often sight deer, minnows, and a variety of birds, along with wild oxen. The middle reaches of the mountain become more forested and look more like a cloud forest. In these habitats you will spot a very diverse variety of species, including deer, birds, frogs, the occasional wayward tapir or leopard, and many vines, ferns, and trees. In the upper reaches of Arenztopia Mountain, the cloud forest gradually turns to rocks and snow: here, you will find birds, falcons, owls, evergreen trees, ferns, moss, and the occasional yak. The very top of the mountain is a desolate snow-covered rock plain. Yaks roam up here among sparse evergreen trees. There have also been reports of a yeti. 
+
+There aren't many lodgings in the park, simply because the park is so small and because people usually stay in Olb City when they want to visit the park. However, one of the few lodgings in the park is Oskimal Igloo Retreat ($$), which encases you in a heated glass dome shaped like an igloo. The domes are located at 10,000 feet up on the mountain. They have full amenities such as a bed, a bathroom, and a couch, and all of this is available for only 100-150 dollars per night. If you want a cozier retreat, try Tokalmak Treehouses ($$), a series of small cabins nestled in the treetops of one of the groves of trees in the foothills. The small cabins have full heating, a large bathroom, an electric fireplace, and a twin-size bed. The log cabins are connected by rope bridges, and each one has a ladder down to the common area of the hotel. The common area is a large building located in the middle of the grove. It houses extra restrooms and the check-in and check-out lobbies. The main building also features a restauraunt that serves acclaimed traditional meals such as venison sandwiches, millet bread, and oxtail soup. Nightly rates range from 50-100 dollars per night, and the restauraunt is moderately expensive at about 5 or 10 dollars per dish.
+
+Speaking of restauraunts, Arenztopia Mountian National Park does not have any sort of notable restauraunts except for the one at Tokalmak Treehouses, because of the same reasons that the National Park does not have many hotels: It's small and located close to Olb City.
 
 ## Arenztopia Volcano National Park
 
@@ -179,6 +190,6 @@ More restauraunts include Dregak ($$$), which is a chic, luxury restauraunt hous
 
 # THE END
 
-Created by the Arenztopian goverment. Powered by the Arenztopian Bureau of Tourism.
+Written by Tony Yuan. Some contributions and ideas created by Lorenzo Avila. Powered by the Arenztopian Bureau of Tourism.
 
 Copyright 2020, 2021 by the Arenztopian Bureau of Tourism. All Rights Reserved.
