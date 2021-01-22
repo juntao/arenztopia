@@ -190,6 +190,6 @@ Speaking of restauraunts, Arenztopia Mountian National Park does not have any so
 
 # THE END
 
-Written by Tony Yuan. Some contributions and ideas created by Lorenzo Avila. Powered by the Arenztopian Bureau of Tourism.
+ Powered by the Arenztopian Bureau of Tourism.
 
 Copyright 2020, 2021 by the Arenztopian Bureau of Tourism. All Rights Reserved.
