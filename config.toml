@@ -35,7 +35,7 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-      name = "Government"
+      name = "People"
       url = "/people/"
       weight = 2
   
