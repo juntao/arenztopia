@@ -77,7 +77,7 @@ LEGO store $$ A huge store filled with legos, including a 1:29 scale model of Ar
 
 # Olb City
 
-Olb City is the second largest city in Arenztopia. It has become the technological and financial center of Arenztopia since it was founded in 1687.
+Olb City is the second largest city in Arenztopia. It has become the technological, scientific, and financial center of Arenztopia since it was founded in 1687.
 
 ## Hotels
 
