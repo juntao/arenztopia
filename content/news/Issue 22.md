@@ -64,7 +64,7 @@ The winners of the 2020-2021 Arenztopian Elections will be inaugurated on Januar
 ## New store opened
 By Owen Miyazoi
 
-(tony you can write this i just liked the sound of the title you can write the actual story)
+A new store, called the Argo, was opened at Three Pines Mall on Wednesday. The shop sells marine-related books and trinkets.
 
 ## Poetry
 By Lorenzo Avila
@@ -78,3 +78,4 @@ aching felt by all
 ## Obituary
 By Owen Miyazoi
 
+The Arenztopian TikTok influencer Sarah Armak died suddenly at the age of 24 on Tuesday. When news of her death reached social media, there was an outpouring of greif from her fans. Police are investigating how she died; currently, they believe that it was because of an overdose of a perscription drug. To show sympathy, call 680-333-9822 or leave a comment at her TikTok page at [tiktok.com/users/sarmak](tiktok.com/users/sarmak)
