@@ -6,4 +6,4 @@ jobtitle: "Art store manager and prominent citizen"
 weight: 13
 ---
 
-Ethan H. is the manager of the renowned and huge chain of art stores known as Arenztopia Art Store. He is a prominent citizen, often coming to government meetings, and is the richest person in Austerfield.
+Ethan H. is the manager of the renowned and huge chain of art stores known as Arenztopia Art Store. He is a prominent citizen and is the richest person in Austerfield.
