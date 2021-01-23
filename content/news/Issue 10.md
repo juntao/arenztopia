@@ -27,6 +27,7 @@ The OCAM announced a new exhibit on tuesday on the OCAM.org website. Called the 
 
 ## Sports
 by Sam-Louis Alrocaet
+
 The Arenztopian National Gaming Team, which is the official esports team of Arenztopia, played the popular video game Among Us on monday. The game was streamed on Twitch, Instagram, Youtube, and other social media sites.
 
 ## Weather
