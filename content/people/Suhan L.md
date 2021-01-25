@@ -5,6 +5,5 @@ draft: false
 jobtitle: ""
 weight: 11
 ---
-We're Sorry...
 
-This profile is not available due to one of Tony Yuan's mistakes.
+Suhan L. is originally of Chinese heritage. He joined Arenztopia and was the former Prime Minister of Arenztopia until the Prime Minister position was removed. He then made criminal deals with the terrorist organization Milestopia and was ejected from Arenztopia and thrown in jail. Recently he promised to become a beneficial citizen of Arenztopia so he was readmitted, but after his readmission he made a series of mistakes.
