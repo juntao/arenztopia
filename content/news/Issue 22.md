@@ -23,17 +23,17 @@ The shuttering date of the popular exhibition Weaving Magic at the OCAM is going
 ## Sports
 By Sam-Louis Alrocaet
 
-The 
+A new soccer stadium was completed in Noi City on Wednesday. It's the new home of the Noi City Nightingales, the city's champion soccer team. The stadium is able to seat 15,000 people, started construction last July, and cost 14 million dollars.
 
 ## Weather
 By Mezoir Logan
 
-
+One of the arms of Hurricane Vonso barrelled into Olb City on Monday, just as predicted. It brought extreme wind and heavy rain, but only caused 2 injuries and no deaths. Heavy rains are expected to continue until Tuesday next week. The water barriers erected around several critical riverside sites held up. A stay-at-home warning is in effect until Wednesday of next week, and flash flood warnings are in place for all properties within three-quarters of a mile of the Tortoise, Anda, and Maracea rivers.
 
 ## Coronavirus Report
 By Owen Miyazoi
 
-
+A record 300 more people have gotten the Avac vaccine, according to reports. Cases have lowered to 449, and deaths are at 21. The 15,000 doses of Pfizer vaccine promised by the Arenztopian Minister of Health have finally arrived, and are currently being shipped from Arenztopia City to Olb City, New Paris, New Athens, Austerfeild, Noi City, Shersville, Shreet, Chasiania, Canopia, and other areas.
 
 ## Feature:
 By Lorenzo Avila
