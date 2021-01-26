@@ -18,12 +18,12 @@ Olb City Police Department Headquarters-Billionare entrepreneur Oliver Tichiad h
 ![Oliver Tichiad](https://qph.fs.quoracdn.net/main-qimg-45503b82226d84e0dad157a5cd6116aa)
 Oliver Tichiad's official portrait at [ottam.com](ottam.com)
 
-Tichiad is due to go on trial Tuesday next week. He is in temporary custody at the police headquarters. The Olb City Announcer emailed him about his arrest, and he replied "I didn't do a thing!"
+Tichiad is due to go on trial Tuesday next week. He is in temporary custody at the police headquarters. The Olb City Announcer emailed him about his arrest, and he replied "I didn't do a thing!" 
 
 ## Arts
 By Owen Miyazoi
 
-
+Miekl Kyonankii, a rising and avant-garde artist, unveiled a new sculpture on Wednesday. The sculpture is titled "f", styled with all lowercase. It features a huge, hollow metal cube with its sides carved out. It is to be put on display at the OCAM on Febuary 10.
 
 ## Sports
 By Sam-Louis Alrocaet
