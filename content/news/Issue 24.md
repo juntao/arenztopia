@@ -13,7 +13,7 @@ January 17th-January 23rd, 2021
 ## Ship Collision in Arenztopia Bay 
 By Tony Yuan
 
-Arenztopia Bay-A freighter collided with another freighter in Arenztopia Bay on Tuesday. Over 300 containers were lost and 12 injuries were reported, with 10 deaths reported so far. The control center at Arenztopia Bay issued a detailed report several hours after the crash, which says that the freighter *Marice* steamed into the bay, and collided with the side of the *Albatross*, which was heading out of the bay. *Marice* tipped over, and some of her containers fell and sunk. The *Albatross* suffered a huge hole in its side and took on water until it, too, sunk. The capsized *Marice* was towed out of the bay after its crew was rescued, and the *Albatross*'s engine exploded after most of its crew was also rescued. The lost cargo is estimated to be worth up to 13 million dollars, and includes food, machine parts, and wood. The cause of the crash has been determined to be poor judgement on the part of the captains. A search and rescue was organized to look for survivors on board the Albatross that might be stranded in pockets of air, but they only found bodies. Containers are currently be retreived. "This is one of the saddest disasters in the history of this bay," says Jan Calceraki, the port officer on duty that day. "I sincerely hope that something like this will not happen again." 
+Arenztopia Bay-A freighter collided with another freighter in Arenztopia Bay on Tuesday. Over 300 containers were lost and 12 injuries were reported, with 10 deaths reported so far. The control center at Arenztopia Bay issued a detailed report several hours after the crash, which says that the freighter *Marice* steamed into the bay, and collided with the side of the freighter *Albatross*, which was heading out of the bay. *Marice* tipped over, and some of her containers fell and sunk. The *Albatross* suffered a huge hole in its side and took on water until it, too, sunk. The capsized *Marice* was towed out of the bay after its crew was rescued, and the *Albatross*'s engine exploded after most of its crew was also rescued. The lost cargo is estimated to be worth up to 13 million dollars, and includes food, machine parts, and wood. The cause of the crash has been determined to be poor judgement on the part of the captains. A search and rescue was organized to look for survivors on board the Albatross that might be stranded in pockets of air, but they only found bodies. Containers are currently being retreived. "This is one of the saddest disasters in the history of this bay," says Jan Calceraki, the port officer on duty that day. "I sincerely hope that something like this will not happen again." 
 
 ## Arts
 By Owen Miyazoi
@@ -33,7 +33,7 @@ Temperatures are expected to flunctuate between -4 and 3 degrees tomorrow as win
 ## Coronavirus Report
 By Owen Miyazoi
 
-
+Cases have risen ever so slightly to 435. Deaths are still dropping, at 16. 300 more people have gotten the Avac vaccine, and a record 1,000 people have now gotten the new doses of Pfizer vaccine.
 
 ## Feature:
 By Lorenzo Avila
