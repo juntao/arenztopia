@@ -18,7 +18,7 @@ Arenztopia Bay-A freighter collided with another freighter in Arenztopia Bay on 
 ## Arts
 By Owen Miyazoi
 
-Meikl Kyonankii's "f" (see [Issue 23](https://www.arenztopia.com/news/issue-23/)) was the subject of an attack on Kyonankii's studio. "f", and many other artworks, were destroyed in the attack; however, Kyonankii escaped unharmed. We interveiwed a random citizen about the attack. (He preferred to be kept anonymous.) "Art can be a very divisive issue, I think," he said. "Honestly, I don't quite understand it."
+Famous artist Meikl Kynonakii's studio was attacked on Wednesday by a group called the "Classicist Revolutionaries". After the attack, they released a video condemning Kynonakii's postmodern art, and preaching a return to the classical age. Kyonankii's "f" (see [Issue 23](https://www.arenztopia.com/news/issue-23/)) is beleived to have been the subject of the attack. "f", and many other artworks, were destroyed in the attack; however, Kyonankii escaped unharmed. We interveiwed a random citizen about the attack. (He preferred to be kept anonymous.) "Art can be a very divisive issue, I think," he said. "Honestly, I don't quite understand it."
 
 ## Sports
 By Sam-Louis Alrocaet
@@ -28,7 +28,7 @@ The previously obscure football player Leon Courageux of the Olb City Gladiators
 ## Weather
 By Mezoir Logan
 
-
+Temperatures are expected to flunctuate between -4 and 3 degrees tomorrow as winter progresses. Tropical Storm Vonso has dissipated completely after travelling into the Arenztopian Desert.
 
 ## Coronavirus Report
 By Owen Miyazoi
