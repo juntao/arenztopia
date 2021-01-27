@@ -40,13 +40,13 @@ By Lorenzo Avila
 
 We interveiwed Leon Courageux, the brave hero who saved a little girl from a fire in North Olb City. Video footage from a bystander captured his heroic actions.
 
-Olb City Announcer: So, first, What made you do it?
+Olb City Announcer: So, first, what made you do it?
 
-Leon Courageux: I think just seeing the terror in her eyes. It was horrible. She looked so scared.
+Leon Courageux: I think it was just seeing the terror in her eyes. It was horrible. She looked so scared.
  
 OCA: Wow. That is very brave. What were you doing there?
  
-LC: Well, I was going for a jog in my neighborhood, the same place the fire was. I live probably 7 houses down the street, and I saw the fire. For a little while, I was standing watching. But, when saw the girl through the window, I went in.
+LC: Well, I was going for a jog in my neighborhood, the same place the fire was. I live probably 7 houses down the street, and I saw the fire. For a little while, I was standing and watching. But, when saw the girl through the window, I went in.
  
 OCA: That is very brave! How have you reacted to all of this crazyness of being on TV and the news and social media?
  
