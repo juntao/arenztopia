@@ -38,28 +38,50 @@ Hurricane Vonso suddenly decreased in intensity as it left Olb City; it is now a
 ## Coronavirus Report
 By Owen Miyazoi
 
-Cases are at 433 and deaths are at 18. 250 more peope have gotten Avac, and 190 people have now gotten the Pfizer vaccine.
+Cases are at 433 and deaths are at 18. 250 more peope have gotten Avac, and 190 people have now gotten the Pfizer vaccine. "This is a seriously major success for us in the Arenztopian Bureau of Health," says Kennan Sawyer, the Arenztopian Minister of Health.
 
-## Feature:
-By Lorenzo Avila
+## Feature: Harry Taern
+By Tony Yuan
 
+We interveiwed Harry Taern, the CEO of trending security company Supersecure.
 
+Olb City Announcer: So, first, what is Supersecure?
 
-## Story
+Harry Taern: Supersecure is a ultra-advanced security system that uses iris scanning to detect intruders to your home. It's also cheap and easy to install.
+
+OCA: Can you go through each of the technologies involved in Supersecure?
+
+HT: Sure! So first and foremost, there's the iris scan. Each person has a unique pattern in the iris part of their eyes. It's almost impossible to fake and is completely unique on everybody. So we install special security cameras that both record video and scan everybody's irises as they pass by. If it detects an unknown iris pattern, it alerts you immediately. In addition to the special iris-scanning technology, Supersecure also uses conventional security technology such as a doorbell camera and  video cameras.
+
+OCA: That sounds interesting! How did you come up with the idea?
+
+HT: Well, so I was reading an article about the iris-scanning technology, and I read about how easy it is to install, and how foolproof it is. And then I thought, 'Why hasn't anybody built a security company around this before?' And that was how it started.
+
+OCA: Well, that looks like all the time we have, so bye and thanks for coming!
+
+HT: Thank you for inviting me!
+
+## Arenztopia Tonight cancelled
 By Sam-Louis Alrocaet
 
+Arenztopia Tonight, formerly the top talk show in Arenztopia, was cancelled after ratings dropped below three stars for two years in a row. The show recaps the weekly news and hosts celebrity guests, and it has been running continuously since 1999. "I'm honestly sad to see it go," says Greg Saaner, the host of Arenztopia Tonight from 2010 to 2015. "It really was a great show."
 
-
-## Story
+## Rare toad spotted
 By Owen Miyazoi
 
-
+An individual of the huge, rare Arenztopian Large-Eyed River Toad was spotted along the Hernandez River on Monday. There are an estimated 1,500 still in the wild. The toad is found only along the Hernandez River and its tributaries.
 
 ## Poetry
-By Lorenzo Avila
+By Tony Yuan
 
-
+Arenztopia Tonight    
+Another casualty    
+of this virus    
+on top of the growing heap of    
+abandoned stores    
+and unemployed workers.    
 
 ## Obituary
 By Owen Miyazoi
 
+Beloved community figure Gana Farthingheim died at the age of 88 on Tuesday, from pancreatic cancer. She was an influential advocate for greenification during the 1980s, 1990s, and 2000s. She also served on the City Council from 1996 to 2000. To show sympathy, call 680-1109-6545.
