@@ -74,9 +74,9 @@ A huge poplar tree, named "Kim", gained popularity last year after it was found 
 ## Poetry
 by Tony Yuan
 
-The pandemic rages
-Still
-But losing force.
+The pandemic rages    
+Still    
+But losing force.    
 
 ## Obituary
 by Owen Miyazoi
