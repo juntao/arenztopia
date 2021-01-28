@@ -56,22 +56,27 @@ OCA: Well, that's ok, you did great! Thanks for coming!
  
 LC: Thank you so much for letting me come!
  
-## Story
+## New skyscraper cancelled
 By Sam-Louis Alrocaet
 
+The planned skyscraper bordering Olb Plaza was cancelled after budget cuts and the pandemic forced workers to abandon construction. The skyscraper was first announced in [Issue 7](https://www.arenztopia.com/news/issue-7/) and it reached the 45th floor before construction was halted last December. It was announced that the entire construction would be torn down and replaced by a condo on Tuesday.
 
-
-## Story
+## Person missing
 By Owen Miyazoi
 
-
+Mr. Joek Washinater was reported missing from his home on Wednesday. His wife says that she heard a crash and a scuffle in the night, and she discovered the her husband was missing. Mr. Washinater is a very respected lifeguard who lives in Canopia.
 
 ## Poetry
 By Tony Yuan
 
+Stuck
 
+Stuck at home    
+For what seems    
+Like forever    
+Sooo bored.    
 
 ## Obituary
 By Owen Miyazoi
 
-
+The respected shop owner Raudan Paulek died on Thursday. He owned a candy shop on 1st street, and was known for his kindness and integrity. Mr. Paulek was 87 years old. To show sympathy, visit his cansy shop's website at [1ststreetcandy.az](1ststreetcandy.az) or call 680-613-2187 for his home memorial number, and 1-750-1ST-CANDY for his business memorial number. 
