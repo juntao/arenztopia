@@ -64,7 +64,7 @@ The planned skyscraper bordering Olb Plaza was cancelled after budget cuts and t
 ## Person missing
 By Owen Miyazoi
 
-Mr. Joek Washinater was reported missing from his home on Wednesday. His wife says that she heard a crash and a scuffle in the night, and she discovered the her husband was missing. Mr. Washinater is a very respected lifeguard who lives in Canopia.
+Mr. Joek Washinater was reported missing from his home on Wednesday. His wife says that she heard a crash and a scuffle in the night, and then she discovered the her husband was missing. Mr. Washinater is a very respected lifeguard who lives in Canopia.
 
 ## Poetry
 By Tony Yuan
@@ -79,4 +79,4 @@ Sooo bored.
 ## Obituary
 By Owen Miyazoi
 
-The respected shop owner Raudan Paulek died on Thursday. He owned a candy shop on 1st street, and was known for his kindness and integrity. Mr. Paulek was 87 years old. To show sympathy, visit his cansy shop's website at [1ststreetcandy.az](1ststreetcandy.az) or call 680-613-2187 for his home memorial number, and 1-750-1ST-CANDY for his business memorial number. 
+The respected shop owner Raudan Paulek died on Thursday. He owned a candy shop on 1st street, and was known for his kindness and integrity. Mr. Paulek was 87 years old. To show sympathy, visit his candy shop's website at [1ststreetcandy.az](1ststreetcandy.az) or call 680-613-2187 for his home memorial number, and 1-750-1ST-CANDY for his business memorial number. 
