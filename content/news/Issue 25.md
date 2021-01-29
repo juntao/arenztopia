@@ -45,7 +45,23 @@ By Tony Yuan
 
 We interveiwed Chris Sanders, a famous author and poet who recently released a book of poems.
 
-Olb City Announcer:  
+Olb City Announcer: What are your poems and writings usually about?
+
+Chris Sanders: So my poems, they're easy to read and they deal with real events that are happening right now. I know that people are sometimes turned away by the philosophical poems that they usually see, so I want to make poetry that is at once beautiful and accessible. As for my writing, whenever I see something interesting, I write about it.
+
+OCA:
+
+CS:
+
+OCA:
+
+CS:
+
+OCA: Well, those are the questions that we have for you today, and thank you for coming!
+
+CS: Thanks for inviting me!
+
+This interview was edited for length and clarity.
 
 ## Story
 By Sam-Louis Alrocaet
