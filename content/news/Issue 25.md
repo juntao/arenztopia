@@ -63,21 +63,22 @@ CS: Thanks for inviting me!
 
 This interview was edited for length and clarity.
 
-## Story
+## New entertainment complex planned
 By Sam-Louis Alrocaet
 
+The entertainment company Arenztopia Eat-And-Play LLC announced a new entertainment center in East Olb City. It will be a 5-acre plot with a laser tag arena, movie theater, bowling alley, indoor go-kart track, full arcade, pizza buffet, 20-hole mini golf course, and more. It will be Eat-And-Play's largest complex yet, with a projected cost of over 15 million dollars.
 
-
-## Story
+## Huge sale at popular mall
 By Owen Miyazoi
 
-
+The popular store DreamBooks, located at the Three Pines Mall, announced a massive sale on Wednesday. The store announced that all books would be 75% off amid rumors that it would be closing and moving to the more lucrative North Main shopping complex. 
 
 ## Poetry
-By Tony Yuan
+By Lorenzo Avila
 
 
 
 ## Obituary
 By Owen Miyazoi
 
+Psychologist and community leader Steven Gerbanough died at the age of 88 on Wednesday. He made several breakthroughs in psychology and was a vocal and instrumental advocate for the expansion of the Psychology department of Arenztopia University at Olb City.
