@@ -49,15 +49,15 @@ Olb City Announcer: What are your poems and writings usually about?
 
 Chris Sanders: So my poems, they're easy to read and they deal with real events that are happening right now. I know that people are sometimes turned away by the philosophical poems that they usually see, so I want to make poetry that is at once beautiful and accessible. As for my writing, whenever I see something interesting, I write about it.
 
-OCA:
+OCA: Can you tell us about your new book?
 
-CS:
+CS: Sure! So it's titled "Chasing Dreams", and it's just a collection of my poems about dreams and what I think dreams mean.
 
-OCA:
+OCA: That sounds interesting! Can you give us an excerpt of one of the poems in the book?
 
-CS:
+CS: (laughs) I don't actually remember any of the poems in there, I'm so sorry. (laughs)
 
-OCA: Well, those are the questions that we have for you today, and thank you for coming!
+OCA: It's alright, everybody is forgetful sometimes. Anyway, those are the questions that we have for you today, and thank you for coming!
 
 CS: Thanks for inviting me!
 
