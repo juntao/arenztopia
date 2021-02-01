@@ -10,7 +10,7 @@ weight: 26
 Volume 3, Issue 6    
 January 31st-Feburary 6th, 2021
 
-## Cover Story
+## 
 By Tony Yuan
 
 
@@ -40,10 +40,10 @@ By Tony Yuan
 
 
 
-## Story
+## Mayor's Birthday Celebration Leaked
 By Sam-Louis Alrocaet
 
-
+The Mayor of Olb City, Tony Yuan, has a birthday this month. According to leaked plans, the birthday celebration is to involve 500 fireworks, a 1 1/2 foot diameter cake, and a private party with many influential officials. 
 
 ## Story
 By Owen Miyazoi
