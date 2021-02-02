@@ -35,35 +35,28 @@ By Owen Miyazoi
 
 250 more people have gotten Avac and 400 people have gotten the Pfizer vaccine, according to reports. Cases are at 388 and deaths are at 11.
 
-## Feature:
-By Lorenzo Avila
+## Feature: Domo Lexington
+By Tony Yuan and Lorenzo Avila
 
+Today we interviewed Domo Lexington, a famous chef working in Arenztopia City. He owns a famous  restaurant there that is known for its many variations on popular dishes.
 
-Today we interviewed Domo Lexington, a famous chef working in Arenztopia City, he owns a restaurant in AZ city that is known for it's many variations of food.
+Olb City Announcer: Could you just breifly describe your restaurant?
 
-OCA:
-
-
-DL:
-
+Domo Lexington: 
 
 OCA:
-
-
-DL:
-
-
-OCA:
-
 
 DL:
 
 OCA:
 
+DL:
+
+OCA:
 
 DL:
 
-
+This interview has been edited for length and clarity.
 
 ## Car Crash Follow-Up
 By Sam-Louis Alrocaet
@@ -80,22 +73,14 @@ By Lorenzo Avila
 
 Birthdays 
 
-we all love them
-
-mayors bday is soon
-
-500 fireworks
-
-and cake
-
-we all love cake
-
-now i want cake
-
-where is the nearest cake shop?
-
-i have to stop writing now. i am getting cake.
-
+we all love them    
+mayor's bday is soon    
+500 fireworks    
+and cake    
+we all love cake    
+now I want cake    
+where is the nearest cake shop?    
+I have to stop writing now. I am getting cake.    
 
 ## Obituary
 By Owen Miyazoi
