@@ -8,7 +8,7 @@ weight: 26
 
 # The Olb City Announcer
 Volume 3, Issue 6    
-January 31st-Feburary 6th, 2021
+January 31st-February 6th, 2021
 
 ## Mysterious new movie being filmed
 By Tony Yuan
@@ -18,14 +18,12 @@ Natania City-Reports say that a mysterious new movie is being filmed in Natania 
 ## Arts
 By Owen Miyazoi
 
-The established contemporary artist Thankkar Manaskar-Porganathan scored yet another peice inside the ACAM. The peice, called "Capitalism", depicts a shredded-up 100$ bill that has been rearranged into a self-portrait.
+The established contemporary artist Thankkar Manaskar-Porganathan scored yet another artwork inside the ACAM. The piece, called "Capitalism", depicts a shredded-up American 100$ bill that has been rearranged into a self-portrait.
 
 ## Sports
 By Sam-Louis Alrocaet
 
-Olb City Ocelots VS Sherville Sharks
-
-On Wednesday, the Olb City Ocelots faced off agains the Sherville Sharks in the epic last game of the 2021 Arenztopian Professional Bobsledding Season. The race was extremely close, with the Sherville Sharks losing to the Ocelots by only about 0.163 seconds. The Sherville Sharks are one of the best bobsledding teams in Arenztopia, but they were perhaps overconfident after their series of wins throughout the tournament.
+On Wednesday, the Olb City Ocelots faced off agains the Sherville Sharks in the epic last game of the 2021 Arenztopian Professional Bobsledding Season. The race was extremely close, with the Sherville Sharks losing to the Ocelots by only about 0.163 seconds. The Sherville Sharks are widely considered one of the best bobsledding teams in Arenztopia, but they were perhaps overconfident after their series of wins throughout the tournament.
 
 ## Weather
 By Mezoir Logan
