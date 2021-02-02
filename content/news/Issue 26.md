@@ -36,7 +36,32 @@ By Owen Miyazoi
 250 more people have gotten Avac and 400 people have gotten the Pfizer vaccine, according to reports. Cases are at 388 and deaths are at 11.
 
 ## Feature:
-By Tony Yuan
+By Lorenzo Avila
+
+
+Today we interviewed Domo Lexington, a famous chef working in Arenztopia City, he owns a restaurant in AZ city that is known for it's many variations of food.
+
+OCA:
+
+
+DL:
+
+
+OCA:
+
+
+DL:
+
+
+OCA:
+
+
+DL:
+
+OCA:
+
+
+DL:
 
 
 
@@ -50,9 +75,18 @@ By Owen Miyazoi
 
 The Mayor of Olb City, Tony Yuan, has a birthday this month. According to leaked plans, the birthday celebration is to involve 500 fireworks, a 1 1/2 foot diameter cake, and a private party with many influential officials.
 
-## Poetry
+## Poetry: Cake!
 By Lorenzo Avila
 
+Birthdays 
+we all love them
+mayors bday is soon
+500 fireworks
+and cake
+we all love cake
+now i want cake
+where is the nearest cake shop?
+i have to stop writing now. i am getting cake.
 
 
 ## Obituary
