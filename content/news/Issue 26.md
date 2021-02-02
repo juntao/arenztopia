@@ -23,7 +23,7 @@ By Owen Miyazoi
 ## Sports
 By Sam-Louis Alrocaet
 
-
+Olb City Ocelots VS Sherville Sharks
 
 ## Weather
 By Mezoir Logan
@@ -40,18 +40,18 @@ By Tony Yuan
 
 
 
-## Mayor's Birthday Celebration Leaked
+## Car Crash Follow-Up
 By Sam-Louis Alrocaet
 
-The Mayor of Olb City, Tony Yuan, has a birthday this month. According to leaked plans, the birthday celebration is to involve 500 fireworks, a 1 1/2 foot diameter cake, and a private party with many influential officials. 
+ 
 
-## Story
+## Mayor's Birthday Celebration Leaked
 By Owen Miyazoi
 
-
+The Mayor of Olb City, Tony Yuan, has a birthday this month. According to leaked plans, the birthday celebration is to involve 500 fireworks, a 1 1/2 foot diameter cake, and a private party with many influential officials.
 
 ## Poetry
-By Tony Yuan
+By Lorenzo Avila
 
 
 
