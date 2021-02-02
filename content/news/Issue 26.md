@@ -42,9 +42,9 @@ Today we interviewed Domo Lexington, a famous chef working in Arenztopia City. H
 
 Olb City Announcer: Could you just breifly describe your restaurant?
 
-Domo Lexington: 
+Domo Lexington: So it's called the Lucio, after the first Duke of Venice. It's housed in an old, historic 1900 building but it features all the latest design trends inside. We use only the finest ingredients, and we cook our dishes using traditional methods.
 
-OCA:
+OCA: 
 
 DL:
 
