@@ -77,16 +77,13 @@ The popular store DreamBooks, located at the Three Pines Mall, announced a massi
 ## Poetry
 By Lorenzo Avila
 
-
-Devastating crash
-3 dead
-families and friends grieving
-honor them
-remember them
-mourn for them
-be there for the families
-
-
+Devastating crash    
+3 dead    
+families and friends grieving    
+honor them    
+remember them    
+mourn for them    
+be there for the families    
 
 ## Obituary
 By Owen Miyazoi
