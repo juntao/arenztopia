@@ -10,30 +10,32 @@ weight: 26
 Volume 3, Issue 6    
 January 31st-Feburary 6th, 2021
 
-## 
+## Mysterious new movie being filmed
 By Tony Yuan
 
-
+Natania City-Reports say that a mysterious new movie is being filmed in Natania City. When our reporters tried to visit the set, they were turned away. This movie has been shrouded in mystery since rumors got out of its development in July. There is almost nothing known about it, although most people agree that it is being produced by Naigon and Sons. Studios, a studio company based in Noi City. It is also agreed that the popular actor Ellidy J. is going to act in it. Other than that, nothing is agreed upon.
 
 ## Arts
 By Owen Miyazoi
 
-
+The established contemporary artist Thankkar Manaskar-Porganathan scored yet another peice inside the ACAM. The peice, called "Capitalism", depicts a shredded-up 100$ bill that has been rearranged into a self-portrait.
 
 ## Sports
 By Sam-Louis Alrocaet
 
 Olb City Ocelots VS Sherville Sharks
 
+On Wednesday, the Olb City Ocelots faced off agains the Sherville Sharks in the epic last game of the 2021 Arenztopian Professional Bobsledding Season. The race was extremely close, with the Sherville Sharks losing to the Ocelots by only about 0.163 seconds. The Sherville Sharks are one of the best bobsledding teams in Arenztopia, but they were perhaps overconfident after their series of wins throughout the tournament.
+
 ## Weather
 By Mezoir Logan
 
-
+The average temperature next week should be a chilly -4 degrees celsius as we head into the last stages of winter.
 
 ## Coronavirus Report
 By Owen Miyazoi
 
-
+250 more people have gotten Avac and 400 people have gotten the Pfizer vaccine, according to reports. Cases are at 388 and deaths are at 11.
 
 ## Feature:
 By Tony Yuan
@@ -58,4 +60,4 @@ By Lorenzo Avila
 ## Obituary
 By Owen Miyazoi
 
-
+Beloved former mayor Warilam Nansocal died on Tuesday. She was 97. Mrs. Nansocal was instrumental in promoting the growth of Olb City to the borders of Natania City, and she also helped create Olb University. You can visit her memorial at olbcity.az/nansocal.
