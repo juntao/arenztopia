@@ -38,7 +38,7 @@ By Owen Miyazoi
 ## Feature:
 By Tony Yuan and Lorenzo Avila
 
-Today we interviewed Telta Williams, the founder and CEO of Telta Tech a company that focuses on air travel.
+Today we interviewed Telta Williams, the founder and CEO of Telta Tech, a company that focuses on air travel.
 
 Olb City Announcer: Hi! thanks for coming! Can you tell us a little bit about Telta Tech?
 
@@ -46,18 +46,17 @@ Telta Williams: Sure! Telta Tech is a company that makes and uses our air travel
 
 OCA: That is awesome! What was your most recent project?
 
-TA: Well, we are working on some projects right now, but we can't tell you about that till it is released! But, one project recently released was the Planes for Humanity project or PHP. We use our Planes to carry food to less-fortunate families in places like Uganda, Ethiopia, Yemen, and many African countries. We also use our Tech, mostly our drones, to plant trees in areas where forests are being cut down. 
+TW: Well, we are working on some projects right now, but we can't tell you about that till it is released! But, one project recently released was the Planes for Humanity project or PHP. We use our planes to carry food to less-fortunate families in places like Uganda, Ethiopia, Yemen, and many African countries: A single freighter 747 can carry over 120 tons of food. We also use our other aviation tech, mostly our drones, to plant trees in areas where forests are being cut down. 
 
 OCA: WOW! you and your company seem to be working very hard to help this planet! What do you use your money for?
 
-TA: Well, first from what i just told you we dont make a whole lot of money on things like PHP but, we sell out tech to some companies that we know use out tech for good. But, anyway we make monthly about 1 billion dollars. Alot. After paying my employees, keeping out tech up to standards, and the cost of the saplings, and the food we give. I have about 100 Million left. I donate 50 Million to childrens hospital, 25 million to ocean clean up and then I have 25 Million left. Of course after i work pretty hard i like to keep 10 Million myself. I keep the last 15 million for future projects.
-
+TA: Well, first from what I just told you we dont make a whole lot of money on things like PHP but, we sell out tech to some companies that we know use out tech for good. But, anyway we make monthly about 1 billion dollars, which is a lot. After paying my employees, keeping our tech up to standards, and the cost of the saplings, and the food we give, we have about 100 million left. I donate 50 million to childrens' hospitals, 25 million to ocean clean-up programs and then I have 25 million left. Of course after I work pretty hard I like to keep 10 million myself. I keep the last 15 million for future projects.
 
 OCA: Sounds like your very smart with your money! Anyway, thanks for coming!
 
 TA: Thanks for inviting me! Bye!
 
-This interview has been edited for length and clarity. (tony you can add stuff like specific types of planes, cause i know you know things like that. I am not interested in planes. Also, check your messages)
+This interview has been edited for length and clarity.
 
 ## Story
 By Sam-Louis Alrocaet
@@ -74,19 +73,15 @@ By Lorenzo Avila
 
 Elections
 
-Soon
-
-Sign up 
-
-On the home page
-
-you can run
-
-soon
-
-
+Soon    
+sign up    
+On the home page    
+you can run    
+soon    
 
 ## Obituary
 By Owen Miyazoi
 
 
+
+{NOTE, we have the entire of this week and next week to finish this bc #26 is already finished.}
