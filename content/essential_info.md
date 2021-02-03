@@ -272,3 +272,10 @@ National food: Ice Cream
 Languages spoken: Arenzese, English, Spanish   
 Highest temperature recorded: 41˚C (105˚F)   
 Lowest temperature recorded: -16˚C (16.8˚F)    
+
+## This week's checklist
+
+In an attempt to be more transparent, we're publishing a checklist which lists what changes will hopefully be made to the website this week.
+
+ -[x] Finish Issue 26 of the news
+ -[ ] Work on the Tourism section
