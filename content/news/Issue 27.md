@@ -36,9 +36,9 @@ By Owen Miyazoi
 
 
 ## Feature:
-By Tony Yuan
+By Tony Yuan and Lorenzo Avila
 
-Today we interviewed
+Today we interviewed Telta Williams, the founder and CEO of Telta Tech a company that focuses on air travel.
 
 Olb City Announcer: 
 
