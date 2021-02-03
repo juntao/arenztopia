@@ -57,7 +57,7 @@ OCA: Sounds like your very smart with your money! Anyway, thanks for coming!
 
 TA: Thanks for inviting me! Bye!
 
-This interview has been edited for length and clarity. (tony you can add stuff like specific types of planes, cause i know you know things like that. I am not interested in planes)
+This interview has been edited for length and clarity. (tony you can add stuff like specific types of planes, cause i know you know things like that. I am not interested in planes. Also, check your messages)
 
 ## Story
 By Sam-Louis Alrocaet
@@ -71,6 +71,18 @@ By Owen Miyazoi
 
 ## Poetry
 By Lorenzo Avila
+
+Elections
+
+Soon
+
+Sign up 
+
+On the home page
+
+you can run
+
+soon
 
 
 
