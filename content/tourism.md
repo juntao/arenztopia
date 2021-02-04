@@ -189,6 +189,12 @@ There are Ranger Centers and Park Offices at Caldera Station, Darlong Cave, Guth
 
 The main road is Park Road 1004. It winds around the mountain in a loose spiral. It is also the only paved road in the entire park; Park Roads 1104 and 1204 branch out from Park Road 1004 and meander around the sparse foothills of the volcano. The upper regions of the volcano consist of lava flows and desolate gravel plains. You can apply for a permit, and then you can freely drive an off-road vehicle around select areas. So, there are not any roads in or above the 5,500 feet line.
 
+
+## Zmxrvmg Rmxz National Park
+
+
+Zmxrvmg Rmxz National park, translating to Ancient Inca in English. The park 
+
 ## Thunberg National Marine Reserve
 
 ## Reef National Marine Reserve
