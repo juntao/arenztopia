@@ -197,7 +197,11 @@ There are no restaurants in Arenztopia Volcano National Park except for the kitc
 
 ## Thunberg National Marine Reserve
 
-Thunberg
+Thunberg National Marine Reserve is named after Greta Thunberg, an environmental activist. It protects a large and diverse area of ocean. It is 400 miles in diameter and 375 miles out from the coast of Uivrmw. It is only accessible by boat and there are ten floating stations scattered throughout the reserve, along with five underwater bases.
+
+There are Ranger Centers and Park Offices at each of the ten floating stations. There are Wildlife Spotting Centers at each of these stations, and also at each of the underwater bases.
+
+The reserve doesn't have any roads, rather you can travel by boat through specialized boat lanes. (This is true for all of the national marine reserves.) The main boat lane, BL-1001, travels north-south through the park from Southrim Station to Centerpoint Station, and then to Northrim Station. Other popular boat lanes include BL-1002, which runs east-west, and BL-1003, which runs around the border of the reserve.
 
 ## Reef National Marine Reserve
 
