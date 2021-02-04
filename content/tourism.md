@@ -189,13 +189,15 @@ There are Ranger Centers and Park Offices at Caldera Station, Darlong Cave, Guth
 
 The main road is Park Road 1004. It winds around the mountain in a loose spiral. It is also the only paved road in the entire park; Park Roads 1104 and 1204 branch out from Park Road 1004 and meander around the sparse foothills of the volcano. The upper regions of the volcano consist of lava flows and desolate gravel plains. You can apply for a permit, and then you can freely drive an off-road vehicle around select areas. So, there are not any roads in or above the 5,500 feet line.
 
+Arenztopia Volcano is pockmarked by caves warmed by geothermal energy. These caves hold many rare and exotic species such as the Arenztopian Blind Cave Salamander, which is severely endangered and is only found on Arenztopia Volcano. The top of the volcano is extremely desolate, and there is a huge crater at the very top; it has filled up with water and is now a lake. The middle part of the volcano is grass and sparse groves of trees: These manage to suck enough nutrients from the old lava flows to cling to life. The bottom and foothills of the volcano are grasslands and large tree groves.
 
-## Zmxrvmg Rmxz National Park
+Arenztopia Volcano National Park has only one hotel, Lavaflow Inn ($$). It is an exceptional building built near a grove of trees at 2,500 feet. They have full amenities and an acclaimed kitchen. They're also located right next to Park Road 1004. Nightly rates range from 50-150 dollars, and there is a shuttle to and from the summit and the foothills.
 
-
-Zmxrvmg Rmxz National park, translating to Ancient Inca in English. The park 
+There are no restaurants in Arenztopia Volcano National Park except for the kitchen at the Lavaflow Inn.
 
 ## Thunberg National Marine Reserve
+
+Thunberg
 
 ## Reef National Marine Reserve
 
