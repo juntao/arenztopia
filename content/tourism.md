@@ -225,12 +225,14 @@ Much like Thunberg National Marine Reserve, Reef National Marine Reserve does no
 
 ## Inca National Historical Site
 
-
+[This section is still being worked on. Please check back for updates.]
 
 
 
 # THE END
 
 Powered by the Arenztopian Bureau of Tourism.
+
+By Tony Yuan and Lorenzo Avila. Some names created by various members of the Arenztopian Community.
 
 Copyright 2020, 2021 by the Arenztopian Bureau of Tourism. All Rights Reserved.
