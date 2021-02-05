@@ -197,7 +197,7 @@ There are no restaurants in Arenztopia Volcano National Park except for the kitc
 
 ## Thunberg National Marine Reserve
 
-Thunberg National Marine Reserve is named after Greta Thunberg, an environmental activist. It protects a large and diverse area of ocean. It is 400 miles in diameter and 375 miles out from the coast of Uivrmw. It is only accessible by boat and there are ten floating stations scattered throughout the reserve, along with five underwater bases.
+Thunberg National Marine Reserve is named after Greta Thunberg, an environmental activist. It protects a large and diverse area of ocean. It is 275 miles in diameter and 250 miles out from the coast of Uivrmw. It is only accessible by boat and there are ten floating stations scattered throughout the reserve, along with five underwater bases.
 
 There are Ranger Centers and Park Offices at each of the ten floating stations. There are Wildlife Spotting Centers at each of these stations, and also at each of the underwater bases.
 
@@ -211,20 +211,26 @@ There are only three restaurants in Thunberg National Marine Reserve. The first 
 
 ## Reef National Marine Reserve
 
+Reef National Marine Reserve protects Arenztopia Reef, a coral reef located off the coast of the Coast Region. The main jumping-off spot for trips here is the coastal village of Hillsbury. It is 950 miles long and has twelve floating stations and four underwater bases scattered around it. 
 
+There are Ranger Centers and Park Offices at each of these floating stations and underwater bases. There are Wildlife Spotting Centers in the underwater bases and on the main floating station.
+
+The reserve doesn't have any roads, it only has specialized boat lanes. The main boat lane is BL-002, and it goes straight down the middle of the park from the Westrim Station to the Eastrim Station. Other boat lanes of interest include BL-012, which winds around the border of the reserve; BL-042, which goes in a loose wave pattern east-west across the entire reserve; and BL-182, which goes in a loop out from Hillsbury and back.
+
+The park's reef is an extremely diverse place, housing over 1,000 species of marine animal and 300 kinds of coral. The waters teem with beautiful tropical fish, whales, sea turtles, rays, and squid. It is considered one of the most beautiful spots in Arenztopia.
+
+Much like Thunberg National Marine Reserve, Reef National Marine Reserve does not have any lodgings. People usually stay in Hillsbury or one of the other coastal villages and towns.
+
+*Un*like Thunberg National Marine Reserve, Reef National Marine Reserve does not have any restaurants.
 
 ## Inca National Historical Site
 
-The Inca National Historical site is a Historical site thats displays and preserves many of the temples and artifacts that the Incans brought when they first inhabited Arenztopia. It is also then home of many endangered species that only inhabit that area. It has dirt paths leading to the museums and exhibits. No vehicles except for buses provided by the park, and ranger vehicles. No civilian vehicles allowed. Bus fares cost 5 dollars for every adult there and back. Kids ride free. You will be able to find 6 ranger stations  across the park. There is one lodge at the site. Since there is such a small amount of lodging the cost is regularly 400 arenzos a night. Most people stay in hotels in close cities. 2 restaraunts can be found at the INHS. The first is located in the main museum and it is called Inca Drinks and serves a variety of drinks, like a non-alchoholic Chicha, Bubble tea, Juice, and food like patatoes, dumplings, and much more.
+
 
 
 
 # THE END
 
- Powered by the Arenztopian Bureau of Tourism.
- 
- Written by Tony Yuan and Lorenzo Avila.
- 
- Many contributions from the Arenztopian community.
+Powered by the Arenztopian Bureau of Tourism.
 
 Copyright 2020, 2021 by the Arenztopian Bureau of Tourism. All Rights Reserved.
