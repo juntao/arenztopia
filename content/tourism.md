@@ -203,6 +203,10 @@ There are Ranger Centers and Park Offices at each of the ten floating stations. 
 
 The reserve doesn't have any roads, rather you can travel by boat through specialized boat lanes. (This is true for all of the national marine reserves.) The main boat lane, BL-1001, travels north-south through the park from Southrim Station to Centerpoint Station, and then to Northrim Station. Other popular boat lanes include BL-1002, which runs east-west, and BL-1003, which runs around the border of the reserve.
 
+The park encloses a small reef, which houses over 150 species of coral and 650 species of animals. There is also a nearby kelp forest, which houses a similar number of species of animals. The surrounding waters are teeming with life such as sea turtles, rays, huge amounts of fish, whales, and squid. The water ranks among some of the most blue and most clear waters in the entire Pacific Ocean.
+
+There are no lodgings in Thunberg National Marine Reserve.
+
 ## Reef National Marine Reserve
 
 
