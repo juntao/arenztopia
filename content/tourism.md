@@ -215,11 +215,16 @@ There are only three restaurants in Thunberg National Marine Reserve. The first 
 
 ## Inca National Historical Site
 
+The Inca National Historical site is a Historical site thats displays and preserves many of the temples and artifacts that the Incans brought when they first inhabited Arenztopia. It is also then home of many endangered species that only inhabit that area. It has dirt paths leading to the museums and exhibits. No vehicles except for buses provided by the park, and ranger vehicles. No civilian vehicles allowed. Bus fares cost 5 dollars for every adult there and back. Kids ride free. You will be able to find 6 ranger stations  across the park. There is one lodge at the site. Since there is such a small amount of lodging the cost is regularly 400 arenzos a night. Most people stay in hotels in close cities. 2 restaraunts can be found at the INHS. The first is located in the main museum and it is called Inca Drinks and serves a variety of drinks, like a non-alchoholic Chicha, Bubble tea, Juice, and food like patatoes, dumplings, and much more.
 
 
 
 # THE END
 
  Powered by the Arenztopian Bureau of Tourism.
+ 
+ Written by Tony Yuan and Lorenzo Avila.
+ 
+ Many contributions from the Arenztopian community.
 
 Copyright 2020, 2021 by the Arenztopian Bureau of Tourism. All Rights Reserved.
