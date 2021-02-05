@@ -193,7 +193,7 @@ Arenztopia Volcano is pockmarked by caves warmed by geothermal energy. These cav
 
 Arenztopia Volcano National Park has only one hotel, Lavaflow Inn ($$). It is an exceptional building built near a grove of trees at 2,500 feet. They have full amenities and an acclaimed kitchen. They're also located right next to Park Road 1004. Nightly rates range from 50-150 dollars, and there is a shuttle to and from the summit and the foothills.
 
-There are no restaurants in Arenztopia Volcano National Park except for the kitchen at the Lavaflow Inn.
+There are no restaurants in Arenztopia Volcano National Park except for the kitchen at the Lavaflow Inn ($). Its staple dish is a lava cake, except made of a meatloaf and sauce.
 
 ## Thunberg National Marine Reserve
 
@@ -205,7 +205,9 @@ The reserve doesn't have any roads, rather you can travel by boat through specia
 
 The park encloses a small reef, which houses over 150 species of coral and 650 species of animals. There is also a nearby kelp forest, which houses a similar number of species of animals. The surrounding waters are teeming with life such as sea turtles, rays, huge amounts of fish, whales, and squid. The water ranks among some of the most blue and most clear waters in the entire Pacific Ocean.
 
-There are no lodgings in Thunberg National Marine Reserve.
+There are no lodgings in Thunberg National Marine Reserve. People usually stay in one of the coastal towns nearest to the reserve, and then take a ferry out to the reserve for a day trip. 
+
+There are only three restaurants in Thunberg National Marine Reserve. The first one is at Centerpoint Station, and it is called the Centerpoint Chowder Shack ($$). It is known for its clam chowder and seafood salad. The second one is actually on a houseboat permanentely anchored off of Southwest Station. It is called the Houseboat Diner ($$), and its inside is furnished with authentic, chrome 1960s diner furniture. Its staple dish is fish and chips, and there is also a burger with a salmon patty. The final restaurant is located in one of the underwater bases, specifically the South-water Base. It is called the Thunberg Cafe, ($$$) and it has a magnificent view of a part of the reef, and it also has very gourmet food. Its staple food is marlin fillet with Worchestershire sauce.
 
 ## Reef National Marine Reserve
 
