@@ -121,7 +121,7 @@ Olb City Monument $ A huge, hollow column that commemorates the founding of Olb 
 *Monument Plaza, East Main Street*
 
 
-Temple of the Stone God $ This monumental Incan temple was built to honor the stone god Apu, who was believed to live in Mount Arenztopia. The fascinating, well-written signs invite you into ancient history at a fee of 4$.
+Temple of the Earth God $ This monumental Incan temple was built to honor the earth goddess Pachamama, who was believed to live in Mount Arenztopia. The fascinating, well-written signs invite you into ancient history at a fee of 4$.
 *9700 Temple Avenue*
 
 
@@ -225,13 +225,12 @@ Much like Thunberg National Marine Reserve, Reef National Marine Reserve does no
 
 ## Inca National Historical Site
 
-The Inca National Historical site is a Historical site thats displays and preserves many of the temples and artifacts that the Incans brought when they first inhabited Arenztopia. It is also then home of many endangered species that only inhabit that area. It has dirt paths leading to the museums and exhibits.
+Inca National Historical Site is a historical site covering an area of approxiamately a quarter square mile. It is located next to the Tortoise River on the outskirts of Olb City. The Historial Site is mainly centered around a huge plaza, with temples arrayed around it.
 
-No vehicles except for buses provided by the park, and ranger vehicles. No civilian vehicles allowed. Bus fares cost 5 dollars for every adult there and back. Kids ride free.
+The southern part of the park is occupied by the visitor's center, the ticket booth, the restaurant, and the museum. The visitors center includes a gift shop, the help desk, bathrooms, and guides. The museum has many artifacts from the site arrayed with clear labels and descriptions. The admission fee is 4$, which includes the museum and an audio tour through the site. 
 
-You will be able to find 6 ranger stations  across the park. There is one lodge at the site. Since there is such a small amount of lodging the cost is regularly 400 arenzos a night. Most people stay in hotels in close cities.
+The site contains five temples. The largest one is at the northern end and is dedicated to Pachamama, the goddess of earth. It is 125 feet in diameter and 200 feet tall. To the east is a smaller temple, which is dedicated to Viracocha, the creation god. It is now partially in ruins. To the west are three small temples dedicated to Inti (The god of the sun), Mama Quilla (The god of the moon), and Supay (The god of death). Inti's temple is completely in ruins. Mama Quilla's temple is complete. Supay's temple is partially in ruins. 
 
-2 restaraunts can be found at the INHS. The first is located in the main museum and it is called Inca Drinks and serves a variety of drinks, like a non-alchoholic Chicha, Bubble tea, Juice, and food like patatoes, dumplings, and much more.
 
 
 
