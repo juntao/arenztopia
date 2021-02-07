@@ -143,6 +143,10 @@
   </url>
   
   <url>
+    <loc>/people/michael-a/</loc>
+  </url>
+  
+  <url>
     <loc>/news/issue-16/</loc>
   </url>
   
@@ -203,11 +207,6 @@
   <url>
     <loc>/people/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/michael-a/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
