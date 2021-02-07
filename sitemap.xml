@@ -167,6 +167,10 @@
   </url>
   
   <url>
+    <loc>/people/ryan-z/</loc>
+  </url>
+  
+  <url>
     <loc>/news/issue-19/</loc>
   </url>
   
@@ -215,11 +219,6 @@
   <url>
     <loc>/people/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/ryan-z/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
