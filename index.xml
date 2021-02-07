@@ -500,5 +500,14 @@ Feature: By Lorenzo Avila and Tony Yuan
 Today we interviewed Telta Williams, the founder and CEO of Telta Tech, a company that focuses on air travel.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/people/michael-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/michael-a/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
