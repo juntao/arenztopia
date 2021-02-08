@@ -16,7 +16,7 @@ weight: 27
 Volume 3, Issue 6    
 February 7th-February 13th, 2021
 
-## Cover Story
+## 
 By Tony Yuan
 
 
@@ -29,19 +29,19 @@ A new artwork was unveiled at the OCAM on Monday. It is by previously unknown ar
 ## Sports
 By Sam-Louis Alrocaet
 
-
+On Sunday, the Super Bowl happened over in the United States. The Tampa Bay Buccaneers and Tom Brady went up against the Kansas City Cheifs and Patrick Mahomes. It was a very one-sided fight, with a gigantic loss for the Cheifs. A quick analysis shows that the Tampa Bay Buccaneers' defense always tackled Mahomes before he could make a focused throw, and the Cheifs didn't ever get a single touchdown. The final score was 31-9.
 
 ## Weather
 By Mezoir Logan
 
-
+Snow is expected with nearly-freezing temperatures throughout next week.
 
 ## Coronavirus Report
 By Owen Miyazoi
 
+Cases are at 380 and deaths are at 9. 500 more people have gotten Avac, and 450 more people have gotten the Pfizer vaccine. This is the first time since mid-March that cases have dropped below 10.
 
-
-## Feature:
+## Feature: Telta Williams
 By Lorenzo Avila and Tony Yuan
 
 Today we interviewed Telta Williams, the founder and CEO of Telta Tech, a company that focuses on air travel.
@@ -64,10 +64,10 @@ TA: Thanks for inviting me! Bye!
 
 This interview has been edited for length and clarity.
 
-## Story
+## Hackers breach security archives
 By Sam-Louis Alrocaet
 
-
+The hacker group GreenLight breached the Security Archives of Olb City, exposing over 100,000 classified and declassified security feeds. Officials have banned the circulation of the classified feeds but have allowed the circulation of the declassified ones.
 
 ## Story
 By Owen Miyazoi
@@ -81,7 +81,6 @@ Elections
 
 Soon    
 sign up    
-On the home page    
 you can run    
 soon    
 
