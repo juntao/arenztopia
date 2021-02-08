@@ -7,16 +7,16 @@ weight: 27
 ---
 
 
-
-[Note, this section is still being worked on. Please check back for updates.]
-
+---
+## [Note, this section is still being worked on. Proceed to see what progress has been made, or check back for updates.]
+---
 
 
 # The Olb City Announcer
 Volume 3, Issue 6    
 February 7th-February 13th, 2021
 
-## 
+## Cover Story
 By Tony Yuan
 
 
