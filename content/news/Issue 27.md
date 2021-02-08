@@ -24,7 +24,7 @@ By Tony Yuan
 ## Arts
 By Owen Miyazoi
 
-
+A new artwork was unveiled at the OCAM on Monday. It is by previously unknown artist Georgio Kanhalkanazzar. It features a huge LED screen that visitors can walk on, and the screen displays various optical illusions as the day progresses. N1 News' art reviews section has described it as "dizzying fun."
 
 ## Sports
 By Sam-Louis Alrocaet
