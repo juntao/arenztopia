@@ -4,7 +4,7 @@ menu: 'main'
 weight: 7
 ---
 
-Arenztopia is a vibrant country, with a plentiful economy and lots of people.  In this section of the website you will learn everything you need to know about living in Arenztopia.
+Arenztopia is a vibrant country, with a plentiful economy and lots of people.  In this section of the website you will learn everything you need to know about moving to and living in Arenztopia.
 
 ## Housing
 
