@@ -1,7 +1,7 @@
 ---
 title: 'Disclaimers and Acknowledgments'
 menu: 'main'
-weight: 7
+weight: 8
 ---
 
 Names given except for mine (Tony) and Renzo's are not complete for security reasons. Typos and/or faults are our complete responsibility. All mentioned events are scientifically possible and extensive research has been done to confirm that real people mentioned were alive in that time period. Most people are real, but some places are not. Portions of this website can be reproduced, stored in a retrival system, or transmitted in any form or by any means, mechanical, electronic, recording, or otherwise, but certain sections may require express permission from the Government of Arenztopia. This website was created using Github and Hugo on a Hewlett-Packard Chromebook 11 G5 computer, a Hewlett-Packard 15 G5 Chromebook, and a Macbook Pro. Typed in the USA. All rights reserved.
