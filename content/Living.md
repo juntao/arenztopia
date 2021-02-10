@@ -23,3 +23,12 @@ The Natania Circle ($$) is a suburban neighborhood in Natania City. All houses a
 Hfyfiyzm ($$$) is a gated neighborhood on the outskirts of Arenztopia City. The large and accordingly expensive houses all have the same basic stats of 7 bedrooms, 6 baths, a pool, a reception area, a very large living area, an outdoor dining room and kitchen, an indoor dining room and kitchen, and a deck on the second floor. The houses are a whopping 6,500 square feet, and come in three styles. People say that it is ideal for large families who earn lots of money. You can buy one for 1,750,000 Arenzos. The average AES (Arenztopian Education Score) of the schools nearby is 4.75 out of 5. There is easy access to a large park and several strip malls, as well as two HEBs. Visit their website at [hfyfiyzm.com](hfyfiyzm.com).
 
 Noi City Heights ($$$) is a neighborhood located near downtown Noi City. Noi City Heights, just like the city it is located in, is a bustling site with lots of activity and modern vibes. The houses are large with 4 bedrooms, 3 bathrooms, a full kitchen, a walk in freezer, and a pool. They also include a large living area and 2 dining rooms. The houses are a good 2500 square feet. The average cost for the houses are 500,000 Arenzos. The community is located near many grocery stores and restaraunts. Visit their website at [NCHeights.com](https://sites.google.com/view/noicityheights-arenztopia-home/home)
+
+
+
+## Transportation
+
+In Arenztopia there are many ways to get to and from places you need to be.
+
+
+Subway ($). There is a complex subway system with many differnt paths and all for a low price. In all major cities in Arenztopia you can find subways. Arenztopia city, Noi city, Olb city, Natania city, and much more. For every where in Arenztopia you can buy a ticket for 1 dollar. You can also buy a monthly bus pass for 10 dollars. 
