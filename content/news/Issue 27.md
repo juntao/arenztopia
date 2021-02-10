@@ -16,10 +16,10 @@ weight: 27
 Volume 3, Issue 6    
 February 7th-February 13th, 2021
 
-## Cover Story
+## Huge New Building Complex Planned
 By Tony Yuan
 
-
+North Olb City-A new and ambitious building complex was announced in the trending neighborhood of Riverpark Heights. It is going to be designed, built, and sold by prestigious realty firm McMilleryége & Sons. The complex will feature eight modern buildings designed to be green and almost entirely self-sufficient, and it will have over 1 and a half million square feet of space spread out over a lot of 8 acres. According to a statement from McMilleryége & Sons, it will likely be finished by 2030.
 
 ## Arts
 By Owen Miyazoi
@@ -69,10 +69,10 @@ By Sam-Louis Alrocaet
 
 The hacker group GreenLight breached the Security Archives of Olb City, exposing over 100,000 classified and declassified security feeds. Officials have banned the circulation of the classified feeds but have allowed the circulation of the declassified ones.
 
-## Story
+## 680 Pizza releases new website
 By Owen Miyazoi
 
-
+The famous pizza shop 680 Pizza revamped its website on Wednesday with a new online-ordering service and a new store for merchandise. You can visit the website at [680pizza.az](680pizza.az)
 
 ## Poetry
 By Lorenzo Avila
@@ -87,3 +87,4 @@ soon
 ## Obituary
 By Owen Miyazoi
 
+Famous director William Narghbourough died at the age of 98 on Tuesday. He had produced over 350 movies and short films over his 70-year career. A record twenty of his movies have gotten the Sawyer A. Pargon Award for Excelling Excellency in the Art of Film, which is one of the most prestigious film awards in Arenztopia. He was widely known as one of the best directors in the world. Show sympathy by visiting his memorial at [afc.az/specials/memorials/williamnarghbourough](afc.az/specials/memorials/williamnarghbourough).
