@@ -54,3 +54,5 @@ Pilot ($$) is a very popular job in Arenztopia. It requires much training but pa
 
 Dripping Cone Employee ($$$) is a very sought-after job. It requires a medium amount of training just, how to clean the ice cream machine, how to talk to customers and other basics. It pays 400,000 Arenzos a year. If you like ice cream, talking to people an much more, sign up at [DC.com](DC.com)
 
+Teacher ($$$) is a very respected job. Unlike in many countries, teachers in Arenztopia are well paid. 700,000 a year on average. It does require a few years of college and 1 year of teacher shadowing. You will follow a teacher and help him/her around the class. You can sign up at [TeachAZ.com](teach.com)
+
