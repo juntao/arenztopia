@@ -40,9 +40,9 @@ Bus ($) There are many types of bus in Arenztopia. Tour companies offer long-dis
 
 Taxi ($) The taxi is an efficient way to travel around major cities. They are governed under the TRC (Taxi Regulation Committee) of the Bureau of Transportation. The universal starting fare is 1 and a half Arenzos, and this increases by one Arenzo for every half a mile you travel.
 
-Plane ($$) Planes are a quick and fast way to get from one end of Arenztopia to the other. All major airlines such as Delta, United, and Arenztopia Airways all offer domestic flights within Arenztopia. Another good domestic airline is SC Air, which provides quick, cheap, and comfortable flights to just about any airport in Arenztopia. Prics vary; a cross-country flight is about 150$ and a short, city-to-city hop is about 15$.
+Plane ($$) Planes are a quick and fast way to get from one end of Arenztopia to the other. All major airlines such as Delta, United, and Arenztopia Airways all offer domestic flights within Arenztopia. Another good domestic airline is SC Air, which provides quick, cheap, and comfortable flights to just about any airport in Arenztopia. Prices vary; a cross-country flight is about 300 Arenzos and a short, city-to-city hop is about 30 Arenzos.
 
-Boat
+Boat ($) Arenztopia has many long rivers, so a boat is certainly an option to get around. The Tortoise and Arenztopia rivers both have boat taxi programs, with a universal fare of 2 Arenzos, and an increase of 1 Arenzo for every half a mile that you travel. There are also many river ferries; the foremost is the AVCG-S-RF ferry, which travels down all major rivers. Oceanic ferries are available too; these ferry people to and from coastal towns and off-coast attractions. Prices vary; a river ferry trip down a major river such as the Tortoise, Hernandez, or Arenztopia costs about 160 Arenzos, and a tour down the city-surrounded part of a river costs about 40 Arenzos. An oceanic ferry to a major attraction such as Thunberg National Marine Reserve costs about 50 Arenzos, and an oceanic ferry to and from two coastal cities such as Hillsbury and Canopia costs about 40 Arenzos.
 
 
 
