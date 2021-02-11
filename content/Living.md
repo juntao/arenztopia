@@ -52,3 +52,5 @@ There are many good-paying and easy jobs in Arenztopia. Here are some of the bes
 
 Pilot ($$) is a very popular job in Arenztopia. It requires much training but pays an average of 200,000 Arenzos per year, enough to live in a luxury neighborhood. If you like flying and are interested in how planes work, then you can sign up for beginner pilot academy at [apa.az](apa.az).
 
+Dripping Cone Employee ($$$) is a very sought-after job. It requires a medium amount of training just, how to clean the ice cream machine, how to talk to customers and other basics. It pays 400,000 Arenzos a year. If you like ice cream, talking to people an much more, sign up at [DC.com](DC.com)
+
