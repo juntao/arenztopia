@@ -47,3 +47,6 @@ Boat ($) Arenztopia has many long rivers, so a boat is certainly an option to ge
 
 
 ## Jobs
+
+There are many good-paying and easy jobs in Arenztopia. Here are some of the best.
+
