@@ -52,12 +52,14 @@ There are many good-paying and easy jobs in Arenztopia. Here are some of the bes
 
 Pilot ($$) is a very popular job in Arenztopia. It requires much training but pays an average of 200,000 Arenzos per year, enough to live in a luxury neighborhood. If you like flying and are interested in how planes work, then you can sign up for beginner pilot academy at [apa.az](apa.az).
 
-Dripping Cone Employee ($$$) is a very sought-after job. It requires a medium amount of training just, how to clean the ice cream machine, how to talk to customers and other basics. It pays 400,000 Arenzos a year. If you like ice cream, talking to people an much more, sign up at [DC.com](DC.com)
+Dripping Cone Employee ($$) is a very sought-after job. It requires a medium amount of training: just how to clean the ice cream machine, how to talk to customers and other basics. It pays up to 250,000 Arenzos a year. If you like ice cream and talking to people, sign up at [signup.drippingcone.com](signup.drippingcone.com).
 
-Teacher ($$$) is a very respected job. Unlike in many countries, teachers in Arenztopia are well paid. 700,000 a year on average. It does require a few years of college and 1 year of teacher shadowing. You will follow a teacher and help him/her around the class. You can sign up at [TeachAZ.com](teach.com)
+Teacher ($$$) is a very respected job. Unlike in many countries, teachers in Arenztopia are well paid at 400,000 a year on average. It does require a master's degree in college and 1 year of teacher shadowing. If you like teaching children and interacting with other people, sign up at [abe.az](abe.az) for public schools or [acps.org](acps.org)
 
 
 
 ## Food and Groceries 
 
+There are many places to get food and groceries in Arenztopia. Here are some of the best.
 
+HEB ($) HEB is a supermarket. They offer quick service, low prices, and quality food. Nearly every neighborhood in Arenztopia has easy access to an HEB. Visit their website at [heb.com](heb.com).
