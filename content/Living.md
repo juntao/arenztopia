@@ -40,7 +40,7 @@ Bus ($) There are many types of bus in Arenztopia. Tour companies offer long-dis
 
 Taxi ($) The taxi is an efficient way to travel around major cities. They are governed under the TRC (Taxi Regulation Committee) of the Bureau of Transportation. The universal starting fare is 1 and a half Arenzos, and this increases by one Arenzo for every half a mile you travel.
 
-Plane 
+Plane ($$) Planes are a quick and fast way to get from one end of Arenztopia to the other. All major airlines such as Delta, United, and Arenztopia Airways all offer domestic flights within Arenztopia. Another good domestic airline is SC Air, which provides quick, cheap, and comfortable flights to just about any airport in Arenztopia. Prics vary; a cross-country flight is about 150$ and a short, city-to-city hop is about 15$.
 
 Boat
 
