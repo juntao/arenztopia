@@ -56,3 +56,5 @@ Dripping Cone Employee ($$$) is a very sought-after job. It requires a medium am
 
 Teacher ($$$) is a very respected job. Unlike in many countries, teachers in Arenztopia are well paid. 700,000 a year on average. It does require a few years of college and 1 year of teacher shadowing. You will follow a teacher and help him/her around the class. You can sign up at [TeachAZ.com](teach.com)
 
+
+
