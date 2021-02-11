@@ -50,3 +50,6 @@ Boat ($) Arenztopia has many long rivers, so a boat is certainly an option to ge
 
 There are many good-paying and easy jobs in Arenztopia. Here are some of the best.
 
+
+Pilot ($$) is a very poular job in Arenztopia. There are multiple airlines in arenztopia, so there are many jobs for pilots. Pilots can pay on average 5000 Arenzos a month.
+
