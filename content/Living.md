@@ -4,7 +4,7 @@ menu: 'main'
 weight: 7
 ---
 
-Arenztopia is a vibrant country, with a plentiful economy and lots of people.  In this section of the website you will learn everything you need to know about moving to and living in Arenztopia.
+Arenztopia is a vibrant country, with a plentiful economy and lots of people.  In this section of the website you will learn everything you need to know about living in Arenztopia.
 
 ## Housing
 
@@ -30,7 +30,7 @@ Noi City Heights ($$$) is a neighborhood located near downtown Noi City. Noi Cit
 
 In Arenztopia there are many ways to get around from  Point A to Point B.
 
-Car ($$) The car industry is dominated by Arenztopia Motors (AM), AEV, and Tellurium Group (TG). Cars are the dominant mode of transportation in Arenztopia. One of the best car dealerships is Jack Sawyerton Arenztopian Cars. They have locations all over the country and offer cars at a lower price than any other dealer, with a very long warranty and free emergency servicing.
+Car ($$) The car industry in Arenzstopia is dominated by Arenztopia Motors (AM), AEV, and Tellurium Group (TG). Cars are the dominant mode of transportation in Arenztopia. One of the best car dealerships is Jack Sawyerton Arenztopian Cars. They have locations all over the country and offer cars at a lower price than any other dealer, with a very long warranty and free emergency servicing.
 
 Subway ($) The subway systems of Arenztopia are governed under the SRD (Subway Regulation Department) of the Bureau of Transportation. Many major cities have subways: Arenztopia City, Olb City, Noi City, Hasiania, Chanlania, and Shersville all have extensive subway systems. The standard price for a one-way ticket is two Arenzos, and you can buy a subscription-type MetroPass for 10 dollars a month.
 
@@ -50,6 +50,5 @@ Boat ($) Arenztopia has many long rivers, so a boat is certainly an option to ge
 
 There are many good-paying and easy jobs in Arenztopia. Here are some of the best.
 
-
-Pilot ($$) is a very poular job in Arenztopia. There are multiple airlines in arenztopia, so there are many jobs for pilots. Pilots can pay on average 5000 Arenzos a month.
+Pilot ($$) is a very popular job in Arenztopia. It requires much training but pays an average of 200,000 Arenzos per year, enough to live in a luxury neighborhood. If you like flying and are interested in how planes work, then you can sign up for beginner pilot academy at [apa.az](apa.az).
 
