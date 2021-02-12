@@ -60,6 +60,8 @@ Dripping Cone Employee ($$) is a very sought-after job. It requires a medium amo
 
 Teacher ($$$) is a very respected job. Unlike in many countries, teachers in Arenztopia are well paid at 400,000 a year on average. It does require a master's degree in college and 1 year of teacher shadowing. If you like teaching children and interacting with other people, sign up at [abe.az](abe.az) for public schools or [acps.org](acps.org) for private schools.
 
+Store Owner ($$) Lots of people in Arenztopia own small businesses. Small businesses can claim tax credits and take loans with decreased interest. Depending on how successful your business is, you can make anywhere from eighteen thousand to two hundred thousand Arenzos per year.
+
 
 
 ## Food and Groceries 
