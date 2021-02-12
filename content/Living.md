@@ -70,6 +70,6 @@ HEB ($) HEB is a supermarket. They offer quick service, low prices, and quality 
 
 680 Pizza ($) 680 Pizza is a pizza shop headquartered in downtown Olb City. It has branch locations all over Arenztopia. 680 Pizza has lower prices than most premium pizza shops, and its pizzas are healthier than the ones you get at fast food stores.
 
-Dripping Cone
+Dripping Cone ($) Dripping Cone is the world's largest ice cream company, with nearly as many stores as McDonalds. They have nearly every flavor of ice cream and every type of candy. Visit their website at [drippingcone.com](https://sites.google.com/view/drippingcone-com/home).
 
-AZ SuperMarket ($$)
+AZ SuperMarket ($$) AZ SuperMarket is a popular Arenztopian supermarket which has good food, cheap prices, and locations all over the country. They are open 24/7. Visit their website at [azsupermarket.az](azsupermarket.az).
