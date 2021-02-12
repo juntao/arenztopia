@@ -4,6 +4,10 @@ menu: 'main'
 weight: 7
 ---
 
+
+[Note, this section is still a work in progress. Read on to see what progress has been made, or check back for updates.]
+
+
 Arenztopia is a vibrant country, with a plentiful economy and lots of people.  In this section of the website you will learn everything you need to know about living in Arenztopia.
 
 ## Housing
@@ -64,3 +68,8 @@ There are many places to get food and groceries in Arenztopia. Here are some of 
 
 HEB ($) HEB is a supermarket. They offer quick service, low prices, and quality food. Nearly every neighborhood in Arenztopia has easy access to an HEB. Visit their website at [heb.com](heb.com).
 
+680 Pizza ($) 680 Pizza is a pizza shop headquartered in downtown Olb City. It has branch locations all over Arenztopia. 680 Pizza has lower prices than most premium pizza shops, and its pizzas are healthier than the ones you get at fast food stores.
+
+Dripping Cone
+
+(another supermarket)
