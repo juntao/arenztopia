@@ -14,7 +14,7 @@ November 15-November 21, 2020
 ## Blackout
 by Tony Yuan
 
-South Olb City Electricity Center-On Tuesday, a blackout happened that affected half a million people in South Olb City. The blackout was caused by several wires failing at South Olb City Electricity Center. Many people reported a sudden extinguishing of their lights at about 10:00 in the morning. The ISS also captured a measurement of about a third of the electricity of Olb City shutting off. Some people in Central Olb City also reported a slight dimming of their lights. By 2:00 in the afternoon, the electricity was up and running again. The Olb City Manager of Utilities, John Kerbae, issued a statement on Wednesday that outlined the cause of the blackout, the number of people affected, and that "We will be executing a comprehensive review of all of our power stations."
+South Olb City Electricity Center-On Tuesday, a blackout happened that affected half a million people in South Olb City. The blackout was caused by several wires failing at South Olb City Electricity Center. Many people reported a sudden extinguishing of their lights at about 10:00 in the morning. The ISS also captured a measurement of about a third of the electricity of Olb City shutting off. Some people in Central Olb City also reported a slight dimming of their lights. By 2:00 in the afternoon, the electricity was up and running again. The Arenztopian Officer of Utilities, John Kerbae, issued a statement on Wednesday that outlined the cause of the blackout, the number of people affected, and that "We will be executing a comprehensive review of all of our power stations."
 
 ## Sports
 by Sam-Louis Alrocaet
