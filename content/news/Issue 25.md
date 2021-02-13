@@ -39,7 +39,7 @@ Temperatures should be a little higher than 4 degrees next week, with a low of -
 ## Coronavirus Report
 By Owen Miyazoi
 
-Cases have dropped below 400 for the first time since early April, according to authorities. "At 397 cases and 14 deaths, this pandemic seems to be giving up now," says the Arenztopian Minister of Health, Dr. Johannes Peterson. 275 more people have gotten Avac, and another 500 people have gotten the Pfizer vaccine.
+Cases have dropped below 400 for the first time since early April, according to authorities. "At 397 cases and 14 deaths, this pandemic seems to be giving up now," says the Arenztopian Officer of Health, Dr. Johannes Peterson. 275 more people have gotten Avac, and another 500 people have gotten the Pfizer vaccine.
 
 ## Feature: Chris Sanders
 By Tony Yuan
