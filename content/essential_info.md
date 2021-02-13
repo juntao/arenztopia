@@ -277,6 +277,6 @@ Lowest temperature recorded: -16˚C (16.8˚F)
 
 In an attempt to be more transparent, we're publishing a checklist which lists what changes will hopefully be made to the website this week.
 
-- [x] Finish Issue 27 of the news
-- [ ] Work on the Living in Arenztopia section
+- [ ] Finish Issue 28 of the news
+- [ ] Work on and finish the Living in Arenztopia section
 - [ ] Make pictures of some Official Arenztopian Documents
