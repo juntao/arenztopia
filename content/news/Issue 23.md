@@ -38,7 +38,7 @@ Hurricane Vonso suddenly decreased in intensity as it left Olb City; it is now a
 ## Coronavirus Report
 By Owen Miyazoi
 
-Cases are at 433 and deaths are at 18. 250 more people have gotten Avac, and 190 people have now gotten the Pfizer vaccine. "This is a seriously major success for us in the Arenztopian Bureau of Health," says Dr. Johannes Peterson, the Arenztopian Minister of Health.
+Cases are at 433 and deaths are at 18. 250 more people have gotten Avac, and 190 people have now gotten the Pfizer vaccine. "This is a seriously major success for us in the Arenztopian Bureau of Health," says Dr. Johannes Peterson, the Arenztopian Officer of Health.
 
 ## Feature: Harry Taern
 By Tony Yuan
