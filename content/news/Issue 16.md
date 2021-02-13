@@ -34,12 +34,12 @@ Temperatures are supposed to drop to as low as -10 degrees celsius from Monday t
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
-According to reliable sources,  Joe Biden has now been officially recognized by the US as the 46th president of the United States. This is a turning point because President Biden has promised a stronger relationship between the US and Arenztopia. On Wednesday, King L. S. J. Avila met with President Biden, and King Avila says that it was a productive meeting.
+According to reliable sources,  Joe Biden has now been officially recognized by the US as the 46th president of the United States. This is a turning point because President Biden has promised a stronger relationship between the US and Arenztopia. On Wednesday, President L. S. J. Avila met with President Biden, and President Avila says that it was a productive meeting.
 
 ## Coronavirus Report
 by Owen Miyazoi
 
-According to goverment sources, there are 733 cases and 35 deaths. Kennan Sawyer, the Arenztopian Minister of Health, said that he was "rushing" to arrange shipments of the acclaimed Pfizer vaccine and he is also trying to push the vaccine through FDA approval in order to ensure safe export and importation.
+According to goverment sources, there are 733 cases and 35 deaths. Dr. Johannes Peterson, the Arenztopian Minister of Health, said that he was "rushing" to arrange shipments of the acclaimed Pfizer vaccine and he is also trying to push the vaccine through FDA approval in order to ensure safe export and importation.
 
 ## Feature: Sallo Doremia
 by Tony Yuan
