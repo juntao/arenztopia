@@ -13,7 +13,7 @@ March 28th-April 4th
 # Fraud!
 By Tony Yuan
 
-Natania Stadium-People in the neigjboring city of Natania were shocked and appalled when an ultra-rare tree, so rare that it is only known as ¨K- type¨, was revealed to be a common potted plant. The owner had sold it for 150 million Arenzos in an unprecedented auction that captivated thousands of eager bidders. The tree went to Nogateny Stosgat, who is an eccentric billionaire. Enraged that he paid over a hundred million Arenzos for a common potted plant, Mr. Stosgat is using his wealth to ¨make life hell¨ for the witty seller.
+Natania Stadium-People in the neighboring city of Natania were shocked and appalled when an ultra-rare tree, so rare that it is only known as ¨K- type¨, was revealed to be a common potted plant. The owner had sold it for 150 million Arenzos in an unprecedented auction that captivated thousands of eager bidders. The tree went to Nogateny Stosgat, who is an eccentric billionaire. Enraged that he paid over a hundred million Arenzos for a common potted plant, Mr. Stosgat is using his wealth to ¨make life hell¨ for the witty seller.
 
 ## Arts
 By Tony Yuan
