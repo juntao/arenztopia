@@ -4,10 +4,6 @@ menu: 'main'
 weight: 7
 ---
 
-
-[Note, this section is still a work in progress. Read on to see what progress has been made, or check back for updates.]
-
-
 Arenztopia is a vibrant country, with a plentiful economy and lots of people.  In this section of the website you will learn everything you need to know about living in Arenztopia.
 
 ## Housing
