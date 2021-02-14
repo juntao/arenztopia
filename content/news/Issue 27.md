@@ -7,7 +7,7 @@ weight: 27
 ---
 
 # The Olb City Announcer
-Volume 3, Issue 6    
+Volume 3, Issue 7    
 February 7th-February 13th, 2021
 
 ## Huge New Building Complex Planned
