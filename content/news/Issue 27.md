@@ -72,8 +72,7 @@ The famous pizza shop 680 Pizza revamped its website on Wednesday with a new onl
 By Lorenzo Avila
 
 Elections
-
-Soon    
+    
 sign up    
 you can run    
 soon    
