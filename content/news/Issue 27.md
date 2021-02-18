@@ -50,11 +50,11 @@ TW: Well, we are working on some projects right now, but we can't tell you about
 
 OCA: WOW! you and your company seem to be working very hard to help this planet! What do you use your money for?
 
-TA: Well, first from what I just told you we don't make a whole lot of money on things like PHP but, we sell out tech to some companies that we know use out tech for good. But, anyway we make monthly about 1 billion dollars, which is a lot. After paying my employees, keeping our tech up to standards, and the cost of the saplings, and the food we give, we have about 100 million left. I donate 50 million to childrens' hospitals, 25 million to ocean clean-up programs and then I have 25 million left. Of course after I work pretty hard I like to keep 10 million myself. I keep the last 15 million for future projects.
+TW: Well, first from what I just told you we don't make a whole lot of money on things like PHP but, we sell out tech to some companies that we know use out tech for good. But, anyway we make monthly about 1 billion dollars, which is a lot. After paying my employees, keeping our tech up to standards, and the cost of the saplings, and the food we give, we have about 100 million left. I donate 50 million to childrens' hospitals, 25 million to ocean clean-up programs and then I have 25 million left. Of course after I work pretty hard I like to keep 10 million myself. I keep the last 15 million for future projects.
 
 OCA: Sounds like you're very smart with your money! Anyway, thanks for coming!
 
-TA: Thanks for inviting me! Bye!
+TW: Thanks for inviting me! Bye!
 
 This interview has been edited for length and clarity.
 
