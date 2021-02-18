@@ -40,10 +40,10 @@ By Tony Yuan
 
 
 
-## Story
+## Semi Truck Crashes into Office Building Update
 By Sam-Louis Alrocaet
 
-
+This is an update on the events of the cover story in [Issue 28](https://www.arenztopia.com/news/issue-28/).
 
 ## Story
 By Owen Miyazoi
