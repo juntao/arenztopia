@@ -35,10 +35,28 @@ By Owen Miyazoi
 
 Cases are at 219, and deaths are at a record low of 4. Another record of 3,500 people have gotten Avac, and another 2,000 have gotten Pfizer, for a new fully vaccinated total of 14,575 people.
 
-## Feature: 
+## Feature: Kankalon Ongarimnieo
 By Tony Yuan
 
+Today we interviewed Kankalon Ongarimnieo, the founder of the popular eatery Two Knives Arenztopia.
 
+Olb City Announcer: So what are some of your signature dishes?
+
+Kankalon Ongarimnieo: We serve more progressive, inventive, and interesting dishes, such as calamari sushi with freshly harvested banana hash. 
+
+OCA: What tools do you use to make your food?
+
+KO: We use a variety of special tools to make our dishes as authentic as possible. We use brick ovens, tandoori ovens, conventional ovens, stoves, open-air pit fires, fryers, and blowtorches.  For our chocolate, we first put the cocoa beans into a tango drum, then we roast the drum, then we perform the rest of our secret chocolate-making process.
+
+OCA: That sounds very interesting! Where do you source yur ingredients from?
+
+KO:
+
+OCA: Well, that's all for today, and thanks for coming!
+
+KO: Thank you for inviting me! It was a joy to talk to you!
+
+This interview has been edited for length and clarity.
 
 ## Semi Truck Crashes into Office Building Update
 By Sam-Louis Alrocaet
@@ -53,20 +71,14 @@ By Owen Miyazoi
 
 
 ## Poetry
-By Lorenzo Avila
+By Lorenzo Avila, edited by Tony Yuan
 
-Countdown.
-11 days.
-11 days until it was...
-1 year since covid put us in quarantine.
-Wow.
-1 entire year.
-Who knows it could even last 2 years.
-or 3
-or 4...
-or 5.....
+Countdown
 
-
+11 days
+11 days until...
+1 year of COVID.
+Who knows, it could even last 2 years.
 
 ## Obituary
 By Owen Miyazoi
