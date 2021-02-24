@@ -55,6 +55,17 @@ By Owen Miyazoi
 ## Poetry
 By Lorenzo Avila
 
+Countdown.
+11 days.
+11 days until it was...
+1 year since covid put us in quarantine.
+Wow.
+1 entire year.
+Who knows it could even last 2 years.
+or 3
+or 4...
+or 5.....
+
 
 
 ## Obituary
