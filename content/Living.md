@@ -78,4 +78,4 @@ Dripping Cone ($$) Dripping Cone is the world's largest ice cream company, with 
 
 AZ SuperMarket ($$) AZ SuperMarket is a popular Arenztopian supermarket which has good food, cheap prices, and locations all over the country. They are open 24/7. Visit their website at [azsupermarket.az](azsupermarket.az).
 
-Tllwullw Foods ($) Tllwullw Foods is a cheap supermarket found all over Arenztopia. It provides high-quality food at a low price.
+Tllwullw Foods ($) Tllwullw Foods is a cheap supermarket found all over Arenztopia. It provides high-quality food at a low price. It is open 5 days a week from 9am to 9pm. Visit their website at [Tfoods.com](tfoods.com).
