@@ -75,9 +75,9 @@ By Lorenzo Avila, edited by Tony Yuan
 
 Countdown
 
-11 days
-11 days until...
-1 year of COVID.
+11 days    
+11 days until...    
+1 year of COVID.    
 Who knows, it could even last 2 years.
 
 ## Obituary
