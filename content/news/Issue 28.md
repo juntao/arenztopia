@@ -71,6 +71,11 @@ The phone manufacturer Ptcos says that it discovered yet another bug with its pr
 ## Poetry
 By Lorenzo Avila
 
+Perseverance
+Journey finished, yet also just starting.
+Six months of hard work.
+finally it made it
+
 
 
 ## Obituary
