@@ -23,12 +23,12 @@ Artist Milo Jankwuan unveiled a new series of sculptures titled Mzgfiv. It is a 
 ## Sports
 By Sam-Louis Alrocaet
 
-
+The biannual Arenztopian Professional Lacrosse Tournament (APLT) culminated on Wednesday with Nick Oenson of the Shersville Snakes beating Whanis Hanskal of the Shreetian Seals. The APLT has been going since 1899 and is the world's oldest lacrosse tournament.
 
 ## Weather
 By Mezoir Logan
 
-
+Temperatures should get from -3 to 12 degrees celsius next week as temperatures start to reflect the start of spring. Snow and ice on roads should begin to melt, but you still need to be careful because all that water will make the roads slippery.
 
 ## Coronavirus Report
 By Owen Miyazoi
