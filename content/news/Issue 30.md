@@ -18,7 +18,7 @@ Olb City Courthouse-Recently Az Scoops, a company that sells expensive ice cream
 ## Arts
 By Owen Miyazoi
 
-
+Artist Milo Jankwuan unveiled a new series of sculptures titled Mzgfiv. It is a series of rounded, abstract shapes made out of stainless steel and painted all over with bright, solid colors.
 
 ## Sports
 By Sam-Louis Alrocaet
