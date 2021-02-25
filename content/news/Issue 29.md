@@ -50,9 +50,9 @@ KO: We use a variety of special tools to make our dishes as authentic as possibl
 
 OCA: That sounds very interesting! Where do you source yur ingredients from?
 
-KO:
+KO: We use all-natural ingredients, with only minimally farmed things. We source all of our ingredients from in or around the immediate vicinity of Arenztopia.
 
-OCA: Well, that's all for today, and thanks for coming!
+OCA: Well, that's all for today, and thanks for coming! You food sounds delicious!
 
 KO: Thank you for inviting me! It was a joy to talk to you!
 
@@ -65,10 +65,10 @@ This is an update on the events of the cover story in [Issue 28](https://www.are
 
 As of Tuesday, the wreckage has been completely removed and the building has been partially stabilized, though collapse is still possible. Authorities say that the building will have to be demolished. Plans are in the works for a memorial to be built on the former site of the building.
 
-## Story
+## Tiger Woods Involved in Car Crash
 By Owen Miyazoi
 
-
+Tiger Woods, the famous golfer, was involved in a 1-car rollover crash on Wednesday in Florida. Doctors say that he suffered major leg injuries and does not remember being in the car crash.
 
 ## Poetry
 By Lorenzo Avila, edited by Tony Yuan
@@ -83,3 +83,4 @@ Who knows, it could even last 2 years.
 ## Obituary
 By Owen Miyazoi
 
+Famous former soccer player Anmion Fandkhar died at the age of 79 on Wednesday. He set many soccer records in Arenztopia, and donated most of his game earnings to charity. To show sympathy, call 680-220-9181.
