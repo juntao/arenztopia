@@ -58,3 +58,24 @@ By Lorenzo Avila
 ## Obituary
 By Owen Miyazoi
 
+
+
+---
+In recognition of Native Arenztopian Day on Thursday this week, we are publishing a version of this newspaper in Arenzese.
+
+Rm ivxltmrgrlm lu Mzgrev Arenztopian Wzb lm Gsfihwzb gsrh dvvp, dv ziv kfyorhsrmt z evihrlm lu gsrh mvdhkzkvi rm Arenzese.
+
+# Gsv Olb Xrgb Zmmlfmxvi    
+Elofnv 3, Rhhfv 10    
+Uvyifzib 28gs-Nzixs 6gs, 2021    
+
+## Az Scoops Hfvw uli 180 nroorlm Arenzos
+Yb Lorenzo Avila zmw Tony Yuan
+
+Olb Xrgb Xlfigslfhv-Ivxvmgob Az Scoops, z xlnkzmb gszg hvooh vckvmhrev rxv xivzn, dzh hfvw yb gsv dliow'h ozitvhg rxv xivzn xlnkzmb, Dripping Cone. Dripping Cone zoovtvh gszg Az Scoops hgvzovw nzmb lu rgh xlkbirtsgvw ivxrkvh zmw gsvm yizmwvw gsvn zh gsvri ldm. Dripping Cone zohl hzbh gszg gsv hglovm ivxrkvh ziv dligs 180 nroorlm Arenzos, zmw Az Scoops wvmrvh zoo xszitvh. Dv droo kfyorhs fkwzgvh zh mvd uzxgh vnvitv.
+
+## Zigh
+Yb Owen Miyazoi
+
+Zigrhg Milo Jankwuan fmevrovw z mvd hvirvh lu hxfokgfivh grgovw Mzgfiv. Rg rh z hvirvh lu ilfmwvw, zyhgizxg hszkvh nzwv lfg lu hgzrmovhh hgvvo zmw kzrmgvw zoo levi drgs yirtsg, hlorw xlolih.
+
