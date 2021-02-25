@@ -12,3 +12,5 @@ February 21st-February 27th, 2021
 
 ## Az Scoops sued for 90 Million
 By Lorenzo Avila
+
+Recently Az Scoops, a company that sells expensive ice cream, was sued by large company Dripping Cone.
