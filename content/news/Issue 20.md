@@ -7,7 +7,7 @@ weight: 20
 ---
 
 # The Olb City Announcer
-Volume 2, Issue 20    
+Volume 2, Issue 10    
 December 20th-December 26th, 2020
 
 ## Election Results Announced
