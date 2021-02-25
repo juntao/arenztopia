@@ -69,14 +69,15 @@ By Owen Miyazoi
 The phone manufacturer Ptcos says that it discovered yet another bug with its problem-riddled Ptcos 10. The bug causes the screen to permanently shut down when users try to take a photo while the phone is facing diagonally down and to the left. Ptcos says that this is likely an error with the motion and direction sensors; reports say that Ptcos is rushing to fix the problem.
 
 ## Poetry
-By Lorenzo Avila
+By Lorenzo Avila, edited by Tony Yuan
 
-Perseverance
-Journey finished, yet also just starting.
-Six months of hard work.
-finally it made it
+Perseverance    
 
-
+Journey finished, yet also just starting.    
+Years of hard work    
+finally done    
+yet years of hard work    
+are just starting.    
 
 ## Obituary
 By Owen Miyazoi
