@@ -58,7 +58,7 @@ OL: Thank you for inviting me!
 
 This interview was edited for length and clarity.
 
-## Story
+## Building catches fire in Noi City; 2 dead
 By Sam-Louis Alrocaet
 
 
