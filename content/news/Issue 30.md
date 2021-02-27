@@ -84,10 +84,11 @@ By Owen Miyazoi
 
 
 
----
-In recognition of Native Arenztopian Day on Thursday this week, we are publishing a version of this newspaper in Arenzese.
+----------
 
-Rm ivxltmrgrlm lu Mzgrev Arenztopian Wzb lm Gsfihwzb gsrh dvvp, dv ziv kfyorhsrmt z evihrlm lu gsrh mvdhkzkvi rm Arenzese.
+In recognition of Native Arenztopian Day on Thursday this week, we are also publishing this issue in Arenzese.
+
+Rm ivxltmrgrlm lu Mzgrev Zivmaglkrzm Wzb lm Gsfihwzb gsrh dvvp, dv ziv zohl kfyorhsrmt gsrh rhhfv rm Arenzese.
 
 # Gsv Olb Xrgb Zmmlfmxvi    
 Elofnv 3, Rhhfv 10    
