@@ -33,9 +33,9 @@ Temperatures should get from -3 to 12 degrees celsius next week as temperatures 
 ## Coronavirus Report
 By Owen Miyazoi
 
+Cases have dropped to an incredible 180, and deaths are at 2. Another 2,500 people have gotten Avac, and another 2,000 people have gotten Pfizer, for a total fully vaccinated number of 18,075.
 
-
-## Feature:
+## Feature: 
 By Tony Yuan
 
 
@@ -51,9 +51,15 @@ By Owen Miyazoi
 
 
 ## Poetry
-By Lorenzo Avila
+By Tony Yuan
 
+History of Music: A rhyming poem.
 
+Music    
+Such an expressive thing    
+We like to hear it now    
+But you could also have heard people sing    
+in times past of the arrow and bow;    
 
 ## Obituary
 By Owen Miyazoi
@@ -79,3 +85,17 @@ Yb Owen Miyazoi
 
 Zigrhg Milo Jankwuan fmevrovw z mvd hvirvh lu hxfokgfivh grgovw Mzgfiv. Rg rh z hvirvh lu ilfmwvw, zyhgizxg hszkvh nzwv lfg lu hgzrmovhh hgvvo zmw kzrmgvw zoo levi drgs yirtsg, hlorw xlolih.
 
+## Hkligh 
+Yb Sam-Louis Alrocaet
+
+Gsv yrzmmfzo Arenztopian Professional Lacrosse Tournament (APLT) xfonrmzgvw lm Dvwmvhwzb drgs Nick Oenson lu gsv Shersville Snakes yvzgrmt Whanis Hanskal lu gsv Shreetian Seals. Gsv APLT szh yvvm tlrmt hrmxv 1899 zmw rh gsv dliow'h lowvhg ozxilhhv glfimznvmg.
+
+## Dvzgsvi
+Yb Mezoir Logan
+
+Gvnkvizgfivh hslfow tvg uiln -3 gl 12 wvtivvh celsius mvcg dvvp zh gvnkvizgfivh hgzig gl ivuovxg gsv hgzig lu hkirmt. Hmld zmw rxv lm ilzwh hslfow yvtrm gl nvog, yfg blf hgroo mvvw gl yv xzivufo yvxzfhv zoo gszg dzgvi droo nzpv gsv ilzwh horkkvib.
+
+## Xlilmzerifh Ivklig
+Yb Owen Miyazoi
+
+Xzhvh szev wilkkvw gl zm rmxivwryov 180, zmw wvzgsh ziv zg 2. Zmlgsvi 2,500 kvlkov szev tlggvm Avac, zmw zmlgsvi 2,000 kvlkov szev tlggvm Pfizer, uli z glgzo ufoob ezxxrmzgvw mfnyvi lu 18,075.
