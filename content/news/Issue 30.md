@@ -61,9 +61,9 @@ This interview was edited for length and clarity.
 ## Building catches fire in Noi City; 2 dead
 By Sam-Louis Alrocaet
 
+An office building in Noi City caught fire and burned to the ground on Tuesday. The building was called the CFP Building and was 25 stories tall. Search and rescue groups have confirmed two dead, and over 80 injured. The cause of the fire is unknown. This is still breaking news; we will publish updates as new details emerge.
 
-
-## Story
+## 
 By Owen Miyazoi
 
 
@@ -90,14 +90,14 @@ In recognition of Native Arenztopian Day on Thursday this week, we are also publ
 
 Rm ivxltmrgrlm lu Mzgrev Zivmaglkrzm Wzb lm Gsfihwzb gsrh dvvp, dv ziv zohl kfyorhsrmt gsrh rhhfv rm Arenzese.
 
-# Gsv Olb Xrgb Zmmlfmxvi    
+# Gsv Olb City Zmmlfmxvi    
 Elofnv 3, Rhhfv 10    
 Uvyifzib 28gs-Nzixs 6gs, 2021    
 
 ## Az Scoops Hfvw uli 180 nroorlm Arenzos
 Yb Lorenzo Avila zmw Tony Yuan
 
-Olb Xrgb Xlfigslfhv-Ivxvmgob Az Scoops, z xlnkzmb gszg hvooh vckvmhrev rxv xivzn, dzh hfvw yb gsv dliow'h ozitvhg rxv xivzn xlnkzmb, Dripping Cone. Dripping Cone zoovtvh gszg Az Scoops hgvzovw nzmb lu rgh xlkbirtsgvw ivxrkvh zmw gsvm yizmwvw gsvn zh gsvri ldm. Dripping Cone zohl hzbh gszg gsv hglovm ivxrkvh ziv dligs 180 nroorlm Arenzos, zmw Az Scoops wvmrvh zoo xszitvh. Dv droo kfyorhs fkwzgvh zh mvd uzxgh vnvitv.
+Olb City Courthouse-Ivxvmgob Az Scoops, z xlnkzmb gszg hvooh vckvmhrev rxv xivzn, dzh hfvw yb gsv dliow'h ozitvhg rxv xivzn xlnkzmb, Dripping Cone. Dripping Cone zoovtvh gszg Az Scoops hgvzovw nzmb lu rgh xlkbirtsgvw ivxrkvh zmw gsvm yizmwvw gsvn zh gsvri ldm. Dripping Cone zohl hzbh gszg gsv hglovm ivxrkvh ziv dligs 180 nroorlm Arenzos, zmw Az Scoops wvmrvh zoo xszitvh. Dv droo kfyorhs fkwzgvh zh mvd uzxgh vnvitv.
 
 ## Zigh
 Yb Owen Miyazoi
@@ -142,13 +142,10 @@ OL: Gszmp blf uli rmergrmt nv!
 
 Gsrh rmgviervd dzh vwrgvw uli ovmtgs zmw xozirgb.
 
+## Yfrowrmt xzgxsvh uriv rm Noi City; 2 wvzw
+Yb Sam-Louis Alrocaet
 
-
-
-
-
-
-
+Zm luurxv yfrowrmt rm Noi City xzftsg uriv zmw yfimvw gl gsv tilfmw lm Gfvhwzb. Gsv yfrowrmt dzh xzoovw gsv CFP Building zmw dzh 25 hglirvh gzoo. Hvzixs zmw ivhxfv tilfkh szev xlmurinvw gdl wvzw, zmw levi 80 rmqfivw. Gsv xzfhv lu gsv uriv rh fmpmldm. Gsrh rh hgroo yivzprmt mvdh; dv droo kfyorhs fkwzgvh zh mvd wvgzroh vnvitv.
 
 ## Klvgib
 Yb Tony Yuan
