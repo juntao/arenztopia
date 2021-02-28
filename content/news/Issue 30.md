@@ -63,10 +63,10 @@ By Sam-Louis Alrocaet
 
 An office building in Noi City caught fire and burned to the ground on Tuesday. The building was called the CFP Building and was 25 stories tall. Search and rescue groups have confirmed two dead, and over 80 injured. The cause of the fire is unknown. This is still breaking news; we will publish updates as new details emerge.
 
-## 
+## New Thai Restauraunt Opens
 By Owen Miyazoi
 
-
+A new thai restauraunt called Xahar opened on Tuesday on Sixth Street. It serves tradition thai food, along with thai-inspired pizza and burgers. Xahar means "food" in Thai. Staple dishes include lamb korma, spicy fish pizza, and a spicy chicken burger with basil.
 
 ## Poetry
 By Tony Yuan
@@ -82,7 +82,7 @@ in times past of the arrow and bow;
 ## Obituary
 By Owen Miyazoi
 
-
+Gallahad Kanaskarheen, an influential climate activist, died on Tuesday at the age of 78 following a long battle with cancer. He was instrumental in the creation of many national parks including Tfziwrzmh National Park and Thunberg National Marine Reserve. Show sympathy at [abc.az/events/memorials/gallahad-kanaskarheen](abc.az/events/memorials/gallahad-kanaskarheen).
 
 ----------
 
@@ -147,6 +147,11 @@ Yb Sam-Louis Alrocaet
 
 Zm luurxv yfrowrmt rm Noi City xzftsg uriv zmw yfimvw gl gsv tilfmw lm Gfvhwzb. Gsv yfrowrmt dzh xzoovw gsv CFP Building zmw dzh 25 hglirvh gzoo. Hvzixs zmw ivhxfv tilfkh szev xlmurinvw gdl wvzw, zmw levi 80 rmqfivw. Gsv xzfhv lu gsv uriv rh fmpmldm. Gsrh rh hgroo yivzprmt mvdh; dv droo kfyorhs fkwzgvh zh mvd wvgzroh vnvitv.
 
+## Mvd Thai Ivhgzfizfmg Lkvmh
+Yb Owen Miyazoi
+
+Z mvd gszr ivhgzfizfmg xzoovw Xahar lkvmvw lm Gfvhwzb lm Sixth Street. Rg hvievh gizwrgrlm thai ullw, zolmt drgs thai-rmhkrivw kraaz zmw yfitvih. Xahar nvzmh "ullw" rm Thai. Hgzkov wrhsvh rmxofwv ozny plinz, hkrxb urhs kraaz, zmw z hkrxb xsrxpvm yfitvi drgs yzhro.
+
 ## Klvgib
 Yb Tony Yuan
 
@@ -157,3 +162,8 @@ Hfxs zm vckivhhrev gsrmt
 Dv orpv gl svzi rg mld    
 Yfg blf xlfow zohl szev svziw kvlkov hrmt    
 rm grnvh kzhg lu gsv ziild zmw yld;    
+
+## Lyrgfzib
+Yb Owen Miyazoi
+
+Gallahad Kanaskarheen, zm rmuofvmgrzo xornzgv zxgrerhg, wrvw lm Gfvhwzb zg gsv ztv lu 78 ulooldrmt z olmt yzggov drgs xzmxvi. Sv dzh rmhgifnvmgzo rm gsv xivzgrlm lu nzmb mzgrlmzo kziph rmxofwrmt Tfziwrzmh National Park zmw Thunberg National Marine Reserve. Hsld hbnkzgsb zg [abc.az/events/memorials/gallahad-kanaskarheen](abc.az/events/memorials/gallahad-kanaskarheen).
