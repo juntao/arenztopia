@@ -58,7 +58,7 @@ In the year 1470, the great Incan emperor Pachacuti Inca Yupanqui sent a fleet o
 
 ##### Incan Rule 
 
-This storm is called the Tlwh' Yovhhrmt (gods' blessing) in the folk tales. But the real gods' blessing for these weary Incan travellers was the extremely fertile soil their scouts reported. Legend has it that the leader of the expeditionaries fell to his knees and said "Agradiseyki Inti, chaypas nogakuna munay llapa tiyay hamchi!"(a rough translation of praise Inti* for we will all be saved!) and started sobbing. The men made a large offering, and then gratefully planted wheat while some people set out to notify the emperor. Over the next 60 years the emperor visited several times and Arenztopia was built up into a bountiful asset. Then, sixty-three  years after that fateful storm-the Tlwh' Yovhhrmt-Francisco Pizzaro came along and felled the mighty Inca Empire.
+This storm is called the Tlwh' Yovhhrmt (gods' blessing) in the folk tales. But the real gods' blessing for these weary Incan travellers was the extremely fertile soil their scouts reported. Legend has it that the leader of the expeditionaries fell to his knees and said "Agradiseyki Inti, chaypas nogakuna munay llapa tiyay hamchi!"(a rough translation of praise Inti* for we will all be saved!) and started sobbing. The men made a large offering, and then gratefully planted wheat, maize, and potatoes that they had brought along on their boat while some people set out to notify the emperor. Over the next 60 years the emperor visited several times and Arenztopia was built up into a bountiful asset. Then, sixty-three years after that fateful storm-the Tlwh' Yovhhrmt-Francisco Pizzaro came along and felled the mighty Inca Empire.
 
 Spanish rule had begun.
 
@@ -70,7 +70,7 @@ In 1533, the last emperor of the Incan Empire, Atahualpa, was brutally executed 
 
 #### History part 3: The Americans
 
-In 1935, Arenztopia was formally annexed to the United States of America in the midst of the Great Depression by Franklin D. Roosevelt. President Roosevelt opted to make Arenztopia a semiautonomous territory of the USA, instead of a state, because then Arenztopia wouldn't be totally reliant on America during the great depression. Arenztopia prospered under American rule for 85 years until 2020, when a treaty allowed Arenztopia to become its own independent nation. 
+In 1935, Arenztopia was formally annexed to the United States of America in the midst of the Great Depression by Franklin D. Roosevelt. President Roosevelt opted to make Arenztopia a semiautonomous territory of the USA, instead of a state, so that Arenztopia wouldn't be totally reliant on America during the Great Depression. Arenztopia became a minor battlefront for World War II when the Japanese tried to conquer it in the Pacific Theatre, reaching as far inland as the middle of the Arenztopian Desert before being beaten back by American troops. Arenztopia prospered under American rule for 85 years until 2020, when a treaty allowed Arenztopia to become its own independent nation. 
 
 #### History part 4: Modern Arenztopia
 
@@ -102,9 +102,9 @@ This is the museum, where you can see some of the official Arenztopian documents
 
 #### Museum Exhibit 1: Gallery
 
-This is all the pictures of some Official Arenztopian Documents.
+These are pictures of some Official Arenztopian Documents.
 
-[Coming Soon!]2
+[Coming Soon!]
 
 #### Museum Exhibit 2: List
 
@@ -221,7 +221,7 @@ Arenztopia is a reasonably large island roughly 2,000 miles off the coast of Mex
 
 Several major rivers and deltas exist in Arenztopia.
 
-* Arenztopia River is the largest river in Arenztopia. It runs through the heart of Arenztopia City and continues inland, where it feeds several lakes and wetlands.
+* The Arenztopia River is the largest river in Arenztopia. It runs through the heart of Arenztopia City and continues inland, where it feeds several lakes and wetlands.
 * The Tortoise River flows through Olb City and meets the Chrysanthemum River at the largest delta in Arenztopia to form one of the largest river systems in Arenztopia.
 * The Chrysanthemum River feeds several mountain lakes on Arenztopia Mountain. It shares a delta with the Tortoise River where the two rivers meet the sea.
 * The Hernandez River is an extremely long river that waters the National Forest and reaches a little bit into the Arenztopian Desert. 
@@ -257,6 +257,7 @@ Highest point: Arenztopia Mountain-20,100 feet above sea level
 Lowest point: Arenztopian Desert (Al-Shakbur Oasis Settlement)-200 feet below sea level   
 Largest city: Arenztopia City-2 million pop.   
 Smallest city: Cuyanting-2,500 pop.  
+Unit of measurement: Imperial/Standard System but with Celsius instead of Farenheit    
 Tallest building: [Arenztopia Tower](https://sites.google.com/view/the-arenztopia-tower-org/home)-1,800 feet (550 meters)    
 Total population: 50 million   
 Motto: We love books (Dv Olev Yllph)    
@@ -277,6 +278,5 @@ Lowest temperature recorded: -16˚C (16.8˚F)
 
 In an attempt to be more transparent, we're publishing a checklist which lists what changes will hopefully be made to the website this week.
 
-- [ ] Finish Issue 28 of the news
-- [ ] Work on and finish the Living in Arenztopia section
+- [ ] Work on and finish some websites for the Living in Arenztopia section
 - [ ] Make pictures of some Official Arenztopian Documents
