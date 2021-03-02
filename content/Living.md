@@ -50,7 +50,7 @@ Boat ($) Arenztopia has many long rivers, so a boat is certainly an option to ge
 
 There are many good-paying and easy jobs in Arenztopia. Here are some of the best.
 
-Pilot ($$) is a very popular job in Arenztopia. It requires much training but pays an average of 20,000 Arenzos per month, enough to live in a luxury neighborhood. If you like flying and are interested in how planes work, then you can sign up for beginner pilot academy at [apa.az](apa.az).
+Pilot ($$) is a very popular job in Arenztopia. It requires much training but pays an average of 20,000 Arenzos per month, enough to live in a luxury neighborhood. If you like flying and are interested in how planes work, then you can sign up for beginner pilot academy at [apa.az](https://sites.google.com/stu.austinisd.org/apa-az/home).
 
 Dripping Cone Employee ($$$) is a very sought-after job. It requires a medium amount of training: just how to clean the ice cream machine, how to talk to customers and other basics. It pays up to 21,000 Arenzos a month. If you like ice cream and talking to people, sign up at [signup.drippingcone.com](signup.drippingcone.com).
 
@@ -78,4 +78,4 @@ Dripping Cone ($$) Dripping Cone is the world's largest ice cream company, with 
 
 AZ SuperMarket ($$) AZ SuperMarket is a popular Arenztopian supermarket which has good food, cheap prices, and locations all over the country. They are open 24/7. Visit their website at [azsupermarket.az](azsupermarket.az).
 
-Tllwullw Foods ($) Tllwullw Foods is a cheap supermarket found all over Arenztopia. It provides high-quality food at a low price. It is open 5 days a week from 9am to 9pm. Visit their website at [Tfoods.com](tfoods.com).
+Tllwullw Foods ($) Tllwullw Foods is a cheap supermarket found all over Arenztopia. It provides high-quality food at a low price. It is open 5 days a week from 9am to 9pm. Visit their website at [tllwullw.com](tllwullw.com).
