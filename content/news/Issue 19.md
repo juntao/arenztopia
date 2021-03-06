@@ -90,4 +90,4 @@ he was Diego
 ## Obituary
 by Owen Miyazoi
 
-Beloved local actor Worna Gorhe died of old age at the age of 98 on Tuesday. Mrs. Gorhe was renowned around Arenztopia for being one of the most popular film actors from 1940 to 1987. She was also famous for her beautiful voice, which starred in many radio plays and musicals. To show sympathy, call 680-551-2290 or go to her website at [wornagorhe.com.](wornagorhe.com)
+Beloved local actor Worna Gorhe died of old age at the age of 98 on Tuesday. Mrs. Gorhe was renowned around Arenztopia for being one of the most popular film actors from 1940 to 1987. She was also famous for her beautiful voice, which starred in many radio plays and musicals. To show sympathy, call 680-551-2290 or go to her website at [wornagorhe.com](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
