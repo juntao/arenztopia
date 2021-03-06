@@ -87,4 +87,4 @@ I have to stop writing now. I am getting cake.
 ## Obituary
 By Owen Miyazoi
 
-Beloved former mayor Warilam Nansocal died on Tuesday. She was 97. Mrs. Nansocal was instrumental in promoting the growth of Olb City to the borders of Natania City, and she also helped create Olb University. You can visit her memorial at [olbcity.az/nansocal](olbcity.az/nansocal).
+Beloved former mayor Warilam Nansocal died on Tuesday. She was 97. Mrs. Nansocal was instrumental in promoting the growth of Olb City to the borders of Natania City, and she also helped create Olb University. You can visit her memorial at [olbcity.az/nansocal](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
