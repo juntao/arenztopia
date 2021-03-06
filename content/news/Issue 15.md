@@ -86,4 +86,4 @@ To Social Distancing.
 ## Obituary
 by Owen Miyazoi
 
-Legendary army general Dan Sawger died on Thursday at 103 of old age. He was decorated with two purple hearts during his service during World War 2. He had also fought in the Vietnam War and was decorated with over 120 badges, medals, and honors over the course of his life. To show sympathy, leave a rememberance at his memorial board, which can be accessed at [army.az/dansawger](army.az/dansawger).
+Legendary army general Dan Sawger died on Thursday at 103 of old age. He was decorated with two purple hearts during his service during World War 2. He had also fought in the Vietnam War and was decorated with over 120 badges, medals, and honors over the course of his life. To show sympathy, leave a rememberance at his memorial board, which can be accessed at [army.az/dansawger](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
