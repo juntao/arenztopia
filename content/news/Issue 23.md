@@ -15,8 +15,8 @@ By Tony Yuan
 
 Olb City Police Department Headquarters-Billionare entrepreneur Oliver Tichiad has been arrested on five counts of money laundering and three counts of tax evasion. Mr. Tichiad is the founder of popular translation service Ottam, and his net worth is over 12 billion dollars. 
 
-![Oliver Tichiad](https://qph.fs.quoracdn.net/main-qimg-45503b82226d84e0dad157a5cd6116aa)
-Oliver Tichiad's official portrait at [ottam.com](ottam.com)
+![Oliver Tichiad](https://qph.fs.quoracdn.net/main-qimg-45503b82226d84e0dad157a5cd6116aa)    
+Oliver Tichiad's official portrait at [ottam.com](https://sites.google.com/stu.austinisd.org/placeholder-site/home)
 
 Tichiad is due to go on trial Tuesday next week. He is in temporary custody at the police headquarters. The Olb City Announcer emailed him about his arrest, and he replied "I didn't do a thing!" 
 
