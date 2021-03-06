@@ -82,7 +82,7 @@ in times past of the arrow and bow;
 ## Obituary
 By Owen Miyazoi
 
-Gallahad Kanaskarheen, an influential climate activist, died on Tuesday at the age of 78 following a long battle with cancer. He was instrumental in the creation of many national parks including Tfziwrzmh National Park and Thunberg National Marine Reserve. Show sympathy at [abc.az/events/memorials/gallahad-kanaskarheen](abc.az/events/memorials/gallahad-kanaskarheen).
+Gallahad Kanaskarheen, an influential climate activist, died on Tuesday at the age of 78 following a long battle with cancer. He was instrumental in the creation of many national parks including Tfziwrzmh National Park and Thunberg National Marine Reserve. Show sympathy at [abc.az/events/memorials/gallahad-kanaskarheen](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
 
 ----------
 
@@ -166,4 +166,4 @@ rm grnvh kzhg lu gsv ziild zmw yld;
 ## Lyrgfzib
 Yb Owen Miyazoi
 
-Gallahad Kanaskarheen, zm rmuofvmgrzo xornzgv zxgrerhg, wrvw lm Gfvhwzb zg gsv ztv lu 78 ulooldrmt z olmt yzggov drgs xzmxvi. Sv dzh rmhgifnvmgzo rm gsv xivzgrlm lu nzmb mzgrlmzo kziph rmxofwrmt Tfziwrzmh National Park zmw Thunberg National Marine Reserve. Hsld hbnkzgsb zg [abc.az/events/memorials/gallahad-kanaskarheen](abc.az/events/memorials/gallahad-kanaskarheen).
+Gallahad Kanaskarheen, zm rmuofvmgrzo xornzgv zxgrerhg, wrvw lm Gfvhwzb zg gsv ztv lu 78 ulooldrmt z olmt yzggov drgs xzmxvi. Sv dzh rmhgifnvmgzo rm gsv xivzgrlm lu nzmb mzgrlmzo kziph rmxofwrmt Tfziwrzmh National Park zmw Thunberg National Marine Reserve. Hsld hbnkzgsb zg [abc.az/events/memorials/gallahad-kanaskarheen](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
