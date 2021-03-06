@@ -82,4 +82,4 @@ are just starting.
 ## Obituary
 By Owen Miyazoi
 
-87-year-old former city council member Gerard Pankliemo died at his home on Sunday. He was influential in the stock market center being moved to Olb City. Visit [olbcity.az/pankliemo](olbcity.az/pankliemo) to show sympathy.
+87-year-old former city council member Gerard Pankliemo died at his home on Sunday. He was influential in the stock market center being moved to Olb City. Visit [olbcity.az/pankliemo](https://sites.google.com/stu.austinisd.org/placeholder-site/home) to show sympathy.
