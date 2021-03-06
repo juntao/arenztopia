@@ -66,7 +66,7 @@ The hacker group GreenLight breached the Security Archives of Olb City, exposing
 ## 680 Pizza releases new website
 By Owen Miyazoi
 
-The famous pizza shop 680 Pizza revamped its website on Wednesday with a new online-ordering service and a new store for merchandise. You can visit the website at [680pizza.az](680pizza.az)
+The famous pizza shop 680 Pizza revamped its website on Wednesday with a new online-ordering service and a new store for merchandise. You can visit the website at [680pizza.az](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
 
 ## Poetry
 By Lorenzo Avila
@@ -80,4 +80,4 @@ soon
 ## Obituary
 By Owen Miyazoi
 
-Famous director William Narghbourough died at the age of 98 on Tuesday. He had produced over 350 movies and short films over his 70-year career. A record twenty of his movies have gotten the Sawyer A. Pargon Award for Excelling Excellency in the Art of Film, which is one of the most prestigious film awards in Arenztopia. He was widely known as one of the best directors in the world. Show sympathy by visiting his memorial at [afc.az/specials/memorials/williamnarghbourough](afc.az/specials/memorials/williamnarghbourough).
+Famous director William Narghbourough died at the age of 98 on Tuesday. He had produced over 350 movies and short films over his 70-year career. A record twenty of his movies have gotten the Sawyer A. Pargon Award for Excelling Excellency in the Art of Film, which is one of the most prestigious film awards in Arenztopia. He was widely known as one of the best directors in the world. Show sympathy by visiting his memorial at [afc.az/specials/memorials/williamnarghbourough](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
