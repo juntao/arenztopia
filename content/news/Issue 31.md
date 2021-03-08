@@ -37,7 +37,9 @@ By Owen Miyazoi
 
 
 ## Feature: 
-By Tony Yuan
+By Tony Yuan And Lorenzo Avila
+
+Today we interviewed Azaria Viotto, a scientist working on many things covid related. She is here to talk to us for our Covid 1 year anniversary special feature.
 
 
 
