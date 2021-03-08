@@ -41,7 +41,7 @@ By Tony Yuan
 
 
 
-## AZ Scoops V. Dripping Cone Legal Case Update
+## AZ Scoops Sued for 180 Million Arenzos Update
 By Sam-Louis Alrocaet
 
 
@@ -54,10 +54,14 @@ By Owen Miyazoi
 ## Story
 by Sam-Louis Alrocaet
 
+Since there are two updates this week, we are publishing two bonus stories to make up for the spaces taken up by the updates.
+
 
 
 ## Story
 by Owen Miyazoi
+
+Since there are two updates this week, we are publishing two bonus stories to make up for the spaces taken up by the updates.
 
 
 
