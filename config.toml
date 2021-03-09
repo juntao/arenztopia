@@ -47,5 +47,5 @@ theme = "hugo-serif-theme"
 
   [[menu.footer]]
     name = "About Arenztopia"
-    url = "/info/"
+    url = "/essential_info/"
       weight = 2
