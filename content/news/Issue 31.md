@@ -45,9 +45,9 @@ By Tony Yuan and Lorenzo Avila
 
 Today we interviewed Azaria Viotto, an Italian-Arenztopian scientist working on many things COVID related. She is here to talk to us for our one year of COVID special feature.
 
-Olb City Announcer:
+Olb City Announcer: Hi Azaria! Can you tell us about your job?
 
-Azaria Viotto:
+Azaria Viotto: Yeah! My job is to research covid, find ways to prevent people from getting covid, and to make the vaccine accesible.
 
 OCA:
 
