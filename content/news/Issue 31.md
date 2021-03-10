@@ -18,12 +18,12 @@ March 7th-March 13th, 2021
 ## Explosion at Cargo Port
 By Tony Yuan
 
-Tortoise River Freight Port-A huge explosion rocked the Tortoise River Freight Port on Tuesday. The Tortoise River Freight Port is a major port on the Tortoise River about 30 miles downstream from Olb City, at a place where the Tortoise River expands to 1000 feet. It is the output for most of the freight that is exported from Olb City. The explosion is estimated to have a blast force of 400 tons of TNT, and it destroyed ten containers and badly scorched a nearby cargo ship. The explosion killed one worker and injured two others, and it is estimated to have damaged or destroyed over 2 million Arenzos worth of cargo. The cause of the explosion is still undetermined. 
+Tortoise River Freight Port-A huge explosion rocked the Tortoise River Freight Port on Tuesday. The Tortoise River Freight Port is a major port on the Tortoise River about 30 miles downstream from Olb City, at a place where the Tortoise River expands to 1000 feet. It is the output for most of the freight that is exported from Olb City. The explosion is estimated to have a blast force of 400 tons of TNT, and it destroyed ten containers and badly scorched a nearby cargo ship. The explosion killed one worker and injured two others, and it is estimated to have damaged or destroyed over 2 million Arenzos worth of cargo. Officials have quickly mobilized an investigation team. The cause of the explosion is still undetermined. We will be publishing updates as new facts emerge.
 
 ## Arts
 By Owen Miyazoi
 
-
+New artist Raphael Porganaskan unveiled a debut sculpture on the one year anniversary of COVID this Thursday. It is a stylized, abstract representation of the now-iconic spiked-ball shape of the COVID virus particle. The work was praised by critics, wo called it a "beautiful representation of our world right now" and a "graceful, swooping tour de force."
 
 ## Sports
 By Sam-Louis Alrocaet
