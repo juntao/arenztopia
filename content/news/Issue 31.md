@@ -33,6 +33,8 @@ By Sam-Louis Alrocaet
 ## Weather
 By Mezoir Logan
 
+Mostly clear skys this week with a 12% chance of rain on Saturday and a cold front coming to north Arenztopia on Friday the 19th.
+
 
 
 ## Coronavirus Report: Deaths are at zero!
@@ -49,13 +51,13 @@ Olb City Announcer: Hi Azaria! Can you tell us about your job?
 
 Azaria Viotto: Yeah! My job is to research COVID, find ways to prevent people from getting COVID, and to make the vaccine accesible.
 
-OCA:
+OCA: Cool! how many vaccines are you distributing this month?
 
-AV:
+AV: Well we are hoping to have 50 Million doses by June. 
 
-OCA:
+OCA: Wow! Now, i am pretty sure you also are working in the hospital.
 
-AV:
+AV: Yea, I observe and i also help give the vaccine shots.
 
 OCA: Thank you so much for coming!
 
@@ -65,6 +67,8 @@ This interview was edited for length and clarity.
 
 ## AZ Scoops Sued for 180 Million Arenzos Update
 By Sam-Louis Alrocaet
+
+On Monday Mar. 8th, the CEO of Az scoops and the Assistant director of recipe development for Dripping Cone went to The Gifgs court house. Dripping cone presented footage of a man that was not wearing the dripping cone uniform that was wearing the colors of AZS. They also have a recorded phone call with the man saying "I have the recipe." The judge, Marlo Minns a famous judge, sentenced the ceo to 10 years in prison as well as the 180 million Arenzo fine having to be paid. When the OCA reached out to the CEO there was no comment. The ADRD of Dripping cone commented, this is very important to us and we wish people could just be honest." The CEO is starting his prision sentence in April.
 
 
 
