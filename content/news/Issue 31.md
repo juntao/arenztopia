@@ -71,7 +71,7 @@ On Monday, Kanlaln Narecaussus, the CEO of AZ Scoops, was convicted after his co
 ## Building Catches Fire In Noi City Update
 By Owen Miyazoi
 
-
+The building that burned down, the CFP Building, has been completely demolished and scrapped after a langthy forensic investigation which concluded on Wednesday. Two large sheets of metal will be saved for a temporary monument on the empty lot. Five more people have died of their injuries since the building was destroyed, includng two firefighters. The cause of the fire was discovered to be a faulty fusebox on the roof, and the owners of the building have been fined 11,000 Arenzos. Other than that, the Noi City government has compensated all costs to victims' families and to the owners of the building. 
 
 ## Story
 By Sam-Louis Alrocaet
