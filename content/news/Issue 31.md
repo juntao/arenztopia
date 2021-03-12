@@ -28,16 +28,12 @@ New artist Raphael Porganaskan unveiled a debut sculpture on the one year annive
 ## Sports
 By Sam-Louis Alrocaet
 
-This week the New Paris Parrots soccer team beat the Olb City Ostriches with the end score being 6-2. 
-
-
+On Tuesday, the New Paris Parrots beat the Olb University Ostriches at a special soccer game with the end score being 6-2. 
 
 ## Weather
 By Mezoir Logan
 
-Mostly clear skys this week with a 12% chance of rain on Saturday and a cold front coming to north Arenztopia on Friday the 19th.
-
-
+Mostly clear skies next week with a 12% chance of rain on Saturday and a cold front coming to north Arenztopia on Friday.
 
 ## Coronavirus Report: Deaths are at zero!
 By Owen Miyazoi
@@ -51,17 +47,17 @@ Today we interviewed Azaria Viotto, an Italian-Arenztopian scientist working on 
 
 Olb City Announcer: Hi Azaria! Can you tell us about your job?
 
-Azaria Viotto: Yeah! My job is to research COVID, find ways to prevent people from getting COVID, and to make the vaccine accesible.
+Azaria Viotto: Yeah! My job is very simple: Just research COVID, find ways to prevent people from getting COVID, and to make the vaccine accesible.
 
-OCA: Cool! how many vaccines are you distributing this month?
+OCA: Cool! How many vaccines are you hoping to distribute this year?
 
-AV: Well we are hoping to have 50 Million doses by June. 
+AV: Well, we are hoping to have distributed 2 million doses by June, and we're on course to accomplish that! 
 
-OCA: Wow! Now, i am pretty sure you also are working in the hospital.
+OCA: So I've also heard that you work as a doctor, can you tell us a bit about that?
 
-AV: Yea, I observe and i also help give the vaccine shots.
+AV: Yes, I do work as I doctor, I have a MD in Medicine from the University of Arenztopia at Arenztopia City. I work as a senior nurse at Olb City Central Hospital (OCCH). In the pandemic, I have been administering vaccine shots and working in the ICU, as well as managing the vaccine-distribution project at the OCCH.
 
-OCA: Thank you so much for coming!
+OCA: That's really cool! Thank you so much for coming!
 
 AV: Thank you for inviting me, ciao!
 
@@ -72,7 +68,7 @@ By Sam-Louis Alrocaet
 
 On Monday Mar. 8th, the CEO of Az scoops and the Assistant director of recipe development for Dripping Cone went to The Gifgs court house. Dripping cone presented footage of a man that was not wearing the dripping cone uniform that was wearing the colors of AZS. They also have a recorded phone call with the man saying "I have the recipe." The judge, Marlo Minns a famous judge, sentenced the ceo to 10 years in prison as well as the 180 million Arenzo fine having to be paid. When the OCA reached out to the CEO there was no comment. The ADRD of Dripping cone commented, this is very important to us and we wish people could just be honest." The CEO is starting his prision sentence in April.
 
-
+On Monday, Kanlaln Narecaussus, the CEO of AZ Scoops, was put in jail for 10 years after his company lost the court case against Dripping Cone. The trial was presided by famous judge Marlo Minns. AZ Scoops presented their recipes, which looked markedly different from Dripping Cone's but were later revealed to be falsified. 
 
 ## Building Catches Fire In Noi City Update
 By Owen Miyazoi
@@ -80,14 +76,14 @@ By Owen Miyazoi
 
 
 ## Story
-by Sam-Louis Alrocaet
+By Sam-Louis Alrocaet
 
 Since there are two updates this week, we are publishing two bonus stories to make up for the spaces taken up by the updates.
 
 
 
 ## Story
-by Owen Miyazoi
+By Owen Miyazoi
 
 Since there are two updates this week, we are publishing two bonus stories to make up for the spaces taken up by the updates.
 
@@ -96,12 +92,11 @@ Since there are two updates this week, we are publishing two bonus stories to ma
 ## Poetry
 By Lorenzo Avila
 
+Spring Break: A short poem.
+
 Spring break!
 Finally!
 It is here!
-
-
-
 
 ## Obituary
 By Owen Miyazoi
