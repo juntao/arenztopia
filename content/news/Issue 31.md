@@ -28,6 +28,8 @@ New artist Raphael Porganaskan unveiled a debut sculpture on the one year annive
 ## Sports
 By Sam-Louis Alrocaet
 
+This week the New Paris Parrots soccer team beat the Olb City Ostriches with the end score being 6-2. 
+
 
 
 ## Weather
@@ -43,7 +45,7 @@ By Owen Miyazoi
 Cases have dropped even lower to 140, and deaths have dropped to ZERO for the first time since March 1st. Avac vaccination drives have increased greatly to over 500,000 people vaccinated this week. Pfizer vaccinations are at 5,500. All 5,500 Pfizer vaccinations are second shots, for a total of 523,575 fully vaccinated people. The Arenztopian Officer of Health, Dr. Johannes Peterson, says that the 20,000 doses of Moderna vaccine (see [Issue 28](https://www.arenztopia.com/news/issue-28/)) will be coming next week. Dr. Peterson has also said that a fresh shipment of 20,000 Pfizer vaccine doses will come next week as well, as the second replenishment shipment to Arenztopia. (The first one was delivered in secret to prevent theft.) These replenishment shipments are partially funded by the COVAX program.
 
 ## Feature: Azaria Viotto
-By Tony Yuan and Lorenzo Avila
+By Lorenzo Avila and Tony Yuan
 
 Today we interviewed Azaria Viotto, an Italian-Arenztopian scientist working on many things COVID related. She is here to talk to us for our one year of COVID special feature.
 
@@ -93,6 +95,11 @@ Since there are two updates this week, we are publishing two bonus stories to ma
 
 ## Poetry
 By Lorenzo Avila
+
+Spring break!
+Finally!
+It is here!
+
 
 
 
