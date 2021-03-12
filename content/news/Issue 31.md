@@ -66,9 +66,7 @@ This interview was edited for length and clarity.
 ## AZ Scoops Sued for 180 Million Arenzos Update
 By Sam-Louis Alrocaet
 
-On Monday Mar. 8th, the CEO of Az scoops and the Assistant director of recipe development for Dripping Cone went to The Gifgs court house. Dripping cone presented footage of a man that was not wearing the dripping cone uniform that was wearing the colors of AZS. They also have a recorded phone call with the man saying "I have the recipe." The judge, Marlo Minns a famous judge, sentenced the ceo to 10 years in prison as well as the 180 million Arenzo fine having to be paid. When the OCA reached out to the CEO there was no comment. The ADRD of Dripping cone commented, this is very important to us and we wish people could just be honest." The CEO is starting his prision sentence in April.
-
-On Monday, Kanlaln Narecaussus, the CEO of AZ Scoops, was put in jail for 10 years after his company lost the court case against Dripping Cone. The trial was presided by famous judge Marlo Minns. AZ Scoops presented their recipes, which looked markedly different from Dripping Cone's but were later revealed to be falsified. 
+On Monday, Kanlaln Narecaussus, the CEO of AZ Scoops, was convicted after his company lost the court case against Dripping Cone. The trial was presided by famous judge Marlo Minns. AZ Scoops presented their recipes, which looked markedly different from Dripping Cone's but were later revealed to be falsified. Dripping Cone presented security camera footage from one of their factories that showed an unidentified figure breaking into an office and stealing recipes. The figure was wearing an AZ Scoops badge. Kanlaln Narecaussus was sentenced to 25 years in jail for eight counts of stealing, six counts of fraud, three counts of participating in fraud, one count of breaking and entering, and five counts of lying before the court.
 
 ## Building Catches Fire In Noi City Update
 By Owen Miyazoi
@@ -94,9 +92,9 @@ By Lorenzo Avila
 
 Spring Break: A short poem.
 
-Spring break!
-Finally!
-It is here!
+Spring break!    
+Finally!    
+It is here!    
 
 ## Obituary
 By Owen Miyazoi
