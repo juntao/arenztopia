@@ -13,7 +13,7 @@ February 28th-March 6th, 2021
 ## Az Scoops Sued for 180 million Arenzos
 By Lorenzo Avila and Tony Yuan
 
-Olb City Courthouse-Recently Az Scoops, a company that sells expensive ice cream, was sued by the world's largest ice cream company, Dripping Cone. Dripping Cone alleges that Az Scoops stealed many of its copyrighted recipes and then branded them as their own. Dripping Cone also says that the stolen recipes are worth 180 million Arenzos, and Az Scoops denies all charges. We will publish updates as new facts emerge.
+Olb City Courthouse-Recently Az Scoops, a company that sells expensive ice cream, was sued by the world's largest ice cream company, Dripping Cone. Dripping Cone alleges that Az Scoops stole many of its copyrighted recipes and then branded them as their own. Dripping Cone also says that the stolen recipes are worth 180 million Arenzos, and Az Scoops denies all charges. We will publish updates as new facts emerge.
 
 ## Arts
 By Owen Miyazoi
