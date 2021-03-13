@@ -73,12 +73,12 @@ By Owen Miyazoi
 
 The building that burned down, the CFP Building, has been completely demolished and scrapped after a langthy forensic investigation which concluded on Wednesday. Two large sheets of metal will be saved for a temporary monument on the empty lot. Five more people have died of their injuries since the building was destroyed, includng two firefighters. The cause of the fire was discovered to be a faulty fusebox on the roof, and the owners of the building have been fined 11,000 Arenzos. Other than that, the Noi City government has compensated all costs to victims' families and to the owners of the building. 
 
-## Story
+## Prominent COVID Researcher Visits
 By Sam-Louis Alrocaet
 
 Since there are two updates this week, we are publishing two bonus stories to make up for the spaces taken up by the updates.
 
-
+Dr. Sacul Jandrankenscar visited Olb University on Wednesday and gave a virtual talk to over 40,000 people about COVID. Dr. Jandrankenscar is a famous researcher who is an integral part of the Arenztopian COVID-19 Response Team. He talked about the risks of COVID, how to prevent COVID, and information about the Avac, Moderna, and Pfizer vaccines.
 
 ## Story
 By Owen Miyazoi
