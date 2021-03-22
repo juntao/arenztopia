@@ -83,8 +83,7 @@ Dr. Sacul Jandrankenscar visited Olb University on Wednesday and gave a virtual 
 ## Story
 By Owen Miyazoi
 
-Since there are two updates this week, we are publishing two bonus stories to make up for the spaces taken up by the updates.
-
+Recently a new company, Espacer, launched a space craft. While all it did was orbit the moon, it is big news since Arenztopia does not have many space organiations. Although a new goverment space exploration team is being put together right now. They are expected to go on their first mission in November of 2023.
 
 
 ## Poetry
@@ -98,4 +97,8 @@ It is here!
 
 ## Obituary
 By Owen Miyazoi
+
+
+Chef Aldo Mottosi , of Aldo's Restaraunt, died on Saturday. Send your regrets to 000-121-7191.
+
 
