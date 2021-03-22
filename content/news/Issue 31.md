@@ -80,7 +80,7 @@ Since there are two updates this week, we are publishing two bonus stories to ma
 
 Dr. Sacul Jandrankenscar visited Olb University on Wednesday and gave a virtual talk to over 40,000 people about COVID. Dr. Jandrankenscar is a famous researcher who is an integral part of the Arenztopian COVID-19 Response Team. He talked about the risks of COVID, how to prevent COVID, and information about the Avac, Moderna, and Pfizer vaccines.
 
-## Story
+## New Spacecraft Launched
 By Owen Miyazoi
 
 Since there are two updates this week, we are publishing two bonus stories to make up for the spaces taken up by the updates.
@@ -99,7 +99,4 @@ It is here!
 ## Obituary
 By Owen Miyazoi
 
-
-Chef Aldo Mottosi , of Aldo's Restaraunt, died on Saturday. Send your regrets to 000-121-7191.
-
-The famous chef Aldo Mottosi died at the age of 88 on Friday. He ran the Italian restaraunt La Cucina Mottosi for fifty years. Mr. Mottosi was known for his stout stature and kind demeanor. He willed over 65% of his life's savings to various charities, a total sum of almost exactly 1 million dollars. To show sympathy, call his business memorial hotline at 1-750-339-8761, or call his home memorial hotline at 680-221-8796.
+The famous chef Aldo Mottosi died at the age of 88 on Friday. He ran the Italian restaraunt La Cucina Mottosi for fifty years. Mr. Mottosi was known for his stout stature, excellent food, and kind demeanor. He willed over 65% of his life's savings to various charities, a total sum of almost exactly 1 million dollars. To show sympathy, call his business memorial hotline at 1-750-339-8761, or call his home memorial hotline at 680-221-8796.
