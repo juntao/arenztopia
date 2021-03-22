@@ -10,6 +10,11 @@ weight: 30
 Volume 3, Issue 10    
 February 28th-March 6th, 2021    
 
+--------------
+## CELEBRATING ONE YEAR OF THE OLB CITY ANNOUNCER!
+## This week, we are celebrating one year of the Olb City Announcer: Our first issue was for the week of March 1 to March 7th, 2020. However, this one-year anniversary is including a several-month hiatus in the summer of 2020 due to a COVID-19 outbreak in our offices.
+--------------
+
 ## Az Scoops Sued for 180 million Arenzos
 By Lorenzo Avila and Tony Yuan
 
