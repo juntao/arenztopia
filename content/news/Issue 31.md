@@ -83,8 +83,9 @@ Dr. Sacul Jandrankenscar visited Olb University on Wednesday and gave a virtual 
 ## Story
 By Owen Miyazoi
 
-Recently a new company, Espacer, launched a space craft. While all it did was orbit the moon, it is big news since Arenztopia does not have many space organiations. Although a new goverment space exploration team is being put together right now. They are expected to go on their first mission in November of 2023.
+Since there are two updates this week, we are publishing two bonus stories to make up for the spaces taken up by the updates.
 
+The ambitious new space company Espacer launched a new spacecraft in collaboration with the ASA. The spacecraft is a probe with many different instruments, and it will enter into orbit around the moon next month. It is named the SCAIMP-1, which stands for Semi-Commercial Advanced-Instrument Moon Probe 1. SCAIMP-1 is the first moon probe ever launched by Arenztopia. Espacer is aiming for another launch in September.
 
 ## Poetry
 By Lorenzo Avila
@@ -101,4 +102,4 @@ By Owen Miyazoi
 
 Chef Aldo Mottosi , of Aldo's Restaraunt, died on Saturday. Send your regrets to 000-121-7191.
 
-
+The famous chef Aldo Mottosi died at the age of 88 on Friday. He ran the Italian restaraunt La Cucina Mottosi for fifty years. Mr. Mottosi was known for his stout stature and kind demeanor. He willed over 65% of his life's savings to various charities, a total sum of almost exactly 1 million dollars. To show sympathy, call his business memorial hotline at 1-750-339-8761, or call his home memorial hotline at 680-221-8796.
