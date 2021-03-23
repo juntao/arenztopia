@@ -60,7 +60,7 @@ The original interview was made in French. The non-translated version will be be
 
 French Feature:
 
-Aujourd'hui, nous avons interviewé Norzae Peerce, une artiste d'origine française. Sa dernière pièce, Nuit de Lune, s'est vendue pour 100 Million Arenzos à l'ANAS (Arenzish National Art Show.)
+Aujourd'hui, nous avons interviewé Norzae Peerce, une artiste d'origine française. Sa dernière pièce, Nuit de Lune, s'est vendue pour 100 million Arenzos à l'ANAS (Arenzish National Art Show.)
 
 Annonceur d'Olb City: Salut Norzae! Pouvez-vous nous parler un peu de ce qui vous a inspiré pour faire Nuit de Lune?
 
