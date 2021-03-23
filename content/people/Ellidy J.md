@@ -2,8 +2,8 @@
 title: "Ellidy J."
 date: 2020-09-22T1:57:36+8:00
 draft: false
-jobtitle: "Student of Theater"
+jobtitle: "Mayor"
 weight: 9
 ---
 
-Ellidy is a student currently studying theater at the University of Arenztopia. She is a distinguished Arenztopian for her contributions to the archives of the Department of Theater at Arenztopia University. And in the December 2020 Election she won the election for Mayor.
+Ellidy is a student currently studying theater at the University of Arenztopia. She is a distinguished Arenztopian for her contributions to the archives of the Department of Theater at Arenztopia University. She is currently serving her first term as Mayor.
