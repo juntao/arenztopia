@@ -36,7 +36,7 @@ By Owen Miyazoi
 
 
 ## Feature: Norzae Peerce
-By Lorenzo Avila
+By Lorenzo Avila and Tony Yuan
 
 Today we interviewed Norzae Peerce, a French-Arenztopian artist. His latest piece, Nuit de Lune, sold for 100 million Arenzos on the ANAS (Arenzish National Art Show.)
 
@@ -56,7 +56,7 @@ OCA: That is a very gracious thing to do. Thanks for coming!
 
 NP: Thanks for having me!
 
-The original interview was made in French. The non-translated version will be below. (Translated by Renzo Avila)
+The original interview was made in French. The non-translated version will be below. (Translated by Lorenzo Avila)
 
 French Feature:
 
