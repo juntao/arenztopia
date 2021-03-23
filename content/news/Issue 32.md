@@ -43,7 +43,7 @@ By Tony Yuan
 ## Major Company Moves to Olb City
 By Sam-Louis Alrocaet
 
-The major company Faolan Tech Company announced the moving of its headquarters to Olb City on Thursday. Faolan Tech Company is a major worldwide technology conglemerate formerly headquartered in Norway. Its subsidaries include the brokering firm Byrrgis, the audio company Slink Melf, and the experimental science supply company Fengo Finbar. Edme S. Faolan, the CEO of Faolan & Co., cited Arenztopia's growing economy and Olb City's growing position in the worldwide technology market as reasons for the move.
+The major company Faolan Tech announced the moving of its headquarters to Olb City on Thursday. Faolan Tech is a worldwide technology conglemerate formerly headquartered in Norway. Its subsidaries include the brokering firm Byrrgis, the audio company Slink Melf, and the experimental science supply company Fengo Finbar. Edme S. Faolan, the CEO of Faolan & Co., cited Arenztopia's growing economy and Olb City's growing position in the worldwide technology market as reasons for the move.
 
 ## Story
 By Owen Miyazoi
