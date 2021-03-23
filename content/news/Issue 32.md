@@ -91,11 +91,13 @@ By Owen Miyazoi
 
 
 ## Poetry
-By Lorenzo Avila
+By Lorenzo Avila, edited by Tony Yuan
 
-The moon.
-Stars.
-A wonderful night.
+Nighttime Scene: A short poem
+
+The Moon.    
+Stars.    
+A wonderful night.    
 
 
 
