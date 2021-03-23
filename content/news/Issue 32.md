@@ -35,11 +35,10 @@ By Owen Miyazoi
 
 
 
-## Feature: 
+## Feature: Norzae Peerce
 By Lorenzo Avila
 
-Today we interviewed Norzae Peerce, a French born artist. His latest piece, Nuit de Lune, sold for 100 Million Arenzos on the ANAS (Arenzish National Art Show.)
-
+Today we interviewed Norzae Peerce, a French-Arenztopian artist. His latest piece, Nuit de Lune, sold for 100 million Arenzos on the ANAS (Arenzish National Art Show.)
 
 Olb City Announcer: Hi Norzae! Could you tell us a bit about what inspired you to make Nuit de Lune?
 
@@ -47,22 +46,21 @@ Norzae Peerce: Oui! I was sitting outside on my porch and there was a full moon 
 
 OCA: That is so beautiful! Where do you live where you can see the sky so clearly?
 
-NP: I live in the outskirts of New Paris, i get a view of the city lights as well as the view of the sky and nature surrounding the city.
+NP: I live in the outskirts of New Paris, I get a view of the city lights as well as the view of the sky and nature surrounding the city.
 
-OCA: That sounds amazing! What are you planning on doing with the 100 Million?
+OCA: That sounds amazing! What are you planning on doing with the 100 million?
 
-NP: Well i really have everything i need so i will probably keep a small amount for myself for food among other things but I will be donating the rest.
+NP: Well I really have everything I need so I will probably keep a small amount for myself for food and other things but I will be donating the rest.
 
 OCA: That is a very gracious thing to do. Thanks for coming!
 
 NP: Thanks for having me!
 
-Origanal interwiew was made in French. The Non-Translated version will be below. (Translated by Renzo Avila)
+The original interview was made in French. The non-translated version will be below. (Translated by Renzo Avila)
 
 French Feature:
 
 Aujourd'hui, nous avons interviewé Norzae Peerce, une artiste d'origine française. Sa dernière pièce, Nuit de Lune, s'est vendue pour 100 Million Arenzos à l'ANAS (Arenzish National Art Show.)
-
 
 Annonceur d'Olb City: Salut Norzae! Pouvez-vous nous parler un peu de ce qui vous a inspiré pour faire Nuit de Lune?
 
@@ -80,13 +78,12 @@ OCA: C'est une chose très gentille à faire. Merci d'être venu!
 
 NP: Merci de m'avoir invité!
 
+This interview has been edited for length and clarity.
 
-
-
-## Story
+## Major Company Moves to Olb City
 By Sam-Louis Alrocaet
 
-
+The major technology company Faolan Technologies announced that it would be moving its headquarters from Norway to Olb City on Thursday. The CEO of Faolan Technologies, Edme S. Faolan III, cited Arenztopia's growing economy and Olb City's place as a technological hub as reasons for the move. Subsidaries of Faolan Technologies include the brokerage firm Byrrgis, the audio company Slink Melf, the ancestry-finding service Edme, and the experimental scientific instrument company Fengo Finbar.
 
 ## Story
 By Owen Miyazoi
