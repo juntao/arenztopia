@@ -90,6 +90,8 @@ The major technology company Faolan Technologies announced that it would be movi
 ## Story
 By Owen Miyazoi
 
+Recently, there have been many credit card thefts. On monday 182 people reported unauthorized purchases on their card. All of the poeple had used a AZ Bank ATM. AZ Bank closed all of their ATMs. Detectives went to the scene they found that someone had put a small device that automatically copies the number. A few suspects have been lined up. The detectives do not believe any of the supects are the true criminals. If you have any additional info, contact 1-800-OLBPD
+
 
 
 ## Poetry
