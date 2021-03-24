@@ -18,12 +18,12 @@ Olb City Department of Transportation-A new transportation expansion bill was an
 ## Arts
 By Owen Miyazoi
 
-
+A new, monumental artwork was unveiled at the OCAM on Tuesday by the famous local artist Moe Kinakshi, after a long disappearance from the art world. It is a huge, 75-foot diameter globe with exquisite detailing painted on it, except there is a brown, gooey liquid spilling down the sides. It is called "Pollution (Earth)," and it will be displayed in a special outdoor room near the OCAM's sculpture park.
 
 ## Sports
 By Sam-Louis Alrocaet
 
-
+The Olb University Biology Department staged a semi-satirical sports event on Wednesday in which over 200 people raced to see who could plant the most trees in thirty minutes. The winner turned out to be undergrad Joe Cansikal, who planted twenty-nine trees in the thirty minutes. Caniskal won the 300 Arenzo cash prize and also a brand-new bicycle, as well as three "" bumper stickers procured by the Olb University Department of Biology. 
 
 ## Weather
 By Mezoir Logan
