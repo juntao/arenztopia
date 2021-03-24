@@ -24,7 +24,7 @@ A new, monumental artwork was unveiled at the OCAM on Tuesday by the famous loca
 By Sam-Louis Alrocaet
 
 The Olb University Biology Department staged a semi-satirical sports event on Wednesday in which over 200 people raced to see who could plant the most trees in thirty minutes. The winner turned out to be undergrad Joe Cansikal, who planted twenty-nine trees in the thirty minutes. Caniskal won the 300 Arenzo cash prize and also a brand-new bicycle, as well as three bumper stickers with this joke on them:
-> What do you call the leader of a biology department? 
+> What do you call the leader of a biology department?     
 > The nucleus. 
 
 ## Weather
