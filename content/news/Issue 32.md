@@ -13,7 +13,7 @@ March 14th-March 20th, 2021
 ## New Transportation Plan Announced
 By Tony Yuan
 
-Olb City Department of Transportation-A new transportation expansion bill was announced on Monday. If passed, it will feature three new lines for the subway network, light rail service straight to and from Arenztopia Mountain National Park, a "light rail overpass" network, and more. The first new subway line will run from Olb Plaza to Olb University, with stops at Villa Palenque, the Anda-Tortoise Junction, City Hall, and GD & Co HQ. It will be called the Silver Line. The second new subway line will run from Lake Oglethorpe to Lake Maracea, with stops at City Hall, Olb Plaza, Dripping Cone, and the Sanson Tower. It will be called the Purple Line. The third new subway line will run from the the Anda Resovoir to the Tortoise River Freight Port, with stops at the National Hospital, Lake Maracea, the Maracea River, Olb Cathedral, the Maracea-Tortoise Junction, and North Riverside. It will be called the Yellow Line. The transportation plan also includes a 250-mile expansion of the city's light rail network, which includes a light rail line running along the highway from Olb City to Arenztopia Mountain, a line following the Anda and Maracea rivers, a line following the circumference of Lake Kosan, and a light rail station and track on top of the Anda Dam. There will also be a network of "light rail overpasses", which are light rail tracks that follow roads not by going along them, but over them. These overpasses will run between the buildings, with glass bottoms to let sunlight in. Stations will be located inside of the buildings, and the overpasses will require the construction of special downward-sloping tracks inside buildings in order to let the light rail trains get back to street level. The overpasses will be the first of their kind, anywhere in the world. The entire plan is estimated to cost around 3 billion Arenzos, possibly more, and it will take until late 2022 to finish. The plan will be called the NXTransport Bill, and it will be up for a vote in June.
+Olb City Department of Transportation-A new transportation expansion bill was announced on Monday. If passed, it will feature three new lines for the subway network, light rail service straight to and from Arenztopia Mountain National Park, a "light rail overpass" network, and more. The first new subway line will run from Olb Plaza to Olb University, with stops at Villa Palenque, the Anda-Tortoise Junction, City Hall, and GD & Co HQ. It will be called the Red Line. The second new subway line will run from Lake Oglethorpe to Lake Maracea, with stops at City Hall, Olb Plaza, Dripping Cone, and the Sanson Tower. It will be called the Pink Line. The third new subway line will run from the the Anda Resovoir to the Tortoise River Freight Port, with stops at the National Hospital, Lake Maracea, the Maracea River, Olb Cathedral, the Maracea-Tortoise Junction, and North Riverside. It will be called the Yellow Line. The transportation plan also includes a 250-mile expansion of the city's light rail network, which includes a light rail line running along the highway from Olb City to Arenztopia Mountain, a line following the Anda and Maracea rivers, a line following the circumference of Lake Kosan, and a light rail station and track on top of the Anda Dam. There will also be a network of "light rail overpasses", which are light rail tracks that follow roads not by going along them, but over them. These overpasses will run between the buildings, with glass bottoms to let sunlight in. Stations will be located inside of the buildings, and the overpasses will require the construction of special downward-sloping tracks inside buildings in order to let the light rail trains get back to street level. The overpasses will be the first of their kind, anywhere in the world. The entire plan is estimated to cost around 3 billion Arenzos, possibly more, and it will take until late 2022 to finish. The plan will be called the NXTransport Bill, and it will be up for a vote in June.
 
 ![NXTransport's official subway map](https://docs.google.com/drawings/d/e/2PACX-1vRbGycfZDKAk6nLfKUebHqGp5uoyUrKE3IXuuB0PIptWui6xKBz0MIQL9KNInDGTlVuQ7C7psjnfLDw/pub?w=687&h=687)    
 A map of Olb City featuring the proposed new subway lines
@@ -90,12 +90,10 @@ By Sam-Louis Alrocaet
 
 The major technology company Faolan Technologies announced that it would be moving its headquarters from Norway to Olb City on Thursday. The CEO of Faolan Technologies, Edme S. Faolan III, cited Arenztopia's growing economy and Olb City's place as a technological hub as reasons for the move. Subsidaries of Faolan Technologies include the brokerage firm Byrrgis, the audio company Slink Melf, the ancestry-finding service Edme, and the experimental scientific instrument company Fengo Finbar.
 
-## Story
+## Credit Card Theft WARNING
 By Owen Miyazoi
 
-Recently, there have been many credit card thefts. On monday 182 people reported unauthorized purchases on their card. All of the poeple had used a AZ Bank ATM. AZ Bank closed all of their ATMs. Detectives went to the scene they found that someone had put a small device that automatically copies the number. A few suspects have been lined up. The detectives do not believe any of the supects are the true criminals. If you have any additional info, contact 1-800-OLBPD
-
-
+Police have reported a rash of recent credit card thefts. 182 people reported unauthorized purchases from their cards, ranging from 10 Arenzos to over 1,400 Arenzos. The main target seems to be people who use ATMs operated by First Bank of Olb City; FBOC has closed their ATMs. Several suspects have been captured, however none of them seem to be the true criminal. The OCPD says to be careful and to not swipe if you see a suspicious, silvery, rectangular object attatched to the ATM that was not there before (These objects are credit card number collectors). If you have any other information, please call  and contact the OCPD.
 
 ## Poetry
 By Lorenzo Avila, edited by Tony Yuan
@@ -105,8 +103,6 @@ Nighttime Scene: A short poem
 The Moon.    
 Stars.    
 A wonderful night.    
-
-
 
 ## Obituary
 By Owen Miyazoi
