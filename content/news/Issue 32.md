@@ -33,15 +33,15 @@ The Olb University Biology Department staged a semi-satirical sports event on We
 ## Weather
 By Mezoir Logan
 
+Next week should be warmer after a breif cold front on Tuesday, with the high being 30 degrees Celsius on Friday and the low being 15 degrees Celsius on Tuesday.
 
-
-## Coronavirus Report
+## Coronavirus Report: 1 Million People Vaccinated!
 By Owen Miyazoi
 
-
+Cases are at an incredible 125, while deaths are staying at 0. Authorities predict that there will be 0 cases in Arenztopia by the end of April, and that all citizens will be vaccinated by the end of September. 20,000 doses of Moderna have arrived, as well as 20,000 doses of Pfizer. Following a huge new drive for COVID-19 vaccines, 1,500,000 Avac doses have been produced and 500,000 have been administered, as well as 5,000 Moderna and 5,000 Pfizer, for a total fully vaccinated count of 1,028,575 people, with a further 5,000 waiting for their second shot. A further 250,000 Avac vaccines have been exported to countries around the world, including the US, Spain, Italy, Mexico, and Peru. The Arenztopian Officer of Health, Dr. Johannes Peterson, says that he wants to double or even triple the production of Avac by next week, meaning that we may have as many as 5,250,000 doses of Avac by Friday next week. Tellurium Group, the car manufacturer, has devoted 75% of its factories to making Avac, and has postponed its 2021 models until 2022 and cut production by 80%. General Medicinal of Arenztopia has also devoted 75% of its factories to making Avac, and has donated a further 2 million dollars to the production and distribution of Avac by other companies. Several other contributors include AEV, Valeron Medicinal, Skaarsgard Interiors, and Vivid Imagery VR Goggles, all of which have devoted 25% of their factories to making and distributing Avac.
 
 ## Feature: Norzae Peerce
-By Lorenzo Avila 
+By Lorenzo Avila, edited by Tony Yuan 
 
 Today we interviewed Norzae Peerce, a French-Arenztopian artist. His latest piece, Nuit de Lune, sold for 100 million Arenzos on the ANAS (Arenzish National Art Show.)
 
@@ -88,7 +88,7 @@ This interview has been edited for length and clarity.
 ## Major Company Moves to Olb City
 By Sam-Louis Alrocaet
 
-The major technology company Faolan Technologies announced that it would be moving its headquarters from Norway to Olb City on Thursday. The CEO of Faolan Technologies, Edme S. Faolan III, cited Arenztopia's growing economy and Olb City's place as a technological hub as reasons for the move. Subsidaries of Faolan Technologies include the brokerage firm Byrrgis, the audio company Slink Melf, the ancestry-finding service Edme, and the experimental scientific instrument company Fengo Finbar.
+The major technology company Faolan Technologies announced that it would be moving its headquarters from Norway to Olb City on Thursday. The CEO of Faolan Technologies, Edme S. Faolan III, cited Arenztopia's growing economy and Olb City's place as a technological hub as reasons for the move. Subsidaries of Faolan Technologies include the brokerage firm Byrrgis, the audio company Slink Melf, the ancestry-finding service Edme, and the experimental scientific instrument company Fengo Finbar, among others.
 
 ## Credit Card Theft WARNING
 By Owen Miyazoi
