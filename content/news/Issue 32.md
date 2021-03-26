@@ -107,4 +107,4 @@ A wonderful night.
 ## Obituary
 By Owen Miyazoi
 
-Influential politician Jersey Hamlyn died at the age of 67 on Tuesday following a long battle with cancer. Mr. Hamlyn was an extremely active as a left-wing politician in the 1990s. 
+Influential politician Jersey Hamlyn died at the age of 67 on Tuesday following a long battle with cancer. Mr. Hamlyn was an extremely active as a left-wing politician in the 1990s, and he helped build support for many beautification projects. He was also an instrumental voice in the creation of Reef National Marine Reserve. Show sympathy by calling 650-208-1095.  
