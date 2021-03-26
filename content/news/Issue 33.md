@@ -30,7 +30,7 @@ By Mezoir Logan
 The weather next week is going to be near-perfect spring weather, with temperatures from 21 degrees Celsius to 24 degrees Celsius. There should be a 30% chance of rain on Friday as clouds move in Thursday night.
 
 ## Feature: Dr. Dominique Motul
-By Lorenzo Avila
+By Tony Yuan, based on an original document by Lorenzo Avila
 
 Today we interviewed Dr. Dominique Motul, a Colombian-Arenztopian scientist. His laboratory team is stationed at the Descalvure Laboratory at Olb University and they beleive that they have found a new species of bacteria that exhibits virus-like properties: invading cells, devouring tissue, and using the body's functions to make more of itself. Dr. Motul also says that the bacteria can devour other bacteria by grouping together into a team. The microorganism is believed to be extremely dangerous to humans.
 
@@ -54,30 +54,25 @@ This interview was edited for length and clarity.
 
 Dr. Motul's findings were published in the journal Science on Tuesday, in collaboration with Sigrryb F. Hamsen, Knils M. Tearlach, and Gwynneth S. Traehrednuht.
 
-## Story
+## Upcoming Concert
 By Sam-Louis Alrocaet
 
-A local music shop, Arenztopia Records, is putting on a concert with many big names. It will be over zoom. You can buy Tickets as well as backstage passes on AZrecords/Zoomfest.com . The show will start at 9pm April 1st.
+The local music shop Arecords is putting on a virtual concert next Friday with many big names. Tickets will cost 15$ per adult and 10$ per child, as well as 10$ for people 65 and over and 5$ for people who have been fully vaccinated; backstage passes cost 30$ per person. You can buy tickets and backstage passes at [arecords.az/zoomfest](https://sites.google.com/stu.austinisd.org/placeholder-site/home). The show will start at 3 PM.
 
-## Story
-By Renzo Avila
+## Woodchuck Criminals Return
+By Lorenzo Avila, edited by Tony Yuan
 
-On Thursday, 3 people were reported missing. Their bodies were found in a dumpster 2 hours later. The dumpster was Graffitied with "Woodchucks are back." The woodchuck criminals were never found, therfore leading the police to believe they are the same criminals that killed 2 people 1 year ago. PI Sai G. was put on the case, any information can be valuable please call or text 111-WDCK-Zoneinfo.
+On Tuesday, three people were reported missing; their bodies were found in a Dumpster the next day. The Dumpster had the words "The Woodchucks are Coming" scrawled in red on the side. Police think that the murderers are the same people who killed two people one year ago. (See [Issue 1](https://www.arenztopia.com/news/issue-1/)) Famous private investigator Sai G. has been put on the case. All information is valuable: If you have any info, please call the OCPD's Woodchuck Hotline at 650-WOOD-CHUCK.
 
 ## Poetry
-By Renzo Avila
+By Lorenzo Avila
 
-We are reaching the summit.
-
-The summit of covid.
-
-We soon will conquer Covid.
-
-We are almost there.
-
-
+We are reaching the summit.    
+The summit of covid.    
+We soon will conquer covid.    
+We are almost there.    
 
 ## Obituary
 By Owen Miyazoi
 
-On Tuesday, Adrastos Callis passed away. He was a big figuire in Mexican American rights in the 70's. After many bills were passed to benifit the life of Mexican-Arenzish people by President Renzo Avila, he became a figure in Politics and helped many people in low income families, with his charity. Please send your love to Mrs. Callis at 111-722-2864.
+On Tuesday, the famous Mexican-Arenztopian politician Adrastos Callis passed away at the age of 84. He was an extremely influential advocate of Mexican-Arenztopian and Mexican-American rights in the 1970s. He was a close ally of President Lorenzo Avila and donated much of his earnings to charity. Please send your regrets to Mrs. Callis at 650-722-2864.
