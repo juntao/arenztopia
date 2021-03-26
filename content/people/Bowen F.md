@@ -6,4 +6,4 @@ jobtitle: "Police Chief"
 weight: 14
 ---
 
-Bowen F. is an influential citizen. He is the police chief of the Arenztopia City Police Department (ACPD), and he played an integral part in catching crime boss Miles Jordan, and many others. 
+Bowen F. is an influential citizen. He is the police chief of the Arenztopia City Police Department (ACPD). He played an integral part in catching crime boss Miles Jordan, among many others. 
