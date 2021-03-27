@@ -13,7 +13,7 @@ March 21st-March 27th, 2021
 ## New Airport Planned
 By Tony Yuan
 
-Hallington-City officials have voted to plan and design a new, second airport near the small satellite town of Hallington. The airport will be called the Hallington-Olb City International Airport (WOCIA), and it will house over 800 restaraunts and shops, with ten 9,000 meter runways and over 300 gates. The airport will have four terminals, each with an estimated 500,000 square feet. The airport will be built on 90 acres of land outside Hallington. Officials say the airport could cost as much as 10 billion Arenzos, and will be comparable in size to OCIA. AAW, Southwest, Delta, United, and American have all agreed to have flights to the airport. Its three-letter airport code will be WOC.
+Hallington-City officials have voted to plan and design a new, second airport near the small satellite town of Hallington. The airport will be called the Hallington-Olb City International Airport (HOCIA), and it will house over 800 restaraunts and shops, with ten 9,000 meter runways and over 300 gates. The airport will have four terminals, each with an estimated 500,000 square feet. The airport will be built on 90 acres of land outside Hallington. Officials say the airport could cost as much as 10 billion Arenzos, and will be comparable in size to OCIA. AAW, Southwest, Delta, United, and American have all agreed to have flights to the airport. Its three-letter airport code will be WOC.
 
 ## Arts
 by Owen Miyazoi
