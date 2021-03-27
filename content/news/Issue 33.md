@@ -14,10 +14,11 @@ March 21st-March 27th, 2021
 By Tony Yuan
 
 
+
 ## Arts
 by Owen Miyazoi
 
-lorem ipsum
+A new artwork was unveiled at the OCAM by the established and post-modernist artist Miekl Kyonankii. Titled "g" and styled in all lowercase, the sculpture is a sort of cylindrical shape, but with the bottom cut off and replaced with a kind of half-spiral curlicue thing. The work is made of steel, with a thick iron coating and wood inlay; it is about 12 feet tall and displays "an intricate delicacy in the way the cylinder balances upon the half-spiral curlicue thing," as one critic says. In case you're wondering, yes, Mr. Kyonankii actually says that it's intended to be called a "half-spiral curlicue thing".
 
 ## Sports
 By Sam-Louis Alrocaet
@@ -28,6 +29,11 @@ Dr. Johannes Peterson, the Arenztopian Officer of Health, decreed on Monday that
 By Mezoir Logan
 
 The weather next week is going to be near-perfect spring weather, with temperatures from 21 degrees Celsius to 24 degrees Celsius. There should be a 30% chance of rain on Friday as clouds move in Thursday night.
+
+## Coronavirus Report
+By Owen Miyazoi
+
+Cases have continued to drop to just 100, which is similar to the number of cases in early- and mid-March. Deaths are still at 0. The Arenztopian Officer of Health, Dr. Johannes Peterson, got President Avila's approval to dump over 2 billion Arenzos into the vaccine effort, which means that we now have another incredible 3,500,000 people vaccinated with Avac and 200,000 vaccinated with Moderna, as well as 100,000 vaccinated with Pfizer; this makes for a truly incredible 4,533,575 people fully vaccinated, as well as 295,000 people waiting for their second shot. Dr. Johannes Peterson says that he hopes to have Avac being the only vaccine in Arenztopia by the end of the month.
 
 ## Feature: Dr. Dominique Motul
 By Tony Yuan, based on an original document by Lorenzo Avila
