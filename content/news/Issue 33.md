@@ -11,13 +11,13 @@ Volume 4, Issue 3
 March 21st-March 27th, 2021    
 
 ## Cover Story
-By Renzo Avila
+By Tony Yuan
 
 
 ## Arts
 by Owen Miyazoi
 
-
+lorem ipsum
 
 ## Sports
 By Sam-Louis Alrocaet
