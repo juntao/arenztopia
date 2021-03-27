@@ -50,6 +50,13 @@ By Owen Miyazoi
 
 
 
+## Book Recommendation
+By Sam-Louis Alrocaet
+
+Welcome to our new Book Recommendation column! In this column, we'll be publishing a recommendation for a book or series every week.
+
+
+
 ## Poetry
 By Lorenzo Avila
 
