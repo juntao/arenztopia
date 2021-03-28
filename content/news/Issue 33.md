@@ -36,7 +36,7 @@ By Owen Miyazoi
 Cases have continued to drop to just 100, which is similar to the number of cases in early- and mid-March. Deaths are still at 0. The Arenztopian Officer of Health, Dr. Johannes Peterson, got President Avila's approval to dump over 2 billion Arenzos into the vaccine effort, which means that we now have another incredible 3,500,000 people vaccinated with Avac and 200,000 vaccinated with Moderna, as well as 100,000 vaccinated with Pfizer; this makes for a truly incredible 4,533,575 people fully vaccinated, as well as 295,000 people waiting for their second shot. Dr. Johannes Peterson says that he hopes to have Avac being the only vaccine in Arenztopia by the end of the month.
 
 ## Feature: Dr. Dominique Motul
-By Tony Yuan and Lorenzo Avila
+By Lorenzo Avila
 
 Today we interviewed Dr. Dominique Motul, a Colombian-Arenztopian scientist. His laboratory team is stationed at the Descalvure Laboratory at Olb University and they beleive that they have found a new species of bacteria that exhibits virus-like properties: invading cells, devouring tissue, and using the body's functions to make more of itself. Dr. Motul also says that the bacteria can devour other bacteria by grouping together into a team. The microorganism is believed to be extremely dangerous to humans.
 
@@ -66,7 +66,7 @@ By Sam-Louis Alrocaet
 The local music shop Arecords is putting on a virtual concert next Friday with many big names. Tickets will cost 15$ per adult and 10$ per child, as well as 10$ for people 65 and over and 5$ for people who have been fully vaccinated; backstage passes cost 30$ per person. You can buy tickets and backstage passes at [arecords.az/zoomfest](https://sites.google.com/stu.austinisd.org/placeholder-site/home). The show will start at 3 PM.
 
 ## Woodchuck Criminals Return
-By Lorenzo Avila, edited by Tony Yuan
+By Lorenzo Avila
 
 On Tuesday, three people were reported missing; their bodies were found in a Dumpster the next day. The Dumpster had the words "The Woodchucks are Coming" scrawled in red on the side. Police think that the murderers are the same people who killed two people one year ago. (See [Issue 1](https://www.arenztopia.com/news/issue-1/)) Famous private investigator Sai G. has been put on the case. All information is valuable: If you have any info, please call the OCPD's Woodchuck Hotline at 650-WOOD-CHUCK.
 
