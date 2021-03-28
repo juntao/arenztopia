@@ -26,7 +26,7 @@ Olb City Convention Center-On Tuesday, the auction house Stansberry virtually au
 ![A typical Stansberry private auction.](https://www.esprit-de-france.com/sites/esprit-de-france.com/files/styles/article_header_943x420/public/article/ventes_aux_encheres_1_0.jpg?itok=Sm4_EGtW)    
 A private estate auction held by Stansberry last year.
 
-Other items include a work by trending painter Ronald Gry, which sold for over 240,000 Arenzos, a Ming dynasty vase from China, which sold for over 200,000 Arenzos, and a sports car that sold for over 190,000 Arenzos and was once owned by Felipe González, who was the president of Spain from 1982 to 1996. Over 50,000 people were bidding at the auction's peak attendance, and the total amount of money collected was over 1,000,000 Arenzos. Stanberry says that it will hold more auctions over the coming weeks.
+Other items include a work by trending painter Ronald Gry, which sold for over 240,000 Arenzos, a Ming dynasty vase from China, which sold for over 200,000 Arenzos, and a sports car that sold for over 190,000 Arenzos and was once owned by Felipe González, who was the president of Spain from 1982 to 1996. Over 50,000 people were bidding at the auction's peak attendance, and the total amount of money collected was over 1,000,000 Arenzos. Stansberry says that it will hold more auctions over the coming weeks.
 
 ## Sports
 by Sam-Louis Alrocaet
@@ -61,11 +61,11 @@ Jack Ma: So first I want to tell people what an IPO is. It's an event where a co
 
 OCA: What are the potential implications of this IPO?
 
-JM: So first, it would add a lot more value to the Chinese stock market. Also, it would hopefully make Ant Group or ALibaba grow in size through trading.
+JM: So first, it would add a lot more value to the Chinese stock market. Also, it would hopefully make Ant Group or Alibaba grow in size through trading.
 
 OCA: What are you planning to do with all the extra money, if there is any?
 
-JM: I want to give it to small buisenesses; they're the ones who need it the mot, espcially during the pandemic.
+JM: I want to give it to small businesses; they're the ones who need it the most, espcially during the pandemic.
 
 OCA: Thanks! That's all for today. Thanks for coming!
 
