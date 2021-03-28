@@ -18,7 +18,7 @@ West Lane Textile Factory-On Friday, a textile factory operated by the company W
 
 ![Factory Explosion Aftermath](https://img.huffingtonpost.com/asset/5ba2a8d33c000066000aed38.jpeg?ops=scalefit_630_noupscale)
 
-West Lane issued an official apology to the families of the workers who were killed. The factory was one of West Lane's biggest manufacturing centers in Arenztopia, and West Lane is now looking for a new property to build the factory. "We mourn the loss of everybody who lost their lives because of this unfortunate accident, and we will persevere through these unfortunate events.", a West Lane spokesperson said.
+West Lane issued an official apology to the families of the workers who were killed. The factory was one of West Lane's biggest manufacturing centers in Arenztopia, and West Lane is now looking for a new property to build the factory on. "We mourn the loss of everybody who lost their lives because of this unfortunate accident, and we will persevere through these unfortunate events.", a West Lane spokesperson said.
 
 ## Arts
 by Renzo Avila
@@ -35,10 +35,10 @@ by Mezoir Logan
 
 Next week should be mild, but cooler, as temperatures drop to around 12 degrees.
 
-## King Stung by Scorpion
+## President Stung by Scorpion
 by Sam-Louis Alrocaet
 
-On Monday, the King, Lorenzo Avila, was stung three times while visiting a relative's house. The scorpion attacked unprovoked and Lorenzo was able to get it to stop stinging, but suffered a scar on the side of his chest. The scorpion escaped and is still on the loose. The ACPD is suspecting an assassination plot.
+On Monday, the President, Lorenzo Avila, was stung three times while visiting a relative's house. The scorpion attacked unprovoked and Lorenzo was able to get it to stop stinging, but suffered a scar on the side of his chest. The scorpion escaped and is still on the loose. The ACPD is suspecting an assassination plot.
 
 ## Coronavirus Report
 by Owen Miyazoi
@@ -48,7 +48,7 @@ Cases declined drastically to just above 950; deaths are still hovering around 1
 ## Lorenzo gives a speech
 by Sam-Louis Alrocaet
 
-On Monday, the King, Lorenzo Avila, gave a speech. It was aired on ATV and ANN. The speech addressed the coronavirus and many of the issues in the economy. Here's a quote:
+On Monday, the President, Lorenzo Avila, gave a speech. It was aired on ATV and ANN. The speech addressed the coronavirus and many of the issues in the economy. Here's a quote:
 
 > We will persevere through these difficulties
 > with the help of the populace, and in order to
@@ -64,17 +64,17 @@ We interviewed Andrew McSakins, who discovered a new cluster of galaxies using t
 
 Olb City Announcer: So how, basically, did you find these galaxies?
 
-AS: I was looking at pictures from HIO and saw this abnormal cluster of light that wasn’t there in any of the other pictures, and I showed this to my boss and he went like, “Yep, some new galaxies,” you know? And I was so excited.
+AS: I was looking at pictures from HIO and saw this abnormal cluster of light that wasn't there in any of the other pictures, and I showed this to my boss and he went like, “Yep, some new galaxies,” you know? And I was so excited.
 
 OCA: What traits help you identify the galaxies?
 
-AS: So, well, there’s the physical light from the galaxies, and there’s also the gravitational disruption caused by the galaxies, which, you know, there’s all those stars, so the gravitational signature is kind of like, you know, bumpy, if you know what I mean.
+AS: So, well, there's the physical light from the galaxies, and there's also the gravitational disruption caused by the galaxies, which, you know, there’s all those stars, so the gravitational signature is kind of like, you know, bumpy, if you know what I mean.
 
 OCA: What are the potential implications of your discovery?
 
-AS: Obviously it means that HIO is, like, viable for galaxy-discovering, you know? But additionally, maybe there’s, like, alien life on one of the planets in there, it’s all very exciting.
+AS: Obviously it means that HIO is, like, viable for galaxy-discovering, you know? But additionally, maybe there's, like, alien life on one of the planets in there, it's all very exciting.
 
-OCA: Ok! Well, that’s pretty much all! Thanks for letting us interview you!
+OCA: Ok! Well, that's pretty much all! Thanks for letting us interview you!
 
 AS: Thanks! I hope I get to come back on here someday.
 
