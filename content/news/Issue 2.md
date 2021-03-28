@@ -13,17 +13,17 @@ March 8th-March 14th,2020
 ## Famous Arenznaut Moves To Olb City
 by Sam-Louis Alrocaet
 
-Space Boulevard-On Monday, famous Arenznaut Michael Jillerene formally moved to the ASA (Arenztopian Space Administration) location at Olb City. Mr. Jillerene is the first native Arenztopian to visit the ISS. In a nationally televised interveiw, Mr. Jillerene expressed great excitement. On Tuesday, a giant homecoming party was thrown down Space Boulevard to celebrate Mr. Jillerene moving in. When asked why he moved to Olb City, he says: ¨I like the old buildings, and Olb City is so beautiful!¨ Mr. Jillerene will be blasting off from Olb City´s pad 9B in a Soyuz rocket to the ISS next week. As of Friday, Mr. Jillerene is moved in, comfortable, and getting to know the other employees.
+Space Boulevard-On Monday, famous Arenznaut Michael Jillerene formally moved to the ASA (Arenztopian Space Administration) location at Olb City. Mr. Jillerene is the first native Arenztopian to visit the ISS. In a nationally televised interveiw, Mr. Jillerene expressed great excitement. On Tuesday, a giant homecoming party was thrown down Space Boulevard to celebrate Mr. Jillerene moving in. When asked why he moved to Olb City, he says: "I like the old buildings, and Olb City is so beautiful!" Mr. Jillerene will be blasting off from Olb City's pad 9B in a Soyuz rocket to the ISS next week. As of Friday, Mr. Jillerene is moved in, comfortable, and getting to know the other employees.
 
 ## Arts
 by Tony Yuan
 
-Famous jeweler Vladmir Mons´czye has agreed to encrust a work of modern art in jewels, reinforcing his reputation as a strange, weird person. 
+Famous jeweler Vladmir Mons'czye has agreed to encrust a work of modern art in jewels, reinforcing his reputation as a strange, weird person. 
 
 ## Weather
 by Mezoir Logan
 
-Next week´s average temprature should be 35 degrees celsius and there should be serious storms and a tropical depression in some areas. 
+Next week's average temprature should be 35 degrees celsius and there should be serious storms and a tropical depression in some areas. 
 
 ## Sports
 by Owen Miyazoi
@@ -39,7 +39,7 @@ Notice: If you have info about the criminals, call the police.
 ## New Skyscraper Planned
 by Owen Miyazoi
 
-In downtown Olb City, a realty firm announced a new 96-floor skyscraper. It will be the tallest skyscraper in West Arenztopia on it´s completion in September.
+In downtown Olb City, a realty firm announced a new 96-floor skyscraper. It will be the tallest skyscraper in West Arenztopia on it's completion in September.
 
 ## New Resturaunt is HOT!
 by Tony Yuan
@@ -49,15 +49,17 @@ The new resturaunt Six Knives is very popular. Owner Casey Minekoe says that the
 ## Kanone Mukek FAMOUS
 by Sam-Louis Alrocaet 
 
-Kanone Mukek, discoverer of the once-rare, now-bestselling book Bottles of Blood, is now famous. He appeared on the TV show ¨Mr. Miller interveiws famous people¨. 
+Kanone Mukek, discoverer of the once-rare, now-bestselling book Bottles of Blood, is now famous. He appeared on the TV show "Mr. Miller interviews famous people". 
 
 ## This Just In!
 by Tony Yuan
 
-Hand sanitizer is now being accepted as currency in various stores. The owner of Whole Foods on 16th Street, Micae Lenode, says: ¨Since hand sanitizer is so rare now, we can trade it for products.¨
+Hand sanitizer is now being accepted as currency in various stores. The owner of Whole Foods on 16th Street, Micae Lenode, says: "Since hand sanitizer is so rare now, we can trade it for products."
 
 ## Coronavirus Report
-49 cases and 3 deaths have been confirmed according to government sources. Alejandro Rosa-Rosa, the nation´s leading scientist, is working on a cure.
+by Owen Miyazoi
+
+49 cases and 3 deaths have been confirmed according to government sources. Alejandro Rosa-Rosa, the nation's leading scientist, is working on a cure.
 
 ## Poetry
 by Tony Yuan
@@ -93,7 +95,7 @@ On Thursday, Joe Millermante filed a lawsuit against Bob Millermante, his brothe
 ## Sports 2
 by Tony Yuan
 
-The Chanlanian Chamaleons blazed through the Baseball World Cup of Arenztopia, beating the Olb Octopuses(boo) and dominating the Shreetian Seekers. Now, they are advancing to face the Hasianian Hornets.
+The Chanlanian Chamaleons blazed through the Baseball World Cup of Arenztopia, beating the Olb Octopuses (boo) and dominating the Shreetian Seekers. Now, they are advancing to face the Hasianian Hornets.
 
 ## Coronavirus Report UPDATED
 by Owen Miyazoi
