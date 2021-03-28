@@ -67,7 +67,7 @@ This interview was edited for length and clarity.
 ## Armwu Industries goes bankrupt after scandal
 by Sam-Louis Alrocaet
 
-Armwu Industries, a major biopharmucetical company, went bankrupt on Monday after a huge scandal where the CEO took over 120 million dollars from employee's salaries and made up lies about why their salaries had suddenly dropped by 20,000 Arenzos or more. The CEO was sentenced to 72 years in prison.
+Armwu Industries, a major biopharmacetical company, went bankrupt on Monday after a huge scandal where the CEO took over 120 million dollars from employee's salaries and made up lies about why their salaries had suddenly dropped by 20,000 Arenzos or more. The CEO was sentenced to 72 years in prison.
 
 ## Scientists find new exoplanet
 By Owen Miyazoi
