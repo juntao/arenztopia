@@ -10,10 +10,10 @@ weight: 34
 Volume 4, Issue 4    
 March 28th-April 3rd, 2021    
 
-## Cover Story
+## Huge New Building Announced
 By Tony Yuan
 
-
+Downtown Olb City-The engineering and architecture firm S. F. Grosby & Co. announced the building of a gigantic new skyscraper, which will cover an entire block and rise 107 stories into the sky. 
 
 ## Arts
 by Owen Miyazoi
