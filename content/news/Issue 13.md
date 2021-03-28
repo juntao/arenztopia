@@ -29,14 +29,14 @@ Famous and eccentric artist, jeweler, and fashion designer Vladmir Mons'czye ann
 ## Weather
 by Mezoir Logan
 
-NOTE: The Weather section has not benn published for several weeks because Mr. Logan caught the coronavirus. He is better now and will continue writing the Weather column.
+NOTE: The Weather section has not ben published for several weeks because Mr. Logan caught the coronavirus. He is better now and will continue writing the Weather column.
 
 Next Monday should be a very cold 5 degrees celsius, with temperatures rising up to the lower 10s by next Wednesday. Temperatures should be back to 5 degrees on Saturday.
 
 ## The Political Politician: the weekly politics column
 by Tony Yuan
 
-The 2020-2021 Arenztopian Elections were kicked off on Monday. All three Senaator seats, all three Judge seats, the Advisor position, the Vice President position, and the Mayor position are all available. See the cover story for more details.
+The 2020-2021 Arenztopian Elections were kicked off on Monday. All three Senator seats, all three Judge seats, the Advisor position, the Vice President position, and the Mayor position are all available. See the cover story for more details.
 
 ## Coronavirus Report
 by Owen Miyazoi
