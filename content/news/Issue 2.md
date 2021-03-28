@@ -121,17 +121,17 @@ On Wednesday, we saw that realty firm McMilleryége & Sons has announced a 96 st
 ## New Train Line Unveiled
 by Sam-Louis Alrocaet
 
-On Wednesday, ARS (Arenztopian Railroad Services) announced a new train line called the Superschnell GT. Superschnell means Super fast in German, and the Superschnell GT line will run between Olb City and Arenztopia City making stops at Sitin and Shreet. It will use the ARS´s existing trains including the original hzor gnats´k´ trains on loan from Armenia. 
+On Wednesday, ARS (Arenztopian Railroad Services) announced a new train line called the Superschnell GT. Superschnell means Super fast in German, and the Superschnell GT line will run between Olb City and Arenztopia City making stops at Sitin and Shreet. It will use the ARS's existing trains including the original hzor gnats'k'trains on loan from Armenia. 
 
 ## Question of the Week
 
-What does hzor gnats´k´ mean? 
+What does hzor gnats'k' mean? 
 text answers to OlbCityAnnouncer/question
 
 ## Earthworm Mine
 by Tony Yuan
 
-Resident Stanley Perdernog reported to the police on Friday when he found miners digging a very large hole just outside of his ranch. When asked what they were doing, the miners looked at him like ¨Is it really not obvious?¨ and one of them said, ¨Digging for earthworms, of course!¨ At trial, these miners were deemed ¨cynical, delirious people¨ and they are currently residing in a psycological correction facility.
+Resident Stanley Perdernog reported to the police on Friday when he found miners digging a very large hole just outside of his ranch. When asked what they were doing, the miners looked at him like "Is it really not obvious?" and one of them said, "Digging for earthworms, of course!" At trial, these miners were deemed "cynical, delirious people" and they are currently residing in a psycological correction facility.
 
 ## Obituary 2
 by Owen Miyazoi
