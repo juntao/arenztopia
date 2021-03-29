@@ -51,7 +51,7 @@ Harry Taern: Supersecure is a ultra-advanced security system that uses iris scan
 
 OCA: Can you go through each of the technologies involved in Supersecure?
 
-HT: Sure! So first and foremost, there's the iris scan. Each person has a unique pattern in the iris part of their eyes. It's almost impossible to fake and is completely unique on everybody. So we install special security cameras that both record video and scan everybody's irises as they pass by. If it detects an unknown iris pattern, it alerts you immediately. In addition to the special iris-scanning technology, Supersecure also uses conventional security technology such as a doorbell camera and  video cameras.
+HT: Sure! So first and foremost, there's the iris scan. Each person has a unique pattern in the iris part of their eyes. It's almost impossible to fake and is completely unique on everybody. So we install special security cameras that both record video and scan everybody's irises as they pass by. If it detects an unknown iris pattern, it alerts you immediately. In addition to the special iris-scanning technology, Supersecure also uses conventional security technology such as a doorbell camera and video cameras.
 
 OCA: That sounds interesting! How did you come up with the idea?
 
