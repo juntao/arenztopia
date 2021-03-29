@@ -36,7 +36,7 @@ By Owen Miyazoi
 Cases have continued to drop to just 100, which is similar to the number of cases in early- and mid-March. Deaths are still at 0. The Arenztopian Officer of Health, Dr. Johannes Peterson, got President Avila's approval to dump over 2 billion Arenzos into the vaccine effort, which means that we now have another incredible 3,500,000 people vaccinated with Avac and 200,000 vaccinated with Moderna, as well as 100,000 vaccinated with Pfizer; this makes for a truly incredible 4,533,575 people fully vaccinated, as well as 295,000 people waiting for their second shot. Dr. Johannes Peterson says that he hopes to have Avac being the only vaccine in Arenztopia by the end of the month.
 
 ## Feature: Dr. Dominique Motul
-By Lorenzo Avila
+By Tony Yuan and Lorenzo Avila
 
 Today we interviewed Dr. Dominique Motul, a Colombian-Arenztopian scientist. His laboratory team is stationed at the Descalvure Laboratory at Olb University and they beleive that they have found a new species of bacteria that exhibits virus-like properties: invading cells, devouring tissue, and using the body's functions to make more of itself. Dr. Motul also says that the bacteria can devour other bacteria by grouping together into a team. The microorganism is believed to be extremely dangerous to humans.
 
@@ -81,4 +81,4 @@ We are almost there.
 ## Obituary
 By Owen Miyazoi
 
-On Tuesday, the famous Mexican-Arenztopian politician Adrastos Callis passed away at the age of 84. He was an extremely influential advocate of Mexican-Arenztopian and Mexican-American rights in the 1970s. He was a close ally of President Lorenzo Avila and donated much of his earnings to charity. Please send your regrets to Mrs. Callis at 650-722-2864.
+On Tuesday, the famous Mexican-Arenztopian politician Adrastos Callis passed away at the age of 84. He was an extremely influential advocate of Mexican-Arenztopian and Mexican-American rights in the 1970s. He was a close ally of President Lorenzo Avila and donated much of his earnings to charity. Please send your regrets to Mrs. Callis at 680-722-2864.
