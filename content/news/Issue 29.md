@@ -23,7 +23,7 @@ Artist Frankie Sankaremna unveiled a new sculpture on Tuesday. It is titled Dvrt
 ## Sports
 By Sam-Louis Alrocaet
 
-The final race of the AWORRC (Arenztopian Winter Off-Road Racing Championships) happened on Tuesday. It features huge trucks competing in a grueling 24-hour race over wintry terrain. It was won by the XRA 6x6 Mk. 3, which is an insane 6-wheeled behemoth, sponsored by the Five Star Line.
+The final race of the AWORRC (Arenztopian Winter Off-Road Racing Championships) happened on Tuesday. It features huge trucks competing in a grueling 24-hour race over wintry terrain. It was won by the XRA 6x6 Mk. 3, which is an insane 6-wheeled behemoth. The XRA 6x6 Mk. 3's suspension is professionally tuned and hoisted an amazing 4 feet above the ground. The Mk. 3 has an areodynamic shape and is made out of carbon fiber, and it is sponsored by the Five Star Line.
 
 ## Weather
 By Mezoir Logan
@@ -46,9 +46,9 @@ Kankalon Ongarimnieo: We serve more progressive, inventive, and interesting dish
 
 OCA: What tools do you use to make your food?
 
-KO: We use a variety of special tools to make our dishes as authentic as possible. We use brick ovens, tandoori ovens, conventional ovens, stoves, open-air pit fires, fryers, and blowtorches.  For our chocolate, we first put the cocoa beans into a tango drum, then we roast the drum, then we perform the rest of our secret chocolate-making process.
+KO: We use a variety of special tools to make our dishes as authentic as possible. We use brick ovens, tandoori ovens, conventional ovens, stoves, open-air pit fires, fryers, and blowtorches. For example, when we make chocolate, we first put the cocoa beans into a tango drum, then we roast the drum, then we take the beans out of the drum and blow the husks away with a reverse vacuum cleaner. After that, we drop anvils onto the beans to crush them, and voila! You have cocoa beans.
 
-OCA: That sounds very interesting! Where do you source yur ingredients from?
+OCA: That sounds very interesting! Where do you source your ingredients from?
 
 KO: We use all-natural ingredients, with only minimally farmed things. We source all of our ingredients from in or around the immediate vicinity of Arenztopia.
 
