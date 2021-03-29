@@ -13,7 +13,7 @@ March 28th-April 4th
 # Fraud!
 By Tony Yuan
 
-Natania Stadium-People in the neighboring city of Natania were shocked and appalled when an ultra-rare tree, so rare that it is only known as ¨K- type¨, was revealed to be a common potted plant. The owner had sold it for 150 million Arenzos in an unprecedented auction that captivated thousands of eager bidders. The tree went to Nogateny Stosgat, who is an eccentric billionaire. Enraged that he paid over a hundred million Arenzos for a common potted plant, Mr. Stosgat is using his wealth to ¨make life hell¨ for the witty seller.
+Natania Stadium-People in the neighboring city of Natania were shocked and appalled when an ultra-rare tree, so rare that it is only known as "K- type", was revealed to be a common potted plant. The owner had sold it for 150 million Arenzos in an unprecedented auction that captivated thousands of eager bidders. The tree went to Nogateny Stosgat, who is an eccentric billionaire. Enraged that he paid over a hundred million Arenzos for a common potted plant, Mr. Stosgat is using his wealth to "make life hell" for the witty seller.
 
 ## Arts
 By Tony Yuan
@@ -23,7 +23,7 @@ On Wednesday, local artist Moe Kinakshi debuted his most recent sculpture, Ecolo
 ## Weather
 By Mezoir Logan
 
-Next week´s average temp. should be a slightly cooler 15 degrees celsius, with drizzles and a storm system coming in from the east. 
+Next week's average temp. should be a slightly cooler 15 degrees celsius, with drizzles and a storm system coming in from the east. 
 
 ## Sports
 By Owen Miyazoi
@@ -33,12 +33,12 @@ Almost all the sports of Arenztopia have been cancelled. The Chanlanian Chamaleo
 ## Zortek CEO fired
 by Sam-Louis Alrocaet
 
-The CEO of Zortek Incorporated was fired and the company ordered to pay 400 million Arenzos after a scandal last week that reported ¨unsightly lumps¨ around one of the company´s heavy metal processing facilities. Authorities also say that the CEO is facing 20 years in prison and a 100 thousand Arenzo fee.
+The CEO of Zortek Incorporated was fired and the company ordered to pay 400 million Arenzos after a scandal last week that reported "unsightly lumps" on animals around one of the company's heavy metal processing facilities. Authorities also say that the CEO is facing 20 years in prison and a 100 thousand Arenzo fee.
 
 ## Radioactive
 By Owen Miyazoi
 
-A strange ¨hot spot¨ of radioactivity was found near the San Bin Jihernat oasis in the Arenztopian Desert. Scientists and police are investigating in radioactivity suits.
+A strange "hot spot" of radioactivity was found near the San Bin Jihernat oasis in the Arenztopian Desert. Scientists and police are investigating in radioactivity suits.
 
 ## New video game released
 By Sam-Louis Alrocaet
@@ -58,26 +58,28 @@ A strange exoplanet was discovered by the recently launched Closed Lithoray Orbi
 ## Obituary
 by Owen Miyazoi
 
-62-year old woman Parcelia Michelae was killed on Monday when a van managed by the delivery company Superfast LLC went out of control and slammed into her house´s facade as she was sitting in the parlor reading a book. The driver suffered major injuries and Mrs. Michelae died instantly. Superfast LLC issued a ¨sincere apology¨ and promised to ¨repay this family in full.¨ Call 650-288-6904 to show sympathy.
+62-year old woman Parcelia Michelae was killed on Monday when a van managed by the delivery company Superfast LLC went out of control and slammed into her house's facade as she was sitting in the parlor reading a book. The driver suffered major injuries and Mrs. Michelae died instantly. Superfast LLC issued a "sincere apology" and promised to "repay this family in full." Call 680-288-6904 to show sympathy.
 
 ## Poetry
 by Tony Yuan
 
 New Paris
 
-New Paris hit hard by  
-the terrifying virus  
-Dozens recovered.  
-thank you wikihow for teaching me how to write a haiku.
+New Paris hit hard by    
+the terrifying virus    
+Dozens recovered.    
+
+(Thank you Wikihow for teaching me how to write a haiku)
 
 ## Coronavirus Report
 by Owen Miyazoi
 
-The Coronavirus report will be published indefinetly until the end of the pandemic. The government has confirmed 220 cases with 31 deaths. Experts say that the worst is yet to come.    
+The coronavirus report will be published indefinetly until the end of the pandemic. The government has confirmed 220 cases with 31 deaths. Experts say that the worst is yet to come.    
 
 ## Editorial
 by Sam-Louis Alrocaet
-This week sees even more impact from the Coronavirus, which is offset by the happiness of April Fool´s day. 
+
+This week sees even more impact from the Coronavirus, which is offset by the relative happiness of April Fool´s day. 
 
 ## APRIL FOOLS! NO COMICS THIS WEEK
 
