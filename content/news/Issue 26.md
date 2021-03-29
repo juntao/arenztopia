@@ -38,11 +38,11 @@ By Owen Miyazoi
 ## Feature: Domo Lexington
 By Tony Yuan and Lorenzo Avila
 
-Today we interviewed Domo Lexington, a famous chef working in Arenztopia City. He owns a famous  restaurant there that is known for its many variations on popular dishes.
+Today we interviewed Domo Lexington, a famous chef working in Arenztopia City. He owns a famous restaurant there that is known for its many variations on popular dishes.
 
 Olb City Announcer: Could you just breifly describe your restaurant?
 
-Domo Lexington: So it's called the Lucio, after the first Duke of Venice. It's housed in an old, historic 1900 building but it features all the latest design trends inside. We use only the finest ingredients, and we cook our dishes using traditional methods.
+Domo Lexington: So it's called the Lucio, after the first Doge of Venice. It's housed in an old, historic 1900 building but it features all the latest design trends inside. We use only the finest ingredients, and we cook our dishes using traditional methods.
 
 OCA: What are some of your favorite dishes on the menu?
 
@@ -63,7 +63,7 @@ By Sam-Louis Alrocaet
 
 This is a follow-up story to the cover story of [Issue 25](https://www.arenztopia.com/news/issue-25/). It contains new facts and details. 
 
-After the investigation ended on Wednesday, authorities compensated families. The driver of the second semi truck has died. Foul play has been ruled out, and the sedan was revealed to be a valuable, brand-new AEV Bravery. AEV Braverys are some of the most expensive yet normal-looking sedans on the road today. They can fetch prices of up to 350,000 dollars, and authorities have compensated that money. The names of the people killed in the crash have not been revealed.
+After the investigation ended on Wednesday, authorities compensated families with 750,000 Arenzos each. The driver of the second semi truck has died. Foul play has been ruled out, and the sedan was revealed to be a valuable, brand-new AEV Bravery. AEV Braverys are some of the most expensive yet normal-looking sedans on the road today. They can fetch prices of up to 700,000 Arenzos, and authorities have compensated that money. The names of the people killed in the crash have not been revealed.
 
 ## Mayor's Birthday Celebration Leaked
 By Owen Miyazoi
