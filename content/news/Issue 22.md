@@ -35,8 +35,8 @@ By Owen Miyazoi
 
 A record 300 more people have gotten the Avac vaccine, according to reports. Cases have lowered to 449, and deaths are at 21. The 15,000 doses of Pfizer vaccine promised by the Arenztopian Minister of Health have finally arrived, and are currently being shipped from Arenztopia City to Olb City, New Paris, New Athens, Austerfeild, Noi City, Shersville, Shreet, Chasiania, Canopia, and other areas.
 
-## Feature:
-By Lorenzo Avila
+## Feature: Velso Morales
+By Lorenzo Avila and Tony Yuan
 
 We interviewed Velso Morales, the creator of Eco-Tech.
 
@@ -46,13 +46,13 @@ Velso Morales: Eco-Tech is a tech company that focuses on ideas to help improve 
 
 OCA: That's awesome! What is your favorite product?
 
-VM: Well, I think my favorite is the E-21. It has no official name yet, but it is a tool used to clean water. You can put it in a river, pond, or lake and it will use a secret filter developed by us to filter pollutiona and litter out of the river. We found that it could clean a standard swimming pool in just three hours! We are still making edits to make it work even better.
+VM: Well, I think my favorite is the E-21. It has no official name yet, but it is a tool used to clean water. You can put it in a river, pond, or lake and it will use a secret filter developed by us to filter pollution and litter out of the river. We found that it could clean a standard swimming pool in just three hours! We are still making edits to make it work even better.
 
 OCA: Impressive! How do you manage to make these inventions all eco-friendly? 
 
-VM: We only use the parts that are completely necessary: we never have left over pieces. In the rare case that there are leftover peices, we will use those leftover pieces for another project. Less wasted material, less pollution.
+VM: We only use the parts that are completely necessary: we never have left over pieces. In the rare case that there are leftover pieces, we will use those leftover pieces for another project. Less wasted material, less pollution.
 
-OCA: Well, thats all the time we have. Thanks for coming!
+OCA: Well, that's all the time we have. Thanks for coming!
 
 VM: Thanks for inviting me!
 
@@ -78,4 +78,4 @@ aching felt by all
 ## Obituary
 By Owen Miyazoi
 
-The Arenztopian TikTok influencer Sarah Armak died suddenly at the age of 24 on Tuesday. When news of her death reached social media, there was an outpouring of greif from her fans. Police are investigating how she died; currently, they believe that it was because of an overdose of a perscription drug. To show sympathy, call 680-333-9822 or leave a comment at her TikTok page at [az.tiktok.com/users/sarmak](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
+The Arenztopian TikTok influencer Sarah Armak died suddenly at the age of 24 on Tuesday. When news of her death reached social media, there was an outpouring of grief from her fans. Police are investigating how she died; currently, they believe that it was because of an overdose of a perscription drug. To show sympathy, call 680-333-9822 or leave a comment at her TikTok page at [az.tiktok.com/users/sarmak](https://sites.google.com/stu.austinisd.org/placeholder-site/home).
