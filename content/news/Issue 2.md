@@ -136,5 +136,5 @@ Resident Stanley Perdernog reported to the police on Friday when he found miners
 ## Obituary 2
 by Owen Miyazoi
 
-At a safari park, 24-year old man Palnoke Kisone thought it was a real safari hunting trip and shot 20 year old rhino Mwaka. Mwaka died from the shot and was buried at the city cemetery with full honors. Mr. Kisone is in a psycological correction facility. This unfortunate event has also sparked a scandal about the safari park´s security. The CEO of the safari park declined to comment.  
+At a safari park, 24-year old man Palnoke Kisone thought it was a real safari hunting trip and shot 20 year old rhino Mwaka. Mwaka died from the shot and was buried at the city cemetery with full honors. Mr. Kisone is in a psycological correction facility. This unfortunate event has also sparked a scandal about the safari park's security. The CEO of the safari park declined to comment.  
  
