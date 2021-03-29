@@ -65,7 +65,7 @@ The original interview was made in French. The non-translated version will be be
 
 French Feature:
 
-Aujourd'hui, nous avons interviewé Norzae Peerce, une artiste d'française-Arenztopian. Sa dernière pièce, Nuit de Lune, s'est vendue pour 100 million Arenzos à l'ANAS (Arenzish National Art Show.)
+Aujourd'hui, nous avons interviewé Norzae Peerce, une artiste française-Arenztopian. Sa dernière pièce, Nuit de Lune, s'est vendue pour 100 million Arenzos à l'ANAS (Arenzish National Art Show.)
 
 Annonceur d'Olb City: Salut Norzae! Pouvez-vous nous parler un peu de ce qui vous a inspiré pour faire Nuit de Lune?
 
@@ -93,7 +93,7 @@ The major technology company Faolan Technologies announced that it would be movi
 ## Credit Card Theft WARNING
 By Owen Miyazoi
 
-Police have reported a rash of recent credit card thefts. 182 people reported unauthorized purchases from their cards, ranging from 10 Arenzos to over 1,400 Arenzos. The main target seems to be people who use ATMs operated by First Bank of Olb City; FBOC has closed their ATMs. Several suspects have been captured, however none of them seem to be the true criminal. The OCPD says to be careful and to not swipe if you see a suspicious, silvery, rectangular object attatched to the ATM that was not there before (These objects are credit card number collectors). If you have any other information, please call  and contact the OCPD.
+Police have reported a rash of recent credit card thefts. 182 people reported unauthorized purchases from their cards, ranging from 10 Arenzos to over 1,400 Arenzos. The main target seems to be people who use ATMs operated by First Bank of Olb City; FBOC has closed their ATMs. Several suspects have been captured, however none of them seem to be the true criminal. The OCPD says to be careful and to not swipe if you see a suspicious, silvery, rectangular object attatched to the ATM that was not there before (These objects are credit card number collectors). If you have any other information, please call 111 to contact the OCPD.
 
 ## Poetry
 By Lorenzo Avila, edited by Tony Yuan
@@ -107,4 +107,4 @@ A wonderful night.
 ## Obituary
 By Owen Miyazoi
 
-Influential politician Jersey Hamlyn died at the age of 67 on Tuesday following a long battle with cancer. Mr. Hamlyn was an extremely active as a left-wing politician in the 1990s, and he helped build support for many beautification projects. He was also an instrumental voice in the creation of Reef National Marine Reserve. Show sympathy by calling 650-208-1095.  
+Influential politician Jersey Hamlyn died at the age of 67 on Tuesday following a long battle with cancer. Mr. Hamlyn was an extremely active as a left-wing politician in the 1990s, and he helped build support for many beautification projects. He was also an instrumental voice in the creation of Reef National Marine Reserve. Show sympathy by calling 680-208-1095.  
