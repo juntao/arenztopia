@@ -14,10 +14,10 @@ September 27th-October 3rd, 2020
 ## Lost City Found
 by Tony Yuan
 
-Foginhaus Lake-A major scientific discovery was made on Monday when a construction crew building a new resort on the shores of Foginhaus Lake discovered an ancient Incan city. The city was encased in 15 feet of volcanic ash when Sefifad Hill, a now-extinct volcano near the site, erupted sometime around 1483. Experts predict that the ancient metropolis extends for more than a mile inland. Using SONAR, multiple temples, houses, and part of a palace have been identified. Archaeological teams have already excavated over 1,500 square meters of the city and found two human skeletons. “This was like an Incan Pompeii”, John Masicim, who is the Chair of the Department of Archaeology at Olb City University, said. “We might be on the brink of a major scientific discovery that will change our understanding of the Arenztopian Incans forever.”
+Foginhaus Lake-A major scientific discovery was made on Monday when a construction crew building a new resort on the shores of Foginhaus Lake discovered an ancient Incan city. The city was encased in 15 feet of volcanic ash when Sefifad Hill, a now-extinct volcano near the site, erupted sometime around 1483. Experts predict that the ancient metropolis extends for more than a mile inland. Using SONAR, multiple temples, houses, and part of a palace have been identified. Archaeological teams have already excavated over 1,500 square meters of the city and found two human skeletons. "This was like an Incan Pompeii", John Masicim, who is the Chair of the Department of Archaeology at Olb City University, said. "We might be on the brink of a major scientific discovery that will change our understanding of the Arenztopian Incans forever."
 
 ## Autumn Starts
-by Renzo Avila
+by Lorenzo Avila
 
 With Autumn brings cooler weather, leaves changing colors, and of course most importantly HALLOWEEN!!! CANDY, COSTUMES, PUMPKINS. OH NO. Covid... But don't worry it may not be the same but we can still have fun. We can still have costumes, we can hold family parties, and we can still eat so much candy. So don't be sad, be excited. IT'S HALLOWEEN!!!
 
@@ -41,9 +41,9 @@ by Tony Yuan
 
 We interviewed Dr. Sanda Cassinoni, a researcher from OCU who created a new variant of wheat, called Wheat-X, that is extremely weather-tolerant and nutritious.
 
-Olb City Announcer: Give us an overview of the development process of Wheat-X.
+Olb City Announcer: Could you give us an overview of the development process of Wheat-X?
 
-Sanda Cassinoni: At first, I was experimenting with hybrid wheats, but then I realized that the better solution was to genetically modify the wheat. I tinkered with all the parts of the DNA, and, as me and my colleagues found how to produce better and better traits, we combined them every few months, and then combined those, and the final product was Wheat-X. The first batch of Wheat-X cost two hundred thousand dollars. The second batch cost ten cents.
+Sanda Cassinoni: Sure! So at first, I was experimenting with hybrid wheats, but then I realized that the better solution was to genetically modify the wheat. I tinkered with all the parts of the DNA, and, as me and my colleagues found how to produce better and better traits, we combined them every few months, and then combined those, and the final product was Wheat-X. The first batch of Wheat-X cost two hundred thousand dollars. The second batch cost ten cents.
 
 OCA: What traits make Wheat-X so resilient?
 
@@ -66,7 +66,7 @@ This interview was edited for length and clarity.
 ## New Transit Plan Announced
 by Sam-Louis Alrocaet
 
-On Thursday, the Olb City Department of Transportation announced a new transit plan which includes a major extension of the Olb City Subway system, and the building of a new system of elevated monorails around the Olb City International Airport. With the population of Olb City approaching 1.75 million, these improvements will carry another 100,000 people daily in downtown Olb City.  
+On Thursday, the Olb City Department of Transportation announced a new transit plan which includes a major extension of the Olb City subway system, and the building of a new system of elevated monorails around the Olb City International Airport. With the population of Olb City approaching 1.75 million, these improvements will carry another 100,000 people daily in downtown Olb City.  
  
 ## Iremdor Partners With Olb City
 By Erhari Dessad, Assistant Domestic Ambassador of Iremdor
