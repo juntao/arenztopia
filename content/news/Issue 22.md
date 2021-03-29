@@ -33,7 +33,7 @@ One of the arms of Hurricane Vonso barrelled into Olb City on Monday, just as pr
 ## Coronavirus Report
 By Owen Miyazoi
 
-A record 300 more people have gotten the Avac vaccine, according to reports. Cases have lowered to 449, and deaths are at 21. The 15,000 doses of Pfizer vaccine promised by the Arenztopian Minister of Health have finally arrived, and are currently being shipped from Arenztopia City to Olb City, New Paris, New Athens, Austerfeild, Noi City, Shersville, Shreet, Chasiania, Canopia, and other areas.
+A record 300 more people have gotten the Avac vaccine, according to reports. Cases have lowered to 449, and deaths are at 21. The 15,000 doses of Pfizer vaccine promised by the Arenztopian Officer of Health have finally arrived, and are currently being shipped from Arenztopia City to Olb City, New Paris, New Athens, Austerfeild, Noi City, Shersville, Shreet, Chasiania, Canopia, and other areas.
 
 ## Feature: Velso Morales
 By Lorenzo Avila and Tony Yuan
