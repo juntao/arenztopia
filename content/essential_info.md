@@ -8,7 +8,7 @@ weight: '3'
 This section is your one-stop shop for information about Arenztopia. It includes all that you ever need to know about Arenztopia.
 
 ## General Guide
-The Arenztopian Island resides off the coast of Mexico. The President is Lorenzo A., Ruler Of the Country Of Arenztopia, and he lives in Arenztopia City, which is located next to the Bay of Arenztopia at the southeast corner of the island. The 50 million people on the island enjoy a plentiful economy of $5 trillion and lots of beautiful cities. The major cities are Arenztopia City, Olb City, Noi City, Austerfield, Arville, Shersville, New Austin, Sitin, and New Rome. Symbols of Arenztopia include a horse (the national animal) and ice cream, (national food). The people speak Arenzese, English, and Spanish. Mount Arenztopia is the highest spot, at an astounding 20,100 feet. On the contrary, the lowest point is in the Arenztopian Desert at 200 feet below sea level. The country's motto is "We love books", but the more commonly used version is the Arenzese, "Dv Olev Yllph."The currency of Arenztopia is called the Arenzo. One arenzo is equal to 50 cents USD. All stores will accept it, and most people use it. It is unique in that it is completely digital-no paper bills or coins involved.
+The Arenztopian Island resides off the coast of Mexico. The President is Lorenzo A., Ruler Of the Country Of Arenztopia, and he lives in Arenztopia City, which is located next to the Bay of Arenztopia at the southeast corner of the island. The 50 million people on the island enjoy a plentiful economy of $5 trillion and lots of beautiful cities. The major cities are Arenztopia City, Olb City, Noi City, Austerfield, Arville, Shersville, New Austin, Sitin, New Rome, Choran City, and Salnez. Symbols of Arenztopia include a horse (the national animal) and ice cream, (national food). The people speak Arenzese, English, and Spanish. Mount Arenztopia is the highest spot, at an astounding 20,100 feet. On the contrary, the lowest point is in the Arenztopian Desert at 200 feet below sea level. The country's motto is "We love books", but the more commonly used version is the Arenzese, "Dv Olev Yllph."The currency of Arenztopia is called the Arenzo. One Arenzo is equal to 50 cents USD. All stores will accept it, and most people use it. It is unique in that it is completely digital-no paper bills or coins involved.
 
 Here's a [free Arenzese translator](https://www.theproblemsite.com/reference/mathematics/codes/backwards-alphabet-code). You type English into the box, press "encode", and it'll translate into Arenzese.   
  
@@ -90,7 +90,7 @@ In 1935, Arenztopia was formally annexed to the United States of America in the 
 
 #### History part 4: Modern Arenztopia
 
-After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a president. In March, the War of Chickentopia occured, when Arenztopia warred against the chaos organization known as Chickentopia. You can read more about modern Arenztopia in the other parts of this website.
+After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a president. In March 2020, the War of Chickentopia occured, when Arenztopia warred against the chaos organization known as Chickentopia. In April 2021, Arenztopia annexed a small group of islands off the coast of Chile called the Modinau Archipelago. You can read more about modern Arenztopia in the other parts of this website.
 
 #### Timeline
 
@@ -111,6 +111,8 @@ After signing a treaty with the USA in 2020 allowing it to have independence, th
 1935: Arenztopia is annexed into the USA.
 
 2020: Arenztopia becomes an independent country.
+
+2021: Arenztopia annexes Modinau.
 
 ### History Section II: The Museum
 
@@ -265,6 +267,8 @@ Austerfield is the capital of Szkkrmvhh. It is one of the oldest cities in Arenz
 Olb City is the second-largest city in Arenztopia, with 1.75 million residents. It is known for its architecture, industry, and science. It's the capital of the Old Region.    
 Natania City is a satellite city of Olb City. There's nothing really special about it.    
 Noi City is the sister city of Olb City and is home to much contemporary art and architecture.    
+Choran City was the capital city of the newly annexed Republic of Modinau. It has a large port and narrow streets; it's a very beautiful city with almost no skyscrapers.
+Salnez is a charming fishing town in the Modinau Region. It is known for its beautiful tropical beaches and highly environmentally freindly fishing practices.
 
 ## Statistics
 Length across, lengthwise: 2,400 miles   
@@ -275,18 +279,18 @@ Largest city: Arenztopia City-2 million pop.
 Smallest city: Cuyanting-2,500 pop.  
 Unit of measurement: Imperial/Standard System but with Celsius instead of Farenheit    
 Tallest building: [Arenztopia Tower](https://sites.google.com/view/the-arenztopia-tower-org/home)-1,800 feet (550 meters)    
-Total population: 50 million   
+Total population: 51.5 million   
 Motto: We love books (Dv Olev Yllph)    
 Demonyms: Arenztopian, Arenzish, Arenzese    
-Web Suffixes: .az, .arenz, .arnz, .arnztpa    
-No. of regions/states: 9   
+Web Suffixes: .az, .arenz, .arnz, .arnztpa, .mod, .mdnau    
+No. of regions/states: 10   
 Largest region/state: Coastal Region   
 Smallest region/state: Mountain Region   
 Size of Economy: 10 trillion Arenzos (5 trillion USD)    
 Largest Company: [Dripping Cone](https://sites.google.com/view/drippingcone-com/home)    
 National animal: Horse    
 National food: Ice Cream    
-Languages spoken: Arenzese, English, Spanish   
+Languages spoken: Arenzese, English, Spanish, Modinauian   
 Highest temperature recorded: 41˚C (105˚F)   
 Lowest temperature recorded: -16˚C (16.8˚F)    
 
@@ -294,7 +298,7 @@ Lowest temperature recorded: -16˚C (16.8˚F)
 
 In an attempt to be more transparent, we're publishing a checklist which lists what changes will hopefully be made to the website this week.
 
-- [x] Finish Issue 32 of the news
-- [ ] Finish Issue 33 of the news
+- [ ] Finish Issue 34 of the news
+- [ ] Finish Issue 35 of the news
 - [ ] Work on and finish some websites for the Living in Arenztopia section
 - [ ] Make pictures of some Official Arenztopian Documents
