@@ -24,7 +24,7 @@ For centuries, the valuable veins of salt in the high plains of the Tfziwrzmh ha
 ## Sports
 by Owen Miyazoi
 
-The Hasianian Hornets beat the Chanlanian Chamaleons 5-4 an audience of 100,000 tuned in on television.
+The Hasianian Hornets beat the Chanlanian Chamaleons 5-4 as an audience of 100,000 tuned in on television.
 
 ## Weather
 by Mezoir Logan
@@ -34,17 +34,17 @@ Next week's average temperature should be a typical 17 degrees celsius, with lig
 ## Comet
 by Sam-Louis Alrocaet
 
-On Monday, the asteroid 1282 Moore will fly past the sun, creating a magnificent tail thousands of miles long. It will be live broadcasted starting at 2pm from the Mckenzie Observatory in Arenztopia.
+On Monday, the asteroid 1282 Moore will fly past the sun, creating a magnificent tail thousands of miles long. It will be live broadcasted starting at 2pm from the McKenzie Observatory in Arenztopia.
 
 ## Breaking News
 by Tony Yuan
 
-It has been confimed that the black panther at Olb City Zoo has come down with the Coronavirus. A team of designers and engineers are hurriedly designing a ventilator to fit the panther. The black panther, one of the last of its kind in Arenztopia, started to exhibit a severe cough and then tested positive of Covid-19.
+It has been confimed that the black panther at Olb City Zoo has come down with the coronavirus. A team of designers and engineers are hurriedly designing a ventilator to fit the panther. The black panther, one of the last of its kind in Arenztopia, started to exhibit a severe cough and then tested positive of COVID-19.
 
 ## Fyreworld 2-Virus!    
 By Sam-Louis Alrocaet
 
-On the mobile app of the bestselling game Fyreworld 2, many users have been reporting a virus that causes pop-up ads to blanket the entire screen, and even if you close your phone then it is still there. It has only been reported on Fyreworld 2, however, Fyreworld's developers are trying to kill the virus.
+On the mobile app of the bestselling game Fyreworld 2, many users have been reporting a virus that causes pop-up ads to blanket the entire screen, and it is still there even if you close your phone. It has only been reported on Fyreworld 2, however, Fyreworld's developers are trying to debug the virus.
 
 ## Nutrifarms wastes food "For the good of our employees"    
 by Owen Miyazoi
