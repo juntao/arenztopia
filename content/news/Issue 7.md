@@ -6,9 +6,6 @@ featured: true
 weight: 7
 ---
 
-
-
-
 # The Olb City Announcer
 Volume 1, Issue 7
 September 20-September 26, 2020
@@ -23,7 +20,7 @@ We temporarily shut down in April because one of our lead reporters caught COVID
 ## Giant Meteor Seen Over Olb City
 by Tony Yuan    
 
-Lower West Quarter-A huge meteor, dubbed HIO-20201862DDES, was seen streaking through the air in the evening on Tuesday. HIO-20201862DDES was detected by the Arenztopian satellite known as HIO. It came from the Oort Cloud and was observed in one part of its 1,534,702-year orbit, but a gravitational disruption due to the reversal of the magnetic feilds of Mars caused it to veer onto a collision course with Earth. The meteor was estimated to be about 100 meters in diameter. It broke up in the atmosphere and several chunks caused minor damage to homes and cars. The ASA is currently studying the rock for any precious metals or signs of extraterrestrial life. One peice is to be displayed at the seasonal exhibition "Rocks of the Cosmos: A journey through the amazing world of space rocks" in 2021 at the Olb City Natural History Museum.
+Lower West Quarter-A huge meteor, dubbed HIO-20201862DDES, was seen streaking through the air in the evening on Tuesday. HIO-20201862DDES was detected by the Arenztopian satellite known as HIO. It came from the Oort Cloud and was observed in one part of its 1,534,702-year orbit, but a mysterious gravitational disruption caused it to veer onto a collision course with Earth. The meteor was estimated to be about 100 meters in diameter. It broke up in the atmosphere and several chunks caused minor damage to homes and cars. The ASA is currently studying the rock for any precious metals or signs of extraterrestrial life. One piece is to be displayed at the seasonal exhibition "Rocks of the Cosmos: A journey through the amazing world of space rocks" in 2021 at the Olb City Natural History Museum.
 
 ## Arts
 by Guest Author Lorenzo Sebastian Javier Avila, King of Arenztopia
@@ -75,6 +72,7 @@ Dollars
 Millions of dollars    
 in an effort to quench the    
 pandemic    
+might    
 succeed.
 
 ## Great White Shark Dies at Olb City Aquarium
@@ -119,17 +117,12 @@ This interview was slightly edited for length and clarity.
 Volume 1, Issue 7 and 1/2
 September 23
 
-
 ## BREAKING NEWS REPORT!
 
-Arenztopia Mountain is the home to a top security prison, but 2 robbers have broken out. They are alive and are hunting down targets. A few people have been put under witness protection. One, named Bob Richy, commented "I am not scared for me, I am scared for my family." Top detectives are on the case. Some think they are the same robbers that stole a priceless painting from the Arenztopia Treasury [See Olb City Announcer Issue 7, Arts section](https://www.arenztopia.com/news/issue-7/). King LSJA says: "We will find them, we are safe, stay calm."  
+Arenztopia Mountain is the home to a top security prison, but 2 robbers have broken out. They are alive and are hunting down targets. A few people have been put under witness protection. One, named Bob Richy, commented "I am not scared for me, I am scared for my family." Top detectives are on the case. Some think they are the same robbers that stole a priceless painting from the Arenztopia Treasury [See Olb City Announcer Issue 7, Arts section](https://www.arenztopia.com/news/issue-7/). President LSJA says: "We will find them, we are safe, stay calm."  
 
 # ↓↓↓NEW! Arenzish edition↓↓↓
 
 ## YIVZPRMT MVDH IVKLIG!
 
-Zivmaglkrz Nlfmgzrm rh gsv slnv gl z glk hvxfirgb kirhlm, yfg 2 ilyyvih szev yilpvm lfg. Gsvb ziv zorev zmw ziv sfmgrmt wldm gzitvgh. Z uvd kvlkov szev yvvm kfg fmwvi drgmvhh kilgvxgrlm. Lmv, mznvw Bob Richy, xlnnvmgvw "R zn mlg hxzivw uli nv, R zn hxzivw uli nb uznrob." Glk wvgvxgrevh ziv lm gsv xzhv. Hlnv gsrmp gsvb ziv gsv hznv ilyyvih gszg hglov z kirxvovhh kzrmgrmt uiln gsv Zivmaglkrz Givzhfib [Hvv Loy Xrgb Zmmlfmxvi Rhhfv 7, Zigh hvxgrlm](https://www.arenztopia.com/news/issue-7/). Prmt OHQZ hzbh: "Dv droo urmw gsvn, dv ziv hzuv, hgzb xzon."  
-
-
-
-
+Zivmaglkrz Nlfmgzrm rh gsv slnv gl z glk hvxfirgb kirhlm, yfg 2 ilyyvih szev yilpvm lfg. Gsvb ziv zorev zmw ziv sfmgrmt wldm gzitvgh. Z uvd kvlkov szev yvvm kfg fmwvi drgmvhh kilgvxgrlm. Lmv, mznvw Bob Richy, xlnnvmgvw "R zn mlg hxzivw uli nv, R zn hxzivw uli nb uznrob." Glk wvgvxgrevh ziv lm gsv xzhv. Hlnv gsrmp gsvb ziv gsv hznv ilyyvih gszg hglov z kirxvovhh kzrmgrmt uiln gsv Zivmaglkrz Givzhfib [Hvv Loy Xrgb Zmmlfmxvi Rhhfv 7, Zigh hvxgrlm](https://www.arenztopia.com/news/issue-7/). Kivhrwvmg OHQZ hzbh: "Dv droo urmw gsvn, dv ziv hzuv, hgzb xzon."  
