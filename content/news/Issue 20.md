@@ -84,4 +84,4 @@ in taste;
 ## Obituary
 by Owen Miyazoi
 
-The guy in the famous Worsham Hand Soap commercial has died at the age of 88, Worsham announced. The man's name has not been released. The famous commercial aired from 1980 all the way up to 2013, and was veiwed over half a billion times.
+The guy in the famous Worsham Hand Soap commercial has died at the age of 88, Worsham announced. The man's name has not been released. The famous commercial aired from 1980 all the way up to 2013, and was viewed over half a billion times.
