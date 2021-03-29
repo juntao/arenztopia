@@ -18,7 +18,7 @@ Arenztopia Bay-A freighter collided with another freighter in Arenztopia Bay on 
 ## Arts
 By Owen Miyazoi
 
-Famous artist Meikl Kynonakii's studio was attacked on Wednesday by a group called the "Classicist Revolutionaries". After the attack, they released a video condemning Kynonakii's postmodern art, and preaching a return to the classical age. Kyonankii's "f" (see [Issue 23](https://www.arenztopia.com/news/issue-23/)) is beleived to have been the subject of the attack. "f", and many other artworks, were destroyed in the attack; however, Kyonankii escaped unharmed. We interveiwed a random citizen about the attack. (He preferred to be kept anonymous.) "Art can be a very divisive issue, I think," he said. "Honestly, I don't quite understand it."
+Famous artist Meikl Kynonakii's studio was attacked on Wednesday by a group called the "Classicist Revolutionaries". After the attack, they released a video condemning Kynonakii's postmodern art, and preaching a return to the classical age. Kyonankii's "f" (see [Issue 23](https://www.arenztopia.com/news/issue-23/)) is believed to have been the subject of the attack. "f", and many other artworks, were destroyed in the attack; however, Kyonankii escaped unharmed. We interviewed a random citizen about the attack. (He preferred to be kept anonymous.) "Art can be a very divisive issue, I think," he said. "Honestly, I don't quite understand it."
 
 ## Sports
 By Sam-Louis Alrocaet
@@ -28,17 +28,17 @@ The previously obscure football player Leon Courageux of the Olb City Gladiators
 ## Weather
 By Mezoir Logan
 
-Temperatures are expected to flunctuate between -4 and 3 degrees tomorrow as winter progresses. Tropical Storm Vonso has dissipated completely after travelling into the Arenztopian Desert.
+Temperatures are expected to flunctuate between -4 and 3 degrees tomorrow as winter progresses. Tropical Storm Vonso has dissipated completely after traveling into the Arenztopian Desert.
 
 ## Coronavirus Report
 By Owen Miyazoi
 
 Cases have risen ever so slightly to 435. Deaths are still dropping, at 16. 300 more people have gotten the Avac vaccine, and a record 1,000 people have now gotten the new doses of Pfizer vaccine.
 
-## Feature:
-By Lorenzo Avila
+## Feature: Leon Courageux
+By Lorenzo Avila and Tony Yuan
 
-We interveiwed Leon Courageux, the brave hero who saved a little girl from a fire in North Olb City. Video footage from a bystander captured his heroic actions.
+We interviewed Leon Courageux, the brave hero who saved a little girl from a fire in North Olb City. Video footage from a bystander captured his heroic actions.
 
 Olb City Announcer: So, first, what made you do it?
 
@@ -79,4 +79,4 @@ Sooo bored.
 ## Obituary
 By Owen Miyazoi
 
-The respected shop owner Raudan Paulek died on Thursday. He owned a candy shop on 1st street, and was known for his kindness and integrity. Mr. Paulek was 87 years old. To show sympathy, visit his candy shop's website at [1ststreetcandy.az](1ststreetcandy.az) or call 680-613-2187 for his home memorial number, and 1-750-1ST-CANDY for his business memorial number. 
+The respected shop owner Raudan Paulek died on Thursday. He owned a candy shop on 1st street, and was known for his kindness and integrity. Mr. Paulek was 87 years old. To show sympathy, visit his candy shop's website at [1ststreetcandy.az](https://sites.google.com/stu.austinisd.org/placeholder-site/home) or call 680-613-2187 for his home memorial number, and 1-750-1ST-CANDY for his business memorial number. 
