@@ -35,12 +35,10 @@ By Owen Miyazoi
 
 
 
-## Feature: 
-By Lorenzo Avila
+## Feature: Akio Benjiro
+By Lorenzo Avila and Tony Yuan
 
-Today we interviewed, Akio Benjiro, an Arenztopian,
-
-
+Today we interviewed Akio Benjiro, an Arenztopian
 
 ## Story
 By Sam-Louis Alrocaet
