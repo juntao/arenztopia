@@ -1,6 +1,6 @@
 ---
 title: 'Bank'
-menu: 'mian'
+menu: 'main'
 weight: '6'
 ---
 
