@@ -38,7 +38,7 @@ By Owen Miyazoi
 ## Feature: Akio Benjiro
 By Lorenzo Avila and Tony Yuan
 
-Today we interviewed Akio Benjiro, an Arenztopian
+Today we interviewed Akio Benjiro, an Arenztopian chef who's restaraunt, Akio's Sushi, has won BAR (Best Arenztopian Restaraunt) 5 years in a row for it's famous sunmmer roll. It serves many other dishes including, Boba Tea, Rice, Tofu, and Tsukemen Ramen. It is located in dowtown Olb City, next to the
 
 ## Story
 By Sam-Louis Alrocaet
