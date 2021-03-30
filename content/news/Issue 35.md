@@ -38,7 +38,7 @@ By Owen Miyazoi
 ## Feature: 
 By Lorenzo Avila
 
-Today we interviewed 
+Today we interviewed, Akio Benjiro, an Arenztopian,
 
 
 
