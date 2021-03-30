@@ -38,8 +38,7 @@ By Owen Miyazoi
 ## Feature: Akio Benjiro
 By Lorenzo Avila and Tony Yuan
 
-This week we interviewed Akio Benjiro, an Arenztopian-Japanese chef whose restaraunt, Akio's Sushi (
-アキオの寿司), has won the Saikō No Nipponshoku (SNN) Award for best Japanese restauraunt 2 years in a row for its famous and authentic sashimi and nigiri. It serves many other dishes including boba tea, ramen, and many types of sushi. It is located in downtown Olb City, next to the Sanson Tower.
+This week we interviewed Akio Benjiro, an Arenztopian-Japanese chef whose restaraunt, Akio's Sushi (アキオの寿司), has won the Saikō No Nipponshoku (SNN) Award for best Japanese restauraunt 2 years in a row for its famous and authentic sashimi and nigiri. It serves many other dishes including boba tea, ramen, and many types of sushi roll. It is located in downtown Olb City, next to the Sanson Tower.
 
 ## Fire In East Olb City
 By Sam-Louis Alrocaet
