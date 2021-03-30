@@ -13,7 +13,7 @@ April 4th-April 10th, 2021
 ## New Territory Annexed
 By Lorenzo Avila and Tony Yuan
 
-Choran City-A small country off the coast of Chile called the Republic of Modinau was annexed into Arenztopia on Tuesday, after money problems caused them to ask for annexation. The Republic of Modinau has now become the Modinau Region, and it has added two new cities to Arenztopia: Choran City, their former capital, and Salnez, a large fishing town. The Modinau Region encompasses the Modinau Archipelago and is made up of seven large islands and ten small islands connected by railways plus ten miles of water in either direction. The annexation of Modinau has added about 1.5 million people to Arenztopia's population, and 4 million Arenzos to its economy. 
+Choran City-A small country off the coast of Chile called the Republic of Modinau was annexed into Arenztopia on Tuesday, after money problems caused them to ask for annexation. The Republic of Modinau has now become the Modinau Region, and it has added two new cities to Arenztopia: Choran City, their former capital, and Salnez, a large fishing town. The Modinau Region encompasses the Modinau Archipelago and is made up of seven large islands and ten small islands connected by railways plus ten miles of water in either direction. The annexation of Modinau has added about 1.5 million people to Arenztopia's population, and 4 million Arenzos to its economy. Modinau has 11 mountains, 6 of which are volcanoes. The tallest is Mount Hakamu at 2,500 feet. The former President of Modinau, Ishakahn Mokiki'a, says that he is grateful for the annexation into Arenztopia.
 
 ## Arts
 by Owen Miyazoi
