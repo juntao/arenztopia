@@ -55,7 +55,7 @@ By Sam-Louis Alrocaet
 
 Welcome to our new Book Recommendation column! In this column, we'll be publishing a recommendation for a book or series every week.
 
-
+This week we recommend the series Wolves of the Beyond by Kathryn Lasky. Lasky is also the author of the bestselling Guardians of Ga'hoole series, and this series is set in the same fantasy world. It is a captivating story about a wolf pup who is left to die because he has a splayed paw, but he inexplicably survives and goes on many adventures with his freinds. If you like Wings of Fire, Guardians of Ga'hoole, or any other fantasy animal series, you will like this book.
 
 ## Poetry
 By Lorenzo Avila
