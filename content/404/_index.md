@@ -1,9 +1,5 @@
 ---
-title: "404! AAAAA! CALL 911!"
+title: "404"
 ---
 
-(cue "Jaws" theme)
-
-Yeah. It's your worst nightmare. THIS PAGE HAS GONE 404!
-
-:skull: :scream_cat: :collision: :anger: :exclamation:
+The page you requested has gone 404. Please contact The government of Arenztopia, if you have any questions. Go back to the hompage [here.](arenztopia.com)
