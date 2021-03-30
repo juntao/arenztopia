@@ -1,5 +1,6 @@
 ---
 title: 'Bank'
+menu:main
 weight: 7
 ---
 
