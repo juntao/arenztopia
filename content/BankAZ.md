@@ -1,7 +1,7 @@
 ---
 title: 'Bank'
-menu:main
-weight: 7
+menu: 'main'
+weight: '6'
 ---
 
 Arenztopia has a very well developed currency, but now we have a bank! 
