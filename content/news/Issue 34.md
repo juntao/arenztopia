@@ -23,12 +23,12 @@ Artist Thankkar Porganathan unveiled a new artwork at the OCAM on Wednesday. It 
 ## Sports
 By Sam-Louis Alrocaet
 
-
+Pearson Naskanal, the owner of the Noi City Ninjas, said that he would be moving the team's HQ to the new, 50-story Unity Tower in downtown Noi City, about 7 blocks down from where the team's current HQ is in the Ray Building. The HQ will occupy the 45th, 46th, and 47th floors of the tower.
 
 ## Weather
 By Mezoir Logan
 
-
+Next week should be a hot 23 to 27 degrees Celsius, which will be the hottest temperature recorded in Arenztopia this year so far. There should be medium wind with gusts of up to 14 miles per hour. A storm system should be moving in on Thursday next week, but dissipating by Saturday.
 
 ## Coronavirus Report
 By Owen Miyazoi
@@ -40,10 +40,10 @@ By Tony Yuan
 
 
 
-## Story
+## New Book Published
 By Sam-Louis Alrocaet
 
-
+A new book was published on Tuesday by acclaimed writer Kolan Jacphur. It is titled "Explosions: Their apocalyptic nature, deadly consequences, and importance to life as we know it". It is about explosions, some facts about them, and how they may be more important than you think. It costs 50 Arenzos, has 400 pages, and is available on Amazon or at many important Arenztopian bookstores including ArenzBooks, Winslow & North, and Bookology.
 
 ## Story
 By Owen Miyazoi
