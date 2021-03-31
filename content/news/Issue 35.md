@@ -14,7 +14,7 @@ April 4th-April 10th, 2021
 By Lorenzo Avila and Tony Yuan
 
 Choran City-A small country off the coast of Chile called the Republic of Modinau was annexed into Arenztopia on Tuesday, after money problems caused them to ask for annexation. The Republic of Modinau has now become the Modinau Region, and it has added two new cities to Arenztopia: Choran City, their former capital, and Salnez, a large fishing town. The Modinau Region encompasses the Modinau Archipelago and is made up of seven large islands and ten small islands connected by railways plus ten miles of water in either direction. The annexation of Modinau has added about 1.5 million people to Arenztopia's population, and 4 million Arenzos to its economy. Modinau has 11 mountains, 6 of which are volcanos. The largest is Mount Hakamu, at 2,500 feet. The largest city in Modinau is Choran City, which is located on Wakanalu Island. The largest island is Hoamu'an Island, at 75 miles wide and high. The longest nonstop rail line runs from Vallsen, in the northern island of Hakamu, to Korubanu'a City, on Ansoa Island. The former Prime Minister of Modinau, Ishakahn Makiki'a, says that he is grateful for the annexation. Mr. Makiki'a has become a politician in Arenztopia
-
+      
 ## Arts
 by Owen Miyazoi
 
@@ -38,15 +38,15 @@ By Owen Miyazoi
 ## Feature: Akio Benjiro
 By Lorenzo Avila and Tony Yuan
 
-This week we interviewed Akio Benjiro, an Arenztopian-Japanese chef whose restaraunt, Akio's Sushi (アキオの寿司), has won the Saikō No Nipponshoku (SNN) Award for best Japanese restauraunt 2 years in a row for its famous and authentic sashimi and nigiri. It serves many other dishes including boba tea, ramen, and many types of sushi roll. It is located in downtown Olb City, next to the Sanson Tower.
+This week we interviewed 63 year old Akio Benjiro, an Arenztopian-Japanese chef whose restaraunt, Akio's Sushi (アキオの寿司), has won the Saikō No Nipponshoku (SNN) Award for best Japanese restauraunt 2 years in a row for its famous and authentic sashimi and nigiri. It serves many other dishes including boba tea, ramen, and many types of sushi roll. It is located in downtown Olb City, in Sanson Plaza.
 
 Olb City Announcer: Could you tell us a little bit about your life in Japan?
 
-Akio Benjiro:
+Akio Benjiro: Well, my home was right next to Mount Fuji. It inspired some of my decoration for my food. Every Sunday, I would drive to Tokyo and come home with many foods. I studied these foods and wrote down notes about what i liked and did not while making them myself. I added many of my own ideas. After a while I wanted to start my own restaraunt. But, my wife had gone on vacation to Arenztopia and she had gotten sick. I travelled to care for her. My wife got better and by then I had fallen in love with the island. We decided to stay. I still had a dream to start a restaraunt, so i bought a 2 story building where me and my wife lived on top, and ran a restaraunt below. My restaraunt started becoming more popular and I even got a proposal from Sanson Tower.
 
-OCA:
+OCA: Wow. What a great story. Could you tell us about your deal with Sanson Tower?
 
-AB:
+AB: Yea! Mr. Sanson, the owner of Sanson Tower, is a wonderfull person! He offered me 100 Million to let Akio's Sushi run in Sanson Tower as well, as my origanal location.
 
 OCA:
 
