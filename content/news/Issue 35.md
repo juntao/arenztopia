@@ -14,6 +14,9 @@ April 4th-April 10th, 2021
 By Lorenzo Avila and Tony Yuan
 
 Choran City-A small country off the coast of Chile called the Republic of Modinau was annexed into Arenztopia on Tuesday, after money problems caused them to ask for annexation. The Republic of Modinau has now become the Modinau Region, and it has added two new cities to Arenztopia: Choran City, their former capital, and Salnez, a large fishing town. The Modinau Region encompasses the Modinau Archipelago and is made up of seven large islands and ten small islands connected by railways plus ten miles of water in either direction. The annexation of Modinau has added about 1.5 million people to Arenztopia's population, and 4 million Arenzos to its economy. Modinau has 11 mountains, 6 of which are volcanos. The largest is Mount Hakamu, at 2,500 feet. The largest city in Modinau is Choran City, which is located on Wakanalu Island. The largest island is Hoamu'an Island, at 75 miles wide and high. The longest nonstop rail line runs from Vallsen, in the northern island of Hakamu, to Korubanu'a City, on Ansoa Island. The former Prime Minister of Modinau, Ishakahn Makiki'a, says that he is grateful for the annexation. Mr. Makiki'a has immigrated to Arenztopia and become a politician in Olb City; he is the Old Region's ambassador to the Modinau Region.
+
+![The flag of Modinau](https://docs.google.com/drawings/d/e/2PACX-1vTXThjPExrQgJFDRaBSt860rxiJ0LcWdvshd0AAw3pMEI1twpqZKy-CTx0k0gF0vHPhRyQdfh3Ipcvr/pub?w=956&h=573)
+The flag of Modinau.
       
 ## Arts
 by Owen Miyazoi
