@@ -40,6 +40,22 @@ By Lorenzo Avila & Tony Yuan
 
 Today we interviewed Louis Keon, the curator of fossils at the Olb City Natural History Museum.
 
+Olb City Announcer:
+
+Louis Keon:
+
+OCA:
+
+LK:
+
+OCA:
+
+LK:
+
+OCA:
+
+LK:
+
 ## New Book Published
 By Sam-Louis Alrocaet
 
