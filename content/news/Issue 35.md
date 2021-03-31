@@ -13,7 +13,7 @@ April 4th-April 10th, 2021
 ## New Territory Annexed
 By Lorenzo Avila and Tony Yuan
 
-Choran City-A small country off the coast of Chile called the Republic of Modinau was annexed into Arenztopia on Tuesday, after money problems caused them to ask for annexation. The Republic of Modinau has now become the Modinau Region, and it has added two new cities to Arenztopia: Choran City, their former capital, and Salnez, a large fishing town. The Modinau Region encompasses the Modinau Archipelago and is made up of seven large islands and ten small islands connected by railways plus ten miles of water in either direction. The annexation of Modinau has added about 1.5 million people to Arenztopia's population, and 4 million Arenzos to its economy. Modinau has 11 mountains, 6 of which are volcanos. The largest is Mount Hakamu, at 2,500 feet. The largest city in Modinau is Choran City, which is located on Wakanalu Island. The largest island is Hoamu'an Island, at 75 miles wide and high. The longest nonstop rail line runs from Vallsen, in the northern island of Hakamu, to Korubanu'a City, on Ansoa Island. The former Prime Minister of Modinau, Ishakahn Makiki'a, says that he is grateful for the annexation. Mr. Makiki'a has become a politician in Arenztopia
+Choran City-A small country off the coast of Chile called the Republic of Modinau was annexed into Arenztopia on Tuesday, after money problems caused them to ask for annexation. The Republic of Modinau has now become the Modinau Region, and it has added two new cities to Arenztopia: Choran City, their former capital, and Salnez, a large fishing town. The Modinau Region encompasses the Modinau Archipelago and is made up of seven large islands and ten small islands connected by railways plus ten miles of water in either direction. The annexation of Modinau has added about 1.5 million people to Arenztopia's population, and 4 million Arenzos to its economy. Modinau has 11 mountains, 6 of which are volcanos. The largest is Mount Hakamu, at 2,500 feet. The largest city in Modinau is Choran City, which is located on Wakanalu Island. The largest island is Hoamu'an Island, at 75 miles wide and high. The longest nonstop rail line runs from Vallsen, in the northern island of Hakamu, to Korubanu'a City, on Ansoa Island. The former Prime Minister of Modinau, Ishakahn Makiki'a, says that he is grateful for the annexation. Mr. Makiki'a has immigrated to Arenztopia and become a politician in Olb City; he is the Old Region's ambassador to the Modinau Region.
       
 ## Arts
 by Owen Miyazoi
@@ -42,11 +42,11 @@ This week we interviewed 63 year old Akio Benjiro, an Arenztopian-Japanese chef 
 
 Olb City Announcer: Could you tell us a little bit about your life in Japan?
 
-Akio Benjiro: Well, my home was right next to Mount Fuji. It inspired some of my decoration for my food. Every Sunday, I would drive to Tokyo and come home with many foods. I studied these foods and wrote down notes about what i liked and did not while making them myself. I added many of my own ideas. After a while I wanted to start my own restaraunt. But, my wife had gone on vacation to Arenztopia and she had gotten sick. I travelled to care for her. My wife got better and by then I had fallen in love with the island. We decided to stay. I still had a dream to start a restaraunt, so i bought a 2 story building where me and my wife lived on top, and ran a restaraunt below. My restaraunt started becoming more popular and I even got a proposal from Sanson Tower.
+Akio Benjiro: Well, my home was about thirty minutes of Tokyo. It had a beautiful view of Mount Fuji. It inspired some of my decoration for my food. Every Sunday, I would drive to Tokyo and come home with many foods. I studied these foods and wrote down notes about what I liked and what I did not like while preparing them. I added many of my own ideas. After a while I wanted to start my own restaraunt. But my wife was on a vacation to Arenztopia at the time, so I traveled here to care for her. My wife got better and by then I had fallen in love with Arenztopia. We decided to stay. I still had a dream to start a restaraunt, so I bought a historic two-story building here in Olb City where me and my wife lived in a small apartment on top, and ran a restaraunt below. My restaraunt started becoming more popular and I even got a proposal from the Sanson Tower.
 
-OCA: Wow. What a great story. Could you tell us about your deal with Sanson Tower?
+OCA: Wow! What a great story. Could you tell us about your deal with the Sanson Tower?
 
-AB: Yea! Mr. Sanson, the owner of Sanson Tower, is a wonderfull person! He offered me 100 Million to let Akio's Sushi run in Sanson Tower as well, as my origanal location.
+AB: Sure! The owner of the Sanson Tower, Mr. Dryheser, is a wonderful person. He offered me 200 million Arenzos to let Akio's Sushi open another location in a prime spot at the Monsai Shopping Center, located inside the Sanson Tower.
 
 OCA:
 
@@ -78,9 +78,7 @@ By Lorenzo Avila
 
 
 
-
-
 ## Obituary
 By Owen Miyazoi
 
-Kolio Numoni, a local barber passed away on monday. People said he had a very homey feeling and that he treated everyone well. His barber shop will continue through his son.
+Respected local barber Kolio Numoni died at the age of 89 on Monday, following a long battle with arthritis and cancer. People say that he was very kind, treated everyone well, and gave great haircuts. His son says that he will continue to operate the barber shop, which has actually been going for over 3 generations. Call 680-212-0096 to show sympathy.
