@@ -78,6 +78,9 @@ By Lorenzo Avila
 
 
 
+
+
 ## Obituary
 By Owen Miyazoi
 
+Kolio Numoni, a local barber passed away on monday. People said he had a very homey feeling and that he treated everyone well. His barber shop will continue through his son.
