@@ -35,10 +35,10 @@ By Owen Miyazoi
 
 
 
-## Feature: 
-By Tony Yuan
+## Feature: Louis Keon
+By Lorenzo Avila & Tony Yuan
 
-
+Today we interviewed Louis Keon, the curator of fossils at the Olb City Natural History Museum.
 
 ## New Book Published
 By Sam-Louis Alrocaet
@@ -55,7 +55,7 @@ By Sam-Louis Alrocaet
 
 Welcome to our new Book Recommendation column! In this column, we'll be publishing a recommendation for a book or series every week.
 
-This week we recommend the series Wolves of the Beyond by Kathryn Lasky. Lasky is also the author of the bestselling Guardians of Ga'Hoole series, and Wolves of the Beyond is set in the same fantasy world. It is a captivating story about a wolf pup who is left to die because he has a splayed paw, but he inexplicably survives and goes on many adventures with his freinds. If you like Wings of Fire, Guardians of Ga'Hoole, or any other fantasy animal series, you will like this series.
+This week we recommend the series Wolves of the Beyond by Kathryn Lasky. Lasky is also the author of the bestselling Guardians of Ga'Hoole series, and Wolves of the Beyond is set in the same fantasy world. It is a captivating story about a wolf pup who is left to die because he has a splayed paw, but he inexplicably survives and goes on many adventures with his freinds. The writing is captivating and vivid. If you like Wings of Fire, Guardians of Ga'Hoole, or any other fantasy animal series, you will love this series.
 
 ## Poetry
 By Lorenzo Avila
