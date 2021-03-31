@@ -42,17 +42,17 @@ This week we interviewed 63 year old Akio Benjiro, an Arenztopian-Japanese chef 
 
 Olb City Announcer: Could you tell us a little bit about your life in Japan?
 
-Akio Benjiro: Well, my home was about thirty minutes of Tokyo. It had a beautiful view of Mount Fuji. It inspired some of my decoration for my food. Every Sunday, I would drive to Tokyo and come home with many foods. I studied these foods and wrote down notes about what I liked and what I did not like while preparing them. I added many of my own ideas. After a while I wanted to start my own restaraunt. But my wife was on a vacation to Arenztopia at the time, so I traveled here to care for her. My wife got better and by then I had fallen in love with Arenztopia. We decided to stay. I still had a dream to start a restaraunt, so I bought a historic two-story building here in Olb City where me and my wife lived in a small apartment on top, and ran a restaraunt below. My restaraunt started becoming more popular and I even got a proposal from the Sanson Tower.
+Akio Benjiro: Well, my home was about thirty minutes outside of Tokyo. It had a beautiful view of Mount Fuji. It inspired some of my decoration for my food. Every Sunday, I would drive to Tokyo and come home with many foods. I studied these foods and wrote down notes about what I liked and what I did not like while preparing them. I added many of my own ideas. After a while I wanted to start my own restaraunt. But my wife was on a vacation to Arenztopia at the time, so I traveled here to care for her. My wife got better and by then I had fallen in love with Arenztopia. We decided to stay. I still had a dream to start a restaraunt, so I bought a historic two-story building here in Olb City where me and my wife lived in a small apartment on top, and ran a restaraunt below. My restaraunt started becoming more popular and I even got a proposal from the Sanson Tower.
 
 OCA: Wow! What a great story. Could you tell us about your deal with the Sanson Tower?
 
-AB: Sure! The owner of the Sanson Tower, Mr. Dryheser, is a wonderful person. He offered me 200 million Arenzos to let Akio's Sushi open another location in a prime spot at the Monsai Shopping Center, located inside the Sanson Tower.
+AB: Sure! The owner of the Sanson Tower, Mr. Dryhesser, is a wonderful person. He offered me 200 million Arenzos to let Akio's Sushi open another location in a prime spot at the Monsai Shopping Center, located inside the Sanson Tower.
 
-OCA:
+OCA: So can you tell us a little bit about your food?
 
-AB:
+AB: Yes, of course! All of my recipes are top-secret, because I have seen great sushi chefs ruined by copycats. We serve all kinds of delicious Japanese food, including ramen, sushi, sashimi, nigiri, and many other things besides. We use extremely authentic methods that my mom used when I was growing up in the 1960s.
 
-OCA: Well, that looks like all the questions that we have for you today, and thanks for coming!
+OCA: That's really cool! That also looks like all the questions that we have for you today, so thanks for coming!
 
 AB: Thank you for inviting me! I hope you have a good day!
 
