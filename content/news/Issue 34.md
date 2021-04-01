@@ -38,15 +38,11 @@ By Owen Miyazoi
 ## Feature: Louis Keon
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Louis Keon, the curator of fossils at the Olb City Natural History Museum.
+Today we interviewed Louis Keon, the curator of fossils at the Olb City Natural History Museum (OCNHM).
 
-Olb City Announcer:
+Olb City Announcer: What's the coolest thing you've ever seen at the OCHNM?
 
-Louis Keon:
-
-OCA:
-
-LK:
+Louis Keon: Well, so I remember in 2004 I was introduced to this nice woman named Dr. Katherine Sapersky, and she had recently found this huge treasure trove of fossils, and she had brought this huge heavy-looking duffel bag. I asked her what was in the bag, and she said, "Well, nothing really, just some fossils," and she unzipped the bag and brought out this huge chunk of rock, which was literally completely encrusted in fossils: Like, I would say it was at least 85 percent fossils. And I had never seen like, 90% of them. And keep in mind, I have a PhD in Prehistoric Biology. I would estimate that there was like, literally 355 different new species in that one rock. That was about the coolest thing I've ever seen in my entire career.
 
 OCA:
 
@@ -55,6 +51,10 @@ LK:
 OCA:
 
 LK:
+
+OCA: Well, that looks like all the questions that we have today! Thank you for coming and telling us all these cool stories!
+
+LK: Thank you for inviting me!
 
 ## New Book Published
 By Sam-Louis Alrocaet
