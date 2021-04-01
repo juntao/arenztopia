@@ -36,6 +36,8 @@ Next week should be a warm 19 to 25 degrees Celsius, slightly cooler than last w
 ## Coronavirus Report
 By Owen Miyazoi
 
+Cases are at a low number of 5 with 0 deaths in the past 3 months. 10 million people have been vaccinated. 40 million people are still waiting for their vaccine, and experst believe they are on track to arrive at the goal of May 15th.
+
 
 
 ## Feature: Akio Benjiro
@@ -69,6 +71,9 @@ On Monday, a fire occured in East Olb City which burned a house to the ground. T
 ## Story
 By Owen Miyazoi
 
+The ANAR (Arenztopian National Animal Reserve) recently was broke into. The only living Male Arenztopian Spotted Panda, who naturally lives in the 50-mile Yznyll Bamboo Forest, was stolen. His name was Bobo, named for Bobo Nuti the founder of ANAR. His mate and only living Female ASP, who is pregnant with what zoo experts believe 3 children, has gone into a state of depression that scientist think is the lack of her mate. Bobo was injured when he was a child and a wolf atacked him and his family. He has grown up in the ANAR, and grown fond of his caretakers. They put a tracker on him months ago and are using it to find his location. If you have any info please contact the zoo.
+
+
 
 
 ## Book Recommendation
@@ -78,6 +83,27 @@ This week we recommend the Hunger Games by Suzanne Collins. It is a wonderful bo
 
 ## Poetry
 By Lorenzo Avila
+
+I am not sure what to write.
+So
+i am writing a poem
+about
+food:
+
+F-unnel cake
+O-melets
+O-ats
+D-ragon Fruit
+
+I-ce cream
+S-ushi
+
+G-reek yogurt
+O-nion
+O-ranges
+D-umpling 
+
+Are all foods i love.
 
 
 
