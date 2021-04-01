@@ -41,7 +41,7 @@ By Owen Miyazoi
 ## Feature: Akio Benjiro
 By Lorenzo Avila and Tony Yuan
 
-This week we interviewed 63 year old Akio Benjiro, an Arenztopian-Japanese chef whose restaraunt, Akio's Sushi (アキオの寿司), has won the Saikō No Nipponshoku (SNN) Award for best Japanese restauraunt 2 years in a row for its famous and authentic sashimi and nigiri. It serves many other dishes including boba tea, ramen, and many types of sushi roll. It is located in downtown Olb City, in Sanson Plaza.
+This week we interviewed 63 year old Akio Benjiro, an Arenztopian-Japanese chef whose restaraunt, Akio's Sushi (アキオの寿司), has won the Saikō No Nipponshoku (SNN) Award for best Japanese restauraunt 2 years in a row for its famous and authentic sashimi and nigiri. It serves many other dishes including boba tea, ramen, and many types of sushi roll. It has two locations in downtown Olb City, one inside the Sanson Tower and a location two blocks down the street.
 
 Olb City Announcer: Could you tell us a little bit about your life in Japan?
 
@@ -55,7 +55,7 @@ OCA: So can you tell us a little bit about your food?
 
 AB: Yes, of course! All of my recipes are top-secret, because I have seen great sushi chefs ruined by copycats. We serve all kinds of delicious Japanese food, including ramen, sushi, sashimi, nigiri, and many other things besides. We use extremely authentic methods that my mom used when I was growing up in the 1960s.
 
-OCA: That's really cool! That also looks like all the questions that we have for you today, so thanks for coming!
+OCA: That's really cool: I can almost taste the food now! Well, it looks like we've reached the last question that we have for you today, so thanks for coming!
 
 AB: Thank you for inviting me! I hope you have a good day!
 
