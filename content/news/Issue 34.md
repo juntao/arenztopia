@@ -44,7 +44,7 @@ Olb City Announcer: What's the coolest thing you've ever seen at the OCHNM?
 
 Louis Keon: Well, so I remember in 2004 I was introduced to this nice woman named Dr. Katherine Sapersky, and she had recently found this huge treasure trove of fossils, and she had brought this huge heavy-looking duffel bag. I asked her what was in the bag, and she said, "Well, nothing really, just some fossils," and she unzipped the bag and brought out this huge chunk of rock, which was literally completely encrusted in fossils: Like, I would say it was at least 85 percent fossils. And I had never seen like, 90% of them. And keep in mind, I have a PhD in Prehistoric Biology. I would estimate that there was like, literally 355 different new species in that one rock. That was about the coolest thing I've ever seen in my entire career.
 
-OCA: That is really cool! What is the most recent fossil you've found?
+OCA: That is really cool! What is the newest fossil that you've seen?
 
 LK:
 
@@ -64,7 +64,7 @@ A new book was published on Tuesday by acclaimed writer Kolan Jacphur. It is tit
 ## Story
 By Owen Miyazoi
 
-Coco, a baby horse living at the Zoo National in Arenztopia City, recently recovered from her cold, which she had caught in February. Coco was separated from her mother to prevent transmission, and Coco was reunited with her mother on Tuesday, the same day that she recovered. The Zoo National says that Coco and her mother are very happy together, and that Coco has been very active and has been reciveing many treats.
+Coco, a baby horse living at the Zoo National in Arenztopia City, recently recovered from her cold, which she had caught in February. Coco was separated from her mother to prevent transmission, and Coco was reunited with her mother on Tuesday, the same day that she recovered. The Zoo National says that Coco and her mother are very happy together, and that Coco has been very active and has been receiving many treats.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
@@ -86,5 +86,4 @@ spring.
 ## Obituary
 By Owen Miyazoi
 
-Delvo Tuwom, a baker with a small bakery near Arenztopia Palace, passed away following a 10 year battle with cancer. You can show your support by going to the bakery and buy the last of his supply as well as texting 101-837-1792
-
+Local baker Delvo Tuwom died at the age of 90 on Wednesday following a 10-year battle with cancer. He was known for his kind service and friendly demeanor. You can show your support by going to his bakery across the street from the Capitol, or you can call 680-837-1792.
