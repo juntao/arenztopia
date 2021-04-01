@@ -38,11 +38,11 @@ Cases are at only TWO people, with 0 deaths still. President Avila says that peo
 ## Feature: Percia Joso
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed 73 Percia Joso, the author of new book The Adventures of Adras, a book about Adras who finds out his parents are partof the nazis and plans to escape.
+Today we interviewed 73 year old Percia Joso, the author of the new book The Adventures of Adras. The books is about a child named Adras who finds out that his parents are Nazis, and tries to escape.
 
-Olb city Announcer: Hi! Thanks for coming? What inspired you to write about WW2?
+Olb City Announcer: Hi, and thanks for coming! COuld you tell us what inspired you to write about World War II?
 
-Percia Joso: Well i grew up in post World War 2 germany. My parents were some of the lucky jews who lived.
+Percia Joso: Well, I grew up in post-WW2 Germany. My parents were some of the lucky Jewish people who didn't get caught by the Nazis. So I've always felt a personal connection to World War 2.
 
 OCA:
 
