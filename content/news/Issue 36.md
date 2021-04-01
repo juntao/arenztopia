@@ -35,8 +35,26 @@ Cases have hit a low of 2 people, with deaths still at none. People will continu
 
 
 
-## Feature: 
+## Feature: Percia Joso
 By Lorenzo Avila & Tony Yuan
+
+Today we interviewed 73 Percia Joso, the author of new book The Adventures of Adras, a book about Adras who finds out his parents are partof the nazis and plans to escape.
+
+Olb city Announcer: Hi! Thanks for coming? What inspired you to write about WW2?
+
+Percia Joso: Well i grew up in post World War 2 germany. My parents were some of the lucky jews who lived.
+
+OCA:
+
+PJ:
+
+OCA:
+
+PJ:
+
+OCA:
+
+PJ:
 
 
 ## Story
