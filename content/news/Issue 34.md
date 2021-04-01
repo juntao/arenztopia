@@ -33,9 +33,7 @@ Next week should be a hot 23 to 27 degrees Celsius, which will be the hottest te
 ## Coronavirus Report
 By Owen Miyazoi
 
-Cases are at 17, and deaths reamain at 0. Over 7 Million people have been vaccinated and the goal is to have every adult vaccinatd by May 15th.
-
-
+Cases are at 17, and deaths remain at 0. Over 7 million people have been vaccinated with Avac and the goal is to have every adult vaccinated by May 15th.
 
 ## Feature: Louis Keon
 By Lorenzo Avila & Tony Yuan
@@ -66,9 +64,7 @@ A new book was published on Tuesday by acclaimed writer Kolan Jacphur. It is tit
 ## Story
 By Owen Miyazoi
 
-Coco the baby horse, and mascot of Arenztopia, recently recovered from the cold it she had. Coco has been very active and went to a ceromony yesterday. People are happy to see Coco back in action and brought her lots of apples. Coco had to be seperated from her mom so the mom would not get sick, and the reunion was on tv yesterday. Coco and her mom are happy to be with eachother again.
-
-
+Coco, a baby horse living at the Zoo National in Arenztopia City, recently recovered from her cold, which she had caught in February. Coco was separated from her mother to prevent transmission, and Coco was reunited with her mother on Tuesday, the same day that she recovered. The Zoo National says that Coco and her mother are very happy together, and that Coco has been very active and has been reciveing many treats.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
@@ -80,13 +76,12 @@ This week we recommend the series Wolves of the Beyond by Kathryn Lasky. Lasky i
 ## Poetry
 By Lorenzo Avila
 
-Spring is here
-finally.
-green trees
-flowers
-and sunny days
-spring
-
+Spring is here    
+finally.    
+green trees    
+flowers    
+and sunny days    
+spring.    
 
 ## Obituary
 By Owen Miyazoi
