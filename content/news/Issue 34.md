@@ -66,6 +66,8 @@ A new book was published on Tuesday by acclaimed writer Kolan Jacphur. It is tit
 ## Story
 By Owen Miyazoi
 
+Coco the baby horse, and mascot of Arenztopia, recently recovered from the cold it she had. Coco has been very active and went to a ceromony yesterday. People are happy to see Coco back in action and brought her lots of apples. Coco had to be seperated from her mom so the mom would not get sick, and the reunion was on tv yesterday. Coco and her mom are happy to be with eachother again.
+
 
 
 ## Book Recommendation
