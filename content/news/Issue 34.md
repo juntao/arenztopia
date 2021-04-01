@@ -33,6 +33,8 @@ Next week should be a hot 23 to 27 degrees Celsius, which will be the hottest te
 ## Coronavirus Report
 By Owen Miyazoi
 
+Cases are at 17, and deaths reamain at 0. Over 7 Million people have been vaccinated and the goal is to have every adult vaccinatd by May 15th.
+
 
 
 ## Feature: Louis Keon
@@ -44,7 +46,7 @@ Olb City Announcer: What's the coolest thing you've ever seen at the OCHNM?
 
 Louis Keon: Well, so I remember in 2004 I was introduced to this nice woman named Dr. Katherine Sapersky, and she had recently found this huge treasure trove of fossils, and she had brought this huge heavy-looking duffel bag. I asked her what was in the bag, and she said, "Well, nothing really, just some fossils," and she unzipped the bag and brought out this huge chunk of rock, which was literally completely encrusted in fossils: Like, I would say it was at least 85 percent fossils. And I had never seen like, 90% of them. And keep in mind, I have a PhD in Prehistoric Biology. I would estimate that there was like, literally 355 different new species in that one rock. That was about the coolest thing I've ever seen in my entire career.
 
-OCA:
+OCA: That is really cool! What is the most recent fossil you've found?
 
 LK:
 
@@ -76,8 +78,16 @@ This week we recommend the series Wolves of the Beyond by Kathryn Lasky. Lasky i
 ## Poetry
 By Lorenzo Avila
 
+Spring is here
+finally.
+green trees
+flowers
+and sunny days
+spring
 
 
 ## Obituary
 By Owen Miyazoi
+
+Delvo Tuwom, a baker with a small bakery near Arenztopia Palace, passed away following a 10 year battle with cancer. You can show your support by going to the bakery and buy the last of his supply as well as texting 101-837-1792
 
