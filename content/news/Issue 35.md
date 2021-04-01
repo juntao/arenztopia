@@ -36,9 +36,7 @@ Next week should be a warm 19 to 25 degrees Celsius, slightly cooler than last w
 ## Coronavirus Report
 By Owen Miyazoi
 
-Cases are at a low number of 5 with 0 deaths in the past 3 months. 10 million people have been vaccinated. 40 million people are still waiting for their vaccine, and experst believe they are on track to arrive at the goal of May 15th.
-
-
+Cases are at an all-time low of just 5, while deaths remain at 0. 10 million people have been vaccinated, and 40 million people are still waiting for the vaccine. This huge jump in vaccinations comes after a "Call to Action" by Dr. Johannes Peterson (the Arenztopian Officer of Health), and President Avila. Experts believe that we are on track to meet the goal of all adults vaccinated by May 15th.
 
 ## Feature: Akio Benjiro
 By Lorenzo Avila and Tony Yuan
@@ -55,7 +53,7 @@ AB: Sure! The owner of the Sanson Tower, Mr. Dryhesser, is a wonderful person. H
 
 OCA: So can you tell us a little bit about your food?
 
-AB: Yes, of course! All of my recipes are top-secret, because I have seen great sushi chefs ruined by copycats. We serve all kinds of delicious Japanese food, including ramen, sushi, sashimi, nigiri, and many other things besides. We use extremely authentic methods that my mom used when I was growing up in the 1960s.
+AB: Yes, of course! All of my recipes are top-secret, because I have seen great sushi chefs ruined by copycats. We serve all kinds of delicious Japanese food, including ramen, sushi, sashimi, nigiri, and many other things besides. We use extremely authentic methods that my mom used and taught me when I was growing up in the 1960s.
 
 OCA: That's really cool: I can almost taste the food now! Well, it looks like we've reached the last question that we have for you today, so thanks for coming!
 
@@ -71,10 +69,7 @@ On Monday, a fire occured in East Olb City which burned a house to the ground. T
 ## Story
 By Owen Miyazoi
 
-The ANAR (Arenztopian National Animal Reserve) recently was broke into. The only living Male Arenztopian Spotted Panda, who naturally lives in the 50-mile Yznyll Bamboo Forest, was stolen. His name was Bobo, named for Bobo Nuti the founder of ANAR. His mate and only living Female ASP, who is pregnant with what zoo experts believe 3 children, has gone into a state of depression that scientist think is the lack of her mate. Bobo was injured when he was a child and a wolf atacked him and his family. He has grown up in the ANAR, and grown fond of his caretakers. They put a tracker on him months ago and are using it to find his location. If you have any info please contact the zoo.
-
-
-
+Six thieves broke into a high-security enclosure at the Reserve for Conservation of Endangered Arenztopian Mountain-Inhabiting Species (RCEAMIS) on Monday and stole Bobo, the only known remaining male Arenztopian Spotted Panda. The Reserve is located inside of Tfziwrzmh Nat. Park, and the Bureau of Conservation has reported that five armed rangers were overpowered by the theives; security cameras show six dark, hooded figures hauling Bobo away in a tight and constrictive cage in the back of a pickup truck. His mate, Nomi, is pregnant with 3 children and has gone into a state of depression after Bobo was stolen. This is still breaking news; we will publish updates as new facts emerge.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
@@ -82,30 +77,28 @@ By Sam-Louis Alrocaet
 This week we recommend the Hunger Games by Suzanne Collins. It is a wonderful book about Catniss Everdeen and the country of Panam, set in a dystopian world where people are forced to fight to the death. If you like fiction books about dystopia, this is a book for you.
 
 ## Poetry
-By Lorenzo Avila
+By Lorenzo Avila, edited by Tony Yuan
 
-I am not sure what to write.
-So
-i am writing a poem
-about
-food:
-
-F-unnel cake
-O-melets
-O-ats
-D-ragon Fruit
-
-I-ce cream
-S-ushi
-
-G-reek yogurt
-O-nion
-O-ranges
-D-umpling 
-
-Are all foods i love.
-
-
+I am not sure what to write.    
+So    
+I am writing a poem    
+about    
+food:    
+    
+F-unnel cake    
+O-melets    
+O-ats    
+D-ragon Fruit    
+    
+I-ce cream    
+S-ushi    
+    
+G-reek yogurt    
+O-nion    
+O-ranges    
+D-umpling    
+    
+Are all foods that I love.    
 
 ## Obituary
 By Owen Miyazoi
