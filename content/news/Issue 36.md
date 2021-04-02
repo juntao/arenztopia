@@ -65,11 +65,9 @@ By Sam-Louis Alrocaet
 ## Panda Stolen Update
 By Owen Miyazoi
 
-Bobo, the panda who was stolen was found in a dumster in olb city, 100 miles away from his home. A local resident heard noises and found the panda proceeding to call the zoo. Bobo was returned home just in time for the birth of his and his wifes, Nomi, babies. The zoo named the 2 boys, Rori and Bielo, and the 1 girl Cookie. The family is happy and Nomi has gone out of the state of depression she was currently in. OCA writer Mezoir Logan, got to go see the pandas and said, "they are full of life, happy and very eager to climb." He said Bielo was the most calm one of them all. He also said they play together very well. The zoo says that since the babies can not be released back into the wild cause the were born in the zoo, but that their 100 Acre home will let them live free as well as being able to have some challenges in finding their own foood which experts say "is good for their mind."
-
 This is an update to a story in [Issue 35](https://www.arenztopia.com/news/issue-35/).
 
-Bobo the Arenztopian Spotted Panda was found in a dumpster in Olb City a week after he was stolen from a wildlife reserve. A local resident heard noises and found the panda, thereby proceeding to call Arenztopian Animals, a nonprofit rescue organization.
+Bobo the Arenztopian Spotted Panda was found in a dumpster in Olb City a week after he was stolen from a wildlife reserve. A local resident heard noises and found the panda, thereby proceeding to call Arenztopian Animals, a nonprofit rescue organization. Bobo was returned home just in time for the birth  of his three kids, named Rori, Bielo, and Cookie. The RCEAMIS reports that Bobo and his family are very happy together, and that the panda cubs are very energetic.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
@@ -86,5 +84,4 @@ together again
 ## Obituary
 By Owen Miyazoi
 
-Amelia Brieo, town historian in new paris, passed away on monday. Send your regrets to her husband Tomas, at 190-989-8372. 
-
+Amelia Brieo, the town historian of New Paris, passed away on Monday at the age of 79. She was known for her encyclopedic knowledge and kind demeanor. Send your regrets to her husband Tomas by calliing 190-989-8372.
