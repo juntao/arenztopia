@@ -6,6 +6,11 @@ featured: true
 weight: 36
 ---
 
+-----
+# CAUTION!!! THIS PAGE IS STILL BEING WORKED ON
+## PROCEED AT YOUR OWN RISK
+-----
+
 # The Olb City Announcer    
 Volume 4, Issue 6    
 April 11th-April 17th, 2021    
@@ -67,7 +72,7 @@ By Owen Miyazoi
 
 This is an update to a story in [Issue 35](https://www.arenztopia.com/news/issue-35/).
 
-Bobo the Arenztopian Spotted Panda was found in a dumpster in Olb City a week after he was stolen from a wildlife reserve. A local resident heard noises and found the panda, thereby proceeding to call Arenztopian Animals, a nonprofit rescue organization. Bobo was returned home just in time for the birth  of his three kids, named Rori, Bielo, and Cookie. The RCEAMIS reports that Bobo and his family are very happy together, and that the panda cubs are very energetic.
+Bobo the Arenztopian Spotted Panda was found in a dumpster in Olb City a week after he was stolen from a wildlife reserve. A local resident heard noises and found the panda, thereby proceeding to call Arenztopian Animals, a nonprofit rescue organization. Bobo was returned home just in time for the birth of his three kids, named Rori, Bielo, and Cookie. The RCEAMIS reports that Bobo and his family are very happy together, and that the panda cubs are very energetic.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
