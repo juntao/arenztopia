@@ -33,7 +33,7 @@ By Mezoir Logan
 ## Coronavirus Report
 By Owen Miyazoi
 
-Cases are at only TWO people, with 0 deaths still. President Avila says that people will need to continue social distancing, wearing masks, and refrain from being in groups more than 15 people until 100% of adults are vaccinated. The Arentopian Bureau of Health is working on a vaccine for kids 16 and under.
+Cases are at only TWO, with 0 deaths still. President Avila says that people will need to continue social distancing, wearing masks, and refrain from being in groups more than 15 people until 100% of adults are vaccinated because there might be more cases that we don't know about. The Arentopian Bureau of Health is working on a vaccine for kids 16 and under.
 
 ## Feature: Percia Joso
 By Lorenzo Avila & Tony Yuan
@@ -72,6 +72,7 @@ Bobo the Arenztopian Spotted Panda was found in a dumpster in Olb City a week af
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
+This week we recommend the excellent science book The Elements by Theodore Gray. Gray explores every single one of the elements using magnificent photos from his own vast element collection, accompanied by humorous and informative writing. Gray is also the cofounder of software company Wolfram, which makes the extremely popular software Mathematica. If you like Oliver Sacks or Randall Munroe, you will love this book.
 
 ## Poetry
 By Lorenzo Avila
