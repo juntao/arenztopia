@@ -28,12 +28,12 @@ Reclusive billionaire Aolo Momo opened his new art museum downtown on Friday. It
 ## Sports
 By Sam-Louis Alrocaet
 
-
+The Olb City Gladiators unseated the Arenztopia City Antelopes as the champions of football in Arenztopia on Friday. The tense game went into two overtimes and resulted in a score of 34-32.
 
 ## Weather
 By Mezoir Logan
 
-
+Next week should be hotter than this week, with temperatures going from 25 to 30 degrees Celsius.
 
 ## Coronavirus Report
 By Owen Miyazoi
@@ -61,10 +61,11 @@ OCA:
 
 PJ:
 
-THis interview has been edited for length and clarity.
+This interview has been edited for length and clarity.
 
 ## Story
 By Sam-Louis Alrocaet
+
 
 
 ## Panda Stolen Update
