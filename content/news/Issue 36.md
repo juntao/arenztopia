@@ -18,7 +18,6 @@ April 11th-April 17th, 2021
 ## Woodchuck Criminals Caught
 By Tony Yuan
 
-Olb City High-Security Jail-On Monday, police caught the infamous Woodchuck Criminals. The Woodchuck Criminals murdered three people in the space of a year, and a jury sentenced them to death by lethal injection. The details of who they are are a bit shadowy, however we have a tentative identification of John Kanhson, Tom McBluecal, and Harry Rasdin, along with Chris Owens, who was caught last year. All four have criminal histories. They pleaded not guilty but were convicted. Police were able to coax out the location of their base; it turns out that they were hiding out in an abandoned house on the outskirts of New Athens. The motive of the murders is unknown. This is still a developing story; we will publish updates as new facts emerge.
 
 ## Arts
 by Owen Miyazoi
