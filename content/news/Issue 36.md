@@ -15,10 +15,10 @@ weight: 36
 Volume 4, Issue 6    
 April 11th-April 17th, 2021    
 
-## Cover Story
+## Woodchuck Criminals Caught
 By Tony Yuan
 
-
+Olb City High-Security Jail-On Monday, police caught the infamous Woodchuck Criminals. The Woodchuck Criminals murdered three people in the space of a year, and a jury sentenced them to death by lethal injection. The details of who they are are a bit shadowy, however we have a tentative identification of John Kanhson, Tom McBluecal, and Harry Rasdin, along with Chris Owens, who was caught last year. All four have criminal histories. They pleaded not guilty but were convicted. Police were able to coax out the location of their base; it turns out that they were hiding out in an abandoned house on the outskirts of New Athens. The motive of the murders is unknown. This is still a developing story; we will publish updates as new facts emerge.
 
 ## Arts
 by Owen Miyazoi
@@ -49,11 +49,11 @@ Olb City Announcer: Hi, and thanks for coming! COuld you tell us what inspired y
 
 Percia Joso: Well, I grew up in post-WW2 Germany. My parents were some of the lucky Jewish people who didn't get caught by the Nazis. So I've always felt a personal connection to World War 2.
 
-OCA: I can tell the book is going to be really good. Could you tell us about the characters?
+OCA:
 
-PJ: Well, the main character Adras is smart kid with a passion for art. Every saturday he and his best friend Joseph, went to art class in Nazi germany. On the Saturday of September 9, 1939, the teacher tells them Joseph he can't come because he's Jewish. Adras goes home and tells his parents what happens. His dad says, "it's for the best." Adras is shocked he goes to get ready for bed, when he hears his parents talking about the working for the nazis. He starts to plan to escape cause he knows it is wrong. He josheph and the couple across the street and their baby. The rest of the story is them trying to make it to England.
+PJ:
 
-OCA: I better go buy this book right now. 
+OCA:
 
 PJ:
 
@@ -63,10 +63,10 @@ PJ:
 
 This interview has been edited for length and clarity.
 
-## Story
+## Olb City Citizen Climbs Mt. Everest
 By Sam-Louis Alrocaet
 
-
+On Tuesday, Olb City climber Albert Oenal planted the Olb City flag at the summit of Mount Everest among dozens of others. He started his climb in early March. Oenal is a renowned mountaineer who has climbed Arenztopia Mountain, Mount Kilimanjaro, Mount Denali, the Matterhorn, and now Mount Everest.
 
 ## Panda Stolen Update
 By Owen Miyazoi
