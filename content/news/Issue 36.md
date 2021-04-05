@@ -49,11 +49,11 @@ Olb City Announcer: Hi, and thanks for coming! COuld you tell us what inspired y
 
 Percia Joso: Well, I grew up in post-WW2 Germany. My parents were some of the lucky Jewish people who didn't get caught by the Nazis. So I've always felt a personal connection to World War 2.
 
-OCA:
+OCA: I can tell the book is going to be really good. Could you tell us about the characters?
 
-PJ:
+PJ: Well, the main character Adras is smart kid with a passion for art. Every saturday he and his best friend Joseph, went to art class in Nazi germany. On the Saturday of September 9, 1939, the teacher tells them Joseph he can't come because he's Jewish. Adras goes home and tells his parents what happens. His dad says, "it's for the best." Adras is shocked he goes to get ready for bed, when he hears his parents talking about the working for the nazis. He starts to plan to escape cause he knows it is wrong. He josheph and the couple across the street and their baby. The rest of the story is them trying to make it to England.
 
-OCA:
+OCA: I better go buy this book right now. 
 
 PJ:
 
