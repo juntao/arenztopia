@@ -18,6 +18,8 @@ April 11th-April 17th, 2021
 ## Woodchuck Criminals Caught
 By Tony Yuan
 
+The Woodchucks were caught- court sentenced them to prison for life-no death sentence.
+
 
 ## Arts
 by Owen Miyazoi
