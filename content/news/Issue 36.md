@@ -43,7 +43,7 @@ Cases are at only TWO, with 0 deaths still. President Avila says that people wil
 ## Feature: Percia Joso
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed 73 year old Percia Joso, the author of the new book The Adventures of Adras. The books is about a child named Adras who finds out that his parents are Nazis, and tries to escape.
+Today we interviewed 73 year old Percia Joso, the author of the new book The Adventures of Adras. The book is about a child named Adras who finds out that his parents are Nazis, and tries to escape.
 
 Olb City Announcer: Hi, and thanks for coming! Could you tell us what inspired you to write about World War II?
 
