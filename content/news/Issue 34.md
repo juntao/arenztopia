@@ -52,7 +52,7 @@ Louis Keon: Well, so I remember in 2004 I was introduced to this nice woman name
 
 OCA: That is really cool! What is the newest fossil that you've seen?
 
-LK: Well, so just last week we had this archaeologist named Kallahan Mvwry. He's a really frequent visitor and this time he brought in a skull, or what was left of one. It was only a couple of teeth, a fragment of jaw, and a scrap of cranium. He said it was from one of his digs, or "ventures" as he calls them, out in the Arenztopian Desert. The skull was pretty long and thin, like a raptor, but I had never seen a raptor skull in Arenztopia before, so I asked him to take me out to see his dig site.
+LK: Well, so just last week we had this archaeologist named Kallahan Mvwry. He's a really frequent visitor and this time he brought in a skullHe said it was from one of his digs, or "ventures" as he calls them, out in the Arenztopian Desert. The skull was pretty long and thin, like a raptor, but I had never seen a raptor skull in Arenztopia before, so I asked him to take me out to see his dig site. And over at the dig site, there was just dozens of raptor skeletons, and I had never seen them before. Mvwry said that he also thought these were a new species, and that he was going to name it Keonmimus after me. So now I got a new dino species named after me, which is pretty exciting. He said he was gonna publish a paper in the Arenztopian Journal of Paleotological Proceedings by next month, so keep an eye out for that.
 
 OCA:
 
