@@ -54,9 +54,9 @@ OCA: That is really cool! What is the newest fossil that you've seen?
 
 LK: Well, so just last week we had this archaeologist named Kallahan Mvwry. He's a friend of mine, and he's also a really frequent visitor. This time he brought in a skull, which was nearly complete. He said it was from one of his digs, or "ventures" as he calls them, out in the Arenztopian Desert. The skull was pretty long and thin, like a raptor, but I had never seen a raptor skull in Arenztopia before, so I asked him to take me out to see his dig site. And over at the dig site, there was just dozens of raptor skeletons, and I had never seen them before. Mvwry said that he also thought these were a new species, and that he was going to name it Keonmimus after me. So now I got a new dino species named after me, which is pretty exciting. He said he was gonna publish a paper in the Arenztopian Journal of Paleontological Proceedings by next month, so keep an eye out for that.
 
-OCA: That sounds amazing! 
+OCA: That sounds amazing! How many fossils are in the OCHNM's storage, do you reckon?
 
-LK:
+LK: Well, I've been the curator for 24 years, so I know the layout of the OCHNM storerooms, and I know that there are seventeen storerooms, actually more like warehouses, and each of them has 1,000 twelve-foot shelves which are also twenty feet long. Each of the shelves can hold about 240 1x1x1 boxes of fossils. Each box will hold 5 fossils, as an approximation; and the fossils department controls 2 of the warehouses. So 5 times 240 times 1,000 times 2 is 2,400,000, which means that we have somewhere around two and a half million fossils in our collection.
 
 OCA: Well, that looks like all the questions that we have today! Thank you for coming and telling us all these cool stories!
 
@@ -67,7 +67,7 @@ By Sam-Louis Alrocaet
 
 A new book was published on Tuesday by acclaimed writer Kolan Jacphur. It is titled "Explosions: Their apocalyptic nature, deadly consequences, and importance to life as we know it". It is about explosions, some facts about them, and how they may be more important than you think. It costs 50 Arenzos, has 400 pages, and is available on Amazon or at many important Arenztopian bookstores including ArenzBooks, Winslow & North, and Bookology.
 
-## Story
+## Coco Recovers From Cold
 By Owen Miyazoi
 
 Coco, a baby horse living at the Zoo National in Arenztopia City, recently recovered from her cold, which she had caught in February. Coco was separated from her mother to prevent transmission, and Coco was reunited with her mother on Tuesday, the same day that she recovered. The Zoo National says that Coco and her mother are very happy together, and that Coco has been very active and has been receiving many treats.
