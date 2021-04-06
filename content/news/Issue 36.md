@@ -55,11 +55,11 @@ PJ: Well, the main character Adras is a smart kid with a passion for art. Every 
  
 OCA: I better go buy this book right now. Where can I get a copy?
 
-PJ:
+PJ: So you can get it at ArenzBooks, and Winslow & North, and Bookology is offering it at a discount. I think OlBooks is also selling it, but it's more expensive there.
 
-OCA:
+OCA: Thank you for telling us all this about your new book! I can't wait to read it!
 
-PJ:
+PJ: Yeah, thank you for inviting me!
 
 This interview has been edited for length and clarity.
 
