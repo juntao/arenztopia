@@ -18,7 +18,7 @@ Arenztopia is home to many cities. Arenztopia City is the largest, at nearly 2 m
 This section explores the political alignment and structure of Arenztopia.
 
 ### Political Structure
-There is a President, who is voted into place, and who follows a constitution. The Vice President is also voted into place and will become the new interim president in wake of the president suddenly resigning or dying. There are also 2 judges in the Supreme Court, and two senators. The judges function much like the Supreme Court of the USA, handling high-level cases and approving laws. The senators propose laws and perform other executive duties. Finally, the Executive Branch, consisting of the President, the Vice President, and the advisors, organizes the political ecosystem and keeps things in order, as well as making top-level desicions and passing laws. There is also a House of Representatives, which contains one representative from every state and region. They represent the state's intentions and propose bills. Every term for every position is two months, except for the president, who has a unlimited term.
+There is a president, who is voted into place, and who follows a constitution. The vice president is also voted into place and will become the new interim president in wake of the president suddenly resigning or dying. There are also 2 judges in the Supreme Court, and two senators. The judges function much like the Supreme Court of the USA, handling high-level cases and approving laws. The senators propose laws and perform other executive duties. Finally, the Executive Branch, consisting of the President, the Vice President, and the advisors, organizes the political ecosystem and keeps things in order, as well as making top-level desicions and passing laws. There is also a House of Representatives, which contains one representative from every state and region. They represent the state's intentions and propose bills. Every term for every position is two months, except for the president, who has a four-month term.
 
 There are two main parties: 
 
@@ -31,7 +31,7 @@ All independents are grouped into the Red Party.
 Laws are approved by this process: First, a group of citizens or a politician proposes a bill. If the bill is on a level lower than national, the citizens in the area that is affected by the bill vote on it. If it wins the vote, the leaders of the affected area review it again, then the bill is approved and passed into law. If the bill affects the entire nation, it goes to the senate. The senators look at the bill and make sure that it is reasonable and can be implemented, and if the bill is passed, it goes to the Executive Branch. The President, the advisors, and the Vice President look over the bill and see if it improves the situation of the country and if it fits the interests of the people. After that, the bill goes to the Judicial Branch, which are the judges, who make sure that it is constitutional, then they will officially pass the bill into law.
 
 ### Political Alignment
-Arenztopia is a military and economics ally to the numerous city-states within it, and also to the USA, Japan, France, England, Germany, China, Mexico, Italy, Vatican City, and Canada.
+Arenztopia is a military and economics ally to the city-states within it, and also to the USA, Japan, France, England, Germany, China, Mexico, Italy, Vatican City, and Canada.
 
 Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the now-defunct terrorist group Milestopia.
 
@@ -298,7 +298,5 @@ Lowest temperature recorded: -16˚C (16.8˚F)
 
 In an attempt to be more transparent, we're publishing a checklist which lists what changes will hopefully be made to the website this week.
 
-- [ ] Finish Issue 34 of the news
-- [ ] Finish Issue 35 of the news
 - [ ] Work on and finish some websites for the Living in Arenztopia section
 - [ ] Make pictures of some Official Arenztopian Documents
