@@ -9,5 +9,5 @@ Names given except for mine (Tony) are not complete for security reasons. Typos 
 Special thanks to Michael Yuan for helping me with lots of technological things and extensively helping with the initial setting-up, and also to Ju Long for giving small suggestions and providing support along the way. Thank you also to Mary Baurangel-Brown and Bruce Brown, along with Linda Bailey and Ed Huber for reading this in the early stages of development. Thanks also to the Arenztopian Community on providing ideas, help, comments, and support. 
 
 IMPORTANT DISCLAIMERS:
-* I (Tony Yuan) did not create Arenztopia. People think I created Arenztopia for some reason; that is not true. Lorenzo created Arenztopia, and many other people also provided support. I'm one of the people who provided support, although I provided more of it than most other people.
+* I (Tony Yuan) did not create Arenztopia. People think I created Arenztopia for some reason; that is not true. Lorenzo created Arenztopia, and many other people also provided support. I'm one of the people who provided support, although I provided much more of it than most other people.
 * I (Tony Yuan) have no affiliation with my dad's Medium post about me creating Arenztopia. My dad got the facts wrong. I was also not influenced in any way by my trip to Italy.
