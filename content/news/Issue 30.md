@@ -71,7 +71,7 @@ An office building in Noi City caught fire and burned to the ground on Tuesday. 
 ## New Thai Restauraunt Opens
 By Owen Miyazoi
 
-A new thai restauraunt called Xahar opened on Tuesday on Sixth Street. It serves tradition thai food, along with thai-inspired pizza and burgers. Xahar means "food" in Thai. Staple dishes include lamb korma, spicy fish pizza, and a spicy chicken burger with basil.
+A new thai restauraunt called Xahar opened on Tuesday on Sixth Street. It serves traditional Thai food, along with Thai-inspired pizza and burgers. Xahar means "food" in Thai. Staple dishes include lamb korma, spicy fish pizza, and a spicy chicken burger with basil.
 
 ## Poetry
 By Tony Yuan
@@ -155,7 +155,7 @@ Zm luurxv yfrowrmt rm Noi City xzftsg uriv zmw yfimvw gl gsv tilfmw lm Gfvhwzb. 
 ## Mvd Thai Ivhgzfizfmg Lkvmh
 Yb Owen Miyazoi
 
-Z mvd gszr ivhgzfizfmg xzoovw Xahar lkvmvw lm Gfvhwzb lm Sixth Street. Rg hvievh gizwrgrlm thai ullw, zolmt drgs thai-rmhkrivw kraaz zmw yfitvih. Xahar nvzmh "ullw" rm Thai. Hgzkov wrhsvh rmxofwv ozny plinz, hkrxb urhs kraaz, zmw z hkrxb xsrxpvm yfitvi drgs yzhro.
+Z mvd gszr ivhgzfizfmg xzoovw Xahar lkvmvw lm Gfvhwzb lm Sixth Street. Rg hvievh gizwrgrlmzo Thai ullw, zolmt drgs Thai-rmhkrivw kraaz zmw yfitvih. Xahar nvzmh "ullw" rm Thai. Hgzkov wrhsvh rmxofwv ozny plinz, hkrxb urhs kraaz, zmw z hkrxb xsrxpvm yfitvi drgs yzhro.
 
 ## Klvgib
 Yb Tony Yuan
