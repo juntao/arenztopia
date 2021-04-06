@@ -10,12 +10,6 @@ weight: 34
 Volume 4, Issue 4    
 March 28th-April 3rd, 2021    
 
------
-# CAUTION!!! THIS PAGE IS STILL BEING WORKED ON!!!
-## PROCEED AT YOUR OWN RISK
------
-
-
 ## Huge New Building Announced
 By Tony Yuan
 
@@ -44,7 +38,7 @@ Cases are at 17, and deaths remain at 0. Over 7 million people have been vaccina
 ## Feature: Louis Keon
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Louis Keon, the curator of fossils at the Olb City Natural History Museum (OCNHM).
+Today we interviewed Louis Keon, the lead curator of fossils at the Olb City Natural History Museum (OCNHM).
 
 Olb City Announcer: What's the coolest thing you've ever seen at the OCHNM?
 
@@ -56,7 +50,7 @@ LK: Well, so just last week we had this archaeologist named Kallahan Mvwry. He's
 
 OCA: That sounds amazing! How many fossils are in the OCHNM's storage, do you reckon?
 
-LK: Well, I've been the curator for 24 years, so I know the layout of the OCHNM storerooms, and I know that there are seventeen storerooms, actually more like warehouses, and each of them has 1,000 twelve-foot shelves which are also twenty feet long. Each of the shelves can hold about 240 1x1x1 boxes of fossils. Each box will hold 5 fossils, as an approximation; and the fossils department controls 2 of the warehouses. So 5 times 240 times 1,000 times 2 is 2,400,000, which means that we have somewhere around two and a half million fossils in our collection.
+LK: Well, I've been the curator for 24 years, so I know the layout of the OCHNM storerooms, and I know that there are seventeen storerooms, actually more like warehouses, and each of them has 1,000 shelves which are twelve feet tall, twenty feet long, and one foot wide. Each of the shelves can hold about 240 1x1x1 boxes of fossils. Each box will hold 5 fossils, as an approximation; and the fossils department controls 2 of the warehouses. So 5 times 240 times 1,000 times 2 is 2,400,000, which means that we have somewhere around two and a half million fossils in our collection. Remember, though, this isn't all huge complete dinosaur skulls or whatever. I would say that 90 percent of it is just fragments of shells or little scraps of rock which are in some way important to the department.
 
 OCA: Well, that looks like all the questions that we have today! Thank you for coming and telling us all these cool stories!
 
