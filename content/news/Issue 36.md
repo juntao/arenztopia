@@ -33,7 +33,7 @@ Next week should be hotter than this week, with temperatures going from 25 to 30
 ## Coronavirus Report
 By Owen Miyazoi
 
-Cases are at only TWO, with 0 deaths still. President Avila says that people will need to continue social distancing, wearing masks, and refrain from being in groups more than 15 people until 100% of adults are vaccinated because there might be more cases that we don't know about. The Arentopian Bureau of Health is working on a vaccine for kids 16 and under.
+Cases are at only TWO, with 0 deaths still. President Avila says that people will need to continue social distancing, wearing masks, and refrain from being in groups that are more than 15 people until 100% of adults are vaccinated because there might be more cases that we don't know about. The Arentopian Bureau of Health is working on a vaccine for kids 16 and under.
 
 ## Feature: Percia Joso
 By Lorenzo Avila & Tony Yuan
@@ -46,7 +46,7 @@ Percia Joso: Well, I grew up in post-WW2 Germany. My parents were some of the lu
 
 OCA: I can tell the book is going to be really good. Could you tell us about the characters?
 
-PJ: Well, the main character Adras is a smart kid with a passion for art. Every Saturday he and his best friend Joseph go to art class in Nazi Germany. On the Saturday of September 9, 1939, the teacher tells Joseph that he can't come because he's Jewish. Adras is shocked and goes home and tells his parents about what happened. His dad says, "It's for the best." Later Adras overhears his parents talking about working for the Nazis. He starts to plan to escape because he knows being a Nazi is wrong, and that night he escapes with Joseph, some Jewish neighbors, and the Jewish neighbors' baby. The rest of the story is them trying to make it to England.
+PJ: Well, the main character Adras is a smart kid with a passion for art. Every Saturday he and his best friend Joseph go to art class in Nazi Germany. On the Saturday of September 9, 1939, the art teacher tells Joseph that he can't come because he's Jewish. Adras is shocked and goes home and tells his parents about what happened. His dad says, "It's for the best." Later Adras overhears his parents talking about working for the Nazis. He starts to plan to escape because he knows being a Nazi is wrong, and that night he escapes with Joseph, some Jewish neighbors, and the Jewish neighbors' baby. The rest of the story is them trying to make it to England.
  
 OCA: I better go buy this book right now. Where can I get a copy?
 
@@ -61,7 +61,7 @@ This interview has been edited for length and clarity.
 ## Olb City Citizen Climbs Mt. Everest
 By Sam-Louis Alrocaet
 
-On Tuesday, Olb City climber Albert Oenal planted the Olb City flag at the summit of Mount Everest among dozens of others. He started his climb in early March. Oenal is a renowned mountaineer who has climbed Arenztopia Mountain, Mount Kilimanjaro, Mount Denali, the Matterhorn, and now Mount Everest.
+On Tuesday, Olb City climber Albert Oenal planted the Olb City flag at the summit of Mount Everest among dozens of other flags. He started his climb in early March. Oenal is a renowned mountaineer who has climbed Arenztopia Mountain, Mount Kilimanjaro, Mount Denali, the Matterhorn, and now Mount Everest.
 
 ## Panda Stolen Update
 By Owen Miyazoi
