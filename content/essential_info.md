@@ -176,21 +176,20 @@ Old Arenztopian Facts (O) / Arenztopia Founders + Welcome to Arenztopia Sign (Wi
 An old drawing of an Arenztopian Villa (WiP) (2P)    
 The Hall of Splendorous Grandour / The King's Guard    
 Map of the average Arenztopian Incan vault (O) + Map of an Incan Temple complex (O) / The Incans in Arenztopia Island (IT)    
-
+Aircraft illustration (O) / Death Squadron Elite division thingy (IT)    
 
 ##### Notebook paper in the middle:
 title page: Arenztopia Official Government Documents    
-Arenzish Sign Language / Arenzish Sign Language cont.+timeline (O)    
-Map of Arenztopia City    
-Arenztopia Train Station+Arenztopia Train Station description    
-Mrs. Young Day is March 9th    
+Arenzish Sign Language / Arenzish Sign Language cont. + timeline (O)    
+Map of Arenztopia City / Attempt by Clint to redesign Arenztopia City (WiP) (O)    
+Arenztopia Train Station + Arenztopia Train Station description / Mrs. Young Day is March 9th    
 Clint L. Memorial Day    
 Budget Sheet: Suhan Edition+stuff that Suhan wants (O)    
 Arenztopia Coat of Arms Rough Draft    
 Government Warning: James M. is a Spy! (O)    
 Jobs (O)    
 Arenztopia Government Balance Sheet    
-Tax Checklist (WiP)    
+Tax Checklist (WiP) (O)    
 Arenztopia Citizen Register (O)    
 Note: Yeet Language Precursor: Alejandro Version (O)    
 Store Notes: Sam's Pokemon Store    
@@ -199,13 +198,18 @@ Arenztopia Governmental Meeting Register (WiP)
 Political Structure    
 List of Bureaus    
 List of National Parks    
+List of Officers (WiP)    
+Native Arenztopian Day    
 
 ##### Right Pocket (non-government things):
 Dripping Cone Logo    
 Dripping Cone 100 Years (O)    
 Olb City Art Museum drawing    
-Arenztopia City Hall drawing    
+Arenztopia Companies Logos Design Sheet    
+Arenztopia City City Hall drawing    
 Tony's University Diploma    
+Olb City Announcer Issue 6 Page 1-2
+Olb City Announcer Issue 6 Page 3-4
 Olb City Announcer Issue 5 Page 1-2    
 Olb City Announcer Issue 5 Page 3-4    
 Olb City Announcer Issue 4 Page 1-2    
@@ -224,7 +228,7 @@ Map of Soa
 Olb City Announcer To-do (O)    
 GD & Co advert    
 Incan Decorative Helmet drawing / Incan dagger drawing    
-Arenztopai Beach Palace drawing / Title of Drawing+Stats about the palace    
+Arenztopia Beach Palace drawing / Title of Drawing+Stats about the palace    
 GD & Co flagship and headquarters drawing    
 Arenztopia Financial Center drawing (O)    
 Arenzese Translation Guide (O)    
