@@ -136,25 +136,28 @@ Key:
 [thing] / [thing on back of page]    
 [thing]+[other thing on the same page]    
 
-##### Left pocket (government things):
+##### Left pocket (government things):    
+Map of Olb City    
+Arenztopia full coat of arms    
 Arenztopia official map / History of Arenztopia (IT)    
 Arenztopia topographical map    
 Arenztopia highway map    
-Arenztopia full coat of arms    
 City coat of arms    
 Arenztopian cities    
 Arenzese translation guide    
-Arenztopia info sheet    
+List of Arenztopia Media Group companies    
+Rivers of Arenztopia    
+Map of Modinau    
+Arenztopia Info    
 The Arenztopian Island (IT)    
-Arenztopian Flag    
-Arenzese translation guide (O)    
+The Arenztopian Flag    
+Arenzese Translation Guide (O)    
 Top Secret Document (O)    
 Top Secret Document (O)    
 Job Sheet (O)    
-Crown of the King / Crown explanation (IT)    
-Incan temple complex diagram (2P) / Arenztopian Incan jewels (2P) (IT)    
-Aircraft illustration (O) / Death Squadron Elite division thingy (IT)    
-The King's great military affairs hall facade drawing / The King's great reception hall floor plan+king's throne diagram    
+The King's crown (O) / The King's crown explanation (IT)    
+When Translating to Arenzese (IT)    
+The King's great military affairs hall facade drawing / The King's great reception hall floor plan + king's throne diagram    
 Forbidden Halls of Arenztopia drawing    
 King Renzo's Meeting Schedule (O)    
 Blank sheet of paper    
@@ -169,9 +172,11 @@ Arenzese Translation Guide, Tony edition (WiP) (2P)
 Original Arenzese Translation Guide (O)    
 List of National Parks (O)    
 Arenztopian National Park Service logo    
-Old Arenztopian Facts (O) / Arenztopia Founders+Welcome to Arenztopia Sign (WiP) (O)    
-An old drawing of an Arenztopian Villa (WiP)    
+Old Arenztopian Facts (O) / Arenztopia Founders + Welcome to Arenztopia Sign (WiP) (O)    
+An old drawing of an Arenztopian Villa (WiP) (2P)    
 The Hall of Splendorous Grandour / The King's Guard    
+Map of the average Arenztopian Incan vault (O) + Map of an Incan Temple complex (O) / The Incans in Arenztopia Island (IT)    
+
 
 ##### Notebook paper in the middle:
 title page: Arenztopia Official Government Documents    
