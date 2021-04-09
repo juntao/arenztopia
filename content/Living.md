@@ -76,6 +76,6 @@ HEB ($) HEB is a supermarket. They offer quick service, low prices, and quality 
 
 Dripping Cone ($$) Dripping Cone is the world's largest ice cream company, with nearly as many stores as McDonalds. They have nearly every flavor of ice cream and every type of candy. Visit their website at [drippingcone.com](https://sites.google.com/view/drippingcone-com/home).
 
-AZ SuperMarket ($$) AZ SuperMarket is a popular Arenztopian supermarket which has good food, cheap prices, and locations all over the country. They are open 24/7. Visit their website at [azsupermarket.az](azsupermarket.az).
+AZ SuperMarket ($$) AZ SuperMarket is a popular Arenztopian supermarket which has good food, cheap prices, and locations all over the country. They are open 24/7. Visit their website at [azsupermarket.az](https://sites.google.com/stu.austinisd.org/az-supermarket-az/home).
 
 Tllwullw Foods ($) Tllwullw Foods is a cheap supermarket found all over Arenztopia. It provides high-quality food at a low price. It is open 5 days a week from 9am to 9pm. Visit their website at [tllwullw.com](tllwullw.com).
