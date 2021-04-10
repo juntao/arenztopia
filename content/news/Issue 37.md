@@ -45,6 +45,8 @@ This interview has been edited for length and clarity.
 ## Story
 By Sam-Louis Alrocaet
 
+Archaeologist Ishaan P, discovered a egyptian tomb under Arenztopia desert. As he and his team were digging, they found a door leading to a very well preserved room, full of gold with a mummie. They believe the mummie was a wealthy land owner named Abasi Adel. They found 3 other rooms, a library with books that would have been very expensive at that time, a second mummie tomb which is believed to be his wife, and a hidden room with over 10 million Arenzos worth of gold.
+
 
 
 ## Story
