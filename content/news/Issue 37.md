@@ -42,12 +42,10 @@ By Lorenzo Avila & Tony Yuan
 
 This interview has been edited for length and clarity.
 
-## Story
+## Mummy Tomb Found
 By Sam-Louis Alrocaet
 
-Archaeologist Ishaan P, discovered a egyptian tomb under Arenztopia desert. As he and his team were digging, they found a door leading to a very well preserved room, full of gold with a mummie. They believe the mummie was a wealthy land owner named Abasi Adel. They found 3 other rooms, a library with books that would have been very expensive at that time, a second mummie tomb which is believed to be his wife, and a hidden room with over 10 million Arenzos worth of gold.
-
-On Tuesday, famous archaeologist Ishaan P. discovered a tomb built in the Ancient Egyptian style hidden underneath the Arenztopian Desert. The tomb contained two mummies, a room with many expensive books, and another, hidden room with over 5 million Arenzos worth of gold. The mummies are believed to be that of a wealthy Arenztopian landowner named Abasi Adel and his wife. They famously requested to be mummified in 1924 at the height of the European mummy craze.
+On Tuesday, famous archaeologist Ishaan P. discovered a tomb built in the Ancient Egyptian style hidden underneath the Arenztopian Desert. The tomb contained two mummies, a room with many expensive books, and another, hidden room with over 5 million Arenzos worth of gold. The mummies are believed to be that of a wealthy Arenztopian landowner named Abasi Adel and his wife. They famously requested to be mummified in 1924 at the height of the European mummy craze. Abasi had his mummy buried in a previously secret location known only to him, his wife, and the contracting company employed to dig it.
 
 ## Story
 By Owen Miyazoi
