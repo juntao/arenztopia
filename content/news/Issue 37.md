@@ -44,6 +44,14 @@ By Owen Miyazoi
 ## Feature: 
 By Lorenzo Avila & Tony Yuan
 
+Today we interviewed Meilleur Gâteau Acel, owner of Acel's Bakery in the predominantly french neigborhood in New Paris. 
+
+Olb City Announcer: Hi! Thanks for being here! Could you tell us about the history of your bakery.
+
+Meilleur G. Acel: Yea, well my grandmother started the buisness as a small bakery just out of town in 1950 after Arenztopia became a US territory. She was amazing! When i was little she taught me alot. She passed when I was 10 but my mom continued to teach me. From that time until now, me and my mom run the restaraunt together. My dad passed away of cancer before i was born, so we use the profits to donate to Medicine Center atArenztopian University.
+
+OCA: I am so sorry for your losses, could you tell us about Dripping Cone.
+
 
 
 This interview has been edited for length and clarity.
