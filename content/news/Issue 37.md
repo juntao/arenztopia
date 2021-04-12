@@ -61,7 +61,7 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-
+Today we recommend the excellent article "I Recommend Eating Chips" by Sam Anderson for the New York Times. It is funny and amplifies the experience of eating chips into a true literary masterpiece. You can read it [here](https://docs.google.com/document/d/e/2PACX-1vR1jGx0qUICHKUHf3lzZVIdzPYKRQ8Ow1-OwCfT7nTH8tP4aXXBPHvAdsiupAPyX-Agcty3D65H_W9o/pub).
 
 ## Poetry
 By Lorenzo Avila
