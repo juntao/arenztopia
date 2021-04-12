@@ -6,8 +6,6 @@ featured: true
 weight: 37
 ---
 
-Tony, check your google hangouts i found it after i lost it and i will send a picture later.
-
 ------------------------
 # CAUTION!!!    
 ## THIS PAGE IS STILL BEING WORKED ON    
@@ -70,13 +68,9 @@ By Lorenzo Avila
 
 School
 
-less than 2 months
-
-we will have the break
-
-we have been waiting for
-
-  
+less than 2 months    
+we will have the break    
+we have been waiting for    
 
 ## Obituary
 By Owen Miyazoi
