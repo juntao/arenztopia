@@ -68,6 +68,14 @@ By Sam-Louis Alrocaet
 ## Poetry
 By Lorenzo Avila
 
+School
+
+less than 2 months
+
+we will have the break
+
+we have been waiting for
+
   
 
 ## Obituary
