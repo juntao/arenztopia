@@ -93,3 +93,5 @@ we have been waiting for
 ## Obituary
 By Owen Miyazoi
 
+Ldvm Nrbzalr, a local politician, passed away 
+
