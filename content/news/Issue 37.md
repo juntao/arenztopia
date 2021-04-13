@@ -41,28 +41,18 @@ By Owen Miyazoi
 
 
 
-## Feature: 
+## Feature: Meilleur Acel
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Meilleur Gâteau Acel, owner of Acel's Bakery in the predominantly french neigborhood in New Paris. 
+Today we interviewed Meilleur Gâteau Acel, owner of Acel's Bakery in New Paris. It achieved some degree of fame in the cooking community on Monday when it won the coveted 1st place award on the French baking competition show GPF. Mr. Acel is also known for his famous 2013 deal with Dripping Cone, in which he became the first small business to collaborate with the ice cream giant.
 
-Olb City Announcer: Hi! Thanks for being here! Could you tell us about the history of your bakery.
+Olb City Announcer: Hi! Thanks for coming! Could you tell us a bit about the history of your bakery?
 
-Meilleur G. Acel: Yea, well my grandmother started the buisness as a small bakery just out of town in 1950 after Arenztopia became a US territory. She was amazing! When i was little she taught me a lot. She passed when I was 10 but my mom continued to teach me. From that time until now, me and my mom run the restaraunt together. My dad passed away of cancer before i was born, so we use the profits to donate to Medicine Center atArenztopian University.
+Meilleur Acel: Sure! So it all started when my grandmother decided to open a bakery in New Paris, after she had immigrated there from France in the 1950s. She was a truly amazing chef! Whenever I wandered past the kitchen while she was cooking, she would drag me over and show me how to bake bread from scratch, weather I wanted to have a cooking lesson or not. Unfortunately, my grandmother opassed away when I was 13, and from then on my mom taught me. My dad had passed away of cancer only two months before I was born, so we donate 25% of our bakery's profits to cancer research at the Department of Medicine at Arenztopia University.
 
-OCA: I am so sorry for your losses, could you tell us about Dripping Cone?
+OCA: I am so sorry for your losses, could you tell us a bit about your famous deal with Dripping Cone?
 
-MGA: Recently, dripping cone reaxhed out to us and gave us an offer of 2 Million arenzos, if we supplie there stores with desserts. And we also get to have a small shop inside the flagship store.
-
-OCA: So cool! What is your favorite dessert you make?
-
-MGA: Probably our Étonnante Choclate Cake. We make an expresso-dutch dark choclate cake mix, with our secret choclate syrup. Then once it is out of the oven and cooled, we top it with our famous frosting our choclate truffles and the freshest strawberrys on the planet, grown in our own backyard.
-
-OCA: I am starving now! Thanks for coming!
-
-MGA: Thanks for asking me!
-
-
+MA: 
 
 This interview has been edited for length and clarity.
 
@@ -92,6 +82,4 @@ we have been waiting for
 
 ## Obituary
 By Owen Miyazoi
-
-Ldvm Nrbzalr, a local politician, passed away 
 
