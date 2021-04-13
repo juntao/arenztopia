@@ -48,9 +48,19 @@ Today we interviewed Meilleur Gâteau Acel, owner of Acel's Bakery in the predom
 
 Olb City Announcer: Hi! Thanks for being here! Could you tell us about the history of your bakery.
 
-Meilleur G. Acel: Yea, well my grandmother started the buisness as a small bakery just out of town in 1950 after Arenztopia became a US territory. She was amazing! When i was little she taught me alot. She passed when I was 10 but my mom continued to teach me. From that time until now, me and my mom run the restaraunt together. My dad passed away of cancer before i was born, so we use the profits to donate to Medicine Center atArenztopian University.
+Meilleur G. Acel: Yea, well my grandmother started the buisness as a small bakery just out of town in 1950 after Arenztopia became a US territory. She was amazing! When i was little she taught me a lot. She passed when I was 10 but my mom continued to teach me. From that time until now, me and my mom run the restaraunt together. My dad passed away of cancer before i was born, so we use the profits to donate to Medicine Center atArenztopian University.
 
-OCA: I am so sorry for your losses, could you tell us about Dripping Cone.
+OCA: I am so sorry for your losses, could you tell us about Dripping Cone?
+
+MGA: Recently, dripping cone reaxhed out to us and gave us an offer of 2 Million arenzos, if we supplie there stores with desserts. And we also get to have a small shop inside the flagship store.
+
+OCA: So cool! What is your favorite dessert you make?
+
+MGA: Probably our Étonnante Choclate Cake. We make an expresso-dutch dark choclate cake mix, with our secret choclate syrup. Then once it is out of the oven and cooled, we top it with our famous frosting our choclate truffles and the freshest strawberrys on the planet, grown in our own backyard.
+
+OCA: I am starving now! Thanks for coming!
+
+MGA: Thanks for asking me!
 
 
 
