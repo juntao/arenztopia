@@ -1,4 +1,4 @@
----
+c---
 title: "Issue 37"
 date: 2020-03-8T12:33:46+10:00
 draft: false
@@ -83,3 +83,4 @@ we have been waiting for
 ## Obituary
 By Owen Miyazoi
 
+Ldvm Nrbzalr, a local politician, passed away 
