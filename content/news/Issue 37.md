@@ -91,4 +91,4 @@ we have been waiting for
 ## Obituary
 By Owen Miyazoi
 
-Ldvm Nrbzalr, a local politician, passed away at the age of 92 on Monday. He was active 
+Szbzl Nrbzazpr, a local politician, passed away at the age of 92 on Monday. He was active in the 1960s and 70s as an essential component of the famous Oayah Movement to urbanize Olb City. You can show sympathy by visiting his memorial page at [olbcity.az/nrbzazpr](https://sites.google.com/stu.austinisd.org/placeholder-site/home) or by calling 680-292-0192.
