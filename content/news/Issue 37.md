@@ -48,7 +48,7 @@ Today we interviewed Meilleur Gâteau Acel, owner of Acel's Bakery in New Paris.
 
 Olb City Announcer: Hi! Thanks for coming! Could you tell us a bit about the history of your bakery?
 
-Meilleur Acel: Sure! So it all started when my grandmother decided to open a bakery in New Paris, after she had immigrated there from France in the 1950s. She was a truly amazing chef! Whenever I wandered past the kitchen while she was cooking, she would drag me over and show me how to bake bread from scratch, weather I wanted to have a cooking lesson or not. Unfortunately, my grandmother opassed away when I was 13, and from then on my mom taught me. My dad had passed away of cancer only two months before I was born, so we donate 25% of our bakery's profits to cancer research at the Department of Medicine at Arenztopia University.
+Meilleur Acel: Sure! So it all started when my grandmother decided to open a bakery in New Paris, after she had immigrated there from France in the 1950s. She was a truly amazing chef! Whenever I wandered past the kitchen while she was cooking, she would drag me over and show me how to bake bread from scratch, weather I wanted to have a cooking lesson or not. Unfortunately, my grandmother passed away when I was 13, and from then on my mom taught me. My dad had passed away of cancer only two months before I was born, so we donate 25% of our bakery's profits to cancer research at the Department of Medicine at Arenztopia University.
 
 OCA: I am so sorry for your losses, could you tell us a bit about your famous deal with Dripping Cone?
 
