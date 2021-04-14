@@ -1,4 +1,4 @@
-c---
+---
 title: "Issue 37"
 date: 2020-03-8T12:33:46+10:00
 draft: false
@@ -54,6 +54,14 @@ OCA: I am so sorry for your losses, could you tell us a bit about your famous de
 
 MA: 
 
+OCA:
+
+MA:
+
+OCA: Well, that looks like all the questions we have for you today! Thank you for coming!
+
+MA: Thank you for inviting me!
+
 This interview has been edited for length and clarity.
 
 ## Mummy Tomb Found
@@ -83,4 +91,4 @@ we have been waiting for
 ## Obituary
 By Owen Miyazoi
 
-Ldvm Nrbzalr, a local politician, passed away 
+Ldvm Nrbzalr, a local politician, passed away at the age of 92 on Monday. He was active 
