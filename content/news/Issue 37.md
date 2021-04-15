@@ -54,9 +54,9 @@ OCA: I am so sorry for your losses, could you tell us a bit about your famous de
 
 MA: 
 
-OCA:
+OCA: Cool! What is your favorite dessert you make at the bakery?
 
-MA:
+MA: The Étonnante Choclate Cake, for sure. We make an expresso-dutch dark choclate cake , with our secret choclate syrup. Then once it is out of the oven and cooled, we top it with our famous frosting our choclate truffles and the freshest strawberrys on the planet, grown in our own backyard.
 
 OCA: Well, that looks like all the questions we have for you today! Thank you for coming!
 
