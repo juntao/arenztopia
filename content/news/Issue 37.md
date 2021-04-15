@@ -19,7 +19,7 @@ April 18th-April 24th, 2021
 ## Building Demolished
 By Tony Yuan
 
-220 Main Street-On Monday, a 34-story building on Main Street was demolished. The building was built in 1973 in the retrofuturism style. It used to house offices for Atlantic Cinemas, but after Atlantic shut down in 2004, the building was abandoned. The building had many rounded shapes, circular portholes, curves, and chrome. It was renovated in 2009 and used as offices for AOA Realty, before AOA also shut down in 2019.
+220 Main Street-On Monday, a 34-story building on Main Street was demolished. The building was built in 1973 in the retrofuturism style. It used to house offices for Atlantic Cinemas, but after Atlantic shut down in 2004, the building was abandoned. The building had many rounded shapes, circular portholes, curves, and chrome. It was renovated in 2009 and used as offices for AOA Realty, before AOA shut down in 2019. Since then it has lain in a state of disrepair, and after inspectors deemed it  
 
 ## Arts
 by Owen Miyazoi
@@ -69,10 +69,10 @@ By Sam-Louis Alrocaet
 
 On Tuesday, famous archaeologist Ishaan P. discovered a tomb built in the Ancient Egyptian style hidden underneath the Arenztopian Desert. The tomb contained two mummies, a room with many expensive books, and another, hidden room with over 5 million Arenzos worth of gold. The mummies are believed to be that of a wealthy Arenztopian landowner named Abasi Adel and his wife. They famously requested to be mummified in 1924 at the height of the European mummy craze. Abasi had his mummy buried in a previously secret location known only to him, his wife, and the contracting company employed to dig it.
 
-## Story
+## G. B. MacEmhoff's Personal Records Released
 By Owen Miyazoi
 
-
+The personal records of famous media and oil magate Gaylord Brownings MacEmhoff, more commonly known as G. B. MacEmhoff, were finally released by the government after the allotted time of 50 years for prominent historical figures. MacEmhoff was an Irish-American who immigrated to Arenztopia and made a previously unknown but gigantic amount of money wildcatting in the Arenztopian Desert and investing in the stock market. He was convicted of fraud in 1970 and the American government siezed all of his personal property the following year, before turning it over to the Arenztopian government in 2020. The records show the true extent of his wealth, the amount of money lost in the vast fraud that he sponsored, and the extent of his estate. His net worth peaked in 1947 at over 50 billion Arenzos; he frauded people out of 23 billion Arenzos; and his estates covered a total of 12,890 square acres. 
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
