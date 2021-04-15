@@ -16,10 +16,10 @@ weight: 37
 Volume 4, Issue 7   
 April 18th-April 24th, 2021    
 
-## Cover story
+## Building Demolished
 By Tony Yuan
 
-
+220 Main Street-On Monday, a 34-story building on Main Street was demolished. The building was built in 1973 in the retrofuturism style. It used to house offices for Atlantic Cinemas, but after Atlantic shut down in 2004, the building was abandoned. The building had many rounded shapes, circular portholes, curves, and chrome. It was renovated in 2009 and used as offices for AOA Realty, before AOA also shut down in 2019.
 
 ## Arts
 by Owen Miyazoi
@@ -54,10 +54,9 @@ OCA: I am so sorry for your losses, could you tell us a bit about your famous de
 
 MA: 
 
-OCA: Cool! What is your favorite dessert you make at the bakery?
+OCA:
 
-MA: The Étonnante Choclate Cake, for sure. We make an expresso-dutch dark choclate cake , with our secret choclate syrup. Then once it is out of the oven and cooled, we top it with our famous frosting our choclate truffles and the freshest strawberrys on the planet, grown in our own backyard.
-
+MA:
 
 OCA: Well, that looks like all the questions we have for you today! Thank you for coming!
 
@@ -78,7 +77,7 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-Today we recommend the excellent article "I Recommend Eating Chips" by Sam Anderson for the New York Times. It is funny and amplifies the experience of eating chips into a true literary masterpiece. You can read it [here](https://docs.google.com/document/d/e/2PACX-1vR1jGx0qUICHKUHf3lzZVIdzPYKRQ8Ow1-OwCfT7nTH8tP4aXXBPHvAdsiupAPyX-Agcty3D65H_W9o/pub).
+Today we recommend the excellent article "I Recommend Eating Chips" by Sam Anderson for the New York Times. It is funny and amplifies the experience of eating chips into a true literary masterpiece. You can read it [here](https://www.nytimes.com/2021/01/13/magazine/i-recommend-eating-chips.html), but you'll have to bypass the paywall somehow.
 
 ## Poetry
 By Lorenzo Avila
