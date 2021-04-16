@@ -56,7 +56,7 @@ MA:
 
 OCA: Cool! What is your favorite dessert you make at the bakery?
 
-MA: The Étonnante Choclate Cake, for sure. We make an expresso-dutch dark choclate cake , with our secret choclate syrup. Then once it is out of the oven and cooled, we top it with our famous frosting our choclate truffles and the freshest strawberrys on the planet, grown in our own backyard.
+MA: The Étonnante Choclate Cake, for sure. We make an espresso and dutch dark chocolate cake, with liberal amounts of our secret-recipe chocolate syrup. Then once it is out of the oven and cooled, we top it with our famous chocolate frosting, our hand-made chocolate truffles and strawberries sourced from local farms.
 
 OCA: Well, that looks like all the questions we have for you today! Thank you for coming!
 
