@@ -16,10 +16,10 @@ weight: 37
 Volume 4, Issue 7   
 April 18th-April 24th, 2021    
 
-## Building Demolished
+## Luke Jasil Kidnapping Mystery Solved!
 By Tony Yuan
 
-220 Main Street-On Monday, a 34-story building on Main Street was demolished. The building was built in 1973 in the retrofuturism style. It used to house offices for Atlantic Cinemas, but after Atlantic shut down in 2004, the building was abandoned. The building had many rounded shapes, circular portholes, curves, and chrome. It was renovated in 2009 and used as offices for AOA Realty, before AOA shut down in 2019. Since then it has lain in a state of disrepair, and after inspectors deemed it  
+8930 Wensal Lane-Private investigator Sai G. has solved the long-standing mystery of the presumed kidnapping of famous soccer player Luke Jasil. The culprit was determined to be 59 year old Frederick Winston. According to the OCPD, Winston was illegally smuggling wine and alcohol by hiding it in Pringles cans. Winston was also convicted of stealing caviar from multiple luxury stores and also hiding it in Pringles cans. Since Jasil lives close to Winston's house, one day while Jasil was going on a run he saw Winston drinking wine out of a Pringles can. Jasil wrote a letter to Winston inquiring about the strange sight, and shortly after, he was kidnapped. Jasil was found in a state of delerium in Winston's neighbor's house; it seems that Winston's neighbor was also a collaborator in the wine-smuggling operation. Both people have been sentenced to 367 years in prison on three hundred and forty five charges of wine and alcohol smuggling, two hundred charges of shoplifting, and one charge of kidnapping.
 
 ## Arts
 by Owen Miyazoi
