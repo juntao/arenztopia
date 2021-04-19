@@ -19,12 +19,12 @@ April 18th-April 24th, 2021
 ## Luke Jasil Kidnapping Mystery Solved!
 By Tony Yuan
 
-8930 Wensal Lane-Private investigator Sai G. has solved the long-standing mystery of the presumed kidnapping of famous soccer player Luke Jasil. The culprit was determined to be 59 year old Frederick Winston. According to the OCPD, Winston was illegally smuggling wine and alcohol by hiding it in Pringles cans. Winston was also convicted of stealing caviar from multiple luxury stores and also hiding it in Pringles cans. Since Jasil lives close to Winston's house, one day while Jasil was going on a run he saw Winston drinking wine out of a Pringles can. Jasil wrote a letter to Winston inquiring about the strange sight, and shortly after, he was kidnapped. Jasil was found in a state of delerium in Winston's neighbor's house; it seems that Winston's neighbor was also a collaborator in the wine-smuggling operation. Both people have been sentenced to 367 years in prison on three hundred and forty five charges of wine and alcohol smuggling, two hundred charges of shoplifting, and one charge of kidnapping.
+8930 Wensal Lane-Private investigator Sai G. has solved the long-standing mystery of the presumed kidnapping of famous soccer player Luke Jasil. The culprit was determined to be 59 year old Frederick Winston. According to the OCPD, Winston was illegally smuggling wine and alcohol by hiding it in Pringles cans. Winston was also convicted of stealing caviar from multiple luxury stores and also hiding it in Pringles cans. Since Jasil lives close to Winston's house, one day while Jasil was going on a run he saw Winston drinking wine out of a Pringles can. Jasil wrote a letter to Winston inquiring about the strange sight, and shortly after, he was kidnapped. Jasil was found in a state of delerium in Winston's neighbor's house; it seems that Winston's neighbor was also a collaborator in the wine-smuggling operation. Both people have been sentenced to 365 years in prison on three hundred and forty five charges of wine and alcohol smuggling, twenty charges of shoplifting, one charge of kidnapping, and one charge of holding a person hostage.
 
 ## Arts
 by Owen Miyazoi
 
-
+Artist Kintrol Raven unveiled a new artwork on Monday featuring a view of the streets of Olb City from the edge of Olb Plaza, in the style of Impressionist Gustave Caillebotte. It is to go on display in the OCAM as part of the exhibit Impressionists of Olb City.
 
 ## Sports
 By Sam-Louis Alrocaet
@@ -56,7 +56,7 @@ MA:
 
 OCA: Cool! What is your favorite dessert you make at the bakery?
 
-MA: The Étonnante Choclate Cake, for sure. We make an espresso and dutch dark chocolate cake, with liberal amounts of our secret-recipe chocolate syrup. Then once it is out of the oven and cooled, we top it with our famous chocolate frosting, our hand-made chocolate truffles and strawberries sourced from local farms.
+MA: The Étonnante Chocolate Cake, for sure. We make an espresso and dutch dark chocolate cake, with liberal amounts of our secret-recipe chocolate syrup. Then once it is out of the oven and cooled, we top it with our famous chocolate frosting, our hand-made chocolate truffles and strawberries sourced from local farms.
 
 OCA: Well, that looks like all the questions we have for you today! Thank you for coming!
 
