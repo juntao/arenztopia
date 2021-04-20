@@ -24,12 +24,12 @@ By Tony Yuan
 ## Arts
 by Owen Miyazoi
 
-Artist Kintrol Raven unveiled a new artwork on Monday featuring a view of the streets of Olb City from the edge of Olb Plaza, in the style of Impressionist Gustave Caillebotte. It is to go on display in the OCAM as part of the exhibit Impressionists of Olb City.
+Artist Kintrol Raven unveiled a new artwork on Monday featuring a view of the streets of Olb City from the edge of Olb Plaza, in the style of Impressionist Gustave Caillebotte. It is to go on display in the OCAM next week as part of the upcoming exhibit Impressionists of Olb City.
 
 ## Sports
 By Sam-Louis Alrocaet
 
-
+Shreet announced the building of a new sports arena for their new football team, the Shreetian Scorpions. The Scorpions are expected to have a strong start in next year's season. The arena will feature 50,000 seats, a retractable roof, 130 restaurants, and more. It will start construction in May and is supposed to be finished in January 2022 at a cost of 500,000 Arenzos.
 
 ## Weather
 By Mezoir Logan
