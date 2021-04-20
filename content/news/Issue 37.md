@@ -34,12 +34,12 @@ Shreet announced the building of a new sports arena for their new football team,
 ## Weather
 By Mezoir Logan
 
+Temperatures should be about the same as last week, hovering around 28 degrees Celsius. On Friday the temperature will go to about 33 degrees Celsius, which will be the hottest recorded temperature this year.
 
-
-## Coronavirus Report
+## Coronavirus Report: The Pandemic is OVER!!!
 By Owen Miyazoi
 
-
+Cases have finally dropped to ZERO after many months of pandemic! Vaccinations are still going on, with 15 million people vaccinated so far. President Avila and many other government officials held a ceremony to commemorate the occasion, but Avila says that everybody needs to get tested because we don't know if there are any asymptomatic cases or cases that have not been discovered yet.
 
 ## Feature: Meilleur Acel
 By Lorenzo Avila & Tony Yuan
