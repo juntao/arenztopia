@@ -52,7 +52,7 @@ Meilleur Acel: Sure! So it all started when my grandmother decided to open a bak
 
 OCA: I am so sorry for your losses, could you tell us a bit about your famous deal with Dripping Cone?
 
-MA: 
+MA: Sure! So one day, right out of the blue, I got a call from Claire P., the CEO of Dripping Cone. And then she was like, "Hey, we would like to make a chocolate cake-flavored ice cream flavor based on one of your chocolate cakes, would that be alright with you?" and I was like, "Yeah, ok," and I thought it was a prank call. A week later I got another call from Claire saying that I would get 25% of the profits, would that be okay with me? and I said yes and assumed that it was another prank call. Then a month later I went to a Dripping Cone store and saw a chocolate cake-flavored ice cream that had a little sign on top of it, and the sign said "Based on a cake made by Acel's Bakery." And then when I went to check the mail, and there was a bright blue envelope with a check inside for 4,000 Arenzos and a note that said, "Dear Mr. Acel, here is your 25% share in the profits made through sales of an ice cream flavor based on something that you made. Thank you for collaborating with us! From, Dripping Cone." and I was like, wow, this is actually real, and I went home to tell my family.
 
 OCA: Cool! What is your favorite dessert you make at the bakery?
 
