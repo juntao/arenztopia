@@ -38,7 +38,7 @@ Cases have finally dropped to ZERO after many months of pandemic! Vaccinations a
 ## Feature: Meilleur Acel
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Meilleur Gâteau Acel, owner of Acel's Bakery in New Paris. It achieved some degree of fame in the cooking community on Monday when it won the coveted 1st place award on the French baking competition show GPF. Mr. Acel is also known for his famous 2013 deal with Dripping Cone, in which he became the first small business to collaborate with the ice cream giant.
+Today we interviewed Meilleur Gâteau Acel, owner of Acel's Bakery in New Paris. He and his bakery achieved some degree of fame in the cooking community on Monday when he won the coveted 1st place award on the French baking competition show GPF. Mr. Acel is also known for his famous 2013 deal with Dripping Cone, in which he became the first small business to collaborate with the ice cream giant.
 
 Olb City Announcer: Hi! Thanks for coming! Could you tell us a bit about the history of your bakery?
 
