@@ -54,6 +54,8 @@ By Sam-Louis Alrocaet
 ## Story
 By Owen Miyazoi
 
+The head of the AALS, (Association of Arenztopia Learning and School) has made the announcement that because of the "Well paying nature of teachers" anyone that is trying to become a teachers will have to get a PHD in the new PHD area of teaching. 
+
  
 
 ## Book Recommendation
