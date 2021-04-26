@@ -191,6 +191,10 @@
   </url>
   
   <url>
+    <loc>/people/tasneem-a/</loc>
+  </url>
+  
+  <url>
     <loc>/news/issue-22/</loc>
   </url>
   
@@ -271,11 +275,6 @@
   <url>
     <loc>/people/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/tasneem-a/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
