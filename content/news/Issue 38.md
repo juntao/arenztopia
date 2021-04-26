@@ -51,17 +51,15 @@ By Sam-Louis Alrocaet
 
 
 
-## Story
+## New Degree for Teachers
 By Owen Miyazoi
 
-The head of the AALS, (Association of Arenztopia Learning and School) has made the announcement that because of the "Well paying nature of teachers" anyone that is trying to become a teachers will have to get a PHD in the new PHD area of teaching. 
-
- 
+The Officer of Education, Larsen Jinnin, has made the announcement that teachers will now have the opportunity to get a degree in teaching from the University of Arenztopia, at any of its branches. Teachers with a degree will be able to have a higher salary and other additional bonuses like increased vacation time.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-
+Today we recommend the absolutely stunning science fiction trilogy, the Three Body Problem by Cixin Liu. It is a captivating, vivid, and just plain excellent saga about the future of Earth. We here at the OCA personally recommend the paperback English translation from Tor.
 
 ## Poetry
 By Lorenzo Avila
