@@ -6,4 +6,4 @@ jobtitle: "Student of Arcaeology"
 weight: 10
 ---
 
-Ishaan is a student studying archaeology at the University of Arenztopia. He discovered the important hominid called Australopithecus Renzosis, which was the first hominid ever discovered in Arenztopia.
+Ishaan is a student studying archaeology at the University of Arenztopia. He discovered the important hominid called Australopithecus Renzosis, which was the first hominid ever discovered in Arenztopia. Ishaan has also recently started a Lego business
