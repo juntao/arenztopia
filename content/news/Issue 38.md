@@ -24,7 +24,7 @@ By Tony Yuan
 ## Arts
 by Owen Miyazoi
 
-
+On Sunday, police raided the house of convicted Woodchuck criminal Tom McBluecal. He appears to have been the financial manager of the Woodchucks. The attic of his home had many safes with stolen money in them. There were also multiple valuable paintings; they are believed to be the products of a heist that was carried out last June at the ACAM. The paintings include works by local Arenztopian artists like Moe Kinakshi, also also by famous artists from around the world like Kandinsky, Monet, and Mondrian. The paintings were shipped to the ACAM on Thursday.
 
 ## Sports
 By Sam-Louis Alrocaet
