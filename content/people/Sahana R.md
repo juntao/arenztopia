@@ -6,4 +6,4 @@ jobtitle: "Private Investigator"
 weight: 22
 ---
 
-Sahana R. is a private investigator based in Olb City. She is currently working with Sai G. on the unsolved mystery of the explosion at the Tortoise River Freight Port, which was mentioned in [Issue 31](https://www.arenztopia.com/news/issue-31/).
+Sahana R. is a private investigator based in Olb City. She is currently working with Sai G. on the unsolved mystery of the explosion at the Tortoise River Freight Port, which was mentioned in [Issue 31](https://www.arenztopia.com/news/issue-31/) of the Olb City Announcer.
