@@ -58,6 +58,13 @@ MA: Thank you for inviting me!
 
 This interview has been edited for length and clarity.
 
+## Woodchuck Criminals Caught Update
+By Owen Miyazoi
+
+This is an update to the cover story in [Issue 36](https://www.arenztopia.com/news/issue-36/).
+
+The Woodchuck criminals were revealed to be John Kanhson, Tom McBluecal, Chris Owens, and Harry Rasdin, as expected. Their respective attorneys all appealed after they were convicted, and the appeals court reviewed the sentence; they were found guilty again and sentenced to three consecutive life sentences each, without parole.
+
 ## Mummy Tomb Found
 By Sam-Louis Alrocaet
 
