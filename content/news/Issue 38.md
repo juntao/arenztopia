@@ -62,8 +62,7 @@ OCA: That sure is alot, but with the moeny the government gave, with all the don
 
 OT: Bye!
 
-Make sure to check out the website and donate![CES.com]( https://sites.google.com/view/astroeco/home
-).
+Make sure to check out the website and donate![CES.com](https://sites.google.com/view/astroeco/home).
 
 
 
