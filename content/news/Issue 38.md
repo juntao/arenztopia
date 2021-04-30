@@ -44,6 +44,27 @@ By Owen Miyazoi
 ## Feature:
 By Lorenzo Avila & Tony Yuan
 
+Today we interviewd Dr. Oma Toffe, a astrophysicist and CEO of EcoAstro.
+
+Olb City Announcer: Hello Dr. Toffe, thanks for coming! Could you tell us about what inspired you to become an astrophysicist?
+
+Oma Toffe: Hi! I've always wanted to become an astronaut. As I got older I moved to really getting someone else into space. I went to Arenztopian Tech University. As I left college I worked on my company. I made designs for the ECOAstroI, a eco friendly powered space craft, with HyperTurboEngine, with the best communication towers called ExcelTower and TDRS.
+
+OCA: Wow! Could you tell us about your current mission?
+
+OT: Of course! Right now me and my team of 25, including the 5 astronauts, are working on actually building my design as well as training and gettting ready to send it to space. We don't have tons of money, but we have come up with a way to make some. On out website we have made a way for you to submit a picture of anything, for the small fee of  dollars. The pictures will all be put into the space craft. We also are encouraging donations, because this is for the good of everyone. The goal of our space trip is to clean up trash in and near our atmosphere.
+
+OCA: That is very cool! Could you tell us your goal for the total amount of money?
+
+OT: Well, to pay for the actual ship we need 2 Billion, and for the tech as well as the cleaning devices we need another 1 billion, then fuel costs 1 million, plus money so me and my team have some money after already using all our money to put into this. So we need around 3,100,050,000 Arenzos.
+
+OCA: That sure is alot, but with the moeny the government gave, with all the donations you have and will have plenty. Thanks for comming and goodbye!
+
+OT: Bye!
+
+Make sure to check out the website and donate![CES.com]( https://sites.google.com/view/astroeco/home
+).
+
 
 
 ## Story
