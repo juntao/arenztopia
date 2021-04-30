@@ -41,30 +41,30 @@ By Owen Miyazoi
 
 
 
-## Feature:
+## Feature: Dr. Oma Toffe
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewd Dr. Oma Toffe, a astrophysicist and CEO of EcoAstro.
+Today we interviewed Dr. Oma Toffe, a astrophysicist and CEO of EcoAstro, which is a space technology startup.
 
 Olb City Announcer: Hello Dr. Toffe, thanks for coming! Could you tell us about what inspired you to become an astrophysicist?
 
-Oma Toffe: Hi! I've always wanted to become an astronaut. As I got older I moved to really getting someone else into space. I went to Arenztopian Tech University. As I left college I worked on my company. I made designs for the ECOAstroI, a eco friendly powered space craft, with HyperTurboEngine, with the best communication towers called ExcelTower and TDRS.
+Oma Toffe: Sure! So when I was little, I always wanted to become an astronaut: Like, I had space memorabilia everywhere, I had these big pictures of famous astronauts hung up in my room, et cetera. As I got older my interests moved more into the zone of getting someone else into space. After I graduated from the MacDuncan College of Astronomy at the Arenztopia University at Arenztopia City, I started to form a company. I made designs for the EcoAstroI, a eco friendly space craft, which will be able to clean up trash in space.
 
-OCA: Wow! Could you tell us about your current mission?
+OCA: Wow! Could you tell us about the current state of your project?
 
-OT: Of course! Right now me and my team of 25, including the 5 astronauts, are working on actually building my design as well as training and gettting ready to send it to space. We don't have tons of money, but we have come up with a way to make some. On out website we have made a way for you to submit a picture of anything, for the small fee of  dollars. The pictures will all be put into the space craft. We also are encouraging donations, because this is for the good of everyone. The goal of our space trip is to clean up trash in and near our atmosphere.
+OT: Of course! Right now me and my team of 25, including five astronauts, are working on actually building my design and getting ready to execute test flights. We don't have tons of money, but we have a foundation and we have gotten grants from the Arenztopian government. If you would like to contribute, you can go to our website and upload a picture, and we will put it in the spacecraft for a fee of 10 Arenzos per picture. You can also donate to our foundation through the website.
 
 OCA: That is very cool! Could you tell us your goal for the total amount of money?
 
-OT: Well, to pay for the actual ship we need 2 Billion, and for the tech as well as the cleaning devices we need another 1 billion, then fuel costs 1 million, plus money so me and my team have some money after already using all our money to put into this. So we need around 3,100,050,000 Arenzos.
+OT: Well, to pay for the actual ship we need one billion Arenzos, and for the tech as well as the cleaning devices we need another half a billion, then fuel costs 3 million, plus some more money so me and my team have some extra money to use in case of emergency. So all in all, we need about 1,503,000,000 Arenzos; we've raised about a third of that.
 
-OCA: That sure is alot, but with the moeny the government gave, with all the donations you have and will have plenty. Thanks for comming and goodbye!
+OCA: Well, that looks like all the questions we have for you today! Thanks for coming and goodbye!
 
-OT: Bye!
+OT: Bye! It was a joy to talk to you!
 
-Make sure to check out the website and donate![CES.com](https://sites.google.com/view/astroeco/home).
+This interview hads been edited for length and clarity.
 
-
+Note: Make sure to check out the EcoAstro website and donate! [ecoastro.az](https://sites.google.com/view/astroeco/home).
 
 ## Story
 By Sam-Louis Alrocaet
