@@ -48,7 +48,7 @@ Today we interviewed Dr. Oma Toffe, a astrophysicist and CEO of EcoAstro, which 
 
 Olb City Announcer: Hello Dr. Toffe, thanks for coming! Could you tell us about what inspired you to become an astrophysicist?
 
-Oma Toffe: Sure! So when I was little, I always wanted to become an astronaut: Like, I had space memorabilia everywhere, I had these big pictures of famous astronauts hung up in my room, et cetera. As I got older my interests moved more into the zone of getting someone else into space. After I graduated from the MacDuncan College of Astronomy at the Arenztopia University at Arenztopia City, I started to form a company. I made designs for the EcoAstroI, a eco friendly space craft, which will be able to clean up trash in space.
+Oma Toffe: Sure! So when I was little, I always wanted to become an astronaut: Like, I had space memorabilia everywhere, I had these big pictures of famous astronauts hung up in my room, et cetera. As I got older my interests moved more into the zone of getting someone else into space. After I graduated from the MacDuncan College of Astronomy at the Arenztopia University at Arenztopia City, I started to form a company. I made designs for the EcoAstro1, a eco-friendly space craft, which will be able to clean up trash in space.
 
 OCA: Wow! Could you tell us about the current state of your project?
 
