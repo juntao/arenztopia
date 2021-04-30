@@ -64,7 +64,7 @@ OT: Bye! It was a joy to talk to you!
 
 This interview hads been edited for length and clarity.
 
-Note: Make sure to check out the EcoAstro website and donate! [ecoastro.az](https://sites.google.com/view/astroeco/home).
+Note: Make sure to check out the EcoAstro website and donate! [ecoastro.az](https://sites.google.com/stu.austinisd.org/ecoastro-az/home).
 
 ## Story
 By Sam-Louis Alrocaet
