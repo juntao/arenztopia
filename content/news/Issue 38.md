@@ -29,7 +29,7 @@ On Sunday, police raided the house of convicted Woodchuck criminal Tom McBluecal
 ## Sports
 By Sam-Louis Alrocaet
 
-
+As temperatures rise to summer levels, the soccer season was kicked off on Monday with the Noi City Nightingales beating the New Paris Parrots.
 
 ## Weather
 By Mezoir Logan
