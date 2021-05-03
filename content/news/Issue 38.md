@@ -24,7 +24,7 @@ By Tony Yuan
 ## Arts
 by Owen Miyazoi
 
-On Sunday, police raided the house of convicted Woodchuck criminal Tom McBluecal. He appears to have been the financial manager of the Woodchucks. The attic of his home had many safes with stolen money in them. There were also multiple valuable paintings; they are believed to be the products of a heist that was carried out last June at the ACAM. The paintings include works by local Arenztopian artists like Moe Kinakshi, also also by famous artists from around the world like Kandinsky, Monet, and Mondrian. The paintings were shipped to the ACAM on Thursday.
+On Sunday, police raided the house of convicted Woodchuck criminal Tom McBluecal. He appears to have been the financial manager of the Woodchucks. The attic of his home had many safes with stolen money in them. There were also multiple valuable paintings; they are believed to be the products of a heist that was carried out last June at the ACAM. The paintings include works by local Arenztopian artists like Moe Kinakshi, also also by famous artists from around the world like Kandinsky, Monet, and Mondrian. The paintings were shipped back to the ACAM on Thursday.
 
 ## Sports
 By Sam-Louis Alrocaet
@@ -34,12 +34,12 @@ As temperatures rise to summer levels, the soccer season was kicked off on Monda
 ## Weather
 By Mezoir Logan
 
-
+Temperatures have leveled out at around 30 degrees Celsius, indicating the start of summer. It will be very windy from Thursday to Saturday, which will help reduce the heat a little bit.
 
 ## Coronavirus Report
 By Owen Miyazoi
 
-
+Cases and deaths are still at zero as vaccination speeds up. 20 million people have been vaccinated so far.
 
 ## Feature: Dr. Oma Toffe
 By Lorenzo Avila & Tony Yuan
@@ -56,7 +56,7 @@ OT: Of course! Right now me and my team of 25, including five astronauts, are wo
 
 OCA: That is very cool! Could you tell us your goal for the total amount of money?
 
-OT: Well, to pay for the actual ship we need one billion Arenzos, and for the tech as well as the cleaning devices we need another half a billion, then fuel costs 3 million, plus some more money so me and my team have some extra money to use in case of emergency. So all in all, we need about 1,503,000,000 Arenzos; we've raised about a third of that.
+OT: Well, to pay for the actual spaceship we need one billion Arenzos, and for the tech as well as the cleaning devices we need another half a billion, then fuel costs 3 million, plus some more money so me and my team have some extra money to use in case of emergency. So all in all, we need about 1,503,000,000 Arenzos; we've raised about a third of that.
 
 OCA: Well, that looks like all the questions we have for you today! Thanks for coming and goodbye!
 
@@ -66,7 +66,7 @@ This interview hads been edited for length and clarity.
 
 Note: Make sure to check out the EcoAstro website and donate! [ecoastro.az](https://sites.google.com/stu.austinisd.org/ecoastro-az/home).
 
-## Story
+## 
 By Sam-Louis Alrocaet
 
 
