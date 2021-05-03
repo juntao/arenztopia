@@ -66,10 +66,10 @@ This interview hads been edited for length and clarity.
 
 Note: Make sure to check out the EcoAstro website and donate! [ecoastro.az](https://sites.google.com/stu.austinisd.org/ecoastro-az/home).
 
-## 
+## New Submarine Announced
 By Sam-Louis Alrocaet
 
-
+Submarine-making company Njord recently unveiled their newest submarine, the Njord 9200 Mk II. It is a super-luxurious submarine with on-board wifi, phone-charging ports, 360-degree panoramic windows, air conditioning, TVs, and more. It is powered by a powerful Nitrox Super Vortex EV electric engine with a top speed of 90 miles per hour and a run time of over 7 hours. The 9200 Mk II will go on sale for two million Arenzos apiece starting late this month.
 
 ## New Degree for Teachers
 By Owen Miyazoi
