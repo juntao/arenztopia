@@ -17,7 +17,9 @@ Volume 4, Issue 9
 May 2nd-May 8th, 2021    
 
 ## Cover Story
-By Tony Yuan
+By Lorenzo Avila
+
+Demial Kondo, Co-Owner of KandARestaraunts, filed a lawsuit against his partner Bedli Amat. Bedli supposedly, has been stealing money that should go to Demial and employees. He has also been crediting himself as the owner and founder of the restaraunts. With research, the court found that Demial actually owns the restaraunts by 59% and Bedli only owns 41%. The research also found that Demial, started the company and Bedli only joined 2 years after the company had started. Employee testimonies state that Bedli treated the horribly saying he "Ordered them to make food for them, then throwing it on the ground making them clean up." they also note that he made fun of them and told them that they "don't deserve to work here." One employee went as far to say it was "Verbal torture." The judge ruled Bedli guilty on accounts of fraud, theft, and money laundering. He will serve 10 years in prison, a 50,000 fine, and his percentage of the company goes to Demial. The restaraunts have been cnahged to KondoRestaraunts. An employee, Mark Donol, says he is "overjoyed" and says that Demial is a very kind person.
 
 
 
