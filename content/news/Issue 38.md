@@ -39,7 +39,7 @@ Temperatures have leveled out at around 30 degrees Celsius, indicating the start
 ## Coronavirus Report
 By Owen Miyazoi
 
-Cases and deaths are still at zero as vaccination speeds up. 20 million people have been vaccinated so far.
+Cases and deaths are still at zero as vaccination speeds up. 20 million people have been vaccinated so far. Dr. Johannes Peterson, the Arenztopian Officer of Health, says that people should still wear masks and social distance because not everyone is vaccinated and we don't know if there are other asymptomatic cases. Also, President Avila has banned travel to and from India as India's case counts explode.
 
 ## Feature: Dr. Oma Toffe
 By Lorenzo Avila & Tony Yuan
