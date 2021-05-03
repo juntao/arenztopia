@@ -26,6 +26,8 @@ Demial Kondo, Co-Owner of KandARestaraunts, filed a lawsuit against his partner 
 ## Arts
 by Owen Miyazoi
 
+The famous Arenzish sculptor Joanne Wells, passed away due to cancer. There will be a charity auction, where all proceeds will go to cancer research. You can donate at stjude.org.
+
 
 
 ## Sports
@@ -36,11 +38,13 @@ By Sam-Louis Alrocaet
 ## Weather
 By Mezoir Logan
 
+Highs will be in the mid-70s with lows being as low as 59. There will be some rain in the early week, with sunny days on Friday through Sunday.
+
 
 
 ## Coronavirus Report
 By Owen Miyazoi
-
+ Cases remain at 0, with almsot 100% of adults vaccinated. A vaccine for kids is being developed. The head of Arenzish Disease Control says that the Covid shot will become somthing simaler to the Flu shot.
 
 
 ## Feature: 
@@ -48,8 +52,12 @@ By Lorenzo Avila & Tony Yuan
 
 
 
-## Story
+## Fire in New Paris
 By Sam-Louis Alrocaet
+
+On Saturday a large scale fire, lasting 2 days, happened in new paris.
+
+
 
 
 
@@ -61,13 +69,24 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
+This week we recommend the brilliant book, Da Vinci Code. A thrillign novel following  Robert Langdon after a muder in Paris, leading to a possible religious discovery.
+
+
 
 
 ## Poetry
 By Lorenzo Avila
 
+Plants
+In full bloom
+Spring
+Bringing life
+happy times
+
 
 
 ## Obituary
 By Owen Miyazoi
+
+Monata Jemoo, a beloved teacher, passed away due to a stroke. Send your regrets and love, to 082-288-2952
 
