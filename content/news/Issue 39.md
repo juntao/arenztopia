@@ -44,7 +44,7 @@ Highs will be in the mid-70s with lows being as low as 59. There will be some ra
 
 ## Coronavirus Report
 By Owen Miyazoi
- Cases remain at 0, with almsot 100% of adults vaccinated. A vaccine for kids is being developed. The head of Arenzish Disease Control says that the Covid shot will become somthing simaler to the Flu shot.
+ Cases remain at 0, with almsot 80% of adults vaccinated. A vaccine for kids is being developed. The head of Arenzish Disease Control says that the Covid shot will become somthing simaler to the Flu shot.
 
 
 ## Feature: 
