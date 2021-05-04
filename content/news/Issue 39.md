@@ -64,11 +64,11 @@ This week we recommend the brilliant book Da Vinci Code by Dan Brown, which is a
 ## Poetry
 By Lorenzo Avila
 
-Plants
-In full bloom
-Spring
-Bringing life
-happy times
+Plants    
+In full bloom    
+Spring    
+Bringing life    
+happy times    
 
 ## Obituary
 By Owen Miyazoi
