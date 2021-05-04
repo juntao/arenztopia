@@ -29,7 +29,7 @@ On Wednesday, the famous Arenztopian sculptor Joanne Wells passed away at the ag
 ## Sports
 By Sam-Louis Alrocaet
 
-
+The soccer season continued on Tuesday with the Noi City Nightingales advancing to go against the Chanlanian Chamaleons. The Chamaleons beat the Nightingales and are expected to advance to go against the Arenzish Atmospheres in the semifinals next week.
 
 ## Weather
 By Mezoir Logan
