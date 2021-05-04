@@ -73,5 +73,4 @@ happy times
 ## Obituary
 By Owen Miyazoi
 
-Monata Jemoo, a beloved teacher, passed away due to a stroke. Send your regrets and love, to 082-288-2952
 Monata Jemoo, a beloved former teacher, died at the age of 65 after a stroke. She was known for her fierce advocacy for the creation of a teacher's union in Olb City. Send your sympathies to 680-303-9823.
