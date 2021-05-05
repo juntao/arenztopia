@@ -41,20 +41,38 @@ By Owen Miyazoi
 
 Cases remain at 0, with almost 40,000,000 vaccinated. A vaccine for kids is being developed. The head of Arenzish Disease Control, a nonprofit fund for distribution of PPE and medicine, says that the COVID-19 shot might need to be taken seasonally, like the flu shot.
 
-## Feature: 
+## Feature: Kanollan Shinkharin
 By Lorenzo Avila & Tony Yuan
 
+Today we interviewed Kanollan Shinkharin, the CEO of Kor, which is a plane company.
 
+Olb City Announcer:
+
+Kanollan Shinkharin:
+
+OCA:
+
+KS:
+
+OCA:
+
+KS:
+
+OCA: Well, that looks like all the questions that we have for you today! Thank you for coming!
+
+KS: THank you for inviting me! It was nice meeting you!
+
+This interview has been edited for length and clarity.
 
 ## Fire in New Paris
 By Sam-Louis Alrocaet
 
 On Tuesday a large scale fire, lasting 2 days, happened in New Paris. It burned in the forests outside of town and destroyed 60 acres of land. Many New Paris citizens have volunteered to clean up the area and plant new trees. Tragically, one firefighter was killed in the blaze. The cause of the fire is unknown.
 
-## Story
+## New Airport Tug Shipped to OCIA
 By Owen Miyazoi
 
-
+On Wednesday, a new airport tug was shipped to the OCIA. It is called the MEGATug and it is the second-largest airport tug in the world, with a total pulling capacity of 800,000 pounds or 2,000 tons.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
