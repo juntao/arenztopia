@@ -44,17 +44,17 @@ Cases remain at 0, with almost 40,000,000 vaccinated. A vaccine for kids is bein
 ## Feature: Kanollan Shinkharin
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Kanollan Shinkharin, the CEO of Kor, which is a plane company.
+Today we interviewed Kanollan Shinkharin, the CEO and founder of Kor, which is a plane company.
 
-Olb City Announcer:
+Olb City Announcer: Thank you so much for coming! To start off, could you tell us a bit about some of the planes that Kor makes?
 
-Kanollan Shinkharin:
+Kanollan Shinkharin: Sure! So Kor makes private jets, to put it simply. We are in direct competition with Embraer for control of the Arenztopian private jet market right now. We charge 8 million Arenzos to buy, which is very cheap in the private jet sector, and we charge 10,000 Arenzos per hour to charter a large jet and 5,000 Arenzos per hour to charter a small one. Our most luxurious jet is the Kor 900, which is 98 feet long. It has leather upholstery, 4K OLED touchscreen TVs, a Kor T-0 eight-screen Super Cockpit Suite, two twin-size beds, four turbojet engines, and more.
 
-OCA:
+OCA: That does sound very luxurious! What is the newest private jet that Kor has made?
 
-KS:
+KS: Well, the newest jet that we have made is actually our smallest, the Kor 200 Mk 2. It's a rerelease of the Kor 200, and the Mk 2 was released just a month ago. It can seat five people with leather upholstery and 4k HD TVs, and it is powered by two turboprop engines.
 
-OCA:
+OCA: 
 
 KS:
 
