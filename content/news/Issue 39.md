@@ -60,7 +60,7 @@ KS:
 
 OCA: Well, that looks like all the questions that we have for you today! Thank you for coming!
 
-KS: THank you for inviting me! It was nice meeting you!
+KS: Thank you for inviting me! It was nice meeting you!
 
 This interview has been edited for length and clarity.
 
