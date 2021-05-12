@@ -24,7 +24,7 @@ By Lorenzo Avila and Tony Yuan
 ## Arts
 by Owen Miyazoi
 
-The Sculptor's Association of Arenztopia (SAA) announced its dissolution on Monday, after a scandal which caused the resignment of prominent artists like Bao Mokino, Moe Kinakshi, Miekl Kyonankii, and others.
+The Sculptor's Association of Arenztopia (SAA) announced its dissolution on Thursday, after a scandal which caused the resignment of prominent artists like Bao Mokino, Moe Kinakshi, Miekl Kyonankii, and others. The scandal involved a 
 
 ## Sports
 By Sam-Louis Alrocaet
