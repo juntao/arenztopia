@@ -24,7 +24,7 @@ By Lorenzo Avila and Tony Yuan
 ## Arts
 by Owen Miyazoi
 
-
+The Sculptor's Association of Arenztopia (SAA) announced its dissolution on Monday, after a scandal which caused the resignment of prominent artists like Bao Mokino, Moe Kinakshi, Miekl Kyonankii, and others.
 
 ## Sports
 By Sam-Louis Alrocaet
@@ -77,7 +77,7 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-Today we recommend the fantasy series Wings of Fire by Tui Sutherland. It is a captivating and brilliantly written series chronicling a fictional world inhabited by intelligent dragons.
+Today we recommend the fantasy series Wings of Fire by Tui Sutherland. It is a captivating and brilliantly written series about a fictional world inhabited by intelligent dragons.
 
 ## Poetry
 By Lorenzo Avila
