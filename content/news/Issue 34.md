@@ -18,7 +18,7 @@ Downtown Olb City-The engineering and architecture firm S. F. Grosby & Co. annou
 ## Arts
 by Owen Miyazoi
 
-Artist Thankkar Porganathan unveiled a new artwork at the OCAM on Wednesday. It is a large and extremely detailed self-portrait, except the canvas is ripped in half and it is scribbled over with red Sharpie. It is titled "Social Norm".
+Artist Thankkar Porganaskan unveiled a new artwork at the OCAM on Wednesday. It is a large and extremely detailed self-portrait, except the canvas is ripped in half and it is scribbled over with red Sharpie. It is titled "Social Norm". Thankkar is the brother of new artist Raphael Porganaskan, who unveiled a new artwork about a month ago. (See [Issue 31](https://www.arenztopia.com/news/issue-31/))
 
 ## Sports
 By Sam-Louis Alrocaet
