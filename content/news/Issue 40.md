@@ -29,7 +29,7 @@ The Sculptor's Association of Arenztopia (SAA) announced its dissolution on Mond
 ## Sports
 By Sam-Louis Alrocaet
 
-
+On Wednesday, the Chanlanian Cheetahs lost to the Arenzish Atmospheres as the soccer season continues. The Arenzish Atmospheres are expected to go against the Olb City Opossums in the finals next week.
 
 ## Weather
 By Mezoir Logan
