@@ -24,7 +24,7 @@ By Lorenzo Avila and Tony Yuan
 ## Arts
 by Owen Miyazoi
 
-The Sculptor's Association of Arenztopia (SAA) announced its dissolution on Thursday, after a scandal which caused the resignment of prominent artists like Bao Mokino, Moe Kinakshi, Miekl Kyonankii, and others. The scandal involved a 
+The Sculptor's Association of Arenztopia (SAA) announced its dissolution on Thursday, after a scandal which caused the resignment of prominent artists like Bao Mokino, Moe Kinakshi, Miekl Kyonankii, and others. The CEO of the association, a classical-style artist named Sinclair Yindranishikan, was found to be a member of the Classicist Revolutionaries, which attacked Miekl Kyonankii's studio a couple months ago (See [Issue 24](https://www.arenztopia.com/news/issue-24/)). Due to his endorsement of the Classicist Revolutionaries, Yindranishikan had broke the SAA's rules against prejudice. In addition, Yindranishikan was among the people found guilty of breaking and entering into Kyonankii's studio. He was sentenced to a year in jail.
 
 ## Sports
 By Sam-Louis Alrocaet
@@ -34,12 +34,12 @@ On Wednesday, the Chanlanian Cheetahs lost to the Arenzish Atmospheres as the so
 ## Weather
 By Mezoir Logan
 
-
+Next week will be sunny throughout, with highs of 39 degrees Celsius and lows of 27 degrees.
 
 ## Coronavirus Report
 By Owen Miyazoi    
 
-
+Cases remain at zero, with vaccinations slowing. About 41,000,000 people have been vaccinated, with nine million still to go. Many of those nine million are children, because Avac has not been approved for children 16 and under. Dr. Johannes Peterson, the Officer of Health, has ordered around a million doses of the Pfizer vaccine, which has been approved for children 12 and over.
 
 ## Feature: 
 By Lorenzo Avila & Tony Yuan
