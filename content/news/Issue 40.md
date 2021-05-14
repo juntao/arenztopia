@@ -41,26 +41,26 @@ By Owen Miyazoi
 
 Cases remain at zero, with vaccinations slowing. About 41,000,000 people have been vaccinated, with nine million still to go. Many of those nine million are children, because Avac has not been approved for children 16 and under. Dr. Johannes Peterson, the Officer of Health, has ordered around a million doses of the Pfizer vaccine, which has been approved for children 12 and over.
 
-## Feature: 
+## Feature: Minoshi Conaway
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed 
+Today we interviewed Minoshi Conaway, a racecar driver for ASCRO car #33, sponsored by Kaiath Systems. #33 was involved in a huge and famous crash at Olb Speedway in 2018, where Conaway lost control of his car and did a barrel roll, crashing into and setting on fire several other cars. Two people were killed in the crash and it led to a reform of the ASCRO rules.
 
-Olb City Announcer:
+Olb City Announcer: Hello! To start off, can you tell us a bit about the famous crash in 2018?
 
-: 
-
-OCA: 
-
-: 
+Minoshi Conaway: Sure! So I clearly remember that the crash was very sudden, because one moment I was pulling into the lead and then the next moment my car was spinning and on fire, right?
 
 OCA: 
 
-:
+MC: 
 
 OCA: 
 
-: 
+MC:
+
+OCA: 
+
+MC: 
 
 This interview has been edited for length and clarity.
 
