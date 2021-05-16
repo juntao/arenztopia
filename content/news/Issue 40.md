@@ -14,9 +14,9 @@ weight: 40
 
 # The Olb City Announcer    
 Volume 4, Issue 10   
-May 9th-May 8th, 2021    
+May 9th-May 15th, 2021    
 
-## Cover Story
+## 
 By Lorenzo Avila and Tony Yuan
 
 
@@ -30,6 +30,14 @@ The Sculptor's Association of Arenztopia (SAA) announced its dissolution on Thur
 By Sam-Louis Alrocaet
 
 On Wednesday, the Chanlanian Cheetahs lost to the Arenzish Atmospheres as the soccer season continues. The Arenzish Atmospheres are expected to go against the Olb City Opossums in the finals next week.
+
+## Science
+By Owen Miyazoi
+
+Welcome to our new Science column! In it, we will report science news from around Arenztopia.
+
+
+
 
 ## Weather
 By Mezoir Logan
@@ -87,4 +95,4 @@ By Lorenzo Avila
 ## Obituary
 By Owen Miyazoi
 
-
+Today we
