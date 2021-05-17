@@ -16,7 +16,7 @@ weight: 40
 Volume 4, Issue 10   
 May 9th-May 15th, 2021    
 
-## 
+## Cover Story
 By Lorenzo Avila and Tony Yuan
 
 
@@ -72,7 +72,7 @@ MC:
 
 This interview has been edited for length and clarity.
 
-## Story
+## 
 By Sam-Louis Alrocaet
 
 
@@ -95,4 +95,4 @@ By Lorenzo Avila
 ## Obituary
 By Owen Miyazoi
 
-Today we
+On Tuesday, the famous actor Aanorin Jahinon died at the age of 87. Jahinon began his career in the mid-1960s with supporting and starring roles in B movies, but he gained fame in 1988 with his starring role in the cult classic Eep!. To show sympathy, call 680-9301-0920. 
