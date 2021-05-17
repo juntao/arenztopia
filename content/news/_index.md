@@ -17,4 +17,4 @@ Writer: Sam-Louis Alrocaet
 Head of printing: Lakino Jonoe    
 
 Copyright 2020-2021 Olb City Announcer Media Group, Incorporated. All rights reserved.     
-The Olb City Announcer Media Group is part of the Newspaper's Association of Arenztopia.
+The Olb City Announcer Media Group is a member of the Newspaper's Association of Arenztopia.
