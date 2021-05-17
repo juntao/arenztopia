@@ -36,8 +36,7 @@ By Owen Miyazoi
 
 Welcome to our new Science column! In it, we will report science news from around Arenztopia.
 
-
-
+On Tuesday, researchers at Olb University successfully demonstrated an experimental rocket engine being developed for the ASA. They fitted it onto a General Rocketry 118 rocket and launched it from Indanburg Air Force Base near New Austin. The rocket reached 115 miles in altitude and made 20 orbits before making a controlled reentry over the Arenztopian desert.
 
 ## Weather
 By Mezoir Logan
@@ -72,10 +71,10 @@ MC:
 
 This interview has been edited for length and clarity.
 
-## 
+## General Rocketry announces new rocket
 By Sam-Louis Alrocaet
 
-
+General Rocketry, an areonautics company, recently announced a new rocket called the Epsilon Alpha II. It will be the successor to the Epsilon Alpha I, which is GR's largest rocket. The Epsilon Alpha II will stand 200 feet tall, and it will be the second-largest rocket produced in Arenztopia after the Proton 190, which is 235 feet tall.
 
 ## Story
 By Owen Miyazoi
