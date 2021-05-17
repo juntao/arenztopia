@@ -52,11 +52,11 @@ Cases remain at zero, with vaccinations slowing. About 41,000,000 people have be
 ## Feature: Minoshi Conaway
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Minoshi Conaway, a racecar driver for ASCRO car #33, sponsored by Kaiath Systems. #33 was involved in a huge and famous crash at Olb Speedway in 2018, where Conaway lost control of his car and did a barrel roll, crashing into and setting on fire several other cars. Two people were killed in the crash and it led to a reform of the ASCRO rules.
+Today we interviewed Minoshi Conaway, a racecar driver for ASCRO car #33, sponsored by Kaiath Systems. #33 was involved in a huge and famous crash at Olb Speedway in 2018, where Conaway lost control of his car and did a barrel roll, crashing into and setting several other cars on fire. Two people were killed in the crash and it led to a reform of the ASCRO rules.
 
 Olb City Announcer: Hello! To start off, can you tell us a bit about the famous crash in 2018?
 
-Minoshi Conaway: Sure! So I clearly remember that the crash was very sudden, because one moment I was pulling into the lead and then the next moment my car was spinning and on fire, right?
+Minoshi Conaway: Sure! So I clearly remember that the crash was very sudden, because one moment I was pulling into the lead and then the next moment my car was spinning and on fire, right? So my first 
 
 OCA: 
 
