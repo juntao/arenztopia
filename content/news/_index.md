@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 
 This section contains the Olb City Announcer, which is a weekly newspaper that provides comprehensive news from around Arenztopia. The Olb City Announcer is known as a reputable source of news and has been approved by the Arenztopian Government.
 
-Co-CEO, founder, and writer: Tony Yuan    
+CEO, founder, and chief writer: Tony Yuan    
 Co-CEO, Editor-in-Chief and poet/writer: Lorenzo Avila    
 Head journalist: Claire P.    
 Meteorologist: Mezoir Logan    
