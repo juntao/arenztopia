@@ -16,7 +16,7 @@ weight: 40
 Volume 4, Issue 10   
 May 9th-May 15th, 2021    
 
-## 
+## Cover Story
 By Lorenzo Avila and Tony Yuan
 
 
@@ -76,10 +76,10 @@ By Sam-Louis Alrocaet
 
 General Rocketry, an areonautics company, recently announced a new rocket called the Epsilon Alpha II. It will be the successor to the Epsilon Alpha I, which is GR's largest rocket. The Epsilon Alpha II will stand 200 feet tall, and it will be the second-largest rocket produced in Arenztopia after the Proton 190, which is 235 feet tall.
 
-## Story
+## WESTAR releases new lifeboat
 By Owen Miyazoi
 
-
+WESTAR, the survival equipment company, released a new lifeboat on Tuesday. It is called the Hippo II, and it is a freefall-style enclosed lifeboat that can hold 5 people and can go at speeds of 50 mph for 2 1/2 hours when carrying max capacity on its two electric engines.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
