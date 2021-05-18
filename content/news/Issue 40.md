@@ -16,7 +16,7 @@ weight: 40
 Volume 4, Issue 10   
 May 9th-May 15th, 2021    
 
-## Cover Story
+## 
 By Lorenzo Avila and Tony Yuan
 
 
@@ -36,7 +36,7 @@ By Owen Miyazoi
 
 Welcome to our new Science column! In it, we will report science news from around Arenztopia.
 
-On Tuesday, researchers at Olb University successfully demonstrated an experimental rocket engine being developed for the ASA. They fitted it onto a General Rocketry 118 rocket and launched it from Indanburg Air Force Base near New Austin. The rocket reached 115 miles in altitude and made 20 orbits before making a controlled reentry over the Arenztopian desert.
+On Tuesday, researchers at Olb University successfully demonstrated an experimental rocket engine being developed for the ASA. They fitted it onto a General Rocketry 118 rocket and launched it from Indanburg Air Force Base near New Austin. The rocket reached 115 miles in altitude and made 20 orbits before making a controlled reentry over the Arenztopian desert. The ASA said that the test was a success, and that they may be attempting to launch a satellite using the engine next month.
 
 ## Weather
 By Mezoir Logan
@@ -94,4 +94,4 @@ By Lorenzo Avila
 ## Obituary
 By Owen Miyazoi
 
-On Tuesday, the famous actor Aanorin Jahinon died at the age of 87. Jahinon began his career in the mid-1960s with supporting and starring roles in B movies, but he gained fame in 1988 with his starring role in the cult classic Eep!. To show sympathy, call 680-9301-0920. 
+On Tuesday, the famous actor Aanorin Jahinon died at the age of 87. Jahinon began his career in the mid-1960s with supporting and starring roles in B movies, but he gained fame in 1988 with his starring role in the cult classic Eep!. To show sympathy, call 680-9301-0920.
