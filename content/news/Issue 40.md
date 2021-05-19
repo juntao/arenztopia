@@ -49,27 +49,29 @@ By Owen Miyazoi
 Cases remain at zero, with vaccinations slowing. About 41,000,000 people have been vaccinated, with nine million still to go. Many of those nine million are children, because Avac has not been approved for children 16 and under. Dr. Johannes Peterson, the Officer of Health, has ordered around a million doses of the Pfizer vaccine, which has been approved for children 12 and over.
 
 ## Feature: Minoshi Conaway
-By Lorenzo Avila & Tony Yuan
+By Tony Yuan
 
 Today we interviewed Minoshi Conaway, a racecar driver for ASCRO car #33, sponsored by Kaiath Systems. #33 was involved in a huge and famous crash at Olb Speedway in 2018, where Conaway lost control of his car and did a barrel roll, crashing into and setting several other cars on fire. Two people were killed in the crash and it led to a reform of the ASCRO rules.
 
 Olb City Announcer: Hello! To start off, can you tell us a bit about the famous crash in 2018?
 
-Minoshi Conaway: Sure! So I clearly remember that the crash was very sudden, because one moment I was pulling into the lead and then the next moment my car was spinning and on fire, right? So my first 
+Minoshi Conaway: Sure! So I clearly remember that the crash was very sudden, because one moment I was pulling into the lead and then the next moment my car was spinning and on fire, right? So my first thought was literally "OMG OMG What is going on" and then I looked outside of my window and saw that there were a bunch of sirens and fire and yelling, so I thought "Well, this is bad," and at that point my car crashed into the barrier and I blacked out. And this was all in the space of maybe six seconds, so it was all very intense and abrupt.
 
-OCA: 
+OCA: So what is your theory about why you lost control and caused the crash?
 
-MC: 
+MC: Well, my theory is that I was going a bit too fast, because I was pulling into the lead, which means I need to go fast, but I was also turning, which means that I needed to go a bit slower to avoid losing control. I incorrectly chose the former option, and that cost two people their lives, so I am eternally regretful for that.
 
-OCA: 
+OCA: Could you tell us a bit about your career before and after the crash?
 
-MC:
+MC: So my career before the crash was actually pretty good, I had won multiple races already, and I already had a bit of a reputation for going too fast, and people were saying, "Conaway is gonna get into a huge crash someday," but nobody thought that it was going to be so soon. After the crash, I competed in exactly three races, and I got first place in one of them and second place in the other two. And then I retired at the end of the 2018 season, and now I run a foundation called Azra to provide support for people who were injured in racing accidents.
 
-OCA: 
+OCA: Well, that looks like all the questions that we have for you today! Thank you for coming!
 
-MC: 
+MC: Thank you for inviting me! It was a joy to talk to you!
 
 This interview has been edited for length and clarity.
+
+You can donate to Conaway's foundation at azra.org.
 
 ## General Rocketry announces new rocket
 By Sam-Louis Alrocaet
