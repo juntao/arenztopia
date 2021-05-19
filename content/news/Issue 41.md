@@ -36,6 +36,8 @@ By Sam-Louis Alrocaet
 ## Science
 By Owen Miyazoi
 
+On Tuesday, students at the University of Olb City discovered a new bacteria named Wvzwob-21. A deadly virus that spreads through people with the flu. The bacteria latches on to flu bacteria in people with AB negative blood type. The bacteria can be killed in very Hot enviorments. The scientists have found a way to put heat in the body, killing the bacteria, but not affecting anyhting else.
+
 
 
 ## Weather
