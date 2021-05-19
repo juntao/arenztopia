@@ -55,7 +55,7 @@ Today we interviewed Minoshi Conaway, a racecar driver for ASCRO car #33, sponso
 
 Olb City Announcer: Hello! To start off, can you tell us a bit about the famous crash in 2018?
 
-Minoshi Conaway: Sure! So I clearly remember that the crash was very sudden, because one moment I was pulling into the lead and then the next moment my car was spinning and on fire, right? So my first thought was literally "OMG OMG What is going on" and then I looked outside of my window and saw that there were a bunch of sirens and fire and yelling, so I thought "Well, this is bad," and at that point my car crashed into the barrier and I blacked out. And this was all in the space of maybe six seconds, so it was all very intense and abrupt.
+Minoshi Conaway: Sure! So I clearly remember that the crash was very sudden, because one moment I was pulling into the lead and then the next moment my car was spinning and on fire, right? So my first thought was literally "OMG OMG what is going on" and then I looked outside of my window and saw that there were a bunch of sirens and fire and yelling, so I thought "Well, this is bad," and at that point my car crashed into the barrier and I blacked out. And this was all in the space of maybe six seconds, so it was all very intense and abrupt.
 
 OCA: So what is your theory about why you lost control and caused the crash?
 
