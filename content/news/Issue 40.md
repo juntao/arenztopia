@@ -71,7 +71,7 @@ MC: Thank you for inviting me! It was a joy to talk to you!
 
 This interview has been edited for length and clarity.
 
-You can donate to Conaway's foundation at azra.org.
+You can donate to Conaway's foundation at [azra.org](https://sites.google.com/stu.austinisd.org/azra-az/home).
 
 ## General Rocketry announces new rocket
 By Sam-Louis Alrocaet
