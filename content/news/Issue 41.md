@@ -89,8 +89,28 @@ By Sam-Louis Alrocaet
 ## Poetry
 By Lorenzo Avila
 
+War
+all over
+Syria, Afghanistan, Pakistan
+innocents affected
+Death
+Death and more Death
+How lucky we are.
+To have food, clean water, a place to live.
+Not being terrified of bombs, and guns.
+We are safe.
+We are lucky.
+We
+Are
+Free.
+They
+Are
+Not.
+
 
 
 ## Obituary
 By Owen Miyazoi
+
+Emon Lepin, a bank owner from the French District Olb City, passed away due to Covid. Send your regrets to his wife at 091.891.1886.
 
