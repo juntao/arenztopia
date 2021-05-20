@@ -53,11 +53,11 @@ By Owen Miyazoi
 ## Feature:
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed 
+Today we interviewed Makena DoLoa, famous owner of DoLoa Plants, a high quality plants seller.
 
-Olb City Announcer: 
+Olb City Announcer: Hi Makena! What is your favorite plant?
 
-: 
+Makena DoLoa: Hi! I really like the white Dahlia
 
 OCA: 
 
