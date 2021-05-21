@@ -17,18 +17,25 @@ Volume 5, Issue 1
 May 16th-May 22nd, 2021    
 
 ## Cover Story
-By Tony Yuan
+By Lorenzo Avila
+
+ANG, The Arenzish News Group, is in the middle of a heated court case. Founder of the group, Onytay Unyay has been accused by Orzolay Vilay for falsely taking credit of the company. Orzolay, presented many pieces of evididence that prove he was the founder of the company. Ontay, refuses to give over the company and asks for more evidence. The court has decided that Orzolay will be given ownership of the company, as well as 5.2 Million AZ. Onytay, lacked any evidence he started the company. 1 person on jury duty called it "Embarrassing, he kept asking for evidence even after it had been provided, and he was not even capable of providing his own evidence when asked." Anonymous employees, said Onytay stole their ideas and took credit for them.
+
 
 
 
 ## Arts
 by Owen Miyazoi
 
+Fonger Allemester, sculptor from the city of New Austin, recently sold his most famous sculpture "La Pluie" for 100 Million Arenzos. The sculpture is an abstract. The blue represents the rain, with a Picasso style torch underneath, and the torch being blown out underneath the rain.
+
+
 
 
 ## Sports
 By Sam-Louis Alrocaet
 
+The New paris lions, face the Modinau jellyfish in a soccer match on Saturday. Watch it here: AZTV.com
 
 
 ## Science
@@ -39,6 +46,7 @@ On Tuesday, scientists at Olb University discovered a new type of virus called A
 ## Weather
 By Mezoir Logan
 
+Looks like clear skys with tempatures a steady 80 until Tuesday, when it will drop to 60 degrees with partly cloudy skies and a 50 percent chance of rain.
 
 
 ## Coronavirus Report
@@ -72,17 +80,23 @@ This interview has been edited for length and clarity.
 ## Story
 By Sam-Louis Alrocaet
 
+A new underwater city,  Verre D'eau, is being built this moment. The new city will offer 3 different neighborhoods, multiple grocery stores, jobs, as well as food. The city will have a population of 25,000. The city will be made of a glass like material called GL. They will be connected by water passage ways, with a submarine type public transportation. The town center, will have a town hall, and a bell. It will be located under the pristine blue watters of Arenztopia. Contractors have made it so in no way will any wildlife be affected. You will be able to acces Arenztopia City, on an hourly submarine. Jobs will be well paying as the rest of Arenztopia is, and housing will be average Arenzish housing. IN total this prject will cost 5 Million Arenzos. There will be 13 main bubbles, 3 hosuing, 2 Science and Aquatic life (from AZ U), 2 Food areas, 2 grocery store areas, a  shop area, which will include all non food related shops, and last the town square. The town will be open in on 15th of June.
+
+
 
 
 ## Story
 By Owen Miyazoi
+
+Akio's Sushi is merging with TaiwanTea. After the announcment of Verre D'eau, Akio has booked a spot for his shop in the city. Due to high rent in the shop district of the city, he merged that shop with TT and now you can enjoy the tastes of Sushi with your favorite boba tea. The opening will be on the 20th of June. 
+
 
 
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-Today we recommend the excellent and hilarious book Thing Explainer by Randall Munroe. It explains complicated stuff like microwaves, the Large Hadron Collider, and nuclear power plants with only the 1000 most used words in English. The text is accompanied by skillful drawings showing things like how not to use a telescope and how big "food-heating radio waves" are.
+Today we reccomend Number the Stars by lois lowry. An amazing book exploring the life of a non-jewish child and her jewish friend, during the events of WW2.
 
 ## Poetry
 By Lorenzo Avila
