@@ -6,11 +6,6 @@ featured: true
 weight: 41
 ---
 
-------------------------
-# CAUTION!!!    
-## THIS PAGE IS STILL BEING WORKED ON    
-## PROCEED AT YOUR OWN RISK    
-------------------------
 
 # The Olb City Announcer    
 Volume 5, Issue 1   
@@ -33,7 +28,7 @@ Fonger Allemester, sculptor from the city of New Austin, recently sold his most 
 ## Sports
 By Sam-Louis Alrocaet
 
-
+The New paris lions, face the Modinau jellyfish in a soccer match on Saturday. Watch it here: AZTV.com
 
 ## Science
 By Owen Miyazoi
@@ -45,6 +40,8 @@ On Tuesday, students at the University of Olb City discovered a new bacteria nam
 ## Weather
 By Mezoir Logan
 
+Looks like clear skys with tempatures a steady 80 until Tuesday, when it will drop to 60 degrees with partly cloudy skies and a 50 percent chance of rain.
+
 
 
 ## Coronavirus Report
@@ -53,7 +50,7 @@ By Owen Miyazoi
 
 
 ## Feature:
-By Lorenzo Avila & Tony Yuan
+By Lorenzo Avila
 
 Today we interviewed Makena DoLoa, famous owner of DoLoa Plants, a high quality plants seller.
 
@@ -75,18 +72,25 @@ MD: Thanks for having me!
 
 This interview has been edited for length and clarity.
 
-## Story
+## Story: Big New City!
 By Sam-Louis Alrocaet
+
+A new underwater city,  Verre D'eau, is being built this moment. The new city will offer 3 different neighborhoods, multiple grocery stores, jobs, as well as food. The city will have a population of 25,000. The city will be made of a glass like material called GL. They will be connected by water passage ways, with a submarine type public transportation. The town center, will have a town hall, and a bell. It will be located under the pristine blue watters of Arenztopia. Contractors have made it so in no way will any wildlife be affected. You will be able to acces Arenztopia City, on an hourly submarine. Jobs will be well paying as the rest of Arenztopia is, and housing will be average Arenzish housing. IN total this prject will cost 5 Million Arenzos. There will be 13 main bubbles, 3 hosuing, 2 Science and Aquatic life (from AZ U), 2 Food areas, 2 grocery store areas, a  shop area, which will include all non food related shops, and last the town square. The town will be open in on 15th of June.
+
 
 
 
 ## Story
 By Owen Miyazoi
 
+Akio's Sushi is merging with TaiwanTea. After the announcment of Verre D'eau, Akio has booked a spot for his shop in the city. Due to high rent in the shop district of the city, he merged that shop with TT and now you can enjoy the tastes of Sushi with your favorite boba tea. The opening will be on the 20th of June. 
+
 
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
+
+Today we reccomend Number the Stars by lois lowry. An amazing book exploring the life of a non-jewish child and her jewish friend, during the events of WW2.
 
 
 
@@ -94,21 +98,37 @@ By Sam-Louis Alrocaet
 By Lorenzo Avila
 
 War
+
 all over
+
 Syria, Afghanistan, Pakistan
+
 innocents affected
+
 Death
+
 Death and more Death
+
 How lucky we are.
+
 To have food, clean water, a place to live.
+
 Not being terrified of bombs, and guns.
+
 We are safe.
+
 We are lucky.
+
 We
+
 Are
+
 Free.
+
 They
+
 Are
+
 Not.
 
 
