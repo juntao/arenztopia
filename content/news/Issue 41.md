@@ -59,19 +59,19 @@ Today we interviewed Makena DoLoa, famous owner of DoLoa Plants, a high quality 
 
 Olb City Announcer: Hi Makena! What is your favorite plant?
 
-Makena DoLoa: Hi! I really like the white Dahlia
+Makena DoLoa: Hi! I really like the white Dahlia. It is so sophisticatedly beautiful. Also, it is not incredibly hard to grow.
 
-OCA: 
+OCA: Sounds pretty! Could you tell us the hardest part of being an arborist.
 
-: 
+MD: Well, I think it is when customers get mad, which happens a lot. When they don't take very good care of it and it dies, they get mad at me even though i did not do anything.
 
-OCA: 
+OCA: That does sound diffucult. How much does each plant cost?
 
-:
+MD: Well they range in prices with the most expensive being our fig trees, with the least being our artificil succulents.
 
-OCA: 
+OCA: Cool! That's all the questions we had, thanks for coming!
 
-: 
+MD: Thanks for having me!
 
 This interview has been edited for length and clarity.
 
