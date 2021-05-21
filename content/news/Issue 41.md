@@ -46,26 +46,26 @@ By Owen Miyazoi
 
 
 
-## Feature:
+## Feature: Makena DoLoa
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Makena DoLoa, famous owner of DoLoa Plants, a high quality plants seller.
+Today we interviewed Makena DoLoa, the owner of DoLoa Plants, a high quality plant nursery. DoLoa Plants has been running for over 50 years, and it is known across the arborist world for its high quality and low prices.
 
-Olb City Announcer: Hi Makena! What is your favorite plant?
+Olb City Announcer: Hi Makena! To start off, could you tell us your favorite plant?
 
-Makena DoLoa: Hi! I really like the white Dahlia
+Makena DoLoa: So I really, really, really like the White Dahlia. It is so sophisticatedly beautiful. Also, it is not incredibly hard to grow.
 
-OCA: 
+OCA: That sounds like a nice flower! Could you tell us the hardest part of being an arborist?
 
-: 
+MD: Well, I think it is when customers get mad, which happens a lot. When they don't take very good care of it and it dies, they get mad at me even though I did not do anything.
 
-OCA: 
+OCA: That does sound difficult. How much does each plant cost?
 
-:
+MD: Well, they range in prices with the most expensive being our rare flowers and large trees at about 1000 Arenzos. The least expensive are our succulents, at about 5 to 10 Arenzos.
 
-OCA: 
+OCA: Cool! Well, that looks like all the questions that we have for you today!
 
-: 
+MD: Thanks for having me!
 
 This interview has been edited for length and clarity.
 
@@ -82,7 +82,7 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-
+Today we recommend the excellent and hilarious book Thing Explainer by Randall Munroe. It explains complicated stuff like microwaves, the Large Hadron Collider, and nuclear power plants with only the 1000 most used words in English. The text is accompanied by skillful drawings showing things like how not to use a telescope and how big "food-heating radio waves" are.
 
 ## Poetry
 By Lorenzo Avila
