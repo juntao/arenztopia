@@ -25,6 +25,8 @@ ANG, The Arenzish News Group, is in the middle of a heated court case. Founder o
 
 ## Arts
 by Owen Miyazoi
+Fonger Allemester, sculptor from the city of New Austin, recently sold his most famous sculpture "La Pluie" for 100 Million Arenzos. The sculpture is an abstract. The blue represents the rain, with a Picasso style torch underneath, and the torch being blown out underneath the rain.
+
 
 
 
