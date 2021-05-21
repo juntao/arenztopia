@@ -17,7 +17,7 @@ Volume 5, Issue 1
 May 16th-May 22nd, 2021    
 
 ## Underwater City Planned
-By Sam-Louis Alrocaet
+By Lorenzo Avila & Tony Yuan
 
 The contractor company Alsburg Contractors is announcing a massive and ambitious underwater city called Verre D'eau. The city has been designed to minimize impact on the surrounding wildlife. It will feature 13 pressurized domes spead out over the seafloor, and each dome will be 100 feet tall, have two layers, be held up by metal trusses, and be made from 1-inch thick sheets of Plexiglass. The domes will contain three areas for housing, 2 for science and education, two restaurant and shopping areas, two grocery store areas, and one central dome for government offices and a town square. All of this will house 25,000 residents and over 550 businesses. Alsburg has placed an order for 50 large Njord 2901 MK III submarines at a cost of 50 million Arenzos to use as public transportation, and each dome will have 4 airlocks to use as docking places and garages for these submarines. Pressurized pedestrian tunnels are being dug underneath the seabed for people who want to walk. There will be daily shuttles to Arenztopia City. Verre D'eau is expected to be finished in late 2031 at a cost of about 1 trillion Arenzos. "This is completely unexplored territory," says Dr. Brian Gainsbourough, a scientist at the University of Arenztopia. "Nobody's ever tried anything even remotely like this before."
 
@@ -69,10 +69,10 @@ MD: Thanks for having me!
 
 This interview has been edited for length and clarity.
 
-## 
+## Huge law battle within the ANG
 By Sam-Louis Alrocaet
 
-
+The AMG (Arenztopian Media Group) has been divided recently over who the group's rightful owner is. Founder Thompson McRae has been challenged by board member Lenskial Omin. Both have marshalled huge armies of lawyers and each side has presented equally convincing evidence; they are due to go to a grand jury next Wednesday. We will publish updates as new facts emerge.
 
 ## Akio's Sushi merging with Taiwan Tea
 By Owen Miyazoi
