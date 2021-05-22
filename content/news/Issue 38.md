@@ -75,11 +75,6 @@ By Sam-Louis Alrocaet
 
 Today we recommend the absolutely stunning science fiction trilogy, the Three Body Problem by Cixin Liu. It is a captivating, vivid, and just plain excellent saga about the future of Earth. We here at the OCA personally recommend the paperback English translation from Tor.
 
-## Poetry
-By Lorenzo Avila
-
-Sorry! There's no poetry this week because our poet, Lorenzo, did not meet the deadline.
-
 ## Obituary
 By Owen Miyazoi
 
