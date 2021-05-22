@@ -10,10 +10,10 @@ weight: 41
 Volume 5, Issue 1   
 May 16th-May 22nd, 2021    
 
-## Cover Story
-By Lorenzo Avila & Tony Yuan
+## Underwater City Planned
+By Sam-Louis Alrocaet
 
-ANG, The Arenzish News Group, is in the middle of a heated court case. Founder of the group, Onytay Unyay has been accused by Orzolay Vilay for falsely taking credit of the company. Orzolay, presented many pieces of evididence that prove he was the founder of the company. Ontay, refuses to give over the company and asks for more evidence. The court has decided that Orzolay will be given ownership of the company, as well as 5.2 Million AZ. Onytay, lacked any evidence he started the company. 1 person on jury duty called it "Embarrassing, he kept asking for evidence even after it had been provided, and he was not even capable of providing his own evidence when asked." Anonymous employees, said Onytay stole their ideas and took credit for them.
+The contractor company Alsburg Contractors is announcing a massive and ambitious underwater city called Verre D'eau. The city has been designed to minimize impact on the surrounding wildlife. It will feature 13 pressurized domes spead out over the seafloor, and each dome will be 100 feet tall, have two layers, be held up by metal trusses, and be made from 1-inch thick sheets of Plexiglass. The domes will contain three areas for housing, 2 for science and education, two restaurant and shopping areas, two grocery store areas, and one central dome for government offices and a town square. All of this will house 25,000 residents and over 550 businesses. Alsburg has placed an order for 50 large Njord 2901 MK III submarines at a cost of 50 million Arenzos to use as public transportation, and each dome will have 4 airlocks to use as docking places and garages for these submarines. Pressurized pedestrian tunnels are being dug underneath the seabed for people who want to walk. There will be daily shuttles to Arenztopia City. Verre D'eau is expected to be finished in late 2031 at a cost of about 1 trillion Arenzos. "This is completely unexplored territory," says Dr. Brian Gainsbourough, a scientist at the University of Arenztopia. "Nobody's ever tried anything even remotely like this before."
 
 ## Arts
 by Owen Miyazoi
@@ -41,7 +41,7 @@ By Owen Miyazoi
 Cases have remained at 0. The 1 million doses of Pfizer vaccine (See [Issue 40](https://www.arenztopia.com/news/issue-40/)) have been delivered, and they have all been administered to childen ages 12 to 16, raising the vaccination caount to about 42,000,000 people. Doctors in Arenztopia are still racing to create a child version of Avac; the most promising one appears to be the KidVac vaccine being developed by government scientists in cooperation with the University of Arenztopia: It's shown 90% efficacy in baby monkeys.
 
 ## Feature: Makena DoLoa
-By Lorenzo Avila
+By Lorenzo Avila & Tony Yuan
 
 Today we interviewed Makena DoLoa, the owner of DoLoa Plants, a high quality plant nursery. DoLoa Plants has been running for over 50 years, and it is known across the arborist world for its high quality and low prices.
 
@@ -57,26 +57,26 @@ OCA: That does sound difficult. How much does each plant cost?
 
 MD: Well, they range in prices with the most expensive being our rare flowers and large trees at about 1000 Arenzos. The least expensive are our succulents, at about 5 to 10 Arenzos.
 
-OCA: Cool! Well, that looks like all the questions that we have for you today!
+OCA: Cool! Well, that looks like all the questions that we have for you today! Thanks for coming! 
 
 MD: Thanks for having me!
 
 This interview has been edited for length and clarity.
 
-## New underwater city
+## Story
 By Sam-Louis Alrocaet
 
-A new underwater city,  Verre D'eau, is being built this moment. The new city will offer 3 different neighborhoods, multiple grocery stores, jobs, as well as food. The city will have a population of 25,000. The city will be made of a glass like material called GL. They will be connected by water passage ways, with a submarine type public transportation. The town center, will have a town hall, and a bell. It will be located under the pristine blue watters of Arenztopia. Contractors have made it so in no way will any wildlife be affected. You will be able to acces Arenztopia City, on an hourly submarine. Jobs will be well paying as the rest of Arenztopia is, and housing will be average Arenzish housing. IN total this prject will cost 5 Million Arenzos. There will be 13 main bubbles, 3 hosuing, 2 Science and Aquatic life (from AZ U), 2 Food areas, 2 grocery store areas, a  shop area, which will include all non food related shops, and last the town square. The town will be open in on 15th of June.
+
 
 ## Akio's Sushi merging with Taiwan Tea
 By Owen Miyazoi
 
-The famous local sushi shop Akio's Sushi is merging with Taiwan Tea, a traditional boba tea shop. The owner of Akio's Sushi, Akio Benjiro, has booked a spot for another location of his shop in the city of Verre D'eau (See story above), and since the rent is very high in Verre D'eau, Akio has merged his company with Taiwan Tea to earn more money.
+The famous local sushi shop Akio's Sushi is merging with Taiwan Tea, a traditional boba tea shop. The owner of Akio's Sushi, Akio Benjiro, has booked a spot for another location of his shop in the city of Verre D'eau (See cover story), and since the rent is very high in Verre D'eau, Akio has merged his company with Taiwan Tea to earn more money.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-Today we reccomend the amazing and hilarious book Thing Explainer by Randall Munroe. It explains complicated things like tectonic plates, the periodic table, microwaves, and more using only the 1000 most used words in the English language. The ridiculously funny text is accompanied by illustrations demonstrating how to disassemble a computer so that you can look inside, how not to use a telescope, and much more.
+Today we recommend the amazing and hilarious book Thing Explainer by Randall Munroe. It explains complicated things like tectonic plates, the periodic table, microwaves, and more using only the 1000 most used words in the English language. The ridiculously funny text is accompanied by illustrations demonstrating how to disassemble a computer so that you can look inside, how not to use a telescope, and much more.
 
 ## Poetry
 By Lorenzo Avila
