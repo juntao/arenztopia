@@ -23,7 +23,7 @@ Fonger Allemester, a sculptor from the city of New Austin, sold his most famous 
 ## Sports
 By Sam-Louis Alrocaet
 
-In Modinau, the Choran City Cod are facing off next Tuesday against the Salnez Sea Snakes in the first match of the Modinau National Soccer Championships. You can tune in by searching "MNSC" on Youtube or tuning your cable TV to frequency 100.9.
+In Modinau, the Choran City Cod are facing off next Tuesday against the Salnez Sea Snakes in the first match of the Modinau National Soccer Championships. You can tune in by going to the Modinau National Soccer Championships Youtube channel or tuning your cable TV to 100.9 at 3:30 in the afternoon.
 
 ## Science
 By Owen Miyazoi
