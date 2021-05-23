@@ -11,3 +11,6 @@ Special thanks to Michael Yuan for helping me with lots of technological things 
 IMPORTANT DISCLAIMERS:
 * I (Tony Yuan) did not create Arenztopia. People think I created Arenztopia for some reason; that is not true. Lorenzo created Arenztopia, and many other people also provided support. I'm one of the people who provided support, although I provided much more of it than most other people.
 * I (Tony Yuan) have no affiliation with my dad's Medium post about me creating Arenztopia. My dad got the facts wrong. I was also not influenced in any way by my trip to Italy.
+
+
+This website and most of its content is copyright © 2020-2021 by Tony Yuan.
