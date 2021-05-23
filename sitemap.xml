@@ -294,6 +294,11 @@
   </url>
   
   <url>
+    <loc>/news/issue-42/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/404/</loc>
   </url>
   
