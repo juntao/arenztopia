@@ -13,7 +13,7 @@ May 16th-May 22nd, 2021
 ## Underwater City Planned
 By Sam-Louis Alrocaet
 
-The contractor company Alsburg Contractors is announcing a massive and ambitious underwater city called Verre D'eau. The city has been designed to minimize impact on the surrounding wildlife. It will feature 13 pressurized domes spead out over the seafloor, and each dome will be 100 feet tall, have two layers, be held up by metal trusses, and be made from 1-inch thick sheets of Plexiglass. The domes will contain three areas for housing, 2 for science and education, two restaurant and shopping areas, two grocery store areas, and one central dome for government offices and a town square. All of this will house 25,000 residents and over 550 businesses. Alsburg has placed an order for 50 large Njord 2901 MK III submarines at a cost of 50 million Arenzos to use as public transportation, and each dome will have 4 airlocks to use as docking places and garages for these submarines. Pressurized pedestrian tunnels are being dug underneath the seabed for people who want to walk. There will be daily shuttles to Arenztopia City. Verre D'eau is expected to be finished in late 2031 at a cost of about 1 trillion Arenzos. "This is completely unexplored territory," says Dr. Brian Gainsbourough, a scientist at the University of Arenztopia. "Nobody's ever tried anything even remotely like this before."
+Arenztopia City-The contractor company Alsburg Contractors is announcing a massive and ambitious underwater city called Verre D'eau. The city has been designed to minimize impact on the surrounding wildlife. It will feature 13 pressurized domes spead out over the seafloor, and each dome will be 100 feet tall, have two layers, be held up by metal trusses, and be made from 1-inch thick sheets of Plexiglass. The domes will contain three areas for housing, 2 for science and education, two restaurant and shopping areas, two grocery store areas, and one central dome for government offices and a town square. All of this will house 25,000 residents and over 550 businesses. Alsburg has placed an order for 50 large Njord 2901 MK III submarines at a cost of 50 million Arenzos to use as public transportation, and each dome will have 4 airlocks to use as docking places and garages for these submarines. Pressurized pedestrian tunnels are being dug underneath the seabed for people who want to walk. There will be daily shuttles to Arenztopia City. Verre D'eau is expected to be finished in late 2031 at a cost of about 1 trillion Arenzos. "This is completely unexplored territory," says Dr. Brian Gainsbourough, a scientist at the University of Arenztopia. "Nobody's ever tried anything even remotely like this before."
 
 ## Arts
 by Owen Miyazoi
@@ -63,10 +63,10 @@ MD: Thanks for having me!
 
 This interview has been edited for length and clarity.
 
-## Story
+## Plell Real Estate acquired by hedge fund
 By Sam-Louis Alrocaet
 
-
+The huge real estate company Plell Real Estate was acquired by hedge fund Markellson & Winslery. Plell Real Estate's net worth is 2.4 billion Arenzos. Experts and investors are worried by the acquisition, because it could mean Plell's collapse, which would then cause the dissolution of billions of dollars of assets in a chaotic manner.
 
 ## Akio's Sushi merging with Taiwan Tea
 By Owen Miyazoi
