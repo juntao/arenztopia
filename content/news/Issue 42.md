@@ -11,7 +11,7 @@ Volume 5, Issue 2
 May 23rd-May 29th, 2021    
 
 ## Cover Story
-By Tony Yuan
+By Lorenzo Avila
 
 
 
@@ -43,15 +43,15 @@ By Owen Miyazoi
 ## Feature: 
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed
+Today we interviewed Emol Cofs, executive producer of a recently announced movie.
 
-Olb City Announcer: 
+Olb City Announcer: Hi Mrs. Cofs! Could you tell us about the new movie?
 
-: 
+Emol Cofs: Well I can't say too much! The movie will basically be about a ghost haunting a girls brain. The story will follow the journey of her and her friends trying to get life back to normal. The trailer will be released on June 31st and the movie will realease on August 1st.
 
-OCA: 
+OCA: I can't wait! Who is the director? 
 
-: 
+EC: I have been really excited to work with her! Dulok Omalar! She has worked on many movies in the Arenzish film industry.
 
 OCA: 
 
