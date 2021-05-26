@@ -38,7 +38,7 @@ Next week will be clear skies and an average of around 25 degrees Celsius until 
 ## Coronavirus Report
 By Owen Miyazoi    
 
-Cases have remained at 0. The 1 million doses of Pfizer vaccine (See [Issue 40](https://www.arenztopia.com/news/issue-40/)) have been delivered, and they have all been administered to childen ages 12 to 16, raising the vaccination caount to about 42,000,000 people. Doctors in Arenztopia are still racing to create a child version of Avac; the most promising one appears to be the KidVac vaccine being developed by government scientists in cooperation with the University of Arenztopia: It's shown 90% efficacy in baby monkeys.
+Cases have remained at 0. The 1 million doses of Pfizer vaccine (See [Issue 40](https://www.arenztopia.com/news/issue-40/)) have been delivered, and they have all been administered to childen ages 12 to 16, raising the vaccination count to about 42,000,000 people. Doctors in Arenztopia are still racing to create a child version of Avac; the most promising one appears to be the KidVac vaccine being developed by government scientists in cooperation with the University of Arenztopia: It's shown 90% efficacy in baby monkeys.
 
 ## Feature: Makena DoLoa
 By Lorenzo Avila & Tony Yuan
