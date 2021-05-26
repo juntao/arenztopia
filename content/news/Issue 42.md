@@ -6,6 +6,12 @@ featured: true
 weight: 42
 ---
 
+------------------------
+# CAUTION!!!    
+## THIS PAGE IS STILL BEING WORKED ON    
+## PROCEED AT YOUR OWN RISK    
+------------------------
+
 # The Olb City Announcer    
 Volume 5, Issue 2   
 May 23rd-May 29th, 2021    
@@ -38,20 +44,20 @@ By Mezoir Logan
 ## Coronavirus Report
 By Owen Miyazoi    
 
+Cases are still at 0, with advanced trials underway for the KidVac vaccine (see [Issue 41](https://www.arenztopia.com/news/issue-41/)) and others. The government has ordered two million more doses of the Pfizer vaccine, and those are due to arrive next week.
 
-
-## Feature: 
+## Feature: Emol Cofs
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Emol Cofs, executive producer of a recently announced movie.
+Today we interviewed Emol Cofs, the executive producer of a recently announced movie called The Haunt.
 
 Olb City Announcer: Hi Mrs. Cofs! Could you tell us about the new movie?
 
-Emol Cofs: Well I can't say too much! The movie will basically be about a ghost haunting a girls brain. The story will follow the journey of her and her friends trying to get life back to normal. The trailer will be released on June 31st and the movie will realease on August 1st.
+Emol Cofs: Well, I can't say too much! The movie will basically be about a ghost haunting a little girl's brain. The story will follow the journey of her and her friends trying to get her life back to normal. The trailer will be released on June 31st and the movie will be released on August 1st.
 
-OCA: I can't wait! Who is the director? 
+OCA: It sounds exciting! Who else is working on the movie? 
 
-EC: I have been really excited to work with her! Dulok Omalar! She has worked on many movies in the Arenzish film industry.
+EC: So we have, as director, Dulok Omalar: She's an extremely experienced director with two Oscar nominations and over thirty films in her portfolio. The starring role of the little girl will be played by Alice Dakota, who is a celebrated actress 
 
 OCA: 
 
