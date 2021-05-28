@@ -16,10 +16,11 @@ weight: 40
 Volume 4, Issue 10   
 May 9th-May 15th, 2021    
 
-## Cover Story
-By Lorenzo Avila and Tony Yuan
+## New Housing Development Announced
+By Tony Yuan
 
-
+North Olb City-On Tuesday, a new housing development was announced in North Olb City. The development will feature two large parks, three strip malls, and a central plaza surrounded by townhouses, apartments, and businesses. It will be called Wildflower Heights, and it will be able to house 1500 people over an area of
+10 square miles.
 
 ## Arts
 by Owen Miyazoi
