@@ -6,7 +6,6 @@ draft: false
 weight: 10
 ---
 
-
 # The Olb City Announcer
 Volume 1, Issue 10  
 October 11-October 17, 2020
