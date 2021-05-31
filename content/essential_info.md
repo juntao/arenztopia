@@ -68,11 +68,11 @@ This is a comprehensive guide to the history of Arenztopia.
 ### History Section I: Colonization and Timeline
 This section has  comprehensive overviews of all of the civilizations that have colonized the Arenztopian Island at one point or another.
 
-#### History part 1: The Incas
+#### Part 1: The Discovery
 
 In the year 1470, the great Incan emperor Pachacuti Inca Yupanqui sent a fleet of ships out from Cusco to explore new lands. The explorers, after venturing for about 500 miles out from shore, ran headfirst into a gigantic storm. It wrecked 3 of their ships and killed a dozen men, and the remaining people were forced to turn back. About a week later the brisk gale powered their crafts to a mysterious island. This island was Arenztopia, but the Incans called it Puquna Wat'a Pachacuti, which meant "Fertile soil island of Pachacuti". Arenztopia was born.
 
-##### Incan Rule 
+##### Part 2: Incan Rule 
 
 This storm is called the Tlwh' Yovhhrmt (gods' blessing) in the folk tales. But the real gods' blessing for these weary Incan travellers was the extremely fertile soil their scouts reported. Legend has it that the leader of the expeditionaries fell to his knees and said "Agradiseyki Inti, chaypas nogakuna munay llapa tiyay hamchi!"(a rough translation of praise Inti* for we will all be saved!) and started sobbing. The men made a large offering, and then gratefully planted wheat, maize, and potatoes that they had brought along on their boat while some people set out to notify the emperor. Over the next 60 years the emperor visited several times and Arenztopia was built up into a bountiful asset. Then, sixty-three years after that fateful storm-the Tlwh' Yovhhrmt-Francisco Pizzaro came along and felled the mighty Inca Empire.
 
@@ -80,15 +80,15 @@ Spanish rule had begun.
 
 *Inti was the king of the gods in the Inca empire.
 
-#### History part 2: The Spanish
+#### Part 3: The Spanish
 
 In 1533, the last emperor of the Incan Empire, Atahualpa, was brutally executed by Francisco Pizzaro, and the island of Arenztopia was turned over to the rapidly expanding Spanish Empire. The king of Spain at that time, Charles V, took note of this vast island added to his gigantic pan-European and South American empire and so he paid a trip to Arenztopia in 1535. He was awed at the beautiful scenery, fertile land, and unprecedented riches, and he decided to build a huge, grand ranch in Arenztopia. Then, in 1558, Charles died. The new king, Philip II, ignored Arenztopia except as a distant, overseas colony. Arenztopia fell into decline during the reigns of the next three kings, and it became a poor, farming community with few people and even less money. Then, during the reign of Philip V, everything changed. Philip revitalized Arenztopia, pumping money into the community and introducing more people. He embarked on a series of grand urban planning projects and founded many large cities, such as Canopia and Natania City. Over the next 200 years, Arenztopia flourished under Spanish rule. Then, during Alfonso XIII's rule, a geurilla group came over from Texas, Arizona, and New Mexico and conquered Arenztopia single-handedly in the Arenztopian Revolution. Arenztopia was now American.
 
-#### History part 3: The Americans
+#### Part 4: The Americans
 
 In 1935, Arenztopia was formally annexed to the United States of America in the midst of the Great Depression by Franklin D. Roosevelt. President Roosevelt opted to make Arenztopia a semiautonomous territory of the USA, instead of a state, so that Arenztopia wouldn't be totally reliant on America during the Great Depression. Arenztopia became a minor battlefront for World War II when the Japanese tried to conquer it in the Pacific Theatre, reaching as far inland as the middle of the Arenztopian Desert before being beaten back by American troops. Arenztopia prospered under American rule for 85 years until 2020, when a treaty allowed Arenztopia to become its own independent nation. 
 
-#### History part 4: Modern Arenztopia
+#### Part 5: Modern Arenztopia
 
 After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a president. In March 2020, the War of Chickentopia occured, when Arenztopia warred against the chaos organization known as Chickentopia. In April 2021, Arenztopia annexed a small group of islands off the coast of Chile called the Modinau Archipelago. You can read more about modern Arenztopia in the other parts of this website.
 
@@ -114,7 +114,29 @@ After signing a treaty with the USA in 2020 allowing it to have independence, th
 
 2021: Arenztopia annexes Modinau.
 
-### History Section II: The Museum
+### History Section II: Modinau
+
+Modinau is a group of islands off the coat of Chile that were annexed by Arenztopia in 2021. They have a rich history in themselves.
+
+#### Part 1: The Polynesians
+
+The archipelago of Modinau was discovered by the Polynesians in the 1300s, and it was the last-discovered and farthest-flung outpost of the places settled by Polynesians. It slowly evolved to be very distinct from the other states in the region, with its own language and customs. For the period from 1400 to 1600, the islands were united under a single empire, which was called the Ke'mau Empire or Sea Land Empire. The Ke'mau Empire was ruled from the gleaming capital city of An'shmi Mar, or the City of the Mountain. An'shmi Mar was surrounded by walls that were twenty-five feet tall and ten feet thick, and these walls protected one of the largest cities in the world at the time, with a population of 800,000 people. At the center of An'shmi Mar was a gleaming palace called the White Palace, whose arches soared over 250 feet into the air. But then, in 1600, after the assassination of the emperor Ni'kahn IV, the empire of Ke'mau descended into chaos and civil war.
+
+#### Part 2: The Conquerors
+
+Out of the chaos created by the collapse of the Ke'mau, by 1650 there were five competing states all occupying the Modinau Archipelago. The state which would prove victorious in the wars was called Ni'ke, or the Golden Land, and its ruler was a brilliant and ruthless warlord named Kahn'mar, or the Eagle of the Mountain. The state of Ni'ke conquered each of the other states, one by one, until 1710, when Modinau was united again. The last state to surrender was Ke'mau, the last remnant of the formerly glorious empire, and when Kahn'mar and his armies got to the gates of An'shmi Mar, they overran the walls, massacred the people, looted the houses, sacked the treasury, and, finally, they burned the city to the ground. The gleaming arches of the White Palace collapsed into ash and rubble. Kahn'mar established a new capital city near the site of modern Choran City called An'ni, or the City of Gold, and at about this time he also established trade routes and diplomatic ties with the South American mainland. By 1750, the empire of Ni'ke was in a stable position, and construction of the capital city of An'ni was going smoothly. In 1755, the great warlord Kahn'mar died at the age of 95, and his son Mon'ar or Ruler of All took the throne. By 1845, An'ni was completed, and the empire of Ni'ke watched over one million people. But then, in 1900, after decades of peace and prosperity under the rule of a monarchy, Emperor Isha'ran V decided to do the unthinkable. For the first time in its history, Modinau became a democracy. 
+
+#### Part 3: The Prime Ministers
+
+After the "Democracy Announcement" in 1900, Emperor Isha'ran V abdicated the throne and the first election in Modinau's history was held. Oen Kahidi, a former government official, was elected to be Modinau's first Prime Minister, and he renamed the country from Ni'ke to Modinau. Kahidi served three terms until 1915, when Winiki Anisha took power. Anisha is credited with modernizing Modinau: He introduced airplanes, trains, cars, and electric lighting; he established embassies and diplomatic relationships, and he moved the capital from An'ni to modern Choran City. Anisha also laid out a new residence for the Prime Minister, the luxurious Mon Mansi, with over 75 rooms. In the midst of this all, Anisha had to deal with World War One, and he made the right descision by staying neutral. Anisha was very popular and served the maximum four terms until 1935. Many other Prime Ministers followed, until the prime minister Oen Nansi in 1995. Nansi stands out in Modinauian history because he launched the insanely ambitious program that bankrupted Modinau: The legendary Modinau Mass Transport Program, or MMTP.
+
+#### Part 4: The Bankruptcy
+
+On January 1, 2000, Prime Minister Oen Nansi announced the Modinau Mass Transport Program. It was an ambitious program to connect the islands of Modinau with the longest train bridges in the world. It was estimated to cost 1 trillion Arenzos and last nine years. The project plowed forward, draining the treasury and the federal funds at a rate of more than seventy billion Arenzos per year. By February 1st, 2007, it was rumored that there were only fifty Arenzos left in the treasury. The next day, Prime Minister Oen Nansi announced the unthinkable.
+For the first time in nearly seven hundred years, Modinau was completely bankrupt.
+Almost immediately, there were cries of outrage. Protests swept the nation. Work on the MMTP was immediately halted. The economy went into freefall. Oen Nansi resigned on March 1, and Anmar Nimon was hurriedly elected into place. Nimon increased exports tenfold, raised taxes, and did all he could to raise federal funds and increase the amount of money in the treasury. It paid off: By the start of 2012, there were over 300 billion Arenzos in the treasury and 200 billion more for federal funds. Work on the MMTP was carefullly resumed. In 2018, the MMTP was completed, at a cost of 1.2 trillion Arenzos and 18 years. Anmar Nimon proved popular and served until 2020, when Ishakahn Makiki'a was elected. Despite Nimon's efforts, Makiki'a still had many money problems to deal with, including a weak economy, undervalued currency, and huge amount of federal debt. Makiki'a served until 2021, when Modinu was annexed by Arenztopia due to these monetary issues. 
+
+### History Section III: The Museum
 
 This is the museum, where you can see some of the official Arenztopian documents. It also includes a full list of everything in the Arenztopia Folder, a folder containing all the paper documents of Arenztopia, and many, many things from the founding of Arenztopia.
 
@@ -290,7 +312,7 @@ Unit of measurement: Imperial/Standard System but with Celsius instead of Farenh
 Tallest building: [Arenztopia Tower](https://sites.google.com/view/the-arenztopia-tower-org/home)-1,800 feet (550 meters)    
 Total population: 51.5 million   
 Motto: We love books (Dv Olev Yllph)    
-Demonyms: Arenztopian, Arenzish, Arenzese    
+Demonyms: Arenztopian, Arenzish, Arenzese, sometimes Modinauian    
 Web Suffixes: .az, .arenz, .arnz, .arnztpa, .mod, .mdnau    
 No. of regions/states: 10   
 Largest region/state: Coastal Region   
@@ -307,5 +329,7 @@ Lowest temperature recorded: -16˚C (16.8˚F)
 
 In an attempt to be more transparent, we're publishing a checklist which lists what changes will hopefully be made to the website this week.
 
+- [ ] Finish Issue 42 of the News
+- [ ] Finish Issue 40 of the News
 - [ ] Work on and finish some websites for the Living in Arenztopia section
 - [ ] Make pictures of some Official Arenztopian Documents
