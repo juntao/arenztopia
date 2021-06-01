@@ -136,6 +136,8 @@ On January 1, 2000, Prime Minister Oen Nansi announced the Modinau Mass Transpor
 For the first time in nearly seven hundred years, Modinau was completely bankrupt.
 Almost immediately, there were cries of outrage. Protests swept the nation. Work on the MMTP was immediately halted. The economy went into freefall. Oen Nansi resigned on March 1, and Anmar Nimon was hurriedly elected into place. Nimon increased exports tenfold, raised taxes, and did all he could to raise federal funds and increase the amount of money in the treasury. It paid off: By the start of 2012, there were over 300 billion Arenzos in the treasury and 200 billion more for federal funds. Work on the MMTP was carefullly resumed. In 2018, the MMTP was completed, at a cost of 1.2 trillion Arenzos and 18 years. Anmar Nimon proved popular and served until 2020, when Ishakahn Makiki'a was elected. Despite Nimon's efforts, Makiki'a still had many money problems to deal with, including a weak economy, undervalued currency, and huge amount of federal debt. Makiki'a served until 2021, when Modinu was annexed by Arenztopia due to these monetary issues. 
 
+Go [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmXmI8nsYKVQap7Bg8xNVNxFRHQhiqxSclWAaGD2zIGpjaU5kgLY_s6r6kUwe0poQJ1Ns5clMOEJFz/pubhtml?gid=0&single=true) for a Modinauian-English-Arenzish dictionary of some selected terms!
+
 ### History Section III: The Museum
 
 This is the museum, where you can see some of the official Arenztopian documents. It also includes a full list of everything in the Arenztopia Folder, a folder containing all the paper documents of Arenztopia, and many, many things from the founding of Arenztopia.
