@@ -19,6 +19,8 @@ May 30th-June 5th, 2021
 ## Cover Story
 By Lorenzo Avila
 
+Doplon Azani , a famous Arenzish writer who died in 1996, recently had a book published by her daughter.
+
 
 
 ## Arts
