@@ -13,7 +13,7 @@ March 8th-March 14th,2020
 ## Famous Arenznaut Moves To Olb City
 by Sam-Louis Alrocaet
 
-Space Boulevard-On Monday, famous Arenznaut Michael Jillerene formally moved to the ASA (Arenztopian Space Administration) location at Olb City. Mr. Jillerene is the first native Arenztopian to visit the ISS. In a nationally televised interveiw, Mr. Jillerene expressed great excitement. On Tuesday, a giant homecoming party was thrown down Space Boulevard to celebrate Mr. Jillerene moving in. When asked why he moved to Olb City, he says: "I like the old buildings, and Olb City is so beautiful!" Mr. Jillerene will be blasting off from Olb City's pad 9B in a Soyuz rocket to the ISS next week. As of Friday, Mr. Jillerene is moved in, comfortable, and getting to know the other employees.
+Space Boulevard-On Monday, famous Arenznaut Michael Jillerene formally moved to the ASA (Arenztopian Space Administration) location at Olb City. Mr. Jillerene is the first native Arenztopian to visit the ISS. In a nationally televised interveiw, Mr. Jillerene expressed great excitement. On Tuesday a giant homecoming party was thrown down Space Boulevard to celebrate Mr. Jillerene moving in. When asked why he moved to Olb City, he says: "I like the old buildings, and Olb City is so beautiful!" Mr. Jillerene will be blasting off from Olb City's pad 9B in a Soyuz rocket to the ISS next week. As of Friday, Mr. Jillerene is moved in, comfortable, and getting to know the other employees.
 
 ## Arts
 by Tony Yuan
