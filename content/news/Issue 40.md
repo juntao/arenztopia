@@ -16,11 +16,10 @@ weight: 40
 Volume 4, Issue 10   
 May 9th-May 15th, 2021    
 
-## New Housing Development Announced
+## Navy Ship Sinks in Bay of Arenztopia
 By Tony Yuan
 
-North Olb City-On Tuesday, a new housing development was announced in North Olb City. The development will feature two large parks, three strip malls, and a central plaza surrounded by townhouses, apartments, and businesses. It will be called Wildflower Heights, and it will be able to house 1500 people over an area of
-10 square miles.
+Arenztopia City-On Tuesday, the Arenztopia Navy ship ANBS Kranz caught on fire and sunk in Arenztopia Bay. Five people died and two are hospitalized; the ship was originally carrying 125 people. The Kranz, a Uirvmwhsrk-class 400-foot armed troop carrier, was on its way to a training exercise when one of its engines exploded, triggering the sink. The Kranz was built in 1990s as an American vessel, but it was bought by Arenztopia in 2020. The ship had a 150-person capacity, half-inch steel armor, and a top speed of 40 knots. It had a displacement of 
 
 ## Arts
 by Owen Miyazoi
