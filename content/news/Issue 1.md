@@ -13,7 +13,7 @@ March 1st- March 7th, 2020
 ## Gold Mine Found!
 by Tony Yuan and Clint Lee; edited by Lorenzo Avila
 
-West AM District on Tuesday, an ancient gold mine was found in the district of West AM, known to locals as West-A-Mountain district. The gold mine was discovered by Jack Peterson, a native resident, when he was volunteering to pick up trash. Says Mr. Peterson, "I was walking around, minding my own business, when I spotted a large hole in the hillside. I peeked in, and something shiny caught my eye." Mr. Peterson immediatly called the ASO (Arenzish Scientific Office), and on Thursday the mine was revealed to be one of the biggest mines in Arenztopia´s history. Experts estimate that there could be about 500 karats of high-quality gold in the giant cavern. It is still a mystery why the miners abandoned the prosperous mine. Sadly, on Friday the mine collaped as a result of damp ground, and killed 50 people as well as 3 children. Rescuers rescued 28 more people from suffocation.
+West AM District-On Tuesday, an ancient gold mine was found in the district of West AM, known to locals as West-A-Mountain district. The gold mine was discovered by Jack Peterson, a native resident, when he was volunteering to pick up trash. Says Mr. Peterson, "I was walking around, minding my own business, when I spotted a large hole in the hillside. I peeked in, and something shiny caught my eye." Mr. Peterson immediatly called the ASO (Arenzish Scientific Office), and on Thursday the mine was revealed to be one of the biggest mines in Arenztopia's history. Experts estimate that there could be about 500 karats of high-quality gold in the giant cavern. It is still a mystery why the miners abandoned the prosperous mine. Sadly, on Friday the mine collaped as a result of damp ground, and killed 50 people as well as 3 children. Rescuers rescued 28 more people from suffocation.
 
 ## Arts
 by Tony Yuan; edited by Lorenzo Avila
@@ -28,12 +28,12 @@ Yesterday, the Arenzish Atmospheres defeated the Simpoir Snakes by 1 point (0-1)
 ## Weather
 by Mezoir Logan 
 
-In Arenztopia next week, it should be an average of 35 degrees celsius and partly cloudy with chances of rain.
+In Arenztopia next week, it should be an average of 35 degrees celsius and cloudy.
 
 ## KIDNAPPED!
-by John Mavelin, CEO of Arenztopia Police Co. Edited by Lorenzo Avila.
+by John Mavelin, CEO of Arenztopia Police Co; edited by Lorenzo Avila.
 
-Last night, a family reported to hear screams from their neighbors house. Police hurried to the scene, only to find a crying mother, wailing about her husband and child being tortured and brought away to a place called "The Woodchuck Zone". The nation's greatest detectives were put on the case, but nobody can figure out what The Woodchuck Zone is.
+Last night, a family reported to hear screams from their neighbor's house. Police hurried to the scene, only to find a crying mother, wailing about her husband and child being tortured and brought away to a place called "The Woodchuck Zone". The nation's greatest detectives were put on the case, but nobody can figure out what The Woodchuck Zone is.
 
 Notice: If you have any additional information about The Woodchuck Zone, please contact the Arenzish Police.
 
@@ -57,7 +57,7 @@ On Saturday, a rare book was discovered among the millions of manuscripts kept i
 ## Editorial
 by Sam-Louis Alrocaet
 
-March is always a time of elation for the OCA, and this week has particular signifigance, with the gold mine being found, and the Olb City Music Fest rocking the city.
+March is always a time of elation for the Announcer, and this week has particular signifigance, with the gold mine being found, and the Olb City Music Fest rocking the city.
 
 ## Obituary
 by Owen Miyazoi
@@ -67,7 +67,7 @@ On Tuesday, a beloved local grandmother named Mary Lee Kilgrif passed away at th
 ## Weather 2
 by Mezoir Logan
 
-On the early morning of Wednesday, a large storm occuured over the state of Uivrmw, causing strong winds and lightning strikes. Ferocious thunder terrorized the grand Spanish villas below.
+On the early morning of Wednesday, a large storm occured over the state of Uivrmw, causing strong winds and lightning strikes. Ferocious thunder terrorized the grand Spanish villas below.
 
 ## Poetry 
 by Tony Yuan 
@@ -104,5 +104,5 @@ On 1st street, a shop owner named Casey Minekoe purchased a highly coveted prope
 ## Coronavirus Report
 by Owen Miyazoi
 
-For the next month, we will be including a report on the coronavirus situation in Arenztopia. Today, one person has been known to have the coronavirus which is 67-year old Bob Jackson, who is currently in quarantine.
+For the next month, we will be including a report on the coronavirus situation in Arenztopia. Today, one person has been known to have the coronavirus which is 67-year old Bob Jackson He is currently in quarantine.
                      
