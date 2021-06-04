@@ -76,7 +76,7 @@ Doplon Azani, a famous Arenztopian writer who died in 1996, recently had a book 
 
 When the Tiger Roars is available for 59.99 Arenzos anywhere that books are sold.
 
-## 
+## Story
 By Owen Miyazoi
 
 
