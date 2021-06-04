@@ -16,10 +16,10 @@ weight: 40
 Volume 4, Issue 10   
 May 9th-May 15th, 2021    
 
-## Navy Ship Sinks in Bay of Arenztopia
+## Navy Ship Sinks in Arenztopia Bay
 By Tony Yuan
 
-Arenztopia City-On Tuesday, the Arenztopia Navy ship ANBS Kranz caught on fire and sunk in Arenztopia Bay. Five people died and two are hospitalized; the ship was originally carrying 125 people. The Kranz, a Uirvmwhsrk-class 400-foot armed troop carrier, was on its way to a training exercise when one of its engines exploded, triggering the sink. The Kranz was built in 1990s as an American vessel, but it was bought by Arenztopia in 2020. The ship had a 150-person capacity, half-inch steel armor, and a top speed of 40 knots. It had a displacement of 
+Arenztopia Bay-On Tuesday, the Arenztopia Navy ship ANBS Kranz caught on fire and sunk in Arenztopia Bay. Five people died and two are hospitalized; the ship was originally carrying 125 people. The Kranz, a Uirvmwhsrk-class 400-foot armed troop carrier, was on its way to a training exercise when one of its engines exploded, triggering the sink. The Kranz was built in 1990s as an American vessel, but it was bought by Arenztopia in 2020. The ship had a 150-person capacity, three machine guns, two main gun turrets, half-inch steel armor, and a top speed of 40 knots. The Kranz cost 120 million Arenzos. The exact cause of the sinking is under investigation; the Kranz's wreck near the mouth of the bay is expected to be raised and towed to a different spot to become an artificial reef. All Uirvmwhsrk-class armed troop carriers are being inspected for dangers of another explosion.
 
 ## Arts
 by Owen Miyazoi
