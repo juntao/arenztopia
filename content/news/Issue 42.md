@@ -16,15 +16,15 @@ weight: 42
 Volume 5, Issue 2   
 May 23rd-May 29th, 2021    
 
-## Cover Story
-By Lorenzo Avila
+## New Dam Planned
+By Tony Yuan
 
-
+Shersville-On Wednesday, a new dam was announced on the Squash River about ten miles downstream from Shersville. It will be the largest dam in Arenztopia upon its completion in 2026. The dam will hold back a resovoir containing an estimated eight trillion gallons of water; the resovoir will be called Lake Shersville. The dam is a gravity dam with a length at the base of 500 feet and a height of 700 feet. The resovoir will submerge an abandoned town called Gizerh Xrgb, and Gizerh Xrgb is expected to become a hotspot for divers who want to see the abandoned and flooded city. The new dam is expected to cost six million Arenzos, and be able to control flooding and produce around 250 megawatts of energy for Shersville and other surrounding towns.
 
 ## Arts
 by Owen Miyazoi
 
-
+Artist Georgio Kanhalkanazzar unveiled another artwork at the OCAM called "Confusion." It is a huge canvas with a bunch of random things pasted onto it, like a picture frame, scraps of metal and paper, and even an entire bicycle.
 
 ## Sports
 By Sam-Louis Alrocaet
@@ -34,7 +34,7 @@ The first and second races of the ASCRO stock car racing tournament happened on 
 ## Science
 By Owen Miyazoi
 
-
+On Monday, researchers at the University of Arenztopia at Arenztopia City
 
 ## Weather
 By Mezoir Logan
