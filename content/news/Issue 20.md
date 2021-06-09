@@ -28,7 +28,7 @@ The National Arenztopian Mountaineering Tournament (NAMT) finished on Wednesday 
 ## Weather
 by Mezoir Logan 
 
-Tropical Storm Vonso touched land on Wednesday after briefly strengthening to a Category 1 Hurricane on Tuesday. Austerfeild was hit first and reported stong winds of up to 79 mph and heavy rain, but no casualities and only minor damage such as branches breaking off and shingles blowing away. In other news, temperatures have fallen to -2 and -3 degrees, and meteorologists predict that Tropical Storm Vonso might actually bring ice, hail, snow and sleet instead of rain.
+Tropical Storm Vonso touched land on Wednesday after briefly strengthening to a Category 1 Hurricane on Tuesday. Arville was hit first and reported stong winds of up to 79 mph and heavy rain, but no casualities and only minor damage such as branches breaking off and shingles blowing away. In other news, temperatures have fallen to -2 and -3 degrees, and meteorologists predict that Tropical Storm Vonso might actually bring ice, hail, snow and sleet instead of rain.
 
 ## Coronavirus Report
 by Owen Miyazoi
