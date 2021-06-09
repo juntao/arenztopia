@@ -405,5 +405,7 @@ In an attempt to be more transparent, we're publishing a checklist which lists w
 
 - [ ] Finish Issue 42 of the News
 - [ ] Finish Issue 40 of the News
+- [ ] Finish Issue 43 of the News
+- [ ] Finish Issue 44 of the News
 - [ ] Work on and finish some websites for the Living in Arenztopia section
 - [ ] Make pictures of some Official Arenztopian Documents
