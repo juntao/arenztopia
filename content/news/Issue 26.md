@@ -28,7 +28,7 @@ On Wednesday, the Olb City Ocelots faced off agains the Sherville Sharks in the 
 ## Weather
 By Mezoir Logan
 
-The average temperature next week should be a chilly -4 degrees celsius as we head into the last stages of winter.
+The average temperature next week should be a chilly -4 degrees celsius.
 
 ## Coronavirus Report
 By Owen Miyazoi
