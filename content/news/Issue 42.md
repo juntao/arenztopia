@@ -34,7 +34,7 @@ The first and second races of the ASCRO stock car racing tournament happened on 
 ## Science
 By Owen Miyazoi
 
-On Monday, researchers at the University of Arenztopia at Arenztopia City discovered and named a new species of beetle in the National Forest. The beetle's scientific name is Leiodes Yvvgovus, and it has a shiny black exoskeleton and a round shape. It feeds on fungi.
+On Monday, researchers at the University of Arenztopia at Arenztopia City discovered and named a new species of beetle in the National Forest. The beetle's scientific name is Leiodes Yvvgovus, and it has a shiny black exoskeleton and a round shape. It feeds on fungi. Their findings were published in the journal Arenztopian Entomology.
 
 ## Weather
 By Mezoir Logan
@@ -57,9 +57,9 @@ Emol Cofs: Well, I can't say too much! The movie will basically be about a ghost
 
 OCA: It sounds exciting! Who else is working on the movie? 
 
-EC: So we have, as director, Dulok Omalar: She's an extremely experienced director with two Oscar nominations and over thirty films in her portfolio. The starring role of the little girl will be played by Alice Dakota, who is a celebrated actress 
+EC: So we have, as director, Dulok Omalar: She's an extremely experienced director with two Oscar nominations and over thirty films in her portfolio. The starring role of the little girl will be played by Alice Dakota, who is a celebrated child actress. We also have Wes Kannada as producer: He's one of the most acclaimed producers in Arenztopia right now. We also have these awesome sets designed by Kumar Halin, who designed the sets for over forty-five movies and TV shows. So yeah, it's a pretty awesome cast.
 
-OCA: 
+OCA: Wow! 
 
 : 
 
