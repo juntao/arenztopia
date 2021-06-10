@@ -34,7 +34,7 @@ The first and second races of the ASCRO stock car racing tournament happened on 
 ## Science
 By Owen Miyazoi
 
-On Monday, researchers at the University of Arenztopia at Arenztopia City
+On Monday, researchers at the University of Arenztopia at Arenztopia City discovered and named a new species of beetle in the National Forest. The beetle's scientific name is Leiodes Yvvgovus, and it has a shiny black exoskeleton and a round shape. It feeds on fungi.
 
 ## Weather
 By Mezoir Logan
