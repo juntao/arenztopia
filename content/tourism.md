@@ -16,32 +16,27 @@ Arenztopia City was founded in 1565. It is a very large city with a great reputa
 
 ## Hotels
 
-Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (750-1000$ per night), it comes with spectacular views over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms per suite, plus super fast on-demand room service. They offer both modern, sleek rooms and a simulated 16th century inn bedroom, complete with toilets dsigned to resemble chamber pots. Top of the line appliances include an automated voice assistant and two 100-inch plasma TVs per suite.
+Hotel De Luxe $$$ The Hotel De Luxe is the top hotel in Arenztopia City. Although very expensive (1500-2000 Arenzos per night), it comes with spectacular views over the city and bay. This hotel is top-of-the-line luxurious. The suites have marble bathrooms, velvet rugs, memory-foam king-size beds, and 4 rooms per suite, plus super fast on-demand room service. They offer both modern, sleek rooms and a simulated 16th century inn bedroom, complete with toilets dsigned to resemble chamber pots. Top of the line appliances include an automated voice assistant and two 100-inch plasma TVs per suite.
 *1602 Tourism Street*
 
-
-Arenztopia Inn and Suites $$ Arenztopia Inn and Suites is a high-end but still casual place. It is moderately expensive (100-150$ per night) for a great experience. It does not have a commanding view, but comes with a 2-room suite and high-quality room service. It also provides easy access to the Scientist's Round, especially Mendeleev Plaza, and it is located at a spot with low traffic. Another plus is that it is right next door to the ACMA. It is within a 10-minute walk from both the Palace of Arenztopia and the Arenztopia City Town Hall.
+Arenztopia Inn and Suites $$ Arenztopia Inn and Suites is a high-end but still casual place. It is moderately expensive (200-300 Arenzos per night) for a great experience. It does not have a commanding view, but comes with a 2-room suite and high-quality room service. It also provides easy access to the Scientist's Round, especially Mendeleev Plaza, and it is located at a spot with low traffic. Another plus is that it is right next door to the ACMA. It is within a 10-minute walk from both the Palace of Arenztopia and the Arenztopia City Town Hall.
 *5802 Arenztopia Boulevard Five*
 
-
-Hotel Reale $$ This great hotel is very high-end and modern but has a reasonable price tag (50-100$ per night). It has moderate views, but unfortunately is located in a high-traffic zone. It has a free shuttle to all major sites. It is known for its professional chefs who cook breakfast and dinner Monday through Saturday.
+Hotel Reale $$ This great hotel is very high-end and modern but has a reasonable price tag (100-200 Arenzos per night). It has moderate views, but unfortunately is located in a high-traffic zone. It has a free shuttle to all major sites. It is known for its professional chefs who cook breakfast and dinner Monday through Saturday.
 *1202 Texas Road*
 
-
-Hilton Arenztopia $$ A very standard, casual Hilton with great views but lots of traffic. Very close to the Dripping Cone Flagship store, and most tours of Arenztopia City begin there. 50-100$ per night.
-*2403 Longhorn street*
+Hilton Arenztopia $$ A very standard, casual Hilton with great views but lots of traffic. Very close to the Dripping Cone Flagship store, and most tours of Arenztopia City begin there. 100-200$ per night.
+*2403 Longhorn Street*
 
 
 ## Resturaunts
 
-Fuhulemishirae Luxury Cusine $$$ This is the undisputed king of all resturaunts in Arenztopia. The name Fuhulemshirae strikes fear into the hearts of food critics, chefs, and foodies alike. Komare Fuhulemshirae has spent all fifty years of his life preparing food and perfecting it. The signature dish is the 150$ Fuhulemshirae´s Klolmrfn Super, which is a dish so spicy and so good that people have fainted eating it. 
+Fuhulemishirae Luxury Cusine $$$ This is the undisputed king of all resturaunts in Arenztopia. The name Fuhulemshirae strikes fear into the hearts of food critics, chefs, and foodies alike. Komare Fuhulemshirae has spent all fifty years of his life preparing food and perfecting it. The signature dish is the 300-Arenzo Fuhulemshirae's Klolmrfn Super, which is a dish so spicy and so good that people have fainted eating it. 
 *By appointment only. Must reserve 4 months in advance.
 *1000 Arenztopia Roundabout*
 
-
 Dripping Cone Flagship Store $$ A huge store filled with the all of the best ice cream flavors that you could imagine. Dripping Cone ice cream is a classic staple of Arenztopia and has been since 1920. Though Dripping Cone is a ice cream store, in 2020 it joined with a chocolate company and now offers many candies and choclates along with ice cream. The shop has many colorful paintings, and it also includes a huge indoor playscape for children with a waterslide, and real grass.
 *2401 Arenztopia Boulevard*
-
 
 NIOP Palace of Cusine $$ One of the biggest resturaunts in Arenztopia, this gargantuan behemoth is 21,780 square feet of all the food from all the cultures you could imagine, from pad thai to hot dogs to haggis to pizza to empanadas to some stuff that you've never heard of-it's all here.
 *2700 Arenztopia Boulevard Three*
@@ -49,29 +44,23 @@ NIOP Palace of Cusine $$ One of the biggest resturaunts in Arenztopia, this garg
 
 ## Things to do
 
-Archeological Park $$ A vast archeological park with dinosaurs, mammoths, and ancient hominid remains. The 15$ ticket covers admission to every part of the park except for the museum, which charges 5$ extra, and a further 2$ to go to the special exhibits. Famous archaeologist Ishaan P. does weekly presentations, which cost an extra 10$ per person.
+Archeological Park $$ A vast archeological park with dinosaurs, mammoths, and ancient hominid remains. The 30-Arenzo ticket covers admission to every part of the park except for the museum, which charges 10 Arenzos extra, and a further 4 Arenzos to go to the special exhibits. Famous archaeologist Ishaan P. does weekly presentations, which costs an extra 20 Arenzos per person.
 *2600-3400 Texas Road*
-
 
 Arenztopia City Museum of Art (ACMA) $ An amazing museum with thousands of statues, paintings, and drawings by hundreds of iconic masters, arranged in chronological order. You can do a variety of things there like bid on paintings.
 *5801 Arenztopia Boulevard Five*
 
-
-Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with a rococo interior. An excellent example of totally overdoing it in style. 5$ admission to see the most extravagantly styled building in Arenztopia. The main building was built in 1495 but was remodeled in 2020.
+Cathedral $ A large, Italian-style cathedral built in the extravagant Sicilian Baroque style with an Italian Rococo interior. An excellent example of totally overdoing it in style. 10 Arenzos admission to see the most extravagantly styled building in Arenztopia. The main building was built in 1787 but was remodeled in 1990.
 *3300 Renzo Street*
 
-
-Egyptian Obelisk $ A very tall obelisk that was bought from Egypt. It is in the center of Obelisk Plaza and next to the Egyptian Museum, which has lots of ancient statues, inscriptions, and jars, but no real mummies. It costs 3$ to go to all of these places at once.
+Egyptian Obelisk $ A very tall obelisk that was bought from Egypt. It is in the center of Obelisk Plaza and next to the Egyptian Museum, which has lots of ancient statues, inscriptions, and jars, but no real mummies. It costs 6 Arenzos to go to all of these places at once.
 *3500 Texas Road*
 
-
-Zoo National $ A large zoo that has hippos, elephants, giraffes, and tigers, among owls, falcons, capybaras, and dingos. The 10$ ticket comes with a safari.
+Zoo National $ A large zoo that has hippos, elephants, giraffes, and tigers, among owls, falcons, capybaras, and dingos. The 20-Arenzo ticket comes with a safari.
 *4000 Longhorn Street*
 
-
-LEGO store $$ A huge store filled with Legos, including a 1:29 scale model of Arenztopia. Kids will love this store; it  contains nearly every Lego set in circulation and at 10:00 every 2nd saturday of each month they auction off antique Lego pieces and sets. There is also a 10 foot by 10 foot tub filled with all the legos you could imagine. One of its main attractions is a mysterious, never-released 1,800,000 Arenzo Lego set from 1950. It is unknown what it was origanally meant to be but we believe it is a rocket.
+LEGO store $$ A huge store filled with Legos, including a 1:29 scale model of Arenztopia. Kids will love this store; it  contains nearly every Lego set in circulation and at 10:00 every 2nd Saturday of each month they auction off antique Lego pieces and sets. There is also a 10 foot by 10 foot tub filled with all the legos you could imagine. One of its main attractions is a mysterious, never-released 1,800,000 Arenzo Lego set from 1950.
 *2300 Arenztopia Boulevard*
-
 
 
 
@@ -79,29 +68,26 @@ LEGO store $$ A huge store filled with Legos, including a 1:29 scale model of Ar
 
 Olb City is the second largest city in Arenztopia. It has become the technological, scientific, and financial center of Arenztopia since it was founded in 1687.
 
+
 ## Hotels
 
-Xcar Tower Residences $$$ A very luxurious hotel. It is 78 stories tall, boasts 309 gigantic rooms including a full-story penthouse, and it is almost completely automated. You can press a button, and a robot will whiz to your 5-room, 1000 square foot suite carrying whatever you need. The hotel's plush velvet sofas, elegantly curving designs, and golden accents are plastered with the logo of Xcar, which runs the hotel. Of course, this luxury comes with a price tag, and in this case it is an astounding 5,000-10,000$ per night!
+Xcar Tower Residences $$$ A very luxurious hotel. It is 78 stories tall, boasts 309 gigantic rooms including a full-story penthouse, and it is almost completely automated. You can press a button, and a robot will whiz to your 5-room, 1000 square foot suite carrying whatever you need. The hotel's plush velvet sofas, elegantly curving designs, and golden accents are plastered with the logo of Xcar, which runs the hotel. Of course, this luxury comes with a price tag, and in this case it is an astounding 10,000-20,000 Arenzos per night!
 *8900 4th Street*
 
-
-Maninnghaw Residences $$ A more modest hotel than Xcar Tower Residences, but still high-end. Suites have 3 rooms, great room service, marble bathrooms, and comfortable beds. The average cost is 200-250$ per night for a great experience in a low-traffic zone.
+Manninghaw Residences $$ A more modest hotel than Xcar Tower Residences, but still high-end. Suites have 3 rooms, great room service, marble bathrooms, and comfortable beds. The average cost is 400-500 Arenzos per night for a great experience in a low-traffic zone.
 *6502 Kercher Lane*
 
-
-International City Residential Suites $$ A nice hotel with a very streamlined, modern feel. Close to all major landmarks. Unfortunately located in a very high-traffic zone, but shuttle is avaliable to all landmarks. Very good room service to a 2-room suite, with a reasonable cost of 50-100$ per night.
-*3407 West Main Street*
+International City Residential Suites $$ A nice hotel with a very streamlined, modern feel. Close to all major landmarks. Unfortunately located in a very high-traffic zone, but shuttle is avaliable to all landmarks. Very good room service to a 2-room suite, with a reasonable cost of 200-400 Arenzos per night.
+*3407 Main Street*
 
 
 ## Resturaunts
 
 Sudenhak Arenztopian Cusine $ A very cozy resturaunt with a magnificent taste and traditional Arenztopian food at a low price. Their staples include fish soup, rice and beans, and traditional bread.
-*1201 Central Main Street*
-
+*1201 Main Street*
 
 The Golden Spoon $$ Very good food. A large resturaunt with a modern interior. Close to all the major landmarks. A great place for a quick, elegant dinner that has a somewhat British taste. Their staples include fish-and-chips drizzled with 1999 red wine, chocolate ganache with white chocolate sauce and a strawberry, and meat pie.
 *6706 High Street*
-
 
 The Cheesehouse $$ A great resturaunt with spectacular food, a surprisingly good veiw, and kind, polite service. Staples include their Super Cheese Board, a big wooden plank with 55 different types of cheese for your sampling enjoyment, tomato soup with cheese crackers, and tacos with feta cheese and black-eyed peas.
 *7104 Aspenfield Boulevard*
@@ -109,30 +95,26 @@ The Cheesehouse $$ A great resturaunt with spectacular food, a surprisingly good
 
 ## Things To do
 
-Olb City Art Museum $ The biggest art museum in Arenztopia. Next door is the Olb City National Library, where millions of books and archives are kept. Has everything from paleolithic sculptures to abstract modern art. Constantly hosting special exhibits that are free of charge. The 5$ ticket provides a super low price to look at amazing sculptures and paintings in Arenztopia's biggest art museum.
-*3500 West Main Street*
+Olb City Art Museum $ The biggest art museum in Arenztopia. Next door is the Olb City National Library, where millions of books and archives are kept. Has everything from paleolithic sculptures to abstract modern art. Constantly hosting special exhibits that are free of charge. The 10-Arenzo ticket provides a super low price to look at amazing sculptures and paintings in Arenztopia's biggest art museum.
+*3500 Kercher Lane*
 
+Villa Palenque $ Located in the heart of Olb City, the Villa Palenque is an immaculate example of an Arenztopian-Spanish style villa. A 2-Arenzo admission fee offers a self-guided tour of the entire villa, which has different artifacts from the Spanish rule of Arenztopia.
+*5403 AR-10*
 
-Museum of Candy $ A 3$ fee covers a look at almost every candy ever circulated. Includes wrappers, statistics, sampling trays, and more.
-*5403 High Street*
+Olb Plaza $ Olb Plaza is at the center of Olb City. It is a very large, octagonal plaza which is ringed with shops and apartments. It is a common gathering place for locals. The plaza is pedestrian and bicycle-only, and there are no streets running adjacent to it, making it a good place to enjoy a peaceful stroll or a coffee. The shops around it are generally not expensive at all.
+*Olb Plaza*
 
+Sanson Tower $$ The Sanson Tower is the tallest building in Olb City, at 98 stories. It features many shops and malls on the first seven floors. Surrounding it is a green area with trees and benches.
+*2030 Main Street*
 
-Olb City Monument $ A huge, hollow column that commemorates the founding of Olb City. Pay 2$ to climb 500 steps and look at dizzying views of the city. 
-*Monument Plaza, East Main Street*
+Anda Dam $ This dam blocks the Anda River and generates power for Olb City. It has a tour program where you can see the turbines and all the different parts of the dam.
+*3600 AR-10*
 
+Capitol $ This is the capitol building of the Old Region, and it has a lot of history. The building was originally built in 1550 as a government office, but it burned down in 1622. The lot stood empty until 1665, when it was rebuilt. The 1665 building burned down as well in 1770. In 1800, the building was rebuilt again, this time out of stone, and the building you see today is the 1800 building. It costs 4 Arenzos to go inside and see many historical artifacts that are on display, as well as climb the famously tall clock tower and dome.
+*2301 High Street*
 
-Inca National Historical Site $ This monumental Incan temple was built to honor the earth goddess Pachamama, who was believed to live in Mount Arenztopia. The fascinating, well-written signs invite you into ancient history at a fee of 4$. You can read more about it below at the very bottom of this page.
-*9700 Temple Avenue*
-
-
-Argingdan Manor $ A fascinating 19th-century mansion that was used as a noble residence, mill, car garage, and hospital before being turned into a park and museum. Tons of rare furniture and exhibits are on display for a fee of 3$.
-*6300 High Street*
-
-
-Rett Technologies, Inc $ This company was active in the early 20th century and may have created the first MRI long before it was commercially available. After going defunct in 1930, the headquarters were abandoned for 80 years and then turned into a landmark. It costs 2$ to take a tour.
-*2301 Riverside Avenue*
-
-
+City Hall $ As its name suggests, this is the Olb City City Hall. It is a very unique building, with one side of its facade being modern-style (irregular windows, whitewash, etc.) and the other half being neoclassical-style. Inside, you can see many different artifacts from Olb City. The back of the large building offers views of Lake Oglethorpe.
+*6090 Aspenfield Boulevard*
 
 
 # National Parks
@@ -225,7 +207,7 @@ Much like Thunberg National Marine Reserve, Reef National Marine Reserve does no
 
 ## Inca National Historical Site
 
-Inca National Historical Site is a historical site covering an area of approxiamately a quarter square mile. It is located next to the Tortoise River on the outskirts of Olb City. The Historial Site is mainly centered around a huge plaza, with temples arrayed around it.
+Inca National Historical Site is a historical site covering an area of approxiamately a quarter of a square mile. It is located next to the Tortoise River on the outskirts of Olb City. The Historial Site is mainly centered around a huge plaza, with temples arrayed around it.
 
 The southern part of the park is occupied by the visitor's center, the ticket booth, the restaurant, and the museum. The visitors center includes a gift shop, the help desk, bathrooms, and guides. The museum has many artifacts from the site arrayed with clear labels and descriptions. The admission fee is 4$, which includes the museum and an audio tour through the site. 
 
