@@ -70,11 +70,16 @@ OM:
 This interview has been edited for length and clarity.
 
 ## The Life of Iloah Mai, Arenztopia's Most Successful Pacific Islander Business Owner
-By Sam-Louis Alrocaet
+By Owen Miyazoi
 
 For the next 6 issues up until our 50th issue, the OCA will take you on a immersive experience of important cultural and racial moments and stories from Arenztopians past who helped Arenztopia be what it is today. Our first story is about Iloah Mai, Arenztopia's most successful Pacific Islander business owner. 
 
-In 1931, in a cramped city apartment in Olb City, Iloah Mai was born to Ono and Maul Mai, two Pacific Islanders who had immigrated to Arenztopia from Samoa just one year before. Ono and Maul were one of the many Pacific Islanders who immigrated to Arenztopia in the 1920s and 30s. Iloah was one of the first Pacific Islanders to go to the University of Arenztopia at Olb City.
+In 1931, in a cramped city apartment in Olb City, Iloah Mai was born to Ono and Maul Mai, two Pacific Islanders who had immigrated to Arenztopia from Samoa just one year before. Ono and Maul were one of the many Pacific Islanders who immigrated to Arenztopia in the 1920s and 30s. Iloah was one of the first Pacific Islanders to go to the University of Arenztopia at Olb City. After she graduated from business school at the age of 22, Iloah had big ambitions.
+
+## Story
+By Sam-Louis Alrocaet
+
+
 
 ## Story
 By Owen Miyazoi
