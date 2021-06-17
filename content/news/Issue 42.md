@@ -39,7 +39,7 @@ On Monday, researchers at the University of Arenztopia at Arenztopia City discov
 ## Weather
 By Mezoir Logan
 
-
+There will be a 45% chance of rain through Wednesday next week, at which point it will become sunny. Temperatures are expected to be from 20 degrees to 26 degrees Celsius.
 
 ## Coronavirus Report
 By Owen Miyazoi    
@@ -59,20 +59,20 @@ OCA: It sounds exciting! Who else is working on the movie?
 
 EC: So we have, as director, Dulok Omalar: She's an extremely experienced director with two Oscar nominations and over thirty films in her portfolio. The starring role of the little girl will be played by Alice Dakota, who is a celebrated child actress. We also have Wes Kannada as producer: He's one of the most acclaimed producers in Arenztopia right now. We also have these awesome sets designed by Kumar Halin, who designed the sets for over forty-five movies and TV shows. So yeah, it's a pretty awesome cast.
 
-OCA: Wow! 
+OCA: Wow! That sounds exciting! Do you have any other details about the movie?
 
-: 
+EC: Unfortunately, no, I'm not actually authorized to share any other details.
 
-OCA: 
+OCA: Well, thanks anyway for sharing all this with us! It was nice meeting you!
 
-: 
+EC: Thank you! 
 
 This interview has been edited for length and clarity.
 
-## 
+## Hot Air Balloon Festival Announced
 By Sam-Louis Alrocaet
 
-
+On Wednesday, the date for the long-anticipated Arenztopian Hot Air Balloon Festival (AHABF) was announced. The 2020 AHABF was postponed due to COVID-19. The 2021 AHABF will be held just outside of Arenztopia City next Tuesday. The Arenztopian hot air balloon maker Allenston commissioned a special-edition balloon for the event, which is decorated with the large letters AHABF 2021 and the Arenztopian flag.
 
 ## 
 By Owen Miyazoi
@@ -82,7 +82,7 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-
+Today we recommend the Calvin and Hobbes comic strips by Bill Watterson. These ran in American newspapers in the 1980s and 1990s and are available in many collections. The comic strips follow the adventures of a boy named Calvin and his talking pet tiger Hobbes. They are funny, insightful, and include many assorted shenaniagans.
 
 ## Poetry
 By Lorenzo Avila
