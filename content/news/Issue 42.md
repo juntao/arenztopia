@@ -82,7 +82,7 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-Today we recommend the Calvin and Hobbes comic strips by Bill Watterson. These ran in American newspapers in the 1980s and 1990s and are available in many collections. The comic strips follow the adventures of a boy named Calvin and his talking pet tiger Hobbes. They are funny, insightful, and include many assorted shenaniagans.
+Today we recommend the Calvin and Hobbes comic strips by Bill Watterson. These ran in American newspapers in the 1980s and 1990s and are available in many collections. The comic strips follow the adventures of a boy named Calvin and his talking pet tiger Hobbes. The comic strips are funny, insightful, and include many assorted shenaniagans.
 
 ## Poetry
 By Lorenzo Avila
