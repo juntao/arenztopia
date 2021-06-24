@@ -74,10 +74,10 @@ By Sam-Louis Alrocaet
 
 On Wednesday, the date for the long-anticipated Arenztopian Hot Air Balloon Festival (AHABF) was announced. The 2020 AHABF was postponed due to COVID-19. The 2021 AHABF will be held just outside of Arenztopia City next Tuesday. The Arenztopian hot air balloon maker Allenston commissioned a special-edition balloon for the event, which is decorated with the large letters AHABF 2021 and the Arenztopian flag.
 
-## 
+## New Truck Announced
 By Owen Miyazoi
 
-
+On Tuesday, major car maker Tellurium Group (TG) announced a new pickup truck, the TG Regal. The Regal will be among the largest, most capable, and most expensive pickup trucks that TG has ever produced. It will have TG's new entertainment system built into screens that are set into the seat backs and in the driver's screen. The Regal will also feature reclining seats, heated cupholders, and many other luxurious features like surround sound, lane control, cruise control,  Adaptive Suspension, leather seats, Memory Foam cushions, and more. The Regal will also have a pulling capacity of 15,000 pounds, a payload rating of 3,300 pounds, a bed with 55 cubic feet of volume, and a price starting from 70,000 Arenzos or $35,000.
 
 ## Book Recommendation
 By Sam-Louis Alrocaet
@@ -92,3 +92,4 @@ By Lorenzo Avila
 ## Obituary
 By Owen Miyazoi
 
+On Tuesday, influential businessman Alphogon Kirby died at the age of 98 from injuries sustained during a fire at his house in New Rome. Kirby was one of the shrewdest businessmen of his time, ruthlessly expanding his conglomerate through hostile takeovers of other companies. At the peak of his career in the late 1970s, Kirby's net wealth was 40 billion Arenzos (making him one of the richest people in the world and the richest person in Arenztopia) and his corporation had acquired more than 400 smaller companies and had 125 subsidiaries. "He was one of the meanest and shrewdest men that I ever met," said Joe Kall, Kirby's CFO in the 1980s. "He had a perpetual scowl and when he set his sights on a company, he would stop at nothing to make shure he absorbed it into his corporate empire." Send your sympathies to memorial@kirbyenterprises.com.
