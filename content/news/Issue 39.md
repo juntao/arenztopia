@@ -42,7 +42,7 @@ By Owen Miyazoi
 Cases remain at 0, with almost 40,000,000 vaccinated. A vaccine for kids is being developed. The head of Arenzish Disease Control, a nonprofit fund for distribution of PPE and medicine, says that the COVID-19 shot might need to be taken seasonally, like the flu shot.
 
 ## Feature: Kanollan Shinkharin
-By Lorenzo Avila & Tony Yuan
+By Tony Yuan
 
 Today we interviewed Kanollan Shinkharin, the CEO and founder of Kor, which is a plane company.
 
@@ -54,9 +54,9 @@ OCA: That does sound very luxurious! What is the newest private jet that Kor has
 
 KS: Well, the newest jet that we have made is actually our smallest, the Kor 200 Mk 2. It's a rerelease of the Kor 200, and the Mk 2 was released just a month ago. It can seat five people with leather upholstery and 4k HD TVs, and it is powered by two turboprop engines.
 
-OCA: 
+OCA: Wow! That is very fancy! What is your favorite jet that Kor has made?
 
-KS:
+KS: I think my favorite jet is probably the Kor 800.3, which was a custom jet that we made for the CEO of the Argen Group. It was a Kor 800, but it had been gutted and the interior was replaced by a sort of hotel thing, with three huge luxury suites and a luxury lounge. To this day, I have no idea how we managed to fit all that stuff in there.
 
 OCA: Well, that looks like all the questions that we have for you today! Thank you for coming!
 
