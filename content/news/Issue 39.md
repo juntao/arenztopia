@@ -6,12 +6,6 @@ featured: true
 weight: 39
 ---
 
-------------------------
-# CAUTION!!!    
-## THIS PAGE IS STILL BEING WORKED ON    
-## PROCEED AT YOUR OWN RISK    
-------------------------
-
 # The Olb City Announcer    
 Volume 4, Issue 9   
 May 2nd-May 8th, 2021    
