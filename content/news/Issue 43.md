@@ -98,6 +98,12 @@ By Sam-Louis Alrocaet
 
 ## Poetry
 By Lorenzo Avila
+Beach
+It's time for the beach.
+Sunmmer
+Sand 
+Waves
+Beach
 
 
 
