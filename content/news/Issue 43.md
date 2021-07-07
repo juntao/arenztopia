@@ -49,26 +49,33 @@ By Owen Miyazoi
 
 Cases are still at 0, with 45 million vaccinated. The KidVac vaccine from the University of Arenztopia and the Arenztopian government has been certified for use in children ages five to 12. Everybody above the age of five is expected to be vaccinated by next week, which means that the vaccination count is expected to go up to 47 million.
 
-## Feature: Marcy 
+## Feature: Allen Sizeros
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed
+Today we interviewed Allen Sizeros, a cartoonist who draws the comic Supercalifragilisticexpialidocious for the Sherville Daily News.
 
-Olb City Announcer:
+Olb City Announcer: So tell us a little bit about your comic! I hear it's very entertaining.
 
-: 
+Allen Sizeros: Yeah, so Supercalifragilisticexpialidocious is a comic where there are some characters and they have a normal conversation, but the conversation is basically entirely puns.
+
+OCA: Could you give us an example of a joke from one of your comics?
+
+AS: Sure. Here are some numbers talking about the theme park.
+
+> Four: I chickened out of going to the roller coaster yesterday at the theme park because I'm two squared.
+> Five: Well, I found that none of the monsters in the haunted house there were good at math, but not unless you Count Dracula.
+> Zero: I saw Eight at the theme park. He has a really nice belt.
+> Six: I also saw Eight at the park. Did you see his face mask? It looked really, really cool.
+
+And so on.
 
 OCA: 
 
-: 
+AS: 
 
 OCA: 
 
-: 
-
-OCA: 
-
-: 
+AS: 
 
 This interview has been edited for length and clarity.
 
