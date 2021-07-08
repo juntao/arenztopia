@@ -52,7 +52,7 @@ Cases are still at 0, with 45 million vaccinated. The KidVac vaccine from the Un
 ## Feature: Allen Sizeros
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Allen Sizeros, a cartoonist who draws the comic Supercalifragilisticexpialidocious for the Sherville Daily News.
+Today we interviewed Allen Sizeros, a cartoonist and comedian who draws the comic Supercalifragilisticexpialidocious for the Sherville Daily News.
 
 Olb City Announcer: So tell us a little bit about your comic! I hear it's very entertaining.
 
@@ -60,14 +60,9 @@ Allen Sizeros: Yeah, so Supercalifragilisticexpialidocious is a comic where ther
 
 OCA: Could you give us an example of a joke from one of your comics?
 
-AS: Sure. Here are some numbers talking about the theme park.
+AS: Sure.
 
 > Four: I chickened out of going to the roller coaster yesterday at the theme park because I'm two squared.
-> Five: Well, I found that none of the monsters in the haunted house there were good at math, but not unless you Count Dracula.
-> Zero: I saw Eight at the theme park. He has a really nice belt.
-> Six: I also saw Eight at the park. Did you see his face mask? It looked really, really cool.
-
-And so on.
 
 OCA: 
 
