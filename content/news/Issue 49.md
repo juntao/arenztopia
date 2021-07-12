@@ -13,8 +13,8 @@ weight: 49
 ------------------------
 
 # The Olb City Announcer    
-Volume 5, Issue 7    
-June 27th-July 3rd, 2021    
+Volume 5, Issue 9    
+July 11th-July 17th, 2021    
 
 ## Cover Story
 By Lorenzo Avila and Tony Yuan
