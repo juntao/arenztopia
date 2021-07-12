@@ -1,9 +1,9 @@
 ---
-title: "Issue 47"
+title: "Issue 48"
 date: 2020-03-8T12:33:46+10:00
 draft: false
 featured: true
-weight: 47
+weight: 48
 ---
 
 ------------------------
@@ -13,8 +13,8 @@ weight: 47
 ------------------------
 
 # The Olb City Announcer    
-Volume 5, Issue 7    
-June 27th-July 3rd, 2021    
+Volume 5, Issue 8    
+July 4th-July 10th, 2021    
 
 ## Cover Story
 By Lorenzo Avila and Tony Yuan
