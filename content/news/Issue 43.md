@@ -92,15 +92,14 @@ By Sam-Louis Alrocaet
 
 
 ## Poetry
-By Lorenzo Avila
-Beach
-It's time for the beach.
-Sunmmer
-Sand 
-Waves
-Beach
+By Lorenzo Avila, edited by Tony Yuan
 
-
+Beach:    
+It's time for the beach.    
+Summer    
+Sand    
+Waves    
+Beach.    
 
 ## Obituary
 By Owen Miyazoi
