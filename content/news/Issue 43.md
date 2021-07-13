@@ -64,13 +64,13 @@ AS: Sure.
 
 > Four: I chickened out of going to the roller coaster yesterday at the theme park because I'm two squared.
 
-OCA: 
+OCA: Ha! That's really funny and clever! Could you tell us about how you get the ideas for these jokes?
 
-AS: 
+AS: Well, I guess sometimes they just spring into my head, and sometimes I build on the character's names, the events in the strip, or earlier jokes that I've already thought of.
 
-OCA: 
+OCA: Cool! Well, unfortunately, that looks like all the questions that we have for you today, so thank you so much for coming!
 
-AS: 
+AS: Thanks a lot for inviting me!
 
 This interview has been edited for length and clarity.
 
@@ -81,7 +81,7 @@ Doplon Azani, a famous Arenztopian writer who died in 1996, recently had a book 
 
 When the Tiger Roars is available for 59.99 Arenzos anywhere that books are sold.
 
-## Story
+## 
 By Owen Miyazoi
 
 
