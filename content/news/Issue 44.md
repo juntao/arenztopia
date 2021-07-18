@@ -89,7 +89,7 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-
+Today we recommend the excellent Five Kingdoms series by Brandon Mull. The series follows the fantastical adventures of a boy named Cole as he explores the Five Kingdoms, a magical realm full of dangers. THe series is captivating, descriptive, and really just plain awesome.
 
 ## Poetry
 By Lorenzo Avila
