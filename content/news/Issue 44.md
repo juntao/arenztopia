@@ -16,10 +16,13 @@ weight: 44
 Volume 5, Issue 4   
 June 6th-June 12th, 2021    
 
-## Cover Story
+## Giant Flood Occurs
 By Tony Yuan
 
+Hasiania-On Friday, the city of Hasiania was devastated by a large flood occurring from a combination of heavier-than-usual rain and the seasonal flooding of the Jubilant River, a tributary of the Arenztopia River. "The Jubilant River usually floods much less than this," says Gary Unhardt, a local weatherman. "usually it floods only about half a mile inland, but this time it's flooded half a dozen miles inland." Downtown Hasiania has been completely flooded to a height of three and a half feet, and over three dozen people have been reported dead and another hundred and fifty or so are missing. "There's never been anything like this in the entire history of Hasiania, ever," says Joe Regal, a local data analyst. Help has come to Hasiania from all sides of Arenztopia: The ALERT (Arenztopia nationaL Emergency Response Team) has sent 500 people and 250 search-and-rescue boats to Hasiania, and the Arenztopian Coast Guard has sent several helicopters and 100 search-and-rescue boats to scour the city. This is still a developing story; we'll publish updates in next week's paper as new facts emerge.
 
+![The flooding on Main Street in Hasiania](https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2021_07/belgium_floods.jpg)
+The flooding on Main Street
 
 ## Arts
 by Owen Miyazoi
@@ -89,7 +92,7 @@ By Owen Miyazoi
 ## Book Recommendation
 By Sam-Louis Alrocaet
 
-Today we recommend the excellent Five Kingdoms series by Brandon Mull. The series follows the fantastical adventures of a boy named Cole as he explores the Five Kingdoms, a magical realm full of dangers. THe series is captivating, descriptive, and really just plain awesome.
+Today we recommend the excellent Five Kingdoms series by Brandon Mull. The series follows the fantastical adventures of a boy named Cole as he explores the Five Kingdoms, a magical realm full of dangers. The series is captivating, descriptive, and really just plain awesome.
 
 ## Poetry
 By Lorenzo Avila
