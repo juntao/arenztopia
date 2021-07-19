@@ -285,22 +285,39 @@ Several major rivers and deltas exist in Arenztopia.
 Arenztopia has lots of cities:
 
 Arenztopia City is on the southern coast. It is the capital of Arenztopia and of the Capital Region. It's the biggest city in Arenztopia and it controls Arenztopia Bay, a stop on many major shipping routes. Arenztopia City is strategically placed next to Arenztopia Bay on a steep hill.    
-New Rome is farther inland in the Capital Region. It's the center of technology in Arenztopia; compare to Silicon Valley.    
+
+New Rome is farther inland in the Capital Region. It's the center of technology in Arenztopia; it's comparable to Silicon Valley in the US.    
+
 New Athens is in the Coast Region, about 75 to a hundred miles away from Arenztopia Volcano. It's the capital of the arts, and has produced many trending and contemporary artists throughout the ages.    
+
 Canopia, on the northern coast, is the capital of the Coast Region. It is a bustling resort town which has a bustling tourism industry.    
+
 Arville is near the northern tip of Arenztopia. It boasts the record for the lowest temperature in Arenztopia: -16 degrees celsius.    
+
 Shersville is the capital of Uivrmw. It has a bunch of museums. It is a relatively young city, having been established in 1890.    
+
 Chanlania is the largest city in Uivrmw. It was formerly a city-state.    
+
 Hasiania is the capital of Qfhgrxv, which is a minor state bordering the Arenztopian Desert. It's the sister city of Chanlania and was also formerly a city-state.    
+
 Sitin is a city on the border between Qfhgrxv, the Arenztopian Desert, and the National Forest. It is the sister city of Shreet.    
+
 Shreet is a city on the border between Qfhgrxv and the Arenztopian Desert. It is known for its art museum. It's the sister city of Sitin.    
+
 New Paris is the capital of, and the largest city in, the Tfziwrzmh. It has a bustling tourist industry.    
+
 New Austin is the capital of, and the largest city in, the Arenztopian Desert. It's the sister city of New Paris, and also has a bustling tourist industry.    
+
 Austerfield is the capital of Szkkrmvhh. It is one of the oldest cities in Arenztopia, having been founded in 1544. It's known as a very industrial city.    
+
 Olb City is the second-largest city in Arenztopia, with 1.75 million residents. It is known for its architecture, industry, and science. It's the capital of the Old Region.    
+
 Natania City is a satellite city of Olb City. There's nothing really special about it.    
+
 Noi City is the sister city of Olb City and is home to much contemporary art and architecture.    
-Choran City was the capital city of the newly annexed Republic of Modinau. It has a large port and narrow streets; it's a very beautiful city with almost no skyscrapers.
+
+Choran City was the capital city of the newly annexed Republic of Modinau. It has a large port and narrow streets; it's a very beautiful city with almost no skyscrapers.    
+
 Salnez is a charming fishing town in the Modinau Region. It is known for its beautiful tropical beaches and highly environmentally freindly fishing practices.
 
 ## Living
