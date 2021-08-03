@@ -8,17 +8,18 @@ weight: '3'
 This section is your one-stop shop for information about Arenztopia. It includes all that you ever need to know about Arenztopia.
 
 ## General Guide
-The Arenztopian Island resides off the coast of Mexico. The President is Lorenzo Avila, Ruler Of the Country Of Arenztopia, and he lives in Arenztopia City, which is located next to the Bay of Arenztopia at the southeast corner of the island. The 50 million people on the island enjoy a plentiful economy of $5 trillion and lots of beautiful cities. The major cities are Arenztopia City, Olb City, Noi City, Austerfield, Arville, Shersville, New Austin, Sitin, New Rome, Choran City, and Salnez. Symbols of Arenztopia include a horse (the national animal) and ice cream, (national food). The people speak Arenzese, English, and Spanish. Mount Arenztopia is the highest spot, at an astounding 20,100 feet. On the contrary, the lowest point is in the Arenztopian Desert at 200 feet below sea level. The country's motto is "We love books", but the more commonly used version is the Arenzese, "Dv Olev Yllph."The currency of Arenztopia is called the Arenzo. One Arenzo is equal to 50 cents USD. All stores will accept it, and most people use it. It is unique in that it is completely digital-no paper bills or coins involved.
+The Arenztopian Island resides off the coast of Mexico. The President is currently Lorenzo Avila, and he lives in Arenztopia City, which is located next to the Bay of Arenztopia at the southeast corner of the island. The 50 million people on the island enjoy a plentiful economy of $5 trillion and lots of beautiful cities. The major cities are Arenztopia City, Olb City, Noi City, Austerfield, Arville, Shersville, New Austin, Sitin, New Rome, Choran City, and Salnez. Symbols of Arenztopia include a horse, which is the national animal, and ice cream, the national food. The people speak Arenzese, English, and Spanish. Mount Arenztopia is the highest spot, at an astounding 20,100 feet. On the contrary, the lowest point is in the Arenztopian Desert at 200 feet below sea level. The country's motto is "We love books", but the more commonly used version is the Arenzese, "Dv Olev Yllph."The currency of Arenztopia is called the Arenzo. One Arenzo is equal to 50 cents USD. All stores will accept it, and most people use it. It is unique in that it is completely digital-no paper bills or coins involved.
 
 Here's a [free Arenzese translator](https://www.theproblemsite.com/reference/mathematics/codes/backwards-alphabet-code). You type English into the box, press "encode", and it'll translate into Arenzese.   
  
-Arenztopia is home to many cities. Arenztopia City is the largest, at nearly 2 million people in population, and there are many semi-autonomous city-states within Arenztopia, which are called Rohadden, Iremdor, and Aradakon, which are tax-free entities. They are areas that did not agree to the 2020 American Treaty and so became their own semi-autonomous entities. The smallest city is Cuyanting, with a population of just 2,500 people.  
+Arenztopia is home to many cities. Arenztopia City is the largest, at nearly 2 million people in population. The smallest city is Cuyanting, with a population of just 2,500 people. There are three semi-autonomous city-states within Arenztopia, which are called Rohadden, Iremdor, and Aradakon, which are tax-free entities. They are areas that did not agree to the 2020 American Treaty and so became their own semi-autonomous entities.  
 
 ## Politics
 This section explores the political alignment and structure of Arenztopia.
 
 ### Political Structure
-There is a president, who is voted into place, and who follows a constitution. The vice president is also voted into place and will become the new interim president in wake of the president suddenly resigning or dying. There are also 2 judges in the Supreme Court, and two senators. The judges function much like the Supreme Court of the USA, handling high-level cases and approving laws. The senators propose laws and perform other executive duties. Finally, the Executive Branch, consisting of the President, the Vice President, and the advisors, organizes the political ecosystem and keeps things in order, as well as making top-level desicions and passing laws. There is also a House of Representatives, which contains one representative from every state and region. They represent the state's intentions and propose bills. Every term for every position is two months, except for the president, who has a four-month term.
+
+There is a president, who is voted into place, and who follows a constitution. The vice president is also voted into place and will become the new interim president in wake of the president suddenly resigning or dying. There are also two judges in the Supreme Court, and two senators. The judges function much like the Supreme Court of the USA, handling high-level cases and approving laws. The senators propose laws and perform other executive duties. Finally, the Executive Branch, consisting of the President, the Vice President, and the advisors, organizes the political ecosystem and keeps things in order, as well as making top-level desicions and passing laws. The Executive Branch also contains the President's Cupboard, which There is also a House of Representatives, which contains one representative from every state and region. They represent the state's intentions and propose bills. Every term for every position is two months, except for the president, who has a four-month term.
 
 There are two main parties: 
 
@@ -27,6 +28,10 @@ The Ethics Party, which values ethics over science. For example, if killing an a
 The Science Party, which values science over ethics. A Science person will kill an animal even if it is not absolutely necessary to an experiment or scientific process.
 
 All independents are grouped into the Red Party.
+
+There are several other, minor political parties in Arenztopia: There's the Median Party, which is for people who can't make up their minds, the Happy Party, which promotes total hedonism, and, of course, the widely-ridiculed and highly Instagrammable People and Worker's Socialist Communist Revolutionist Anti-Capitalist Party of Arenztopia, which is exactly what its name suggests.
+
+Right now, the dominant party is the Science Party.
 
 Laws are approved by this process: First, a group of citizens or a politician proposes a bill. If the bill is on a level lower than national, the citizens in the area that is affected by the bill vote on it. If it wins the vote, the leaders of the affected area review it again, then the bill is approved and passed into law. If the bill affects the entire nation, it goes to the senate. The senators look at the bill and make sure that it is reasonable and can be implemented, and if the bill is passed, it goes to the Executive Branch. The President, the advisors, and the Vice President look over the bill and see if it improves the situation of the country and if it fits the interests of the people. After that, the bill goes to the Judicial Branch, which are the judges, who make sure that it is constitutional, then they will officially pass the bill into law.
 
@@ -46,7 +51,7 @@ Finally, ANN is the other main news channel, mostly broadcasting Ethics Party ne
 
 ## Bank and Economics
 
-Arenztopia has a very well developed currency, but now we have a bank! 
+Here, you can buy things, sell things, or create a bank account. 
 
 Note: To buy, sell, or earn money, you must have a bank account.
 
@@ -55,11 +60,10 @@ Note: To buy, sell, or earn money, you must have a bank account.
 Here you will be able to make a bank account, which will allow you to make all sorts of monetary transactions. Just click [here](https://forms.gle/tteFKkiG3eshnPvh6).
 
 ### Buying
-Looking for food, treats, toys, anything? You can buy it [here](
-https://forms.gle/T5LMgeBZ724sdPAi8). Fill out the form and you will be notified the cost of your purchases. The money will be taken out of your account.
+Looking for food, treats, toys, anything? You can buy it [here](https://forms.gle/T5LMgeBZ724sdPAi8). Fill out the form and you will be notified the cost of your purchases. The money will be taken out of your account.
 
 ### Selling
-Have a buisness or just want to start selling something? Fill out the form [here](https://forms.gle/3JZFU8iSrwuWwqJq6) and we will tell you the cost of the materials and you can make money that will be deposited in your account.
+Have a business or just want to start selling something? Fill out the form [here](https://forms.gle/3JZFU8iSrwuWwqJq6) and we will tell you the cost of the materials and you can make money that will be deposited in your account.
 
 
 ## History
@@ -90,13 +94,13 @@ In 1935, Arenztopia was formally annexed to the United States of America in the 
 
 #### Part 5: Modern Arenztopia
 
-After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a president. In March 2020, the War of Chickentopia occured, when Arenztopia warred against the chaos organization known as Chickentopia. In April 2021, Arenztopia annexed a small group of islands off the coast of Chile called the Modinau Archipelago. You can read more about modern Arenztopia in the other parts of this website.
+After signing a treaty with the USA in 2020 allowing it to have independence, the citizens of Arenztopia started to create a government and elect a president. In March 2020, the War of Chickentopia occured, when Arenztopia had an informal war against the chaos organization known as Chickentopia. In April 2021, Arenztopia annexed a small group of islands off the coast of Chile called the Modinau Archipelago. You can read more about modern Arenztopia in the other parts of this website.
 
 #### Timeline
 
 1470: The Incas find Arenztopia.
 
-1472: The Emperor of the Incas goes to Arenztopia for the first time
+1472: The Emperor of the Incas goes to Arenztopia for the first time.
 
 1533: Francisco Pizzaro conquers the Incan Empire.
 
@@ -116,25 +120,25 @@ After signing a treaty with the USA in 2020 allowing it to have independence, th
 
 ### History Section II: Modinau
 
-Modinau is a group of islands off the coat of Chile that were annexed by Arenztopia in 2021. They have a rich history in themselves.
+Modinau is a group of islands off the coat of Chile that were annexed by Arenztopia in 2021. They have a very rich history.
 
 #### Part 1: The Polynesians
 
-The archipelago of Modinau was discovered by the Polynesians in the 1300s, and it was the last-discovered and farthest-flung outpost of the places settled by Polynesians. It slowly evolved to be very distinct from the other states in the region, with its own language and customs. For the period from 1400 to 1600, the islands were united under a single empire, which was called the Ke'mau Empire or Sea Land Empire. The Ke'mau Empire was ruled from the gleaming capital city of An'shmi Mar, or the City of the Mountain. An'shmi Mar was surrounded by walls that were twenty-five feet tall and ten feet thick, and these walls protected one of the largest cities in the world at the time, with a population of 800,000 people. At the center of An'shmi Mar was a gleaming palace called the White Palace, whose arches soared over 250 feet into the air. But then, in 1600, after the assassination of the emperor Ni'kahn IV, the empire of Ke'mau descended into chaos and civil war.
+The archipelago of Modinau was discovered by the Polynesians in the 1300s, and it was the last-discovered and farthest-flung outpost of the places settled by Polynesians. It slowly evolved to be very distinct from the other states in the region, with its own language and customs. For the period from 1400 to 1600, the islands were united under a single empire, which was called the Ke'mau Empire or Sea Land Empire. The Ke'mau Empire was ruled from the gleaming capital city of An'shmi Mar, or the City of the Mountain. An'shmi Mar sprawled across an entire island and was surrounded by walls that were twenty-five feet tall and ten feet thick, and these walls protected one of the largest cities in the world at the time, with a population of 800,000 people. At the center of An'shmi Mar was a gleaming palace called the White Palace, whose arches soared over 250 feet into the air. But then, in 1600, after the assassination of the last emperor Ni'kahn IV, the empire of Ke'mau descended into chaos and civil war.
 
 #### Part 2: The Conquerors
 
-Out of the chaos created by the collapse of the Ke'mau, by 1650 there were five competing states all occupying the Modinau Archipelago. The state which would prove victorious in the wars was called Ni'ke, or the Golden Land, and its ruler was a brilliant and ruthless warlord named Kahn'mar, or the Eagle of the Mountain. The state of Ni'ke conquered each of the other states, one by one, until 1710, when Modinau was united again. The last state to surrender was Ke'mau, the last remnant of the formerly glorious empire, and when Kahn'mar and his armies got to the gates of An'shmi Mar, they overran the walls, massacred the people, looted the houses, sacked the treasury, and, finally, they burned the city to the ground. The gleaming arches of the White Palace collapsed into ash and rubble. Kahn'mar established a new capital city near the site of modern Choran City called An'ni, or the City of Gold, and at about this time he also established trade routes and diplomatic ties with the South American mainland. By 1750, the empire of Ni'ke was in a stable position, and construction of the capital city of An'ni was going smoothly. In 1755, the great warlord Kahn'mar died at the age of 95, and his son Mon'ar or Ruler of All took the throne. By 1845, An'ni was completed, and the empire of Ni'ke watched over one million people. But then, in 1900, after decades of peace and prosperity under the rule of a monarchy, Emperor Isha'ran V decided to do the unthinkable. For the first time in its history, Modinau became a democracy. 
+Out of the chaos created by the collapse of the Ke'mau, by 1650 there were five competing states all occupying the Modinau Archipelago. The state which would prove victorious in the wars was called Ni'ke, or the Golden Land, and its ruler was a brilliant and ruthless warlord named Kahn'mar, or the Eagle of the Mountain. The state of Ni'ke conquered each of the other states, one by one, until 1710, when Modinau was united again. The last state to surrender was Ke'mau, the last remnant of the formerly glorious empire, and when Kahn'mar and his armies got to the gates of An'shmi Mar, they overran the walls, massacred the people, looted the houses, sacked the treasury, and, finally, burned the city to the ground. The gleaming arches of the White Palace collapsed into ash and rubble. Kahn'mar established a new capital city near the site of modern Choran City called An'ni, or the City of Gold, and at about this time he also established trade routes and diplomatic ties with the South American mainland. By 1750, the empire of Ni'ke was in a stable position, and construction of the capital city of An'ni was going smoothly. In 1755, the great warlord Kahn'mar died at the age of 95, and his son Mon'ar or Ruler of All took the throne. By 1845, An'ni was completed, and the empire of Ni'ke watched over a huge population of one million people. But then, in 1900, after decades of peace and prosperity under the rule of a monarchy, Emperor Isha'ran V decided to do the unthinkable. For the first time in its history, Modinau became a democracy. 
 
 #### Part 3: The Prime Ministers
 
-After the "Democracy Announcement" in 1900, Emperor Isha'ran V abdicated the throne and the first election in Modinau's history was held. Oen Kahidi, a former government official, was elected to be Modinau's first Prime Minister, and he renamed the country from Ni'ke to Modinau. Kahidi served three terms until 1915, when Winiki Anisha took power. Anisha is credited with modernizing Modinau: He introduced airplanes, trains, cars, and electric lighting; he established embassies and diplomatic relationships, and he moved the capital from An'ni to modern Choran City. Anisha also laid out a new residence for the Prime Minister, the luxurious Mon Mansi, with over 75 rooms. In the midst of this all, Anisha had to deal with World War One, and he made the right descision by staying neutral. Anisha was very popular and served the maximum four terms until 1935. Many other Prime Ministers followed, until the prime minister Oen Nansi in 1995. Nansi stands out in Modinauian history because he launched the insanely ambitious program that bankrupted Modinau: The legendary Modinau Mass Transport Program, or MMTP.
+After the "Democracy Announcement" in 1900, Emperor Isha'ran V abdicated the throne and the first election in Modinau's history was held. Oen Kahidi, a former government official, was elected to be Modinau's first Prime Minister, and he renamed the country from the rather antiquated Ni'ke to Modinau. Kahidi served three terms until 1915, when Winiki Anisha took power. Anisha is credited with modernizing Modinau: He introduced airplanes, trains, cars, and electric lighting; he established embassies and diplomatic relationships, and he moved the capital from An'ni to the burgeoning new city of Choran. Anisha also laid out a new residence for the Prime Minister, the luxurious Mon Mansi, with over 75 rooms. In the midst of this all, Anisha had to deal with World War One, and he made what was widely considered the right descision by staying neutral. Anisha was very popular and served the maximum four terms until 1935. Many other Prime Ministers followed, until the prime minister Oen Nansi in 1995. Nansi stands out in Modinauian history because he launched the insanely ambitious program that bankrupted Modinau: The legendary Modinau Mass Transport Program, or MMTP.
 
 #### Part 4: The Bankruptcy
 
 On January 1, 2000, Prime Minister Oen Nansi announced the Modinau Mass Transport Program. It was an ambitious program to connect the islands of Modinau with the longest train bridges in the world. It was estimated to cost 1 trillion Arenzos and last nine years. The project plowed forward, draining the treasury and the federal funds at a rate of more than seventy billion Arenzos per year. By February 1st, 2007, it was rumored that there were only fifty Arenzos left in the treasury. The next day, Prime Minister Oen Nansi announced the unthinkable.
 For the first time in nearly seven hundred years, Modinau was completely bankrupt.
-Almost immediately, there were cries of outrage. Protests swept the nation. Work on the MMTP was immediately halted. The economy went into freefall. Oen Nansi resigned on March 1, and Anmar Nimon was hurriedly elected into place. Nimon increased exports tenfold, raised taxes, and did all he could to raise federal funds and increase the amount of money in the treasury. It paid off: By the start of 2012, there were over 300 billion Arenzos in the treasury and 200 billion more for federal funds. Work on the MMTP was carefullly resumed. In 2018, the MMTP was completed, at a cost of 1.2 trillion Arenzos and 18 years. Anmar Nimon proved popular and served until 2020, when Ishakahn Makiki'a was elected. Despite Nimon's efforts, Makiki'a still had many money problems to deal with, including a weak economy, undervalued currency, and huge amount of federal debt. Makiki'a served until 2021, when Modinu was annexed by Arenztopia due to these monetary issues. 
+Almost immediately, there were cries of outrage. Protests swept the nation. Work on the MMTP was immediately halted. The economy went into freefall. Oen Nansi resigned on March 1, and Anmar Nimon was hurriedly elected into place. Nimon increased exports tenfold, raised taxes, and did all he could to raise federal funds and increase the amount of money in the treasury. It paid off: By the start of 2012, there were over 300 billion Arenzos in the treasury and 200 billion more for federal funds. Work on the MMTP was carefullly resumed. In 2018, the MMTP was completed, at a cost of 1.2 trillion Arenzos and 18 years. Anmar Nimon proved popular and served until 2020, when Ishakahn Makiki'a was elected. Despite Nimon's efforts, Makiki'a still had many money problems to deal with, including a weak economy, undervalued currency, and huge amount of federal debt. Makiki'a served until 2021, when Modinau was annexed by Arenztopia due to these monetary issues. 
 
 Go [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmXmI8nsYKVQap7Bg8xNVNxFRHQhiqxSclWAaGD2zIGpjaU5kgLY_s6r6kUwe0poQJ1Ns5clMOEJFz/pubhtml?gid=0&single=true) for a Modinauian-English-Arenzish dictionary of some selected terms!
 
@@ -150,7 +154,7 @@ These are pictures of some Official Arenztopian Documents.
 
 #### Museum Exhibit 2: List
 
-This is the unabridged list of all the items in the Arenztopia Folder, a big blue folder that serves as a repository for almost every paper document ever in the history of Arenztopia. In all, this list contains 90 objects, all important and integral to the establishment of Arenztopia as we know it today. This list represents an unprecedented attempt to catalog Arenztopian history.
+This is the unabridged list of all the items in the Arenztopia Folder, a big blue folder that serves as a repository for almost every paper government document ever in the history of Arenztopia. In all, this list contains 90 objects, all important and integral to the establishment of Arenztopia as we know it today. This list represents an unprecedented attempt to catalog Arenztopian history.
 
 Key:
 (IT) = Informational Text (writing)    
@@ -200,12 +204,12 @@ Old Arenztopian Facts (O) / Arenztopia Founders + Welcome to Arenztopia Sign (Wi
 An old drawing of an Arenztopian Villa (WiP) (2P)    
 The Hall of Splendorous Grandour / The King's Guard    
 Map of the average Arenztopian Incan vault (O) + Map of an Incan Temple complex (O) / The Incans in Arenztopia Island (IT)    
-Aircraft illustration (O) / Death Squadron Elite division thingy (IT)    
+Aircraft illustration (O) / Death Squadron Elite division explanation (IT) (O)    
 
 ##### Notebook paper in the middle:
 title page: Arenztopia Official Government Documents    
 Arenzish Sign Language / Arenzish Sign Language cont. + timeline (O)    
-Map of Arenztopia City / Attempt by Clint to redesign Arenztopia City (WiP) (O)    
+Map of Arenztopia City / Short-lived attempt by Clint Lee to redesign Arenztopia City (WiP) (O)    
 Arenztopia Train Station + Arenztopia Train Station description / Mrs. Young Day is March 9th    
 Clint L. Memorial Day    
 Budget Sheet: Suhan Edition+stuff that Suhan wants (O)    
@@ -221,7 +225,7 @@ Meeting Summary Government Crisis Form (O)
 Arenztopia Governmental Meeting Register (WiP)    
 Political Structure    
 List of Bureaus    
-List of National Parks    
+List of National Parks (WiP)    
 List of Officers (WiP)    
 Native Arenztopian Day    
 
@@ -282,9 +286,9 @@ Several major rivers and deltas exist in Arenztopia.
 * The Squash River forms one of the longest river systems in Arenztopia with the Prairie River. This river system helps water the vast grasslands of Uivrmw.
 * The Prairie River is the only river in Arenztopia which does not have a delta where it meets the sea. It forms a river system with the Squash River.
 
-Arenztopia has lots of cities:
+Arenztopia has many cities:
 
-Arenztopia City is on the southern coast. It is the capital of Arenztopia and of the Capital Region. It's the biggest city in Arenztopia and it controls Arenztopia Bay, a stop on many major shipping routes. Arenztopia City is strategically placed next to Arenztopia Bay on a steep hill.    
+Arenztopia City is on the southern coast. It is the capital of Arenztopia and of the Capital Region. It's the biggest city in Arenztopia at 2 million pop. and it controls Arenztopia Bay, a stop on many major shipping routes. Arenztopia City is strategically placed next to Arenztopia Bay on a steep hill.    
 
 New Rome is farther inland in the Capital Region. It's the center of technology in Arenztopia; it's comparable to Silicon Valley in the US.    
 
@@ -318,9 +322,9 @@ Noi City is the sister city of Olb City and is home to much contemporary art and
 
 Choran City was the capital city of the newly annexed Republic of Modinau. It has a large port and narrow streets; it's a very beautiful city with almost no skyscrapers.    
 
-Salnez is a charming fishing town in the Modinau Region. It is known for its beautiful tropical beaches and highly environmentally freindly fishing practices.
+Salnez is a charming fishing town in the Modinau Region. It is known for its beautiful tropical beaches and environmentally freindly fishing practices.
 
-## Living
+## Living in Arenztopia
 
 Arenztopia is a vibrant country, with a plentiful economy and lots of people.  In this section of the website you will learn everything you need to know about living in Arenztopia.
 
