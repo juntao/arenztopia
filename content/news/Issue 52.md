@@ -16,8 +16,13 @@ weight: 52
 Volume 6, Issue 2    
 July 25th-July 31st, 2021    
 
+---
+## Major Changes Announcement
+## We've decided to fire Lorenzo Avila, one of our writers, because he didn't show up to work or respond to emails for several days in a row. So, we're hiring for his posts of poet and main writer. Also, we were forced to lay off several others because of staff shortages and lack of funding. Because of the lack of people, we've decided to temporarily cut the Feature section, the Poetry column, and the Book Recommendation column. We are sincerely sorry for whatever inconveniences this may cause to you.
+---
+
 ## Cover Story
-By Lorenzo Avila and Tony Yuan
+By Tony Yuan
 
 
 
@@ -46,53 +51,17 @@ By Owen Miyazoi
 
 
 
-## Feature: 
-By Lorenzo Avila & Tony Yuan
-
-Today we interviewed 
-
-Olb City Announcer: 
-
-: 
-
-OCA: 
-
-: 
-
-OCA: 
-
-: 
-
-OCA: 
-
-: 
-
-This interview has been edited for length and clarity.
-
 ## Story
 By Sam-Louis Alrocaet
 
 
 
 ## Story
-By Owen Miyazoi
-
-
-
-## Book Recommendation
-By Sam-Louis Alrocaet
-
-
-
-## Poetry
-By Lorenzo Avila
+By Tony Yuan
 
 
 
 ## Obituary
 By Owen Miyazoi
-
-
-
 
 
