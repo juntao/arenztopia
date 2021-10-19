@@ -13,7 +13,7 @@ weight: 53
 ------------------------
 
 # The Olb City Announcer    
-Volume 6, Issue 2    
+Volume 6, Issue 3    
 August 1st-August 7th, 2021    
 
 ## Cover Story
