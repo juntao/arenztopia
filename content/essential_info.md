@@ -408,7 +408,7 @@ Tallest building: [Arenztopia Tower](https://sites.google.com/view/the-arenztopi
 Total population: 51.5 million   
 Motto: We love books (Dv Olev Yllph)    
 Demonyms: Arenztopian, Arenzish, Arenzese, sometimes Modinauian    
-Web Suffixes: .az, .arenz, .arnz, .arnztpa, .mod, .mdnau    
+Web Suffixes: .zv, .arenz, .arnz, .arnztpa, .ziv, .mod, .mdnau    
 No. of regions/states: 10   
 Largest region/state: Coastal Region   
 Smallest region/state: Mountain Region   
@@ -424,9 +424,6 @@ Lowest temperature recorded: -16˚C (16.8˚F)
 
 In an attempt to be more transparent, we're publishing a checklist which lists what changes will hopefully be made to the website this week.
 
-- [ ] Finish Issue 42 of the News
-- [ ] Finish Issue 40 of the News
-- [ ] Finish Issue 43 of the News
-- [ ] Finish Issue 44 of the News
+- [ ] Finish copying down all remaining news articles
 - [ ] Work on and finish some websites for the Living in Arenztopia section
 - [ ] Make pictures of some Official Arenztopian Documents
