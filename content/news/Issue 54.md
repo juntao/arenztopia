@@ -17,7 +17,7 @@ Volume 6, Issue 4
 August 8th-August 14th, 2021    
 
 ## Cover Story
-By Lorenzo Avila and Tony Yuan
+By Tony Yuan
 
 
 
@@ -46,54 +46,17 @@ By Owen Miyazoi
 
 
 
-## Feature: 
-By Lorenzo Avila & Tony Yuan
-
-Today we interviewed 
-
-Olb City Announcer: 
-
-: 
-
-OCA: 
-
-: 
-
-OCA: 
-
-: 
-
-OCA: 
-
-: 
-
-This interview has been edited for length and clarity.
-
 ## Story
 By Sam-Louis Alrocaet
 
 
 
 ## Story
-By Owen Miyazoi
-
-
-
-## Book Recommendation
-By Sam-Louis Alrocaet
-
-
-
-## Poetry
-By Lorenzo Avila
+By Tony Yuan
 
 
 
 ## Obituary
 By Owen Miyazoi
-
-
-
-
 
 
