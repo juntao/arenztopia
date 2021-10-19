@@ -74,11 +74,6 @@ OCA:
 
 This interview has been edited for length and clarity.
 
-## The Life of
-By Owen Miyazoi
-
-
-
 ## Story
 By Sam-Louis Alrocaet
 
