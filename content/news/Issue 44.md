@@ -27,7 +27,7 @@ The flooding on Main Street
 ## Arts
 by Owen Miyazoi
 
-On Tuesday, one of celebrated Arenztopian painter Priscilla Selan's paintings was turned into an NFT (Nonfungible token) as a publicity stunt. NFTs are digital things like images, videos, and tweets that are all individually unique and owned by one person, like a trading card: If you trade a Babe Ruth baseball card for another Babe Ruth baseball card, then the baseball card that you have now will not be the same as the first one, just like if you trade an NFT of a picture of a cat eating a pizza for another NFT of a picture of a cat eating a pizza, you will have a different NFT as the first one. Priscilla's NFT painting was actually specially created for the occasion. Titled "Internet," it is an ultra a really fat cat eating a pizza, and it sold for 1.5 million Arenzos on Wednesday to an anonymous buyer.
+On Tuesday, one of celebrated Arenztopian painter Priscilla Selan's paintings was turned into an NFT (Nonfungible token) as a publicity stunt. NFTs are digital things like images, videos, and tweets that are all individually unique and owned by one person, like a trading card: If you trade a Babe Ruth baseball card for another Babe Ruth baseball card, then the baseball card that you have now will not be the same as the first one, just like if you trade an NFT of a picture of a cat eating a pizza for another NFT of a picture of a cat eating a pizza, you will have a different NFT as the first one. Priscilla's NFT painting was actually specially created for the occasion. Titled "Internet," it is an ultra-realistic painting of a really fat cat eating a pizza, and it sold for 1.5 million Arenzos on Wednesday to an anonymous buyer.
 
 ## Sports
 By Sam-Louis Alrocaet
