@@ -73,11 +73,13 @@ OM:
 This interview has been edited for length and clarity.
 
 ## The Life of Iloah Mai, Arenztopia's Most Successful Pacific Islander Business Owner
-By Owen Miyazoi
+By Lorenzo Avila
 
 For the next 6 issues up until our 50th issue, the OCA will take you on a immersive experience of important cultural and racial moments and stories from Arenztopians past who helped Arenztopia be what it is today. Our first story is about Iloah Mai, Arenztopia's most successful Pacific Islander business owner. 
 
-In 1931, in a cramped city apartment in Olb City, Iloah Mai was born to Ono and Maul Mai, two Pacific Islanders who had immigrated to Arenztopia from Samoa just one year before. Ono and Maul were one of the many Pacific Islanders who immigrated to Arenztopia in the 1920s and 30s. Iloah was one of the first Pacific Islanders to go to the University of Arenztopia at Olb City. After she graduated from business school at the age of 22, Iloah had big ambitions.
+In 1931, in a cramped city apartment in Olb City, Iloah Mai was born to Ono and Maul Mai, two Pacific Islanders who had immigrated to Arenztopia from Samoa just one year before. Ono and Maul were one of the many Pacific Islanders who immigrated to Arenztopia in the 1920s and 30s. Iloah was one of the first Pacific Islanders to go to the University of Arenztopia at Olb City. After she graduated from business school at the age of 22, Iloah had big ambitions. She opened her first business "I's Computer Repair" She sold electornics and had a repair service ranked number 1 for electronic stores in 1956. She went on to create her business ILPhones. She created a software that allowed for phones to run quicker than ever before. She started selling ILP Phones for an affordable price because she believed technology was the future. She continued to develop phones that improved apon Arenztopias tech world. In 1999 Iloah was found dead on her bead of Pancreatic Cancer. Her son took over ILP and continues to run it to this day. 
+
+Iloah Mai contibuted to the technological advancments of Arenztopia. Without her Modern Arentopia would not have been the way we know it now. She will forever be remembered as an icon to all Arenztopians and her work will serve us greatly from now till years to come. 
 
 ## Story
 By Sam-Louis Alrocaet
