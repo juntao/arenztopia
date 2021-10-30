@@ -18,7 +18,7 @@ July 25th-July 31st, 2021
 
 ---
 ## Major Changes Announcement
-## We've decided to fire Lorenzo Avila, one of our writers, because he didn't show up to work or respond to emails for several days in a row. So, we're hiring for his posts of poet and main writer. Also, we were forced to lay off several others because of staff shortages and lack of funding. Because of the lack of people, we've decided to temporarily cut the Feature section, the Poetry column, and the Book Recommendation column. We are sincerely sorry for whatever inconveniences this may cause to you.
+## Recently, we were forced to lay off several people because of lack of funding. Because of the shortage of people, we've decided to temporarily cut the Feature section, the Poetry column, and the Book Recommendation column. We are sincerely sorry for whatever inconveniences this may cause to you.
 ---
 
 ## Cover Story
