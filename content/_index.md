@@ -9,9 +9,13 @@ intro_image_hide_on_mobile: false
 
 
 
-Welcome to the great nation of Arenztopia. This website will tell you about our country. Where is Arenztopia? Who is its President? What is its capital city? These facts and more you will learn in this website. [Click here if you are a tourist](/tourism/).
+Welcome to the great and prosperous country of Arenztopia. This is the official online guide to Arenztopia: Its government, its geography, and its people. 
 
-[Click here to become a citizen of Arenztopia](https://forms.gle/qpPD6GfMb2dE3Y9P9)
+<p align="center">
+
+[ALL YOU NEED TO KNOW ABOUT ARENZTOPIA](/essential_info/)
+
+</p>
 
 
 
