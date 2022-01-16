@@ -41,13 +41,22 @@ Arenztopia is a military and economics ally to the city-states within it, and al
 Arenztopia does not have any enemies yet, except for the short-lived chaos organization Chickentopia and the now-defunct terrorist group Milestopia.
 
 ## Media
-The main media group in Arenztopia is the AMG, Arenztopia Media Group, which is an association that includes APR (Arenztopia Public Radio), ARB (Arenztopia Royal Broadcasting), ATV (Arenztopia TV), ATN (Arenztopia Television Network), and ANN (Arenztopia News Network).
+The main media group in Arenztopia is the AMG, Arenztopia Media Group, which is an association that includes APR (Arenztopia Public Radio), ARB (Arenztopia Royal Broadcasting), ATV (Arenztopia Television), ATN (Arenztopia Television Network), ANC (Arenztopia Newspaper Company), and ANN (Arenztopia News Network).
 APR is the central radio station in Arenztopia. It has stations, such as QAXR and NRTX, in every city in Arenztopia.
 ARB is the main TV channel from which presidential announcements and political news are broadcast.
 ATV is the main entertainment channel, showing mainly cartoons, TV movies, and comedy.
-ATN is one of the main news channels, mostly broadcasting Science Party news.
-Finally, ANN is the other main news channel, mostly broadcasting Ethics Party news.
+ATN is one of the main AMG media companies and the largest in in Arenztopia, mostly broadcasting Science Party news.
+ANN is the other main AMG media company, mostly broadcasting Ethics Party news.
+ANC is the main newspaper conglomerate in Arenztopia. It is the largest media company in the AMG. The ANC owns about two-thirds of all newspapers in Arenztopia.
 
+The AMG and its companies share the industry with some other media groups and several standalone media companies. The News-paper Publisher's Association of Arenztopia, NPAA, is the oldest media group in Arenztopia. It includes the famous early TV channel TVoA, Television of Arenztopia, and also the most widely published newspaper in Arenztopia, the ARENZ-G, Arenztopian Reporter of Events, News, and the arenZtopian Government, which is colloquially known as "The G". The Jimmy Peyton Publishing Company, JPPC, was a large early publisher of newspapers and is now a large magazine distributor and TV conglomerate. It publishes the well-known World Event Reporter as well as the Daily Post, both huge magazine companies. The JPPC also publishes the "Trinity" of Engine Weekly, Driver's Guardian, and the eminent Racer & Driver, which are the three largest auto magazines in Arenztopia.
+
+## The Arenztopian Flag
+The Arenztopian flag is a world-famous symbol of prosperity. It has a 3:2 aspect ratio and is divided into four quadrants. Notably, it was amended for the first time in fifty years in 2021 when two more stripes were added.    
+In the upper left and lower right quadrants, there are each six horizontal stipes going left to right. The collective twelve stripes represent the ten Arenztopian regions and states, plus the two Modinauian provinces. The stripes alternate blue, for peace, red, for courage, and white, for purity.    
+In the upper right quadrant there is a drawing of an open book on an orange color field, which represents happiness. The book's pages are colored white, representing purity. The Arenztopian motto, Dv Olev Yllph, is written with each word capitalized, in the font Candal, in black, in the center of the left-hand page. On the right-hand page the Arenztopian coat of arms is shown.    
+In the lower left quadrant there are two swords drawn next to each other on an olive green color field, which represents nature. They are pointing diagonally, in the same direction as the stripes in the upper left and lower right quadrants. The swords represent the many wars and rebellions that have been fought over Arenztopia in the past. The blades are colored silver, representing power and wealth. The hits and guards are colored gold, also representing wealth.    
+The reverse of the flag is the same. For the official model flag of Arenztopia, go [here](https://docs.google.com/drawings/d/e/2PACX-1vTvT_08DDv5jC5ZLgX3AAKF6uwfa4znu9Csk73nI8NclKtzY8w0z9Q1ppOUiDEuSlwmSrTfESucYnX-/pub?w=1440&h=958).
 
 ## Bank and Economics
 
@@ -321,7 +330,6 @@ Natania City is a satellite city of Olb City. There's nothing really special abo
 Noi City is the sister city of Olb City and is home to much contemporary art and architecture.    
 
 Choran City was the capital city of the newly annexed Republic of Modinau. It has a large port and narrow streets; it's a very beautiful city with almost no skyscrapers.    
-
 Salnez is a charming fishing town in the Modinau Region. It is known for its beautiful tropical beaches and environmentally freindly fishing practices.
 
 ## Living in Arenztopia
