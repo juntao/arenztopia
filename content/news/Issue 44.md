@@ -27,48 +27,48 @@ The flooding on Main Street
 ## Arts
 by Owen Miyazoi
 
-On Tuesday, one of celebrated Arenztopian painter Priscilla Selan's paintings was turned into an NFT (Nonfungible token) as a publicity stunt. NFTs are digital things like images, videos, and tweets that are all individually unique and owned by one person, like a trading card: If you trade a Babe Ruth baseball card for another Babe Ruth baseball card, then the baseball card that you have now will not be the same as the first one, just like if you trade an NFT of a picture of a cat eating a pizza for another NFT of a picture of a cat eating a pizza, you will have a different NFT as the first one. Priscilla's NFT painting was actually specially created for the occasion. Titled "Internet," it is an ultra-realistic painting of a really fat cat eating a pizza, and it sold for 1.5 million Arenzos on Wednesday to an anonymous buyer.
+On Tuesday, one of celebrated Arenztopian painter Priscilla Selan's paintings was turned into an NFT (Nonfungible token) as a publicity stunt, sponsored by the Jupiter technology company. Titled "Internet," it is a JPG ultra-realistic painting of a really fat cat eating a pizza, and it sold for 1.5 million Arenzos on Wednesday to an anonymous buyer.
 
 ## Sports
 By Sam-Louis Alrocaet
 
-
+The ASCRO stock car racing tournament continued on Tuesday and Wednesday, with legendary veteran driver Res Egaro winning race number five in car #101 and Francis Jilim winning race number six in car #40. In other sports news, the chief defensive coach Chester Oriman for the Arenztopia City Antelopes football team was fired on Thursday after being convicted of sixteen counts of money laundering by the Arenztopian Supreme Court the same day. Oriman had been given vast amounts of money from an Indonesian human-trafficking ring and he had "laundered" it to make it look like the money had been part of his salary. He was sentenced to life in prison with bond given at 200 million Arenzos.
 
 ## Science
 By Owen Miyazoi
 
-
+Scientists at the University of Arenztopia in Canopia have engineered a way to make synthetic wood out of animal cells. The "wood" has all the properties of regular lumber, but it is made from rearranged animal cells and proteins. These findings were published in the Coast Region Journal of Science.
 
 ## Weather
 By Mezoir Logan
 
-
+The weather should be hot and sunny for the first half of next week, with hot temperatures in the 20s Celsius. Then, on Wednesday a fairly mild cold front will blow in, lowering the temperatures to around 16-19 degrees.
 
 ## Coronavirus Report
 By Owen Miyazoi    
 
+On Monday, Arenztopian Officer of Health Dr. Johannes Peterson officially opened Arenztopia to all foreign travel. A number of guidelines and restrictions have been set for foreign travelers. All incoming travelers will have to quarantine for 14 days, and people arriving from high-risk countries like the US, India, and Brazil will have to quarantine for 21 days upon arrival. Any person going to Arenztopia must have proof of a negative COVID test within 48 hours of their departure, and people will need to have a negative COVID test done upon arrival in Arenztopia. If somebody tests positive for COVID before departure, they will have to wait until they test negative in order to go to Arenztopia. If somebody tests positive upon arrival in Arenztopia, they will have to quarantine until they test negative plus their base 14 or 21-day quarantine. Critics have decried these rules as too strict, but Dr. Peterson says that the stringent regulations are necessary.
 
-
-## Feature: Okama Mauhla
+## Feature: Okama Kimoshima
 By Lorenzo Avila & Tony Yuan
 
-Today we interviewed Okama Mauhla, a 
+Today we interviewed Okama Kimoshima, the bestselling Japanese-Arenztopian video game developer and YouTube star. Her game studio, Nitro 246 Gaming, has made such bestselling hits as Onion Raft, a game where you build maritime vessels from cooking ingredients, and Korean Champagne, the ubiquitous 2015 strategy-based number game.  
 
-Olb City Announcer: Hi, Okama! 
+Olb City Announcer: Hi, Okama! We are so glad to have you here at the OCA today.
 
-Okama Mauhla: 
+Okama Kimoshima: Yes, I am glad to be here too! It is an honor.
 
-OCA: 
+OCA: So, to start off here, could you tell us which one of your games is your personal favorite?
 
-OM: 
+OK: Well, one of my all-time favorites is Mincemeat, one of our earliest games from when I was still in college, in 2005. It was this little RPG thing where you would progress through a series of strategy-based obstacle courses while shooting at monsters. It was essentially a hybrid of Firebody and Watergirl and Doom. I still play it sometimes today; I personally have actually never beaten it.
 
-OCA: 
+OCA: CoolI THat souds like a very exciting game! Which one of your games has been the most successful?
 
-OM: 
+OK: Oh, definitely Korean Champagne by a long shot. It was a really funky idea and I never really expected that it would take off, but it did. That ten-level, basic, randomly-generated idle browser game made us over one hundred thousand Arenzos. The next most successful would be The Idle Game, which made us ninety thousand Arenzos, and the third would be Onion Raft with eighty-five thousand.
 
-OCA: 
+OCA: Well, that would look like all the questions that we have for you today! Thank you so much for joining us!
 
-OM: 
+OK: Thank you so much, again, for inviting me here!
 
 This interview has been edited for length and clarity.
 
@@ -83,10 +83,10 @@ Iloah Mai contributed a huge amount to the technological advancements of Arenzto
 
 Iloah Sinuan Mai was instated into the Arenztopian Hall of Fame in 2020.
 
-## Story
+## New OCAM Satellite Location Opening
 By Sam-Louis Alrocaet
 
-
+THe Olb City Art Museum, arguably Arenztopia's most influential fine art institution, announced that it would be opening a satellite branch in Noi City
 
 ## Story
 By Owen Miyazoi
